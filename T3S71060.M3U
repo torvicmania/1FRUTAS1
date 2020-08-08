@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FOX PREMIUM ACTION *FHD" tvg-name="FOX PREMIUM ACTION *FHD" tvg-logo="https://foxmas.foxplay.com/img/logo_foxaction.png" group-title="CINEMA | FHD",FOX PREMIUM ACTION *FHD
+http://xdgo.live:8080/vJorgeMondragon_45c/RHybjzBHvw/784
+#EXTINF:-1 tvg-id="ESPN + MX *HD" tvg-name="ESPN + *LQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="CANALES LITE",ESPN + *LQ
+http://xdgo.live:8080/vJorgeMondragon_45c/RHybjzBHvw/29679
+#EXTINF:-1 tvg-id="BR | DISCOVERY KIDS *HD" tvg-name="DISCOVERY KIDS *FHD" tvg-logo="https://uploads.tapatalk-cdn.com/20180216/e15145d23f1a35eda5537e61932ea069.jpg" group-title="INFANTILES",DISCOVERY KIDS *FHD
+http://xdgo.live:8080/vJorgeMondragon_45c/RHybjzBHvw/1052
+#EXTINF:-1 tvg-id="ESPN + MX *HD" tvg-name="ESPN + *LQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png" group-title="CANALES LITE",ESPN + PRUE
+http://xdgo.live:8080/vJorgeMondragon_45c/RHybjzBHvw/29679
