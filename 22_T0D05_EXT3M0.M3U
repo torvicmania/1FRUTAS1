@@ -129,8 +129,6 @@ http://xdgo.live:8080/22_vPaolaRami/BXj9OkcgaQ/23873
 http://xdgo.live:8080/22_vPaolaRami/BXj9OkcgaQ/23881
 #EXTINF:-1 tvg-id="24 Horas Casado con Hijos" tvg-name="GRAVITY FALLS" group-title="24/7",GRAVITY FALLS
 http://xdgo.live:8080/22_vPaolaRami/BXj9OkcgaQ/23891
-#EXTINF:-1 tvg-id="24 Horas Casado con Hijos" tvg-name="HALCONES GALACTICOS" group-title="24/7",HALCONES GALACTICOS
-http://xdgo.live:8080/22_vPaolaRami/BXj9OkcgaQ/23913
 #EXTINF:-1 tvg-id="24 Horas Casado con Hijos" tvg-name="HEY ARNOLD" group-title="24/7",HEY ARNOLD
 http://xdgo.live:8080/22_vPaolaRami/BXj9OkcgaQ/23823
 #EXTINF:-1 tvg-id="24 Horas Casado con Hijos" tvg-name="HEY ARNOLD op2" group-title="24/7",HEY ARNOLD op2
@@ -5691,6 +5689,8 @@ http://xdgo.live:8080/movie/22_vPaolaRami/BXj9OkcgaQ/22647.avi
 http://xdgo.live:8080/movie/22_vPaolaRami/BXj9OkcgaQ/22648.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Zombieland Mata y remata - 2019" group-title="VFLIX CIENCIA FICCION",Zombieland Mata y remata - 2019
 http://xdgo.live:8080/movie/22_vPaolaRami/BXj9OkcgaQ/22649.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡Que dilema! (2011)" group-title="VFLIX COMEDIA",¡Que dilema! (2011)
+http://xdgo.live:8080/movie/22_vPaolaRami/BXj9OkcgaQ/30265.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Socios y sabuesos (1989)" group-title="VFLIX COMEDIA",Socios y sabuesos (1989)
 http://xdgo.live:8080/movie/22_vPaolaRami/BXj9OkcgaQ/29447.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La barberia (2002)" group-title="VFLIX COMEDIA",La barberia (2002)
@@ -10719,22 +10719,6 @@ http://xdgo.live:8080/series/22_vPaolaRami/BXj9OkcgaQ/26861.mkv
 http://xdgo.live:8080/series/22_vPaolaRami/BXj9OkcgaQ/26862.mkv
 #EXTINF:-1 tvg-id="" tvg-name="SEAL Team S03 E13" group-title="SERIES ACCION",SEAL Team S03 E13
 http://xdgo.live:8080/series/22_vPaolaRami/BXj9OkcgaQ/26863.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Boys S01 E01" group-title="SERIES ACCION",The Boys S01 E01
-http://xdgo.live:8080/series/22_vPaolaRami/BXj9OkcgaQ/11151.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Boys S01 E02" group-title="SERIES ACCION",The Boys S01 E02
-http://xdgo.live:8080/series/22_vPaolaRami/BXj9OkcgaQ/11152.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Boys S01 E03" group-title="SERIES ACCION",The Boys S01 E03
-http://xdgo.live:8080/series/22_vPaolaRami/BXj9OkcgaQ/11153.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Boys S01 E04" group-title="SERIES ACCION",The Boys S01 E04
-http://xdgo.live:8080/series/22_vPaolaRami/BXj9OkcgaQ/11154.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Boys S01 E05" group-title="SERIES ACCION",The Boys S01 E05
-http://xdgo.live:8080/series/22_vPaolaRami/BXj9OkcgaQ/11155.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Boys S01 E06" group-title="SERIES ACCION",The Boys S01 E06
-http://xdgo.live:8080/series/22_vPaolaRami/BXj9OkcgaQ/11156.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Boys S01 E07" group-title="SERIES ACCION",The Boys S01 E07
-http://xdgo.live:8080/series/22_vPaolaRami/BXj9OkcgaQ/11157.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Boys S01 E08" group-title="SERIES ACCION",The Boys S01 E08
-http://xdgo.live:8080/series/22_vPaolaRami/BXj9OkcgaQ/11158.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hakan, el protector S01 E01" group-title="SERIES ACCION",Hakan, el protector S01 E01
 http://xdgo.live:8080/series/22_vPaolaRami/BXj9OkcgaQ/11344.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hakan, el protector S01 E02" group-title="SERIES ACCION",Hakan, el protector S01 E02
