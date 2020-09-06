@@ -1199,30 +1199,6 @@ http://xdgo.live:8080/series/17_VGladyscarrillo_a/3lPCIxF1o2/27306.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Boys S01 E08" group-title="SERIES FICCION - FANTASIA",The Boys S01 E08
 #EXTGRP:THE BOYS
 http://xdgo.live:8080/series/17_VGladyscarrillo_a/3lPCIxF1o2/27307.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S01 E13" group-title="SERIES DRAMA",The Good Doctor S01 E13
-#EXTGRP:THE GOOD DOCTOR
-http://xdgo.live:8080/series/17_VGladyscarrillo_a/3lPCIxF1o2/14423.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S01 E14" group-title="SERIES DRAMA",The Good Doctor S01 E14
-#EXTGRP:THE GOOD DOCTOR
-http://xdgo.live:8080/series/17_VGladyscarrillo_a/3lPCIxF1o2/14424.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S01 E15" group-title="SERIES DRAMA",The Good Doctor S01 E15
-#EXTGRP:THE GOOD DOCTOR
-http://xdgo.live:8080/series/17_VGladyscarrillo_a/3lPCIxF1o2/14425.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S01 E16" group-title="SERIES DRAMA",The Good Doctor S01 E16
-#EXTGRP:THE GOOD DOCTOR
-http://xdgo.live:8080/series/17_VGladyscarrillo_a/3lPCIxF1o2/14426.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S01 E17" group-title="SERIES DRAMA",The Good Doctor S01 E17
-#EXTGRP:THE GOOD DOCTOR
-http://xdgo.live:8080/series/17_VGladyscarrillo_a/3lPCIxF1o2/14427.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S01 E18" group-title="SERIES DRAMA",The Good Doctor S01 E18
-#EXTGRP:THE GOOD DOCTOR
-http://xdgo.live:8080/series/17_VGladyscarrillo_a/3lPCIxF1o2/14428.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S02 E01" group-title="SERIES DRAMA",The Good Doctor S02 E01
-#EXTGRP:THE GOOD DOCTOR
-http://xdgo.live:8080/series/17_VGladyscarrillo_a/3lPCIxF1o2/14429.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S02 E02" group-title="SERIES DRAMA",The Good Doctor S02 E02
-#EXTGRP:THE GOOD DOCTOR
-http://xdgo.live:8080/series/17_VGladyscarrillo_a/3lPCIxF1o2/14430.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S02 E03" group-title="SERIES DRAMA",The Good Doctor S02 E03
 #EXTGRP:THE GOOD DOCTOR
 http://xdgo.live:8080/series/17_VGladyscarrillo_a/3lPCIxF1o2/14431.mkv
@@ -8495,6 +8471,9 @@ http://xdgo.live:8080/series/17_VGladyscarrillo_a/3lPCIxF1o2/14484.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Terror S01 E10" group-title="SERIES TERROR - THRILLER",The Terror S01 E10
 #EXTGRP:SERIES TERROR - THRILLER
 http://xdgo.live:8080/series/17_VGladyscarrillo_a/3lPCIxF1o2/14485.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mulan (2020)" group-title="VOD ESTRENOS",Mulan (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/17_VGladyscarrillo_a/3lPCIxF1o2/30264.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Pacto de fuga (2020)" group-title="VOD ESTRENOS",Pacto de fuga (2020)
 #EXTGRP:VFLIX ESTRENOS
 http://xdgo.live:8080/movie/17_VGladyscarrillo_a/3lPCIxF1o2/30258.mkv
