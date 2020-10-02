@@ -278,9 +278,6 @@ http://xdgo.live:8080/series/19_vJuanB/GNwTZ5dp58/21848.mp4
 #EXTINF:-1 tvg-id="" tvg-name="American Horror Story S08 E10" group-title="SERIES DRAMA",American Horror Story S08 E10
 #EXTGRP:AMERICAN HORROR STORY
 http://xdgo.live:8080/series/19_vJuanB/GNwTZ5dp58/21849.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El Chavo del Ocho S01 E247" group-title="SERIES RETRO",El Chavo del Ocho S01 E247
-#EXTGRP:CANALES 24 7
-http://xdgo.live:8080/series/19_vJuanB/GNwTZ5dp58/20424.avi
 #EXTINF:-1 tvg-id="" tvg-name="Dracula S01 E01" group-title="SERIES FICCION - FANTASIA",Dracula S01 E01
 #EXTGRP:DRACULA
 http://xdgo.live:8080/series/19_vJuanB/GNwTZ5dp58/21118.mkv
@@ -1028,6 +1025,9 @@ http://xdgo.live:8080/series/19_vJuanB/GNwTZ5dp58/20422.avi
 #EXTINF:-1 tvg-id="" tvg-name="El Chavo del Ocho S01 E246" group-title="SERIES RETRO",El Chavo del Ocho S01 E246
 #EXTGRP:EL CHAVO DEL OCHO
 http://xdgo.live:8080/series/19_vJuanB/GNwTZ5dp58/20423.avi
+#EXTINF:-1 tvg-id="" tvg-name="El Chavo del Ocho S01 E247" group-title="SERIES RETRO",El Chavo del Ocho S01 E247
+#EXTGRP:EL CHAVO DEL OCHO
+http://xdgo.live:8080/series/19_vJuanB/GNwTZ5dp58/20424.avi
 #EXTINF:-1 tvg-id="" tvg-name="El Chavo del Ocho S01 E248" group-title="SERIES RETRO",El Chavo del Ocho S01 E248
 #EXTGRP:EL CHAVO DEL OCHO
 http://xdgo.live:8080/series/19_vJuanB/GNwTZ5dp58/20425.avi
@@ -8537,6 +8537,69 @@ http://xdgo.live:8080/series/19_vJuanB/GNwTZ5dp58/14484.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Terror S01 E10" group-title="SERIES TERROR - THRILLER",The Terror S01 E10
 #EXTGRP:SERIES TERROR - THRILLER
 http://xdgo.live:8080/series/19_vJuanB/GNwTZ5dp58/14485.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Como perros y gatos 3 (2020)" group-title="VOD ESTRENOS",Como perros y gatos 3 (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/19_vJuanB/GNwTZ5dp58/30433.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amulet (2020)" group-title="VOD ESTRENOS",Amulet (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/19_vJuanB/GNwTZ5dp58/30430.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Antebellum (2020)" group-title="VOD ESTRENOS",Antebellum (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/19_vJuanB/GNwTZ5dp58/30431.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Nun's Curse (2020)" group-title="VOD ESTRENOS",A Nun's Curse (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/19_vJuanB/GNwTZ5dp58/30432.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Clemency (2019)" group-title="VOD ESTRENOS",Clemency (2019)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/19_vJuanB/GNwTZ5dp58/30434.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Enola Holmes (2020)" group-title="VOD ESTRENOS",Enola Holmes (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/19_vJuanB/GNwTZ5dp58/30435.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fernando Torres El Ultimo Simbolo (2020)" group-title="VOD ESTRENOS",Fernando Torres El Ultimo Simbolo (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/19_vJuanB/GNwTZ5dp58/30436.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Good Boy (2020)" group-title="VOD ESTRENOS",Good Boy (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/19_vJuanB/GNwTZ5dp58/30437.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hooking Up (2009)" group-title="VOD ESTRENOS",Hooking Up (2009)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/19_vJuanB/GNwTZ5dp58/30438.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Herencia (2020)" group-title="VOD ESTRENOS",La Herencia (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/19_vJuanB/GNwTZ5dp58/30439.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Psycho Yoga Instructor (2020)" group-title="VOD ESTRENOS",Psycho Yoga Instructor (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/19_vJuanB/GNwTZ5dp58/30440.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ride Your Dream (2020)" group-title="VOD ESTRENOS",Ride Your Dream (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/19_vJuanB/GNwTZ5dp58/30441.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El club secreto de los no herederos al trono (2020)" group-title="VOD ESTRENOS",El club secreto de los no herederos al trono (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/19_vJuanB/GNwTZ5dp58/30442.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El diablo a todas horas (2020)" group-title="VOD ESTRENOS",El diablo a todas horas (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/19_vJuanB/GNwTZ5dp58/30443.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Neighbor in the Window (2020)" group-title="VOD ESTRENOS",The Neighbor in the Window (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/19_vJuanB/GNwTZ5dp58/30444.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El practicante (2020)" group-title="VOD ESTRENOS",El practicante (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/19_vJuanB/GNwTZ5dp58/30445.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El progreso del peregrino (2019)" group-title="VOD ESTRENOS",El progreso del peregrino (2019)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/19_vJuanB/GNwTZ5dp58/30446.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Way Back (2020)" group-title="VOD ESTRENOS",The Way Back (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/19_vJuanB/GNwTZ5dp58/30447.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Pandilla Una noche de terror (2020)" group-title="VOD ESTRENOS",La Pandilla Una noche de terror (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/19_vJuanB/GNwTZ5dp58/30448.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wendy (2020)" group-title="VOD ESTRENOS",Wendy (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/19_vJuanB/GNwTZ5dp58/30449.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wish Upon a Unicorn (2020)" group-title="VOD ESTRENOS",Wish Upon a Unicorn (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/19_vJuanB/GNwTZ5dp58/30450.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Tribal Get Out Alive (2020)" group-title="VOD ESTRENOS",Tribal Get Out Alive (2020)
 #EXTGRP:VFLIX ESTRENOS
 http://xdgo.live:8080/movie/19_vJuanB/GNwTZ5dp58/30296.mkv
