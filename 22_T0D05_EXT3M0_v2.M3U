@@ -361,8 +361,6 @@ http://tv.xdgo.live:8080/22_vPaolaRami_a/BXj9OkcgaQ/1122
 http://tv.xdgo.live:8080/22_vPaolaRami_a/BXj9OkcgaQ/1123
 #EXTINF:-1 tvg-id="CO RCN NOVELAS HD" tvg-name="CO RCN NOVELAS HD" tvg-logo="https://pbs.twimg.com/profile_images/1217908523138416640/GxKYl3a8_400x400.jpg" group-title="COLOMBIA",CO RCN NOVELAS HD
 http://tv.xdgo.live:8080/22_vPaolaRami_a/BXj9OkcgaQ/24478
-#EXTINF:-1 tvg-id="CO RCN NUESTRA TELE HD" tvg-name="CO RCN INTERNACIONAL" tvg-logo="https://pbs.twimg.com/profile_images/1217581177441222656/u01PfxVc_400x400.jpg" group-title="COLOMBIA",CO RCN INTERNACIONAL
-http://tv.xdgo.live:8080/22_vPaolaRami_a/BXj9OkcgaQ/25088
 #EXTINF:-1 tvg-id="CO SENAL COLOMBIA HD" tvg-name="CO SENAL COLOMBIA HD" tvg-logo="https://seeklogo.com/images/S/senal-colombia-logo-B158E46E46-seeklogo.com.gif" group-title="COLOMBIA",CO SENAL COLOMBIA HD
 http://tv.xdgo.live:8080/22_vPaolaRami_a/BXj9OkcgaQ/1124
 #EXTINF:-1 tvg-id="CO TELEANTOQUIA HD" tvg-name="CO TELEANTOQUIA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKBRY4kxOcRpLSq25LHRafULa_CHBq4qsbm2pdaxrRaYGr95Hw&s" group-title="COLOMBIA",CO TELEANTOQUIA HD
@@ -777,7 +775,7 @@ http://tv.xdgo.live:8080/22_vPaolaRami_a/BXj9OkcgaQ/2378
 http://tv.xdgo.live:8080/22_vPaolaRami_a/BXj9OkcgaQ/2379
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="ESPN DEPORTES" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES INTERNACIONALES",ESPN DEPORTES
 http://tv.xdgo.live:8080/22_vPaolaRami_a/BXj9OkcgaQ/2380
-#EXTINF:-1 tvg-id="ESPN DEPORTES" tvg-name="ESPN DEPORTES op2" tvg-logo="" group-title="DEPORTES INTERNACIONALES",ESPN DEPORTES op2
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="ESPN DEPORTES op2" tvg-logo="" group-title="DEPORTES INTERNACIONALES",ESPN DEPORTES op2
 http://tv.xdgo.live:8080/22_vPaolaRami_a/BXj9OkcgaQ/23240
 #EXTINF:-1 tvg-id="ESPN NEWS" tvg-logo="" gr" tvg-name="ESPN NEWS" tvg-logo="" group-title="DEPORTES INTERNACIONALES",ESPN NEWS
 http://tv.xdgo.live:8080/22_vPaolaRami_a/BXj9OkcgaQ/30194
@@ -2533,7 +2531,7 @@ http://tv.xdgo.live:8080/22_vPaolaRami_a/BXj9OkcgaQ/335
 http://tv.xdgo.live:8080/22_vPaolaRami_a/BXj9OkcgaQ/30092
 #EXTINF:-1 tvg-id="MLB Washington Nationals" t" tvg-name="MLB Washington Nationals" tvg-logo="" group-title="NBA MLB NFL",MLB Washington Nationals
 http://tv.xdgo.live:8080/22_vPaolaRami_a/BXj9OkcgaQ/30161
-#EXTINF:-1 tvg-id="NBA League Pass - ESPN" tvg-name="NBA League Pass - ESPN" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="NBA MLB NFL",NBA League Pass - ESPN
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="NBA League Pass - ESPN" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="NBA MLB NFL",NBA League Pass - ESPN
 http://tv.xdgo.live:8080/22_vPaolaRami_a/BXj9OkcgaQ/336
 #EXTINF:-1 tvg-id="NBA League Pass - ESPN U" tvg-name="NBA League Pass - ESPN U" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="NBA MLB NFL",NBA League Pass - ESPN U
 http://tv.xdgo.live:8080/22_vPaolaRami_a/BXj9OkcgaQ/337
