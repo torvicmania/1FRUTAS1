@@ -1003,7 +1003,7 @@ http://xdgo.live:8080/26_VMariaAngelesa_e/l7eNsdzKsT/40047
 http://xdgo.live:8080/movie/26_VMariaAngelesa_e/l7eNsdzKsT/22733.mp4
 #EXTINF:-1 tvg-id="Alberto Barros - Tributo A La Salsa Colombiana 2" tvg-name="Alberto Barros - Tributo A La Salsa Colombiana 2"  group-title="VFLIX CONCIERTOS",Alberto Barros - Tributo A La Salsa Colombiana 2
 http://xdgo.live:8080/movie/26_VMariaAngelesa_e/l7eNsdzKsT/3638.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Padre,155  Soldado
+#EXTINF:-1 tvg-id="" tvg-name="Padre,164  Soldado
 http://xdgo.live:8080/movie/26_VMariaAngelesa_e/l7eNsdzKsT/30099.mkv
 #EXTINF:-1 tvg-id="BR WOOHOO HD" tvg-name="BR WOOHOO HD" group-title="BRASIL",BR WOOHOO HD
 http://xdgo.live:8080/26_VMariaAngelesa_e/l7eNsdzKsT/5579
@@ -23547,6 +23547,24 @@ http://xdgo.live:8080/series/26_VMariaAngelesa_e/l7eNsdzKsT/25842.mkv
 http://xdgo.live:8080/series/26_VMariaAngelesa_e/l7eNsdzKsT/25882.mkv
 #EXTINF:-1 tvg-id="The Walking Dead S10 E14" tvg-name="The Walking Dead S10 E14"  group-title="SERIES TERROR - THRILLER",The Walking Dead S10 E14
 http://xdgo.live:8080/series/26_VMariaAngelesa_e/l7eNsdzKsT/25883.mkv
+#EXTINF:-1 tvg-id="Bob Esponja: Un héroe al rescate (2020)" tvg-name="Bob Esponja: Un héroe al rescate (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sp9fYcVbUHDFgGZpLvCSJsplfbd.jpg" group-title="VFLIX ESTRENOS",Bob Esponja: Un héroe al rescate (2020)
+http://xdgo.live:8080/movie/26_VMariaAngelesa_e/l7eNsdzKsT/40097.mkv
+#EXTINF:-1 tvg-id="Becky (2020)" tvg-name="Becky (2020)" tvg-logo="http://xdgo.live:8080/images/02f20ec9fca64e57e0a4b7da08fdfcdd.jpg" group-title="VFLIX ESTRENOS",Becky (2020)
+http://xdgo.live:8080/movie/26_VMariaAngelesa_e/l7eNsdzKsT/40089.mkv
+#EXTINF:-1 tvg-id="Casa ajena (2020)" tvg-name="Casa ajena (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8K0EpAAVI29ge1jJPys6SuqMq7R.jpg" group-title="VFLIX ESTRENOS",Casa ajena (2020)
+http://xdgo.live:8080/movie/26_VMariaAngelesa_e/l7eNsdzKsT/40090.mkv
+#EXTINF:-1 tvg-id="Nadie duerme en el bosque esta noche (2020)" tvg-name="Nadie duerme en el bosque esta noche (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pZmxz0UaV1yOFsIIYmJhe2vANP.jpg" group-title="VFLIX ESTRENOS",Nadie duerme en el bosque esta noche (2020)
+http://xdgo.live:8080/movie/26_VMariaAngelesa_e/l7eNsdzKsT/40092.mkv
+#EXTINF:-1 tvg-id="Operación Feliz Navidad (2020)" tvg-name="Operación Feliz Navidad (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fUcKFDy58DhWYd5Y7Nu5DgpxaE.jpg" group-title="VFLIX ESTRENOS",Operación Feliz Navidad (2020)
+http://xdgo.live:8080/movie/26_VMariaAngelesa_e/l7eNsdzKsT/40093.mkv
+#EXTINF:-1 tvg-id="Bronx (2020)" tvg-name="Bronx (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2AhimmTx88WsQfIX8OUjOxxgw5J.jpg" group-title="VFLIX ESTRENOS",Bronx (2020)
+http://xdgo.live:8080/movie/26_VMariaAngelesa_e/l7eNsdzKsT/40094.mkv
+#EXTINF:-1 tvg-id="Los secretos de la tumba de Saqqara (2020)" tvg-name="Los secretos de la tumba de Saqqara (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aaaET8EGa6mkBmCfA6yZ2xEmR2A.jpg" group-title="VFLIX ESTRENOS",Los secretos de la tumba de Saqqara (2020)
+http://xdgo.live:8080/movie/26_VMariaAngelesa_e/l7eNsdzKsT/40095.mkv
+#EXTINF:-1 tvg-id="La Deuda 2 (2020)" tvg-name="La Deuda 2 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGgCTPrWqyyUpfXVXETBmmOQdHr.jpg" group-title="VFLIX ESTRENOS",La Deuda 2 (2020)
+http://xdgo.live:8080/movie/26_VMariaAngelesa_e/l7eNsdzKsT/40096.mkv
+#EXTINF:-1 tvg-id="Magia del revés (2020)" tvg-name="Magia del revés (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2MfnMmFzGvRvjGVLIuyx3R16a6.jpg" group-title="VFLIX ESTRENOS",Magia del revés (2020)
+http://xdgo.live:8080/movie/26_VMariaAngelesa_e/l7eNsdzKsT/40098.mkv
 #EXTINF:-1 tvg-id="2067 (2020)" tvg-name="2067 (2020)" tvg-logo="http://xdgo.live:8080/images/8fee4767478f6cb57ee90b11fb367326.jpg" group-title="VFLIX ESTRENOS",2067 (2020)
 http://xdgo.live:8080/movie/26_VMariaAngelesa_e/l7eNsdzKsT/40063.mkv
 #EXTINF:-1 tvg-id="Ben 10 contra el Universo: La película (2020)" tvg-name="Ben 10 contra el Universo: La película (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/34KSOJVowmkeh6G0HZJMxqdHq6s.jpg" group-title="VFLIX ESTRENOS",Ben 10 contra el Universo: La película (2020)
