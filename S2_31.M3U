@@ -1415,6 +1415,12 @@ http://tv-prime.tv:8080/series/GuillermoMartinez_31/p5JfSGc7zw/20125.mkv
 #EXTINF:0,The Mandalorian S01 E08 
 #EXTGRP:THE MANDALORIAN
 http://tv-prime.tv:8080/series/GuillermoMartinez_31/p5JfSGc7zw/20177.mkv
+#EXTINF:0,The Mandalorian S02 E01 
+#EXTGRP:THE MANDALORIAN
+http://tv-prime.tv:8080/series/GuillermoMartinez_31/p5JfSGc7zw/40145.mkv
+#EXTINF:0,The Mandalorian S02 E02 
+#EXTGRP:THE MANDALORIAN
+http://tv-prime.tv:8080/series/GuillermoMartinez_31/p5JfSGc7zw/40146.mkv
 #EXTINF:0,The Walking Dead S01 E01 
 #EXTGRP:THE WALKING DEAD
 http://tv-prime.tv:8080/series/GuillermoMartinez_31/p5JfSGc7zw/14486.mkv
@@ -8603,6 +8609,54 @@ http://tv-prime.tv:8080/series/GuillermoMartinez_31/p5JfSGc7zw/14484.mkv
 #EXTINF:0,The Terror S01 E10 
 #EXTGRP:SERIES TERROR - THRILLER
 http://tv-prime.tv:8080/series/GuillermoMartinez_31/p5JfSGc7zw/14485.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Baba Yaga El regreso del demonio (2020)" group-title="VOD ESTRENOS",Baba Yaga El regreso del demonio (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/GuillermoMartinez_31/p5JfSGc7zw/40155.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Citacion (2020)" group-title="VOD ESTRENOS",La Citacion (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/GuillermoMartinez_31/p5JfSGc7zw/40156.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cuidado con lo que deseas (2020)" group-title="VOD ESTRENOS",Cuidado con lo que deseas (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/GuillermoMartinez_31/p5JfSGc7zw/40157.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Most Beautiful Day in the World (2019)" group-title="VOD ESTRENOS",The Most Beautiful Day in the World (2019)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/GuillermoMartinez_31/p5JfSGc7zw/40158.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Escuela para seductores (2020)" group-title="VOD ESTRENOS",Escuela para seductores (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/GuillermoMartinez_31/p5JfSGc7zw/40159.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Figli (2020)" group-title="VOD ESTRENOS",Figli (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/GuillermoMartinez_31/p5JfSGc7zw/40160.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Greenland el ultimo refugio (2020)" group-title="VOD ESTRENOS",Greenland el ultimo refugio (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/GuillermoMartinez_31/p5JfSGc7zw/40161.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los nuevos mutantes (2020)" group-title="VOD ESTRENOS",Los nuevos mutantes (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/GuillermoMartinez_31/p5JfSGc7zw/40162.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ludo (2020)" group-title="VOD ESTRENOS",Ludo (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/GuillermoMartinez_31/p5JfSGc7zw/40163.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nunca, casi nunca, a veces, siempre (2020)" group-title="VOD ESTRENOS",Nunca, casi nunca, a veces, siempre (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/GuillermoMartinez_31/p5JfSGc7zw/40164.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Espetaculares (2020)" group-title="VOD ESTRENOS",Os Espetaculares (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/GuillermoMartinez_31/p5JfSGc7zw/40165.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sleeping with Danger (2020)" group-title="VOD ESTRENOS",Sleeping with Danger (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/GuillermoMartinez_31/p5JfSGc7zw/40166.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La vida por delante (2020)" group-title="VOD ESTRENOS",La vida por delante (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/GuillermoMartinez_31/p5JfSGc7zw/40167.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Eternamente enamorados (2019)" group-title="VOD ESTRENOS",Eternamente enamorados (2019)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/GuillermoMartinez_31/p5JfSGc7zw/40168.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Somos osos La pelicula (2020)" group-title="VOD ESTRENOS",Somos osos La pelicula (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/GuillermoMartinez_31/p5JfSGc7zw/40169.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La vida que queriamos (2020)" group-title="VOD ESTRENOS",La vida que queriamos (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/GuillermoMartinez_31/p5JfSGc7zw/40170.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Un heroe al rescate (2020)" group-title="VOD ESTRENOS",Bob Esponja Un heroe al rescate (2020)
 #EXTGRP:VFLIX ESTRENOS
 http://tv-prime.tv:8080/movie/GuillermoMartinez_31/p5JfSGc7zw/40097.mkv
