@@ -553,6 +553,14 @@ http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/29818
 http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/29816
 #EXTINF:-1 tvg-id="TD PLUS  2 HD" tvg-name="TD PLUS  2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M C3 A1s_2_Logo.svg/1280px-TD_M C3 A1s_2_Logo.svg.png" group-title="DEPORTES",TD PLUS  2 FHD
 http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/29817
+#EXTINF:-1 tvg-id="GOL PERU HQ" tvg-name="GOL PERU HQ" tvg-logo="https://2.bp.blogspot.com/-usJcxF6gJIg/WUVrMywkyzI/AAAAAAAAAi8/DV9fYjhJyKM5Qzd_HIJQKZ1aB-BXRi6CQCLcBGAs/s1600/gol 2Bperu.jpg" group-title="DEPORTES",GOL PERU HQ
+http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/1835
+#EXTINF:-1 tvg-id="GOL PERU HD" tvg-name="GOL PERU HD" tvg-logo="https://2.bp.blogspot.com/-usJcxF6gJIg/WUVrMywkyzI/AAAAAAAAAi8/DV9fYjhJyKM5Qzd_HIJQKZ1aB-BXRi6CQCLcBGAs/s1600/gol 2Bperu.jpg" group-title="DEPORTES",GOL PERU HD
+http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/1837
+#EXTINF:-1 tvg-id="GOL PERU FHD" tvg-name="GOL PERU FHD" tvg-logo="https://2.bp.blogspot.com/-usJcxF6gJIg/WUVrMywkyzI/AAAAAAAAAi8/DV9fYjhJyKM5Qzd_HIJQKZ1aB-BXRi6CQCLcBGAs/s1600/gol 2Bperu.jpg" group-title="DEPORTES",GOL PERU FHD
+http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/1836
+#EXTINF:-1 tvg-id="GOL PERU FHD" tvg-name="GOL PERU FHD op2" tvg-logo="https://2.bp.blogspot.com/-usJcxF6gJIg/WUVrMywkyzI/AAAAAAAAAi8/DV9fYjhJyKM5Qzd_HIJQKZ1aB-BXRi6CQCLcBGAs/s1600/gol 2Bperu.jpg" group-title="DEPORTES",GOL PERU FHD op2
+http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/40011
 #EXTINF:-1 tvg-id="GOL TV INGLES HD" tvg-name="GOL TV INGLES HD" tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf_400x400.jpg" group-title="DEPORTES",GOL TV INGLES HD
 http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/16452
 #EXTINF:-1 tvg-id="GOL TV ESPANOL HD" tvg-name="GOL TV ESPANOL HD" tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf_400x400.jpg" group-title="DEPORTES",GOL TV ESPANOL HD
@@ -703,7 +711,7 @@ http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/24108
 http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/24109
 #EXTINF:-1 tvg-id="BTN" tvg-name="BT SPORT 3" tvg-logo="" group-title="DEPORTES INTERNACIONALES",BT SPORT 3
 http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/40001
-#EXTINF:-1 tvg-id="ESPN op2" tvg-name="BT SPORT ESPN" tvg-logo="" group-title="DEPORTES INTERNACIONALES",BT SPORT ESPN
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="BT SPORT ESPN" tvg-logo="" group-title="DEPORTES INTERNACIONALES",BT SPORT ESPN
 http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/24111
 #EXTINF:-1 tvg-id="BTN" tvg-name="BTN" tvg-logo="" group-title="DEPORTES INTERNACIONALES",BTN
 http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/2056
@@ -2575,6 +2583,78 @@ http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/556
 http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/559
 #EXTINF:-1 tvg-id="24 Horas Casado con Hijos" tvg-name="NT INFORMATIVO CORONAVIRUS" group-title="NOTICIAS",NT INFORMATIVO CORONAVIRUS
 http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/24262
+#EXTINF:-1 tvg-id="ANTARES TV" tvg-name="GLOBAL TV FHD" group-title="PERU",GLOBAL TV FHD
+http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/17275
+#EXTINF:-1 tvg-id="AMERICA TV HQ" tvg-name="AMERICA TV HQ" group-title="PERU",AMERICA TV HQ
+http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/17282
+#EXTINF:-1 tvg-id="AMERICA TV HD" tvg-name="AMERICA TV HD" group-title="PERU",AMERICA TV HD
+http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/1133
+#EXTINF:-1 tvg-id="AMERICA TV FHD" tvg-name="AMERICA TV FHD" group-title="PERU",AMERICA TV FHD
+http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/1134
+#EXTINF:-1 tvg-id="AMERICA TV HD" tvg-name="AMERICA TV HD op2" group-title="PERU",AMERICA TV HD op2
+http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/6093
+#EXTINF:-1 tvg-id="AMERICA TV HD" tvg-name="AMERICA TV FHD op2" group-title="PERU",AMERICA TV FHD op2
+http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/5427
+#EXTINF:-1 tvg-id="ATV HQ" tvg-name="ATV HQ" group-title="PERU",ATV HQ
+http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/1136
+#EXTINF:-1 tvg-id="ATV HQ" tvg-name="ATV HQ op2" group-title="PERU",ATV HQ op2
+http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/17278
+#EXTINF:-1 tvg-id="ATV HD" tvg-name="ATV HD" group-title="PERU",ATV HD
+http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/1135
+#EXTINF:-1 tvg-id="ATV HD op2" tvg-name="ATV HD op2" group-title="PERU",ATV HD op2
+http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/5428
+#EXTINF:-1 tvg-id="ATV FHD" tvg-name="ATV FHD" group-title="PERU",ATV FHD
+http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/16327
+#EXTINF:-1 tvg-id="ATV HD" tvg-name="ATV PLUS HD" group-title="PERU",ATV PLUS HD
+http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/27515
+#EXTINF:-1 tvg-id="ANTARES TV" tvg-name="CANAL IPE" group-title="PERU",CANAL IPE
+http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/1152
+#EXTINF:-1 tvg-id="CANAL N HQ" tvg-name="CANAL N HQ" group-title="PERU",CANAL N HQ
+http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/17279
+#EXTINF:-1 tvg-id="CANAL N HD" tvg-name="CANAL N HD" group-title="PERU",CANAL N HD
+http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/17280
+#EXTINF:-1 tvg-id="CAPITAL TV HD" tvg-name="CAPITAL TV FHD" group-title="PERU",CAPITAL TV FHD
+http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/40010
+#EXTINF:-1 tvg-id="LA TELE" tvg-name="LA TELE FHD" group-title="PERU",LA TELE FHD
+http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/40012
+#EXTINF:-1 tvg-id="LATINA HQ" tvg-name="LATINA HQ" group-title="PERU",LATINA HQ
+http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/1138
+#EXTINF:-1 tvg-id="LATINA HQ op2" tvg-name="LATINA HQ op2" group-title="PERU",LATINA HQ op2
+http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/17277
+#EXTINF:-1 tvg-id="LATINA HD" tvg-name="LATINA HD" group-title="PERU",LATINA HD
+http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/1139
+#EXTINF:-1 tvg-id="LATINA FHD" tvg-name="LATINA FHD" group-title="PERU",LATINA FHD
+http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/1137
+#EXTINF:-1 tvg-id="LATINA FHD op2" tvg-name="LATINA FHD op2" group-title="PERU",LATINA FHD op2
+http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/6220
+#EXTINF:-1 tvg-id="MOVISTAR PLUS HQ" tvg-name="MOVISTAR PLUS" group-title="PERU",MOVISTAR PLUS
+http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/1143
+#EXTINF:-1 tvg-id="MOVISTAR PLUS HD" tvg-name="MOVISTAR PLUS FHD" group-title="PERU",MOVISTAR PLUS FHD
+http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/40009
+#EXTINF:-1 tvg-id="WILLAX FHD" tvg-name="EXITOSA HD" group-title="PERU",EXITOSA HD
+http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/27510
+#EXTINF:-1 tvg-id="PANAMERICANA HQ" tvg-name="PANAMERICANA HQ" group-title="PERU",PANAMERICANA HQ
+http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/1141
+#EXTINF:-1 tvg-id="PANAMERICANA HQ op2" tvg-name="PANAMERICANA HQ op2" group-title="PERU",PANAMERICANA HQ op2
+http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/17283
+#EXTINF:-1 tvg-id="PANAMERICANA HD" tvg-name="PANAMERICANA HD" group-title="PERU",PANAMERICANA HD
+http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/1142
+#EXTINF:-1 tvg-id="PANAMERICANA FHD" tvg-name="PANAMERICANA FHD" group-title="PERU",PANAMERICANA FHD
+http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/1140
+#EXTINF:-1 tvg-id="PERU MAGICO" tvg-name="PERU MAGICO" group-title="PERU",PERU MAGICO
+http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/1144
+#EXTINF:-1 tvg-id="PERU MAGICO HQ" tvg-name="PERU MAGICO HQ" group-title="PERU",PERU MAGICO HQ
+http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/17276
+#EXTINF:-1 tvg-id="RPP TV HQ" tvg-name="RPP TV HQ" group-title="PERU",RPP TV HQ
+http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/17281
+#EXTINF:-1 tvg-id="RPP TV HD" tvg-name="RPP TV HD" group-title="PERU",RPP TV HD
+http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/16456
+#EXTINF:-1 tvg-id="TV PERU HQ" tvg-name="TV PERU FHD" group-title="PERU",TV PERU FHD
+http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/27514
+#EXTINF:-1 tvg-id="TV PERU HD" tvg-name="TV PERU NOTICIAS" group-title="PERU",TV PERU NOTICIAS
+http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/1150
+#EXTINF:-1 tvg-id="WILLAX FHD" tvg-name="WILLAX FHD" group-title="PERU",WILLAX FHD
+http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/27511
 #EXTINF:-1 tvg-id="PPV CINEMA 01" tvg-name="PPV CINEMA 01" tvg-logo="" group-title="PPV ESTRENOS FHD",PPV CINEMA 01
 http://tv.xdgo.live:8080/55_andrescamilo/NJkcj5JLTX/6077
 #EXTINF:-1 tvg-id="PPV CINEMA 01" tvg-name="PPV CINEMA 02" tvg-logo="" group-title="PPV ESTRENOS FHD",PPV CINEMA 02
@@ -18081,6 +18161,274 @@ http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40289.mkv
 http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40290.mkv
 #EXTINF:-1 tvg-id="Ballers S05 E08" tvg-name="Ballers S05 E08"  group-title="SERIES DRAMA",Ballers S05 E08
 http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40291.mkv
+#EXTINF:-1 tvg-id="Suits S01 E01" tvg-name="Suits S01 E01"  group-title="SERIES DRAMA",Suits S01 E01
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40292.mkv
+#EXTINF:-1 tvg-id="Suits S01 E02" tvg-name="Suits S01 E02"  group-title="SERIES DRAMA",Suits S01 E02
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40293.mkv
+#EXTINF:-1 tvg-id="Suits S01 E03" tvg-name="Suits S01 E03"  group-title="SERIES DRAMA",Suits S01 E03
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40294.mkv
+#EXTINF:-1 tvg-id="Suits S01 E04" tvg-name="Suits S01 E04"  group-title="SERIES DRAMA",Suits S01 E04
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40295.mkv
+#EXTINF:-1 tvg-id="Suits S01 E05" tvg-name="Suits S01 E05"  group-title="SERIES DRAMA",Suits S01 E05
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40296.mkv
+#EXTINF:-1 tvg-id="Suits S01 E06" tvg-name="Suits S01 E06"  group-title="SERIES DRAMA",Suits S01 E06
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40297.mkv
+#EXTINF:-1 tvg-id="Suits S01 E07" tvg-name="Suits S01 E07"  group-title="SERIES DRAMA",Suits S01 E07
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40298.mkv
+#EXTINF:-1 tvg-id="Suits S01 E08" tvg-name="Suits S01 E08"  group-title="SERIES DRAMA",Suits S01 E08
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40299.mkv
+#EXTINF:-1 tvg-id="Suits S01 E09" tvg-name="Suits S01 E09"  group-title="SERIES DRAMA",Suits S01 E09
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40300.mkv
+#EXTINF:-1 tvg-id="Suits S01 E10" tvg-name="Suits S01 E10"  group-title="SERIES DRAMA",Suits S01 E10
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40301.mkv
+#EXTINF:-1 tvg-id="Suits S01 E11" tvg-name="Suits S01 E11"  group-title="SERIES DRAMA",Suits S01 E11
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40302.mkv
+#EXTINF:-1 tvg-id="Suits S01 E12" tvg-name="Suits S01 E12"  group-title="SERIES DRAMA",Suits S01 E12
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40303.mkv
+#EXTINF:-1 tvg-id="Suits S02 E01" tvg-name="Suits S02 E01"  group-title="SERIES DRAMA",Suits S02 E01
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40304.mkv
+#EXTINF:-1 tvg-id="Suits S02 E02" tvg-name="Suits S02 E02"  group-title="SERIES DRAMA",Suits S02 E02
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40305.mkv
+#EXTINF:-1 tvg-id="Suits S02 E03" tvg-name="Suits S02 E03"  group-title="SERIES DRAMA",Suits S02 E03
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40306.mkv
+#EXTINF:-1 tvg-id="Suits S02 E04" tvg-name="Suits S02 E04"  group-title="SERIES DRAMA",Suits S02 E04
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40307.mkv
+#EXTINF:-1 tvg-id="Suits S02 E05" tvg-name="Suits S02 E05"  group-title="SERIES DRAMA",Suits S02 E05
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40308.mkv
+#EXTINF:-1 tvg-id="Suits S02 E06" tvg-name="Suits S02 E06"  group-title="SERIES DRAMA",Suits S02 E06
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40309.mkv
+#EXTINF:-1 tvg-id="Suits S02 E07" tvg-name="Suits S02 E07"  group-title="SERIES DRAMA",Suits S02 E07
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40310.mkv
+#EXTINF:-1 tvg-id="Suits S02 E08" tvg-name="Suits S02 E08"  group-title="SERIES DRAMA",Suits S02 E08
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40311.mkv
+#EXTINF:-1 tvg-id="Suits S02 E09" tvg-name="Suits S02 E09"  group-title="SERIES DRAMA",Suits S02 E09
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40312.mkv
+#EXTINF:-1 tvg-id="Suits S02 E10" tvg-name="Suits S02 E10"  group-title="SERIES DRAMA",Suits S02 E10
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40313.mkv
+#EXTINF:-1 tvg-id="Suits S02 E11" tvg-name="Suits S02 E11"  group-title="SERIES DRAMA",Suits S02 E11
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40314.mkv
+#EXTINF:-1 tvg-id="Suits S02 E12" tvg-name="Suits S02 E12"  group-title="SERIES DRAMA",Suits S02 E12
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40315.mkv
+#EXTINF:-1 tvg-id="Suits S02 E13" tvg-name="Suits S02 E13"  group-title="SERIES DRAMA",Suits S02 E13
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40316.mkv
+#EXTINF:-1 tvg-id="Suits S02 E14" tvg-name="Suits S02 E14"  group-title="SERIES DRAMA",Suits S02 E14
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40317.mkv
+#EXTINF:-1 tvg-id="Suits S02 E15" tvg-name="Suits S02 E15"  group-title="SERIES DRAMA",Suits S02 E15
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40318.mkv
+#EXTINF:-1 tvg-id="Suits S02 E16" tvg-name="Suits S02 E16"  group-title="SERIES DRAMA",Suits S02 E16
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40319.mkv
+#EXTINF:-1 tvg-id="Suits S03 E01" tvg-name="Suits S03 E01"  group-title="SERIES DRAMA",Suits S03 E01
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40320.mkv
+#EXTINF:-1 tvg-id="Suits S03 E02" tvg-name="Suits S03 E02"  group-title="SERIES DRAMA",Suits S03 E02
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40321.mkv
+#EXTINF:-1 tvg-id="Suits S03 E03" tvg-name="Suits S03 E03"  group-title="SERIES DRAMA",Suits S03 E03
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40322.mkv
+#EXTINF:-1 tvg-id="Suits S03 E04" tvg-name="Suits S03 E04"  group-title="SERIES DRAMA",Suits S03 E04
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40323.mkv
+#EXTINF:-1 tvg-id="Suits S03 E05" tvg-name="Suits S03 E05"  group-title="SERIES DRAMA",Suits S03 E05
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40324.mkv
+#EXTINF:-1 tvg-id="Suits S03 E06" tvg-name="Suits S03 E06"  group-title="SERIES DRAMA",Suits S03 E06
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40325.mkv
+#EXTINF:-1 tvg-id="Suits S03 E07" tvg-name="Suits S03 E07"  group-title="SERIES DRAMA",Suits S03 E07
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40326.mkv
+#EXTINF:-1 tvg-id="Suits S03 E08" tvg-name="Suits S03 E08"  group-title="SERIES DRAMA",Suits S03 E08
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40327.mkv
+#EXTINF:-1 tvg-id="Suits S03 E09" tvg-name="Suits S03 E09"  group-title="SERIES DRAMA",Suits S03 E09
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40328.mkv
+#EXTINF:-1 tvg-id="Suits S03 E10" tvg-name="Suits S03 E10"  group-title="SERIES DRAMA",Suits S03 E10
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40329.mkv
+#EXTINF:-1 tvg-id="Suits S03 E11" tvg-name="Suits S03 E11"  group-title="SERIES DRAMA",Suits S03 E11
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40330.mkv
+#EXTINF:-1 tvg-id="Suits S03 E12" tvg-name="Suits S03 E12"  group-title="SERIES DRAMA",Suits S03 E12
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40331.mkv
+#EXTINF:-1 tvg-id="Suits S03 E13" tvg-name="Suits S03 E13"  group-title="SERIES DRAMA",Suits S03 E13
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40332.mkv
+#EXTINF:-1 tvg-id="Suits S03 E14" tvg-name="Suits S03 E14"  group-title="SERIES DRAMA",Suits S03 E14
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40333.mkv
+#EXTINF:-1 tvg-id="Suits S03 E15" tvg-name="Suits S03 E15"  group-title="SERIES DRAMA",Suits S03 E15
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40334.mkv
+#EXTINF:-1 tvg-id="Suits S03 E16" tvg-name="Suits S03 E16"  group-title="SERIES DRAMA",Suits S03 E16
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40335.mkv
+#EXTINF:-1 tvg-id="Suits S04 E01" tvg-name="Suits S04 E01"  group-title="SERIES DRAMA",Suits S04 E01
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40336.mkv
+#EXTINF:-1 tvg-id="Suits S04 E02" tvg-name="Suits S04 E02"  group-title="SERIES DRAMA",Suits S04 E02
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40337.mkv
+#EXTINF:-1 tvg-id="Suits S04 E03" tvg-name="Suits S04 E03"  group-title="SERIES DRAMA",Suits S04 E03
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40338.mkv
+#EXTINF:-1 tvg-id="Suits S04 E04" tvg-name="Suits S04 E04"  group-title="SERIES DRAMA",Suits S04 E04
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40339.mkv
+#EXTINF:-1 tvg-id="Suits S04 E05" tvg-name="Suits S04 E05"  group-title="SERIES DRAMA",Suits S04 E05
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40340.mkv
+#EXTINF:-1 tvg-id="Suits S04 E06" tvg-name="Suits S04 E06"  group-title="SERIES DRAMA",Suits S04 E06
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40341.mkv
+#EXTINF:-1 tvg-id="Suits S04 E07" tvg-name="Suits S04 E07"  group-title="SERIES DRAMA",Suits S04 E07
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40342.mkv
+#EXTINF:-1 tvg-id="Suits S04 E08" tvg-name="Suits S04 E08"  group-title="SERIES DRAMA",Suits S04 E08
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40343.mkv
+#EXTINF:-1 tvg-id="Suits S04 E09" tvg-name="Suits S04 E09"  group-title="SERIES DRAMA",Suits S04 E09
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40344.mkv
+#EXTINF:-1 tvg-id="Suits S04 E10" tvg-name="Suits S04 E10"  group-title="SERIES DRAMA",Suits S04 E10
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40345.mkv
+#EXTINF:-1 tvg-id="Suits S04 E11" tvg-name="Suits S04 E11"  group-title="SERIES DRAMA",Suits S04 E11
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40346.mkv
+#EXTINF:-1 tvg-id="Suits S04 E12" tvg-name="Suits S04 E12"  group-title="SERIES DRAMA",Suits S04 E12
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40347.mkv
+#EXTINF:-1 tvg-id="Suits S04 E13" tvg-name="Suits S04 E13"  group-title="SERIES DRAMA",Suits S04 E13
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40348.mkv
+#EXTINF:-1 tvg-id="Suits S04 E14" tvg-name="Suits S04 E14"  group-title="SERIES DRAMA",Suits S04 E14
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40349.mkv
+#EXTINF:-1 tvg-id="Suits S04 E15" tvg-name="Suits S04 E15"  group-title="SERIES DRAMA",Suits S04 E15
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40350.mkv
+#EXTINF:-1 tvg-id="Suits S04 E16" tvg-name="Suits S04 E16"  group-title="SERIES DRAMA",Suits S04 E16
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40351.mkv
+#EXTINF:-1 tvg-id="Suits S05 E01" tvg-name="Suits S05 E01"  group-title="SERIES DRAMA",Suits S05 E01
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40352.mkv
+#EXTINF:-1 tvg-id="Suits S05 E02" tvg-name="Suits S05 E02"  group-title="SERIES DRAMA",Suits S05 E02
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40353.mkv
+#EXTINF:-1 tvg-id="Suits S05 E03" tvg-name="Suits S05 E03"  group-title="SERIES DRAMA",Suits S05 E03
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40354.mkv
+#EXTINF:-1 tvg-id="Suits S05 E04" tvg-name="Suits S05 E04"  group-title="SERIES DRAMA",Suits S05 E04
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40355.mkv
+#EXTINF:-1 tvg-id="Suits S05 E05" tvg-name="Suits S05 E05"  group-title="SERIES DRAMA",Suits S05 E05
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40356.mkv
+#EXTINF:-1 tvg-id="Suits S05 E06" tvg-name="Suits S05 E06"  group-title="SERIES DRAMA",Suits S05 E06
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40357.mkv
+#EXTINF:-1 tvg-id="Suits S05 E07" tvg-name="Suits S05 E07"  group-title="SERIES DRAMA",Suits S05 E07
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40358.mkv
+#EXTINF:-1 tvg-id="Suits S05 E08" tvg-name="Suits S05 E08"  group-title="SERIES DRAMA",Suits S05 E08
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40359.mkv
+#EXTINF:-1 tvg-id="Suits S05 E09" tvg-name="Suits S05 E09"  group-title="SERIES DRAMA",Suits S05 E09
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40360.mkv
+#EXTINF:-1 tvg-id="Suits S05 E10" tvg-name="Suits S05 E10"  group-title="SERIES DRAMA",Suits S05 E10
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40361.mkv
+#EXTINF:-1 tvg-id="Suits S05 E11" tvg-name="Suits S05 E11"  group-title="SERIES DRAMA",Suits S05 E11
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40362.mkv
+#EXTINF:-1 tvg-id="Suits S05 E12" tvg-name="Suits S05 E12"  group-title="SERIES DRAMA",Suits S05 E12
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40363.mkv
+#EXTINF:-1 tvg-id="Suits S05 E13" tvg-name="Suits S05 E13"  group-title="SERIES DRAMA",Suits S05 E13
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40364.mkv
+#EXTINF:-1 tvg-id="Suits S05 E14" tvg-name="Suits S05 E14"  group-title="SERIES DRAMA",Suits S05 E14
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40365.mkv
+#EXTINF:-1 tvg-id="Suits S05 E15" tvg-name="Suits S05 E15"  group-title="SERIES DRAMA",Suits S05 E15
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40366.mkv
+#EXTINF:-1 tvg-id="Suits S05 E16" tvg-name="Suits S05 E16"  group-title="SERIES DRAMA",Suits S05 E16
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40367.mkv
+#EXTINF:-1 tvg-id="Suits S06 E01" tvg-name="Suits S06 E01"  group-title="SERIES DRAMA",Suits S06 E01
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40368.mkv
+#EXTINF:-1 tvg-id="Suits S06 E02" tvg-name="Suits S06 E02"  group-title="SERIES DRAMA",Suits S06 E02
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40369.mkv
+#EXTINF:-1 tvg-id="Suits S06 E03" tvg-name="Suits S06 E03"  group-title="SERIES DRAMA",Suits S06 E03
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40370.mkv
+#EXTINF:-1 tvg-id="Suits S06 E04" tvg-name="Suits S06 E04"  group-title="SERIES DRAMA",Suits S06 E04
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40371.mkv
+#EXTINF:-1 tvg-id="Suits S06 E05" tvg-name="Suits S06 E05"  group-title="SERIES DRAMA",Suits S06 E05
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40372.mkv
+#EXTINF:-1 tvg-id="Suits S06 E06" tvg-name="Suits S06 E06"  group-title="SERIES DRAMA",Suits S06 E06
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40373.mkv
+#EXTINF:-1 tvg-id="Suits S06 E07" tvg-name="Suits S06 E07"  group-title="SERIES DRAMA",Suits S06 E07
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40374.mkv
+#EXTINF:-1 tvg-id="Suits S06 E08" tvg-name="Suits S06 E08"  group-title="SERIES DRAMA",Suits S06 E08
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40375.mkv
+#EXTINF:-1 tvg-id="Suits S06 E09" tvg-name="Suits S06 E09"  group-title="SERIES DRAMA",Suits S06 E09
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40376.mkv
+#EXTINF:-1 tvg-id="Suits S06 E10" tvg-name="Suits S06 E10"  group-title="SERIES DRAMA",Suits S06 E10
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40377.mkv
+#EXTINF:-1 tvg-id="Suits S06 E11" tvg-name="Suits S06 E11"  group-title="SERIES DRAMA",Suits S06 E11
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40378.mkv
+#EXTINF:-1 tvg-id="Suits S06 E12" tvg-name="Suits S06 E12"  group-title="SERIES DRAMA",Suits S06 E12
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40379.mp4
+#EXTINF:-1 tvg-id="Suits S06 E13" tvg-name="Suits S06 E13"  group-title="SERIES DRAMA",Suits S06 E13
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40380.mkv
+#EXTINF:-1 tvg-id="Suits S06 E14" tvg-name="Suits S06 E14"  group-title="SERIES DRAMA",Suits S06 E14
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40381.mkv
+#EXTINF:-1 tvg-id="Suits S06 E15" tvg-name="Suits S06 E15"  group-title="SERIES DRAMA",Suits S06 E15
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40382.mkv
+#EXTINF:-1 tvg-id="Suits S06 E16" tvg-name="Suits S06 E16"  group-title="SERIES DRAMA",Suits S06 E16
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40383.mkv
+#EXTINF:-1 tvg-id="Suits S07 E01" tvg-name="Suits S07 E01"  group-title="SERIES DRAMA",Suits S07 E01
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40390.mp4
+#EXTINF:-1 tvg-id="Suits S07 E02" tvg-name="Suits S07 E02"  group-title="SERIES DRAMA",Suits S07 E02
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40391.mp4
+#EXTINF:-1 tvg-id="Suits S07 E03" tvg-name="Suits S07 E03"  group-title="SERIES DRAMA",Suits S07 E03
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40392.mp4
+#EXTINF:-1 tvg-id="Suits S07 E04" tvg-name="Suits S07 E04"  group-title="SERIES DRAMA",Suits S07 E04
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40397.mp4
+#EXTINF:-1 tvg-id="Suits S07 E05" tvg-name="Suits S07 E05"  group-title="SERIES DRAMA",Suits S07 E05
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40393.mp4
+#EXTINF:-1 tvg-id="Suits S07 E06" tvg-name="Suits S07 E06"  group-title="SERIES DRAMA",Suits S07 E06
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40398.mp4
+#EXTINF:-1 tvg-id="Suits S07 E07" tvg-name="Suits S07 E07"  group-title="SERIES DRAMA",Suits S07 E07
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40399.mp4
+#EXTINF:-1 tvg-id="Suits S07 E08" tvg-name="Suits S07 E08"  group-title="SERIES DRAMA",Suits S07 E08
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40394.mp4
+#EXTINF:-1 tvg-id="Suits S07 E09" tvg-name="Suits S07 E09"  group-title="SERIES DRAMA",Suits S07 E09
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40395.mp4
+#EXTINF:-1 tvg-id="Suits S07 E10" tvg-name="Suits S07 E10"  group-title="SERIES DRAMA",Suits S07 E10
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40396.mp4
+#EXTINF:-1 tvg-id="Suits S07 E11" tvg-name="Suits S07 E11"  group-title="SERIES DRAMA",Suits S07 E11
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40384.mp4
+#EXTINF:-1 tvg-id="Suits S07 E12" tvg-name="Suits S07 E12"  group-title="SERIES DRAMA",Suits S07 E12
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40385.mkv
+#EXTINF:-1 tvg-id="Suits S07 E13" tvg-name="Suits S07 E13"  group-title="SERIES DRAMA",Suits S07 E13
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40386.mkv
+#EXTINF:-1 tvg-id="Suits S07 E14" tvg-name="Suits S07 E14"  group-title="SERIES DRAMA",Suits S07 E14
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40387.mkv
+#EXTINF:-1 tvg-id="Suits S07 E15" tvg-name="Suits S07 E15"  group-title="SERIES DRAMA",Suits S07 E15
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40388.mkv
+#EXTINF:-1 tvg-id="Suits S07 E16" tvg-name="Suits S07 E16"  group-title="SERIES DRAMA",Suits S07 E16
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40389.mkv
+#EXTINF:-1 tvg-id="Suits S08 E01" tvg-name="Suits S08 E01"  group-title="SERIES DRAMA",Suits S08 E01
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40400.mkv
+#EXTINF:-1 tvg-id="Suits S08 E02" tvg-name="Suits S08 E02"  group-title="SERIES DRAMA",Suits S08 E02
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40401.mkv
+#EXTINF:-1 tvg-id="Suits S08 E03" tvg-name="Suits S08 E03"  group-title="SERIES DRAMA",Suits S08 E03
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40402.mkv
+#EXTINF:-1 tvg-id="Suits S08 E04" tvg-name="Suits S08 E04"  group-title="SERIES DRAMA",Suits S08 E04
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40403.mkv
+#EXTINF:-1 tvg-id="Suits S08 E05" tvg-name="Suits S08 E05"  group-title="SERIES DRAMA",Suits S08 E05
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40404.mkv
+#EXTINF:-1 tvg-id="Suits S08 E06" tvg-name="Suits S08 E06"  group-title="SERIES DRAMA",Suits S08 E06
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40405.mkv
+#EXTINF:-1 tvg-id="Suits S08 E07" tvg-name="Suits S08 E07"  group-title="SERIES DRAMA",Suits S08 E07
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40406.mkv
+#EXTINF:-1 tvg-id="Suits S08 E08" tvg-name="Suits S08 E08"  group-title="SERIES DRAMA",Suits S08 E08
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40407.mkv
+#EXTINF:-1 tvg-id="Suits S08 E09" tvg-name="Suits S08 E09"  group-title="SERIES DRAMA",Suits S08 E09
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40408.mkv
+#EXTINF:-1 tvg-id="Suits S08 E10" tvg-name="Suits S08 E10"  group-title="SERIES DRAMA",Suits S08 E10
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40409.mkv
+#EXTINF:-1 tvg-id="Suits S08 E11" tvg-name="Suits S08 E11"  group-title="SERIES DRAMA",Suits S08 E11
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40410.mkv
+#EXTINF:-1 tvg-id="Suits S08 E12" tvg-name="Suits S08 E12"  group-title="SERIES DRAMA",Suits S08 E12
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40411.mkv
+#EXTINF:-1 tvg-id="Suits S08 E13" tvg-name="Suits S08 E13"  group-title="SERIES DRAMA",Suits S08 E13
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40412.mkv
+#EXTINF:-1 tvg-id="Suits S08 E14" tvg-name="Suits S08 E14"  group-title="SERIES DRAMA",Suits S08 E14
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40413.mkv
+#EXTINF:-1 tvg-id="Suits S08 E15" tvg-name="Suits S08 E15"  group-title="SERIES DRAMA",Suits S08 E15
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40414.mkv
+#EXTINF:-1 tvg-id="Suits S08 E16" tvg-name="Suits S08 E16"  group-title="SERIES DRAMA",Suits S08 E16
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40415.mkv
+#EXTINF:-1 tvg-id="Suits S09 E01" tvg-name="Suits S09 E01"  group-title="SERIES DRAMA",Suits S09 E01
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40416.mkv
+#EXTINF:-1 tvg-id="Suits S09 E02" tvg-name="Suits S09 E02"  group-title="SERIES DRAMA",Suits S09 E02
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40417.mkv
+#EXTINF:-1 tvg-id="Suits S09 E03" tvg-name="Suits S09 E03"  group-title="SERIES DRAMA",Suits S09 E03
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40418.mkv
+#EXTINF:-1 tvg-id="Suits S09 E04" tvg-name="Suits S09 E04"  group-title="SERIES DRAMA",Suits S09 E04
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40419.mkv
+#EXTINF:-1 tvg-id="Suits S09 E05" tvg-name="Suits S09 E05"  group-title="SERIES DRAMA",Suits S09 E05
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40420.mkv
+#EXTINF:-1 tvg-id="Suits S09 E06" tvg-name="Suits S09 E06"  group-title="SERIES DRAMA",Suits S09 E06
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40421.mkv
+#EXTINF:-1 tvg-id="Suits S09 E07" tvg-name="Suits S09 E07"  group-title="SERIES DRAMA",Suits S09 E07
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40422.mkv
+#EXTINF:-1 tvg-id="Suits S09 E08" tvg-name="Suits S09 E08"  group-title="SERIES DRAMA",Suits S09 E08
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40423.mkv
+#EXTINF:-1 tvg-id="Suits S09 E09" tvg-name="Suits S09 E09"  group-title="SERIES DRAMA",Suits S09 E09
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40424.mkv
+#EXTINF:-1 tvg-id="Suits S09 E10" tvg-name="Suits S09 E10"  group-title="SERIES DRAMA",Suits S09 E10
+http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/40425.mkv
 #EXTINF:-1 tvg-id="Game of Thrones S01 E01" tvg-name="Game of Thrones S01 E01"  group-title="SERIES FICCION - FANTASIA",Game of Thrones S01 E01
 http://tv.xdgo.live:8080/series/55_andrescamilo/NJkcj5JLTX/6124.avi
 #EXTINF:-1 tvg-id="Game of Thrones S01 E02" tvg-name="Game of Thrones S01 E02"  group-title="SERIES FICCION - FANTASIA",Game of Thrones S01 E02
