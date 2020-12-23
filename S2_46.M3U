@@ -1427,6 +1427,15 @@ http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40650.mkv
 #EXTINF:0,The Mandalorian S02 E04 
 #EXTGRP:THE MANDALORIAN
 http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40651.mkv
+#EXTINF:0,The Mandalorian S02 E05 
+#EXTGRP:THE MANDALORIAN
+http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40779.mkv
+#EXTINF:0,The Mandalorian S02 E06 
+#EXTGRP:THE MANDALORIAN
+http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40780.mkv
+#EXTINF:0,The Mandalorian S02 E07 
+#EXTGRP:THE MANDALORIAN
+http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40781.mkv
 #EXTINF:0,The Walking Dead S01 E01 
 #EXTGRP:THE WALKING DEAD
 http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/14486.mkv
@@ -1858,10 +1867,16 @@ http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/25841.mkv
 http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/25842.mkv
 #EXTINF:0,The Walking Dead S10 E13 
 #EXTGRP:THE WALKING DEAD
-http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/25882.mkv
+http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40732.mkv
 #EXTINF:0,The Walking Dead S10 E14 
 #EXTGRP:THE WALKING DEAD
-http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/25883.mkv
+http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40735.mkv
+#EXTINF:0,The Walking Dead S10 E15 
+#EXTGRP:THE WALKING DEAD
+http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40733.mkv
+#EXTINF:0,The Walking Dead S10 E16 
+#EXTGRP:THE WALKING DEAD
+http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40734.mkv
 #EXTINF:0,The Witcher S01 E01 
 #EXTGRP:THE WITCHER
 http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/20131.mp4
@@ -3191,24 +3206,6 @@ http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/28378.mkv
 #EXTINF:0,Prison Break S05 E09 
 #EXTGRP:SERIES ACCION
 http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/28379.mkv
-#EXTINF:0,Barbaros S01 E01 
-#EXTGRP:SERIES ACCION
-http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40200.mkv
-#EXTINF:0,Barbaros S01 E02 
-#EXTGRP:SERIES ACCION
-http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40201.mkv
-#EXTINF:0,Barbaros S01 E03 
-#EXTGRP:SERIES ACCION
-http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40202.mkv
-#EXTINF:0,Barbaros S01 E04 
-#EXTGRP:SERIES ACCION
-http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40203.mkv
-#EXTINF:0,Barbaros S01 E05 
-#EXTGRP:SERIES ACCION
-http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40204.mkv
-#EXTINF:0,Barbaros S01 E06 
-#EXTGRP:SERIES ACCION
-http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40205.mkv
 #EXTINF:0,Ultraman S01 E01 
 #EXTGRP:SERIES ANIME
 http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/14934.mkv
@@ -4844,51 +4841,6 @@ http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/30064.mkv
 #EXTINF:0,Futbolistas por el mundo S01 E04 
 #EXTGRP:SERIES DOCUMENTALES
 http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/30065.mkv
-#EXTINF:0,Subete a mi moto S01 E01 
-#EXTGRP:SERIES DOCUMENTALES
-http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40048.mkv
-#EXTINF:0,Subete a mi moto S01 E02 
-#EXTGRP:SERIES DOCUMENTALES
-http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40049.mkv
-#EXTINF:0,Subete a mi moto S01 E03 
-#EXTGRP:SERIES DOCUMENTALES
-http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40050.mkv
-#EXTINF:0,Subete a mi moto S01 E04 
-#EXTGRP:SERIES DOCUMENTALES
-http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40051.mkv
-#EXTINF:0,Subete a mi moto S01 E05 
-#EXTGRP:SERIES DOCUMENTALES
-http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40052.mkv
-#EXTINF:0,Subete a mi moto S01 E06 
-#EXTGRP:SERIES DOCUMENTALES
-http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40053.mkv
-#EXTINF:0,Subete a mi moto S01 E07 
-#EXTGRP:SERIES DOCUMENTALES
-http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40054.mkv
-#EXTINF:0,Subete a mi moto S01 E08 
-#EXTGRP:SERIES DOCUMENTALES
-http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40055.mkv
-#EXTINF:0,Subete a mi moto S01 E09 
-#EXTGRP:SERIES DOCUMENTALES
-http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40056.mkv
-#EXTINF:0,Subete a mi moto S01 E10 
-#EXTGRP:SERIES DOCUMENTALES
-http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40057.mkv
-#EXTINF:0,Subete a mi moto S01 E11 
-#EXTGRP:SERIES DOCUMENTALES
-http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40058.mkv
-#EXTINF:0,Subete a mi moto S01 E12 
-#EXTGRP:SERIES DOCUMENTALES
-http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40059.mkv
-#EXTINF:0,Subete a mi moto S01 E13 
-#EXTGRP:SERIES DOCUMENTALES
-http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40060.mkv
-#EXTINF:0,Subete a mi moto S01 E14 
-#EXTGRP:SERIES DOCUMENTALES
-http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40061.mkv
-#EXTINF:0,Subete a mi moto S01 E15 
-#EXTGRP:SERIES DOCUMENTALES
-http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40062.mkv
 #EXTINF:0,La viuda S01 E01 
 #EXTGRP:SERIES DRAMA
 http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/14617.mkv
@@ -6368,63 +6320,6 @@ http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/30043.mkv
 #EXTINF:0,Hollywood S01 E07 
 #EXTGRP:SERIES DRAMA
 http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/30044.mkv
-#EXTINF:0,Como Vender Drogas Online a toda pastilla S01 E01 
-#EXTGRP:SERIES DRAMA
-http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40171.mkv
-#EXTINF:0,Como Vender Drogas Online a toda pastilla S01 E02 
-#EXTGRP:SERIES DRAMA
-http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40172.mkv
-#EXTINF:0,Como Vender Drogas Online a toda pastilla S01 E03 
-#EXTGRP:SERIES DRAMA
-http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40173.mkv
-#EXTINF:0,Como Vender Drogas Online a toda pastilla S01 E04 
-#EXTGRP:SERIES DRAMA
-http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40174.mkv
-#EXTINF:0,Como Vender Drogas Online a toda pastilla S01 E05 
-#EXTGRP:SERIES DRAMA
-http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40175.mkv
-#EXTINF:0,Como Vender Drogas Online a toda pastilla S01 E06 
-#EXTGRP:SERIES DRAMA
-http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40176.mkv
-#EXTINF:0,Como Vender Drogas Online a toda pastilla S02 E01 
-#EXTGRP:SERIES DRAMA
-http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40177.mkv
-#EXTINF:0,Como Vender Drogas Online a toda pastilla S02 E02 
-#EXTGRP:SERIES DRAMA
-http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40178.mkv
-#EXTINF:0,Como Vender Drogas Online a toda pastilla S02 E03 
-#EXTGRP:SERIES DRAMA
-http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40179.mkv
-#EXTINF:0,Como Vender Drogas Online a toda pastilla S02 E04 
-#EXTGRP:SERIES DRAMA
-http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40180.mkv
-#EXTINF:0,Como Vender Drogas Online a toda pastilla S02 E05 
-#EXTGRP:SERIES DRAMA
-http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40181.mkv
-#EXTINF:0,Como Vender Drogas Online a toda pastilla S02 E06 
-#EXTGRP:SERIES DRAMA
-http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40182.mkv
-#EXTINF:0,Gambito de reina S01 E01 
-#EXTGRP:SERIES DRAMA
-http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40183.mkv
-#EXTINF:0,Gambito de reina S01 E02 
-#EXTGRP:SERIES DRAMA
-http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40184.mkv
-#EXTINF:0,Gambito de reina S01 E03 
-#EXTGRP:SERIES DRAMA
-http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40185.mkv
-#EXTINF:0,Gambito de reina S01 E04 
-#EXTGRP:SERIES DRAMA
-http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40186.mkv
-#EXTINF:0,Gambito de reina S01 E05 
-#EXTGRP:SERIES DRAMA
-http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40187.mkv
-#EXTINF:0,Gambito de reina S01 E06 
-#EXTGRP:SERIES DRAMA
-http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40188.mkv
-#EXTINF:0,Gambito de reina S01 E07 
-#EXTGRP:SERIES DRAMA
-http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40189.mkv
 #EXTINF:0,El juego de las llaves S01 E01 
 #EXTGRP:SERIES DRAMA
 http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40190.mkv
@@ -6998,6 +6893,33 @@ http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40424.mkv
 #EXTINF:0,Suits S09 E10 
 #EXTGRP:SERIES DRAMA
 http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40425.mkv
+#EXTINF:0,Selena La serie S01 E01 
+#EXTGRP:SERIES DRAMA
+http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40705.mkv
+#EXTINF:0,Selena La serie S01 E02 
+#EXTGRP:SERIES DRAMA
+http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40706.mkv
+#EXTINF:0,Selena La serie S01 E03 
+#EXTGRP:SERIES DRAMA
+http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40707.mkv
+#EXTINF:0,Selena La serie S01 E04 
+#EXTGRP:SERIES DRAMA
+http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40708.mkv
+#EXTINF:0,Selena La serie S01 E05 
+#EXTGRP:SERIES DRAMA
+http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40709.mkv
+#EXTINF:0,Selena La serie S01 E06 
+#EXTGRP:SERIES DRAMA
+http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40710.mkv
+#EXTINF:0,Selena La serie S01 E07 
+#EXTGRP:SERIES DRAMA
+http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40711.mkv
+#EXTINF:0,Selena La serie S01 E08 
+#EXTGRP:SERIES DRAMA
+http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40712.mkv
+#EXTINF:0,Selena La serie S01 E09 
+#EXTGRP:SERIES DRAMA
+http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/40713.mkv
 #EXTINF:0,Good Omens S01 E01 
 #EXTGRP:SERIES FICCION - FANTASIA
 http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/14470.mkv
@@ -9380,6 +9302,189 @@ http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/14484.mkv
 #EXTINF:0,The Terror S01 E10 
 #EXTGRP:SERIES TERROR - THRILLER
 http://tv-prime.tv:8080/series/46_vIvanPosada_a/2h6Bb3xGB2/14485.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Croods Una nueva era (2020)" group-title="VOD ESTRENOS",Los Croods Una nueva era (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40776.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curious George Go West, Go Wild (2020)" group-title="VOD ESTRENOS",Curious George Go West, Go Wild (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40771.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Infamous (2020)" group-title="VOD ESTRENOS",Infamous (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40772.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Camino de Xico (2020)" group-title="VOD ESTRENOS",El Camino de Xico (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40773.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La estacion de la felicidad (2020)" group-title="VOD ESTRENOS",La estacion de la felicidad (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40774.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La cita navidena de papa (2020)" group-title="VOD ESTRENOS",La cita navidena de papa (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40775.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los caminos que no escogemos (2020)" group-title="VOD ESTRENOS",Los caminos que no escogemos (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40777.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Stand In (2020)" group-title="VOD ESTRENOS",The Stand In (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40778.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ammonite (2020)" group-title="VOD ESTRENOS",Ammonite (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40754.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bobbleheads The Movie (2020)" group-title="VOD ESTRENOS",Bobbleheads The Movie (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40755.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Combat Wombat (2020)" group-title="VOD ESTRENOS",Combat Wombat (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40756.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Faith Under Fire (2020)" group-title="VOD ESTRENOS",Faith Under Fire (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40757.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Soy tu mujer (2020)" group-title="VOD ESTRENOS",Soy tu mujer (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40758.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Como sobrevivir en un mundo material (Kajillionaire) (2020)" group-title="VOD ESTRENOS",Como sobrevivir en un mundo material (Kajillionaire) (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40759.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mank (2020)" group-title="VOD ESTRENOS",Mank (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40760.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Odio l'estate (2020)" group-title="VOD ESTRENOS",Odio l'estate (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40761.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La increible historia de la Isla de las Rosas (2020)" group-title="VOD ESTRENOS",La increible historia de la Isla de las Rosas (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40762.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Safety La Ultima Linea de Defensa (2020)" group-title="VOD ESTRENOS",Safety La Ultima Linea de Defensa (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40763.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sin Origen (2020)" group-title="VOD ESTRENOS",Sin Origen (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40764.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Gift of Christmas (2020)" group-title="VOD ESTRENOS",The Gift of Christmas (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40765.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Prom (2020)" group-title="VOD ESTRENOS",The Prom (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40766.mkv
+#EXTINF:-1 tvg-id="" tvg-name="En guerra con mi abuelo (2020)" group-title="VOD ESTRENOS",En guerra con mi abuelo (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40767.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Christmas Love Story (2019)" group-title="VOD ESTRENOS",A Christmas Love Story (2019)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40768.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wild Mountain Thyme (2020)" group-title="VOD ESTRENOS",Wild Mountain Thyme (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40769.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wolfwalkers (2020)" group-title="VOD ESTRENOS",Wolfwalkers (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40770.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Venganza implacable (2020)" group-title="VOD ESTRENOS",Venganza implacable (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40717.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lassie Come Home (2020)" group-title="VOD ESTRENOS",Lassie Come Home (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40719.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tenet (2020)" group-title="VOD ESTRENOS",Tenet (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40720.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Este cuerpo me sienta de muerte (2020)" group-title="VOD ESTRENOS",Este cuerpo me sienta de muerte (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40714.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fuego cruzado por Navidad (2020)" group-title="VOD ESTRENOS",Fuego cruzado por Navidad (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40715.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amadrinadas (2020)" group-title="VOD ESTRENOS",Amadrinadas (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40716.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La nochebuena es mi condena (2020)" group-title="VOD ESTRENOS",La nochebuena es mi condena (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40718.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jovenes y Brujas (2020)" group-title="VOD ESTRENOS",Jovenes y Brujas (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40721.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Angela's Christmas Wish (2020)" group-title="VOD ESTRENOS",Angela's Christmas Wish (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40671.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Belleza Negra (2020)" group-title="VOD ESTRENOS",Belleza Negra (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40673.mkv
+#EXTINF:-1 tvg-id="" tvg-name="I Was Lorena Bobbitt (2020)" group-title="VOD ESTRENOS",I Was Lorena Bobbitt (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40676.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marea alta (2020)" group-title="VOD ESTRENOS",Marea alta (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40679.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Riding With Sugar (2020)" group-title="VOD ESTRENOS",Riding With Sugar (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40681.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Silencing (2020)" group-title="VOD ESTRENOS",The Silencing (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40683.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Tax Collector (2020)" group-title="VOD ESTRENOS",The Tax Collector (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40684.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Voces (2020)" group-title="VOD ESTRENOS",Voces (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40685.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bajo sospecha (2019)" group-title="VOD ESTRENOS",Bajo sospecha (2019)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40669.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ana (2020)" group-title="VOD ESTRENOS",Ana (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40670.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ava (2020)" group-title="VOD ESTRENOS",Ava (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40672.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Lamada Siniestra (2020)" group-title="VOD ESTRENOS",La Lamada Siniestra (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40674.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El dia que me perdi (2020)" group-title="VOD ESTRENOS",El dia que me perdi (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40675.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Bestia (2020)" group-title="VOD ESTRENOS",La Bestia (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40677.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Locas por el Cambio (2020)" group-title="VOD ESTRENOS",Locas por el Cambio (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40678.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Orsai (2019)" group-title="VOD ESTRENOS",Orsai (2019)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40680.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La rosa venenosa (2019)" group-title="VOD ESTRENOS",La rosa venenosa (2019)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40682.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Come Play (2020)" group-title="VOD ESTRENOS",Come Play (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40653.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Behind the Line Escape to Dunkirk (2020)" group-title="VOD ESTRENOS",Behind the Line Escape to Dunkirk (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40654.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Testamento de la Abuela (2020)" group-title="VOD ESTRENOS",El Testamento de la Abuela (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40655.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias lamentables (2020)" group-title="VOD ESTRENOS",Historias lamentables (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40656.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La galeria de los corazones rotos (2020)" group-title="VOD ESTRENOS",La galeria de los corazones rotos (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40658.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LEGO Star Wars Especial Felices Fiestas (2020)" group-title="VOD ESTRENOS",LEGO Star Wars Especial Felices Fiestas (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40659.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(Re)cambio De Princesa (2020)" group-title="VOD ESTRENOS",(Re)cambio De Princesa (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40661.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La verdadera historia de la banda de Kelly (2020)" group-title="VOD ESTRENOS",La verdadera historia de la banda de Kelly (2020)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40662.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amores modernos (2019)" group-title="VOD ESTRENOS",Amores modernos (2019)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40652.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Robo (2019)" group-title="VOD ESTRENOS",Robo (2019)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40657.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Personal History of David Copperfield (2019)" group-title="VOD ESTRENOS",The Personal History of David Copperfield (2019)
+#EXTGRP:VFLIX ESTRENOS
+http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40660.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Baba Yaga El regreso del demonio (2020)" group-title="VOD ESTRENOS",Baba Yaga El regreso del demonio (2020)
 #EXTGRP:VFLIX ESTRENOS
 http://tv-prime.tv:8080/movie/46_vIvanPosada_a/2h6Bb3xGB2/40155.mkv
