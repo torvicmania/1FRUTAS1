@@ -263,8 +263,6 @@ http://xdgo.live:8080/25_vJimmyPaz/WFcnubnHjR/1113
 http://xdgo.live:8080/25_vJimmyPaz/WFcnubnHjR/22256
 #EXTINF:-1 tvg-id="CO CITY TV HQ" tvg-name="CO CITY TV HD" tvg-logo="https://www.streetchurch.ca/wp-content/uploads/2010/02/Citytv_web1-800x445.png" group-title="COLOMBIA",CO CITY TV HD
 http://xdgo.live:8080/25_vJimmyPaz/WFcnubnHjR/1115
-#EXTINF:-1 tvg-id="CO COSMOVISION HD" tvg-name="CO COSMOVISION HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_cosmovision-hd_m.png" group-title="COLOMBIA",CO COSMOVISION HD
-http://xdgo.live:8080/25_vJimmyPaz/WFcnubnHjR/1116
 #EXTINF:-1 tvg-id="CO EL TIEMPO HD" tvg-name="CO EL TIEMPO HD" tvg-logo="https://pbs.twimg.com/profile_images/756594027223511045/y7NleJb3.jpg" group-title="COLOMBIA",CO EL TIEMPO HD
 http://xdgo.live:8080/25_vJimmyPaz/WFcnubnHjR/1117
 #EXTINF:-1 tvg-id="CO LA KALLE HD" tvg-name="CO LA KALLE HD" tvg-logo="https://static.radio.es/images/broadcasts/fd/0c/115270/1/c175.png" group-title="COLOMBIA",CO LA KALLE HD
@@ -973,9 +971,9 @@ http://xdgo.live:8080/25_vJimmyPaz/WFcnubnHjR/40047
 http://xdgo.live:8080/movie/25_vJimmyPaz/WFcnubnHjR/22733.mp4
 #EXTINF:-1 tvg-id="Alberto Barros - Tributo A La Salsa Colombiana 2" tvg-name="Alberto Barros - Tributo A La Salsa Colombiana 2"  group-title="VFLIX CONCIERTOS",Alberto Barros - Tributo A La Salsa Colombiana 2
 http://xdgo.live:8080/movie/25_vJimmyPaz/WFcnubnHjR/3638.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nunca,071  casi nunca
+#EXTINF:-1 tvg-id="" tvg-name="Nunca,087  casi nunca
 http://xdgo.live:8080/movie/25_vJimmyPaz/WFcnubnHjR/40164.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Padre,241  Soldado
+#EXTINF:-1 tvg-id="" tvg-name="Padre,257  Soldado
 http://xdgo.live:8080/movie/25_vJimmyPaz/WFcnubnHjR/30099.mkv
 #EXTINF:-1 tvg-id="BR WOOHOO HD" tvg-name="BR WOOHOO HD" group-title="BRASIL",BR WOOHOO HD
 http://xdgo.live:8080/25_vJimmyPaz/WFcnubnHjR/5579
@@ -20775,6 +20773,8 @@ http://xdgo.live:8080/series/25_vJimmyPaz/WFcnubnHjR/40779.mkv
 http://xdgo.live:8080/series/25_vJimmyPaz/WFcnubnHjR/40780.mkv
 #EXTINF:-1 tvg-id="The Mandalorian S02 E07" tvg-name="The Mandalorian S02 E07"  group-title="SERIES FICCION - FANTASIA",The Mandalorian S02 E07
 http://xdgo.live:8080/series/25_vJimmyPaz/WFcnubnHjR/40781.mkv
+#EXTINF:-1 tvg-id="The Mandalorian S02 E08" tvg-name="The Mandalorian S02 E08"  group-title="SERIES FICCION - FANTASIA",The Mandalorian S02 E08
+http://xdgo.live:8080/series/25_vJimmyPaz/WFcnubnHjR/40834.mkv
 #EXTINF:-1 tvg-id="V Wars S01 E01" tvg-name="V Wars S01 E01"  group-title="SERIES FICCION - FANTASIA",V Wars S01 E01
 http://xdgo.live:8080/series/25_vJimmyPaz/WFcnubnHjR/16469.mkv
 #EXTINF:-1 tvg-id="V Wars S01 E02" tvg-name="V Wars S01 E02"  group-title="SERIES FICCION - FANTASIA",V Wars S01 E02
@@ -24049,6 +24049,36 @@ http://xdgo.live:8080/series/25_vJimmyPaz/WFcnubnHjR/40735.mkv
 http://xdgo.live:8080/series/25_vJimmyPaz/WFcnubnHjR/40733.mkv
 #EXTINF:-1 tvg-id="The Walking Dead S10 E16" tvg-name="The Walking Dead S10 E16"  group-title="SERIES TERROR - THRILLER",The Walking Dead S10 E16
 http://xdgo.live:8080/series/25_vJimmyPaz/WFcnubnHjR/40734.mkv
+#EXTINF:-1 tvg-id="Wonder Woman 1984 (2020)" tvg-name="Wonder Woman 1984 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nvCsNbIaYo96GrM2IuQiiVOkq5O.jpg" group-title="VFLIX ESTRENOS",Wonder Woman 1984 (2020)
+http://xdgo.live:8080/movie/25_vJimmyPaz/WFcnubnHjR/40818.mkv
+#EXTINF:-1 tvg-id="AK vs AK (2020)" tvg-name="AK vs AK (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ULEEvH0hDYnbWN3nClrb88sYCF.jpg" group-title="VFLIX ESTRENOS",AK vs AK (2020)
+http://xdgo.live:8080/movie/25_vJimmyPaz/WFcnubnHjR/40819.mkv
+#EXTINF:-1 tvg-id="Chichipatos: ¡qué chimba de Navidad! (2020)" tvg-name="Chichipatos: ¡qué chimba de Navidad! (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cJMlBQCQpj3dhwhEPDNdI8BP2Z9.jpg" group-title="VFLIX ESTRENOS",Chichipatos: ¡qué chimba de Navidad! (2020)
+http://xdgo.live:8080/movie/25_vJimmyPaz/WFcnubnHjR/40820.mkv
+#EXTINF:-1 tvg-id="From the Depths (2020)" tvg-name="From the Depths (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dlY1XJL31F385tYxFHfugHq1BCO.jpg" group-title="VFLIX ESTRENOS",From the Depths (2020)
+http://xdgo.live:8080/movie/25_vJimmyPaz/WFcnubnHjR/40821.mkv
+#EXTINF:-1 tvg-id="Medio hermanos (2020)" tvg-name="Medio hermanos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qaHcvVfMdWkBJS0zjnZfAII0nEu.jpg" group-title="VFLIX ESTRENOS",Medio hermanos (2020)
+http://xdgo.live:8080/movie/25_vJimmyPaz/WFcnubnHjR/40822.mkv
+#EXTINF:-1 tvg-id="Solía ir allí (2020)" tvg-name="Solía ir allí (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7cN1YBcuBKrxdtxUDig29cXKfKR.jpg" group-title="VFLIX ESTRENOS",Solía ir allí (2020)
+http://xdgo.live:8080/movie/25_vJimmyPaz/WFcnubnHjR/40823.mkv
+#EXTINF:-1 tvg-id="La madre del blues (2020)" tvg-name="La madre del blues (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pvtyxijaBrCSbByXLcUIDDSvc40.jpg" group-title="VFLIX ESTRENOS",La madre del blues (2020)
+http://xdgo.live:8080/movie/25_vJimmyPaz/WFcnubnHjR/40824.mkv
+#EXTINF:-1 tvg-id="Mundo Miraculous: Nueva York Héroes Unidos (2020)" tvg-name="Mundo Miraculous: Nueva York Héroes Unidos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNxqXCEEBllgbVOCuHLPasNsovt.jpg" group-title="VFLIX ESTRENOS",Mundo Miraculous: Nueva York Héroes Unidos (2020)
+http://xdgo.live:8080/movie/25_vJimmyPaz/WFcnubnHjR/40825.mkv
+#EXTINF:-1 tvg-id="Soul (2020)" tvg-name="Soul (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jl8rZYy7JmbWlBlvDCfwvDmGO0g.jpg" group-title="VFLIX ESTRENOS",Soul (2020)
+http://xdgo.live:8080/movie/25_vJimmyPaz/WFcnubnHjR/40826.mkv
+#EXTINF:-1 tvg-id="Sylvie's Love (2020)" tvg-name="Sylvie's Love (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/48P3lTdsg19OfmrD5av0VJYcjLM.jpg" group-title="VFLIX ESTRENOS",Sylvie's Love (2020)
+http://xdgo.live:8080/movie/25_vJimmyPaz/WFcnubnHjR/40827.mkv
+#EXTINF:-1 tvg-id="The Doorman (2020)" tvg-name="The Doorman (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pklyUbh4k1DbHdnsOMASyw7C6NH.jpg" group-title="VFLIX ESTRENOS",The Doorman (2020)
+http://xdgo.live:8080/movie/25_vJimmyPaz/WFcnubnHjR/40828.mkv
+#EXTINF:-1 tvg-id="Cielo de medianoche (2020)" tvg-name="Cielo de medianoche (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rttZeIKCI4VCIVsJGdVkYxSor8G.jpg" group-title="VFLIX ESTRENOS",Cielo de medianoche (2020)
+http://xdgo.live:8080/movie/25_vJimmyPaz/WFcnubnHjR/40829.mkv
+#EXTINF:-1 tvg-id="The Reason (2020)" tvg-name="The Reason (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mn78STmcTtCafuUztN446I4rh5G.jpg" group-title="VFLIX ESTRENOS",The Reason (2020)
+http://xdgo.live:8080/movie/25_vJimmyPaz/WFcnubnHjR/40830.mkv
+#EXTINF:-1 tvg-id="The Secrets We Keep (2020)" tvg-name="The Secrets We Keep (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sobZ7jdhcrF9wu4RNHxMpRBIpyj.jpg" group-title="VFLIX ESTRENOS",The Secrets We Keep (2020)
+http://xdgo.live:8080/movie/25_vJimmyPaz/WFcnubnHjR/40831.mkv
+#EXTINF:-1 tvg-id="El árbol de los deseos (2020)" tvg-name="El árbol de los deseos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/90eStEGcL7tb65UU6ptMaG2PtIp.jpg" group-title="VFLIX ESTRENOS",El árbol de los deseos (2020)
+http://xdgo.live:8080/movie/25_vJimmyPaz/WFcnubnHjR/40832.mkv
 #EXTINF:-1 tvg-id="Los Croods: Una nueva era (2020)" tvg-name="Los Croods: Una nueva era (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2fmufY8h0SirNKt37yprZdf7xi.jpg" group-title="VFLIX ESTRENOS",Los Croods: Una nueva era (2020)
 http://xdgo.live:8080/movie/25_vJimmyPaz/WFcnubnHjR/40776.mkv
 #EXTINF:-1 tvg-id="Curious George: Go West Go Wild (2020)" tvg-name="Curious George: Go West Go Wild (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WWOiP8F6PHjXpJrnRZfvO2XNW.jpg" group-title="VFLIX ESTRENOS",Curious George: Go West Go Wild (2020)
@@ -29017,6 +29047,8 @@ http://xdgo.live:8080/series/25_vJimmyPaz/WFcnubnHjR/13239.mp4
 http://xdgo.live:8080/series/25_vJimmyPaz/WFcnubnHjR/11388.mkv
 #EXTINF:-1 tvg-id="xXx Reactivated (2017)" tvg-name="xXx Reactivated (2017)"  group-title="VFLIX CIENCIA FICCION",xXx Reactivated (2017)
 http://xdgo.live:8080/movie/25_vJimmyPaz/WFcnubnHjR/22646.mp4
+#EXTINF:-1 tvg-id="Estación zombie 2 (2020)" tvg-name="Estación zombie 2 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmzfmGxXxSF716SYBW6seMgxMWE.jpg" group-title="VFLIX ESTRENOS",Estación zombie 2 (2020)
+http://xdgo.live:8080/movie/25_vJimmyPaz/WFcnubnHjR/40833.mkv
 #EXTINF:-1 tvg-id="El Hombre Sin Gravedad" tvg-name="El Hombre Sin Gravedad" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukDD174mBv4IxXXho8R8CS3ocLK.jpg" group-title="VFLIX ESTRENOS",El Hombre Sin Gravedad
 http://xdgo.live:8080/movie/25_vJimmyPaz/WFcnubnHjR/6084.mkv
 #EXTINF:-1 tvg-id="Mole de olla receta original" tvg-name="Mole de olla receta original" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqqqkNlibXxXIhbDbEG97H3kZC5.jpg" group-title="VFLIX ESTRENOS",Mole de olla receta original
