@@ -85,8 +85,6 @@ http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/23878
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/23895
 #EXTINF:-1 tvg-id="24 Horas Casado con Hijos" tvg-name="EL PAJARO LOCO" group-title="24/7",EL PAJARO LOCO
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/23824
-#EXTINF:-1 tvg-id="24 Horas Casado con Hijos" tvg-name="EL PAJARO LOCO op2" group-title="24/7",EL PAJARO LOCO op2
-http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/23868
 #EXTINF:-1 tvg-id="24 Horas Casado con Hijos" tvg-name="EL PRINCIPE DEL RAP" group-title="24/7",EL PRINCIPE DEL RAP
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/23825
 #EXTINF:-1 tvg-id="UNIVERSO MOVIES TARANTINO" tvg-name="EL SENOR DE LOS CIELOS" group-title="24/7",EL SENOR DE LOS CIELOS
@@ -265,8 +263,6 @@ http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/1113
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/22256
 #EXTINF:-1 tvg-id="CO CITY TV HQ" tvg-name="CO CITY TV HD" tvg-logo="https://www.streetchurch.ca/wp-content/uploads/2010/02/Citytv_web1-800x445.png" group-title="COLOMBIA",CO CITY TV HD
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/1115
-#EXTINF:-1 tvg-id="CO COSMOVISION HD" tvg-name="CO COSMOVISION HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_cosmovision-hd_m.png" group-title="COLOMBIA",CO COSMOVISION HD
-http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/1116
 #EXTINF:-1 tvg-id="CO EL TIEMPO HD" tvg-name="CO EL TIEMPO HD" tvg-logo="https://pbs.twimg.com/profile_images/756594027223511045/y7NleJb3.jpg" group-title="COLOMBIA",CO EL TIEMPO HD
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/1117
 #EXTINF:-1 tvg-id="CO LA KALLE HD" tvg-name="CO LA KALLE HD" tvg-logo="https://static.radio.es/images/broadcasts/fd/0c/115270/1/c175.png" group-title="COLOMBIA",CO LA KALLE HD
@@ -347,6 +343,10 @@ http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/1845
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/1846
 #EXTINF:-1 tvg-id="CDF FHD op2" tvg-name="CDF FHD op2" tvg-logo="https://pbs.twimg.com/profile_images/1096243773015764992/dNjJIWwZ_400x400.png" group-title="DEPORTES",CDF FHD op2
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/1847
+#EXTINF:-1 tvg-id="CDF ESTADIO HD" tvg-name="CDF ESTADIO HQ" tvg-logo="https://pbs.twimg.com/profile_images/1098661256016416770/kA0CxeyK_400x400.png" group-title="DEPORTES",CDF ESTADIO HQ
+http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/40737
+#EXTINF:-1 tvg-id="CDF ESTADIO HD" tvg-name="CDF ESTADIO HD" tvg-logo="https://pbs.twimg.com/profile_images/1098661256016416770/kA0CxeyK_400x400.png" group-title="DEPORTES",CDF ESTADIO HD
+http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/40736
 #EXTINF:-1 tvg-id="CDO BASICO HD" tvg-name="CDO BASICO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/2013-09-04_JJDDNN_en_directo_a_traves_de_CDO.jpg/245px-2013-09-04_JJDDNN_en_directo_a_traves_de_CDO.jpg" group-title="DEPORTES",CDO BASICO HD
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/1839
 #EXTINF:-1 tvg-id="CDO PREMIUM HD" tvg-name="CDO PREMIUM HD" tvg-logo="https://lisa.zapping.live/uploads/canales/color/cdo.jpg" group-title="DEPORTES",CDO PREMIUM HD
@@ -355,7 +355,7 @@ http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/1840
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/2330
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 1 HD" tvg-name="DIRECTV SPORTS 1 CL HQ" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 CL HQ
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/25834
-#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 FHD" tvg-name="DIRECTV SPORTS 1 CL FHD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 CL FHD
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 FHD" tvg-name="DIRECTV SPORTS 1 CL HD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 CL HD
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/25833
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 1 HQ" tvg-name="DIRECTV SPORTS 1 HQ" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 HQ
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/1784
@@ -549,16 +549,14 @@ http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/1769
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/1773
 #EXTINF:-1 tvg-id="FOX $PORTS 3 MX FHD" tvg-name="FOX $PORTS 3 MX FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 3 MX FHD
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/1767
+#EXTINF:-1 tvg-id="FOX $PORTS PREMIUM HQ" tvg-name="FOX $PORTS PREMIUM HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS PREMIUM HQ
+http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/40910
 #EXTINF:-1 tvg-id="FOX $PORTS PREMIUM HD" tvg-name="FOX $PORTS PREMIUM HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS PREMIUM HD
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/1780
 #EXTINF:-1 tvg-id="FOX $PORTS PREMIUM FHD" tvg-name="FOX $PORTS PREMIUM FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS PREMIUM FHD
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/2359
-#EXTINF:-1 tvg-id="TD PLUS  HD" tvg-name="TD PLUS  HQ" tvg-logo="https://pbs.twimg.com/profile_images/1189755464386519041/2wI2B-TY_400x400.jpg" group-title="DEPORTES",TD PLUS  HQ
-http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/29793
 #EXTINF:-1 tvg-id="TD PLUS  HD" tvg-name="TD PLUS  FHD" tvg-logo="https://pbs.twimg.com/profile_images/1189755464386519041/2wI2B-TY_400x400.jpg" group-title="DEPORTES",TD PLUS  FHD
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/29818
-#EXTINF:-1 tvg-id="TD PLUS  2 HD" tvg-name="TD PLUS  2 HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M C3 A1s_2_Logo.svg/1280px-TD_M C3 A1s_2_Logo.svg.png" group-title="DEPORTES",TD PLUS  2 HQ
-http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/29816
 #EXTINF:-1 tvg-id="TD PLUS  2 HD" tvg-name="TD PLUS  2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M C3 A1s_2_Logo.svg/1280px-TD_M C3 A1s_2_Logo.svg.png" group-title="DEPORTES",TD PLUS  2 FHD
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/29817
 #EXTINF:-1 tvg-id="GOL TV INGLES HD" tvg-name="GOL TV INGLES HD" tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf_400x400.jpg" group-title="DEPORTES",GOL TV INGLES HD
@@ -975,9 +973,9 @@ http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/40047
 http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/22733.mp4
 #EXTINF:-1 tvg-id="Alberto Barros - Tributo A La Salsa Colombiana 2" tvg-name="Alberto Barros - Tributo A La Salsa Colombiana 2"  group-title="VFLIX CONCIERTOS",Alberto Barros - Tributo A La Salsa Colombiana 2
 http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/3638.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nunca,046  casi nunca
+#EXTINF:-1 tvg-id="" tvg-name="Nunca,087  casi nunca
 http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/40164.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Padre,216  Soldado
+#EXTINF:-1 tvg-id="" tvg-name="Padre,257  Soldado
 http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/30099.mkv
 #EXTINF:-1 tvg-id="BR WOOHOO HD" tvg-name="BR WOOHOO HD" group-title="BRASIL",BR WOOHOO HD
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/5579
@@ -1301,8 +1299,6 @@ http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/5621
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/5790
 #EXTINF:-1 tvg-id="CA RDS 2 (FR)" tvg-name="CA RDS 2 (FR)" group-title="CANADA",CA RDS 2 (FR)
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/5732
-#EXTINF:-1 tvg-id="CA Rogers TV FR" tvg-name="CA Rogers TV FR" group-title="CANADA",CA Rogers TV FR
-http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/5696
 #EXTINF:-1 tvg-id="CA Showcase" tvg-name="CA Showcase" group-title="CANADA",CA Showcase
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/5605
 #EXTINF:-1 tvg-id="CA SPORTSNET_360" tvg-name="CA SPORTSNET_360" group-title="CANADA",CA SPORTSNET_360
@@ -2357,199 +2353,221 @@ http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/251
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/230
 #EXTINF:-1 tvg-id="MU VH1 PLUS HQ" tvg-name="MU VH1 PLUS HQ" group-title="MUSICA",MU VH1 PLUS HQ
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/237
-#EXTINF:-1 tvg-id="MLB Los Angeles Angels" tvg-name="MLB Arizona Diamondbacks" tvg-logo="" group-title="NBA MLB NFL",MLB Arizona Diamondbacks
+#EXTINF:-1 tvg-id="LMB Algodoneros de Guasave" tvg-name="LMB Algodoneros de Guasave" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0025/1170/brand.gif?itok=ZDt0MEa_" group-title="NBA MLB NFL LMB",LMB Algodoneros de Guasave
+http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/40724
+#EXTINF:-1 tvg-id="LMB Caneros de Los Mochis" tvg-name="LMB Caneros de Los Mochis" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0025/1170/brand.gif?itok=ZDt0MEa_" group-title="NBA MLB NFL LMB",LMB Caneros de Los Mochis
+http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/40727
+#EXTINF:-1 tvg-id="LMB Charros de Jalisco" tvg-name="LMB Charros de Jalisco" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0025/1170/brand.gif?itok=ZDt0MEa_" group-title="NBA MLB NFL LMB",LMB Charros de Jalisco
+http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/40722
+#EXTINF:-1 tvg-id="LMB Mayos de Navojoa" tvg-name="LMB Mayos de Navojoa" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0025/1170/brand.gif?itok=ZDt0MEa_" group-title="NBA MLB NFL LMB",LMB Mayos de Navojoa
+http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/40730
+#EXTINF:-1 tvg-id="LMB Naranjeros de Hermosillo" tvg-name="LMB Naranjeros de Hermosillo" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0025/1170/brand.gif?itok=ZDt0MEa_" group-title="NBA MLB NFL LMB",LMB Naranjeros de Hermosillo
+http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/40729
+#EXTINF:-1 tvg-id="LMB Sultanes de Monterrey" tvg-name="LMB Sultanes de Monterrey" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0025/1170/brand.gif?itok=ZDt0MEa_" group-title="NBA MLB NFL LMB",LMB Sultanes de Monterrey
+http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/40723
+#EXTINF:-1 tvg-id="LMB Tomateros de Culiacan" tvg-name="LMB Tomateros de Culiacan" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0025/1170/brand.gif?itok=ZDt0MEa_" group-title="NBA MLB NFL LMB",LMB Tomateros de Culiacan
+http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/40725
+#EXTINF:-1 tvg-id="LMB Venados de Mazatlan" tvg-name="LMB Venados de Mazatlan" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0025/1170/brand.gif?itok=ZDt0MEa_" group-title="NBA MLB NFL LMB",LMB Venados de Mazatlan
+http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/40726
+#EXTINF:-1 tvg-id="LMB Yaquis de Obregon" tvg-name="LMB Yaquis de Obregon" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0025/1170/brand.gif?itok=ZDt0MEa_" group-title="NBA MLB NFL LMB",LMB Yaquis de Obregon
+http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/40728
+#EXTINF:-1 tvg-id="LMB Aguilas de Mexicali" tvg-name="LMB Aguilas de Mexicali" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0025/1170/brand.gif?itok=ZDt0MEa_" group-title="NBA MLB NFL LMB",LMB Aguilas de Mexicali
+http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/40731
+#EXTINF:-1 tvg-id="MLB Los Angeles Angels" tvg-name="MLB Arizona Diamondbacks" tvg-logo="https://play-lh.googleusercontent.com/fXx7D56dGOUu79OWDXfDzvnUBRFqguxqS0TEWcEtFbBbjXuKD9QeuMdjo4UThlqFo3g" group-title="NBA MLB NFL LMB",MLB Arizona Diamondbacks
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/305
-#EXTINF:-1 tvg-id="MLB Los Angeles Angels" tvg-name="MLB Atlanta Braves" tvg-logo="" group-title="NBA MLB NFL",MLB Atlanta Braves
+#EXTINF:-1 tvg-id="MLB Los Angeles Angels" tvg-name="MLB Atlanta Braves" tvg-logo="https://play-lh.googleusercontent.com/fXx7D56dGOUu79OWDXfDzvnUBRFqguxqS0TEWcEtFbBbjXuKD9QeuMdjo4UThlqFo3g" group-title="NBA MLB NFL LMB",MLB Atlanta Braves
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/307
-#EXTINF:-1 tvg-id="MLB Baltimore Orioles" tvg-name="MLB Baltimore Orioles" tvg-logo="" group-title="NBA MLB NFL",MLB Baltimore Orioles
+#EXTINF:-1 tvg-id="MLB Atlanta Braves" tvg-name="MLB Baltimore Orioles" tvg-logo="https://play-lh.googleusercontent.com/fXx7D56dGOUu79OWDXfDzvnUBRFqguxqS0TEWcEtFbBbjXuKD9QeuMdjo4UThlqFo3g" group-title="NBA MLB NFL LMB",MLB Baltimore Orioles
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/30162
-#EXTINF:-1 tvg-id="MLB Los Angeles Angels" tvg-name="MLB Boston Red Sox" tvg-logo="" group-title="NBA MLB NFL",MLB Boston Red Sox
+#EXTINF:-1 tvg-id="MLB Los Angeles Angels" tvg-name="MLB Boston Red Sox" tvg-logo="https://play-lh.googleusercontent.com/fXx7D56dGOUu79OWDXfDzvnUBRFqguxqS0TEWcEtFbBbjXuKD9QeuMdjo4UThlqFo3g" group-title="NBA MLB NFL LMB",MLB Boston Red Sox
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/309
-#EXTINF:-1 tvg-id="MLB Los Angeles Angels" tvg-name="MLB Chicago Cubs" tvg-logo="" group-title="NBA MLB NFL",MLB Chicago Cubs
+#EXTINF:-1 tvg-id="MLB Los Angeles Angels" tvg-name="MLB Chicago Cubs" tvg-logo="https://play-lh.googleusercontent.com/fXx7D56dGOUu79OWDXfDzvnUBRFqguxqS0TEWcEtFbBbjXuKD9QeuMdjo4UThlqFo3g" group-title="NBA MLB NFL LMB",MLB Chicago Cubs
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/310
-#EXTINF:-1 tvg-id="MLB Los Angeles Angels" tvg-name="MLB Chicago White Sox" tvg-logo="" group-title="NBA MLB NFL",MLB Chicago White Sox
+#EXTINF:-1 tvg-id="MLB Los Angeles Angels" tvg-name="MLB Chicago White Sox" tvg-logo="https://play-lh.googleusercontent.com/fXx7D56dGOUu79OWDXfDzvnUBRFqguxqS0TEWcEtFbBbjXuKD9QeuMdjo4UThlqFo3g" group-title="NBA MLB NFL LMB",MLB Chicago White Sox
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/312
-#EXTINF:-1 tvg-id="MLB Los Angeles Angels" tvg-name="MLB Cincinnati Reds" tvg-logo="" group-title="NBA MLB NFL",MLB Cincinnati Reds
+#EXTINF:-1 tvg-id="MLB Los Angeles Angels" tvg-name="MLB Cincinnati Reds" tvg-logo="https://play-lh.googleusercontent.com/fXx7D56dGOUu79OWDXfDzvnUBRFqguxqS0TEWcEtFbBbjXuKD9QeuMdjo4UThlqFo3g" group-title="NBA MLB NFL LMB",MLB Cincinnati Reds
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/314
-#EXTINF:-1 tvg-id="MLB Los Angeles Angels" tvg-name="MLB Cleveland Indians" tvg-logo="" group-title="NBA MLB NFL",MLB Cleveland Indians
+#EXTINF:-1 tvg-id="MLB Los Angeles Angels" tvg-name="MLB Cleveland Indians" tvg-logo="https://play-lh.googleusercontent.com/fXx7D56dGOUu79OWDXfDzvnUBRFqguxqS0TEWcEtFbBbjXuKD9QeuMdjo4UThlqFo3g" group-title="NBA MLB NFL LMB",MLB Cleveland Indians
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/316
-#EXTINF:-1 tvg-id="MLB Colorado Rockies" tvg-name="MLB Colorado Rockies" tvg-logo="" group-title="NBA MLB NFL",MLB Colorado Rockies
+#EXTINF:-1 tvg-id="MLB Boston Red Sox" tvg-name="MLB Colorado Rockies" tvg-logo="https://play-lh.googleusercontent.com/fXx7D56dGOUu79OWDXfDzvnUBRFqguxqS0TEWcEtFbBbjXuKD9QeuMdjo4UThlqFo3g" group-title="NBA MLB NFL LMB",MLB Colorado Rockies
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/30093
-#EXTINF:-1 tvg-id="MLB Los Angeles Angels" tvg-name="MLB Detroit Tigers" tvg-logo="" group-title="NBA MLB NFL",MLB Detroit Tigers
+#EXTINF:-1 tvg-id="MLB Los Angeles Angels" tvg-name="MLB Detroit Tigers" tvg-logo="https://play-lh.googleusercontent.com/fXx7D56dGOUu79OWDXfDzvnUBRFqguxqS0TEWcEtFbBbjXuKD9QeuMdjo4UThlqFo3g" group-title="NBA MLB NFL LMB",MLB Detroit Tigers
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/318
-#EXTINF:-1 tvg-id="MLB Houston Astros" tvg-name="MLB Houston Astros" tvg-logo="" group-title="NBA MLB NFL",MLB Houston Astros
+#EXTINF:-1 tvg-id="MLB Chicago White Sox" tvg-name="MLB Houston Astros" tvg-logo="https://play-lh.googleusercontent.com/fXx7D56dGOUu79OWDXfDzvnUBRFqguxqS0TEWcEtFbBbjXuKD9QeuMdjo4UThlqFo3g" group-title="NBA MLB NFL LMB",MLB Houston Astros
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/30091
-#EXTINF:-1 tvg-id="MLB Los Angeles Angels" tvg-name="MLB Kansas City Royals" tvg-logo="" group-title="NBA MLB NFL",MLB Kansas City Royals
+#EXTINF:-1 tvg-id="MLB Los Angeles Angels" tvg-name="MLB Kansas City Royals" tvg-logo="https://play-lh.googleusercontent.com/fXx7D56dGOUu79OWDXfDzvnUBRFqguxqS0TEWcEtFbBbjXuKD9QeuMdjo4UThlqFo3g" group-title="NBA MLB NFL LMB",MLB Kansas City Royals
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/320
-#EXTINF:-1 tvg-id="MLB Los Angeles Angels" tvg-name="MLB Los Angeles Angels" tvg-logo="" group-title="NBA MLB NFL",MLB Los Angeles Angels
+#EXTINF:-1 tvg-id="MLB Los Angeles Angels" tvg-name="MLB Los Angeles Angels" tvg-logo="https://play-lh.googleusercontent.com/fXx7D56dGOUu79OWDXfDzvnUBRFqguxqS0TEWcEtFbBbjXuKD9QeuMdjo4UThlqFo3g" group-title="NBA MLB NFL LMB",MLB Los Angeles Angels
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/321
-#EXTINF:-1 tvg-id="MLB Los Angeles Angels" tvg-name="MLB Los Angeles Dodgers" tvg-logo="" group-title="NBA MLB NFL",MLB Los Angeles Dodgers
+#EXTINF:-1 tvg-id="MLB Los Angeles Angels" tvg-name="MLB Los Angeles Dodgers" tvg-logo="https://play-lh.googleusercontent.com/fXx7D56dGOUu79OWDXfDzvnUBRFqguxqS0TEWcEtFbBbjXuKD9QeuMdjo4UThlqFo3g" group-title="NBA MLB NFL LMB",MLB Los Angeles Dodgers
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/303
-#EXTINF:-1 tvg-id="MLB Los Angeles Angels" tvg-name="MLB Miami Marlins" tvg-logo="" group-title="NBA MLB NFL",MLB Miami Marlins
+#EXTINF:-1 tvg-id="MLB Los Angeles Angels" tvg-name="MLB Miami Marlins" tvg-logo="https://play-lh.googleusercontent.com/fXx7D56dGOUu79OWDXfDzvnUBRFqguxqS0TEWcEtFbBbjXuKD9QeuMdjo4UThlqFo3g" group-title="NBA MLB NFL LMB",MLB Miami Marlins
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/323
-#EXTINF:-1 tvg-id="MLB Los Angeles Angels" tvg-name="MLB Milwaukee Brewers" tvg-logo="" group-title="NBA MLB NFL",MLB Milwaukee Brewers
+#EXTINF:-1 tvg-id="MLB Los Angeles Angels" tvg-name="MLB Milwaukee Brewers" tvg-logo="https://play-lh.googleusercontent.com/fXx7D56dGOUu79OWDXfDzvnUBRFqguxqS0TEWcEtFbBbjXuKD9QeuMdjo4UThlqFo3g" group-title="NBA MLB NFL LMB",MLB Milwaukee Brewers
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/325
-#EXTINF:-1 tvg-id="MLB Los Angeles Angels" tvg-name="MLB Minnesota Twins" tvg-logo="" group-title="NBA MLB NFL",MLB Minnesota Twins
+#EXTINF:-1 tvg-id="MLB Los Angeles Angels" tvg-name="MLB Minnesota Twins" tvg-logo="https://play-lh.googleusercontent.com/fXx7D56dGOUu79OWDXfDzvnUBRFqguxqS0TEWcEtFbBbjXuKD9QeuMdjo4UThlqFo3g" group-title="NBA MLB NFL LMB",MLB Minnesota Twins
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/327
-#EXTINF:-1 tvg-id="MLB New York Mets" tvg-name="MLB New York Mets" tvg-logo="" group-title="NBA MLB NFL",MLB New York Mets
+#EXTINF:-1 tvg-id="MLB Boston Red Sox" tvg-name="MLB New York Mets" tvg-logo="https://play-lh.googleusercontent.com/fXx7D56dGOUu79OWDXfDzvnUBRFqguxqS0TEWcEtFbBbjXuKD9QeuMdjo4UThlqFo3g" group-title="NBA MLB NFL LMB",MLB New York Mets
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/30089
-#EXTINF:-1 tvg-id="MLB Los Angeles Angels" tvg-name="MLB New York Yankees" tvg-logo="" group-title="NBA MLB NFL",MLB New York Yankees
+#EXTINF:-1 tvg-id="MLB Los Angeles Angels" tvg-name="MLB New York Yankees" tvg-logo="https://play-lh.googleusercontent.com/fXx7D56dGOUu79OWDXfDzvnUBRFqguxqS0TEWcEtFbBbjXuKD9QeuMdjo4UThlqFo3g" group-title="NBA MLB NFL LMB",MLB New York Yankees
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/329
-#EXTINF:-1 tvg-id="MLB Los Angeles Angels" tvg-name="MLB Oakland Athletics" tvg-logo="" group-title="NBA MLB NFL",MLB Oakland Athletics
+#EXTINF:-1 tvg-id="MLB Los Angeles Angels" tvg-name="MLB Oakland Athletics" tvg-logo="https://play-lh.googleusercontent.com/fXx7D56dGOUu79OWDXfDzvnUBRFqguxqS0TEWcEtFbBbjXuKD9QeuMdjo4UThlqFo3g" group-title="NBA MLB NFL LMB",MLB Oakland Athletics
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/330
-#EXTINF:-1 tvg-id="MLB Los Angeles Angels" tvg-name="MLB Philadelphia Phillies" tvg-logo="" group-title="NBA MLB NFL",MLB Philadelphia Phillies
+#EXTINF:-1 tvg-id="MLB Los Angeles Angels" tvg-name="MLB Philadelphia Phillies" tvg-logo="https://play-lh.googleusercontent.com/fXx7D56dGOUu79OWDXfDzvnUBRFqguxqS0TEWcEtFbBbjXuKD9QeuMdjo4UThlqFo3g" group-title="NBA MLB NFL LMB",MLB Philadelphia Phillies
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/331
-#EXTINF:-1 tvg-id="MLB Pittsburgh Pirates" tvg-name="MLB Pittsburgh Pirates" tvg-logo="" group-title="NBA MLB NFL",MLB Pittsburgh Pirates
+#EXTINF:-1 tvg-id="MLB Arizona Diamondbacks" tvg-name="MLB Pittsburgh Pirates" tvg-logo="https://play-lh.googleusercontent.com/fXx7D56dGOUu79OWDXfDzvnUBRFqguxqS0TEWcEtFbBbjXuKD9QeuMdjo4UThlqFo3g" group-title="NBA MLB NFL LMB",MLB Pittsburgh Pirates
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/30094
-#EXTINF:-1 tvg-id="MLB Los Angeles Angels" tvg-name="MLB San Diego Padres" tvg-logo="" group-title="NBA MLB NFL",MLB San Diego Padres
+#EXTINF:-1 tvg-id="MLB Los Angeles Angels" tvg-name="MLB San Diego Padres" tvg-logo="https://play-lh.googleusercontent.com/fXx7D56dGOUu79OWDXfDzvnUBRFqguxqS0TEWcEtFbBbjXuKD9QeuMdjo4UThlqFo3g" group-title="NBA MLB NFL LMB",MLB San Diego Padres
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/332
-#EXTINF:-1 tvg-id="MLB Los Angeles Angels" tvg-name="MLB San Francisco Giants" tvg-logo="" group-title="NBA MLB NFL",MLB San Francisco Giants
+#EXTINF:-1 tvg-id="MLB Los Angeles Angels" tvg-name="MLB San Francisco Giants" tvg-logo="https://play-lh.googleusercontent.com/fXx7D56dGOUu79OWDXfDzvnUBRFqguxqS0TEWcEtFbBbjXuKD9QeuMdjo4UThlqFo3g" group-title="NBA MLB NFL LMB",MLB San Francisco Giants
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/333
-#EXTINF:-1 tvg-id="MLB Seattle Mariners" tvg-name="MLB Seattle Mariners" tvg-logo="" group-title="NBA MLB NFL",MLB Seattle Mariners
+#EXTINF:-1 tvg-id="MLB Arizona Diamondbacks" tvg-name="MLB Seattle Mariners" tvg-logo="https://play-lh.googleusercontent.com/fXx7D56dGOUu79OWDXfDzvnUBRFqguxqS0TEWcEtFbBbjXuKD9QeuMdjo4UThlqFo3g" group-title="NBA MLB NFL LMB",MLB Seattle Mariners
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/30163
-#EXTINF:-1 tvg-id="MLB St. Louis Cardinals" tvg-name="MLB St. Louis Cardinals" tvg-logo="" group-title="NBA MLB NFL",MLB St. Louis Cardinals
+#EXTINF:-1 tvg-id="MLB Boston Red Sox" tvg-name="MLB St. Louis Cardinals" tvg-logo="https://play-lh.googleusercontent.com/fXx7D56dGOUu79OWDXfDzvnUBRFqguxqS0TEWcEtFbBbjXuKD9QeuMdjo4UThlqFo3g" group-title="NBA MLB NFL LMB",MLB St. Louis Cardinals
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/30090
-#EXTINF:-1 tvg-id="MLB Los Angeles Angels" tvg-name="MLB Tampa Bay Rays" tvg-logo="" group-title="NBA MLB NFL",MLB Tampa Bay Rays
+#EXTINF:-1 tvg-id="MLB Los Angeles Angels" tvg-name="MLB Tampa Bay Rays" tvg-logo="https://play-lh.googleusercontent.com/fXx7D56dGOUu79OWDXfDzvnUBRFqguxqS0TEWcEtFbBbjXuKD9QeuMdjo4UThlqFo3g" group-title="NBA MLB NFL LMB",MLB Tampa Bay Rays
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/334
-#EXTINF:-1 tvg-id="MLB Los Angeles Angels" tvg-name="MLB Texas Rangers" tvg-logo="" group-title="NBA MLB NFL",MLB Texas Rangers
+#EXTINF:-1 tvg-id="MLB Los Angeles Angels" tvg-name="MLB Texas Rangers" tvg-logo="https://play-lh.googleusercontent.com/fXx7D56dGOUu79OWDXfDzvnUBRFqguxqS0TEWcEtFbBbjXuKD9QeuMdjo4UThlqFo3g" group-title="NBA MLB NFL LMB",MLB Texas Rangers
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/335
-#EXTINF:-1 tvg-id="MLB Toronto Blue Jays" tvg-name="MLB Toronto Blue Jays" tvg-logo="" group-title="NBA MLB NFL",MLB Toronto Blue Jays
+#EXTINF:-1 tvg-id="MLB Boston Red Sox" tvg-name="MLB Toronto Blue Jays" tvg-logo="https://play-lh.googleusercontent.com/fXx7D56dGOUu79OWDXfDzvnUBRFqguxqS0TEWcEtFbBbjXuKD9QeuMdjo4UThlqFo3g" group-title="NBA MLB NFL LMB",MLB Toronto Blue Jays
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/30092
-#EXTINF:-1 tvg-id="MLB Washington Nationals" tvg-name="MLB Washington Nationals" tvg-logo="" group-title="NBA MLB NFL",MLB Washington Nationals
+#EXTINF:-1 tvg-id="MLB Boston Red Sox" tvg-name="MLB Washington Nationals" tvg-logo="https://play-lh.googleusercontent.com/fXx7D56dGOUu79OWDXfDzvnUBRFqguxqS0TEWcEtFbBbjXuKD9QeuMdjo4UThlqFo3g" group-title="NBA MLB NFL LMB",MLB Washington Nationals
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/30161
-#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="NBA League Pass - ESPN" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="NBA MLB NFL",NBA League Pass - ESPN
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="NBA League Pass - ESPN" tvg-logo="https://play-lh.googleusercontent.com/I6Jz9nEZq-8jBPn2bmjywWLXLZ7GMn2WR64x9w1xQm8H5Isd1rhaQ4NDsp3jVUhLPFI" group-title="NBA MLB NFL LMB",NBA League Pass - ESPN
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/336
-#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="NBA League Pass - ESPN U" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="NBA MLB NFL",NBA League Pass - ESPN U
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="NBA League Pass - ESPN U" tvg-logo="https://play-lh.googleusercontent.com/I6Jz9nEZq-8jBPn2bmjywWLXLZ7GMn2WR64x9w1xQm8H5Isd1rhaQ4NDsp3jVUhLPFI" group-title="NBA MLB NFL LMB",NBA League Pass - ESPN U
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/337
-#EXTINF:-1 tvg-id="NBA League Pass - TNT" tvg-name="NBA League Pass - TNT" tvg-logo="" group-title="NBA MLB NFL",NBA League Pass - TNT
+#EXTINF:-1 tvg-id="NBA League Pass - TNT" tvg-name="NBA League Pass - TNT" tvg-logo="https://play-lh.googleusercontent.com/I6Jz9nEZq-8jBPn2bmjywWLXLZ7GMn2WR64x9w1xQm8H5Isd1rhaQ4NDsp3jVUhLPFI" group-title="NBA MLB NFL LMB",NBA League Pass - TNT
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/338
-#EXTINF:-1 tvg-id="NBA TV HD" tvg-name="NBA TV" tvg-logo="" group-title="NBA MLB NFL",NBA TV
+#EXTINF:-1 tvg-id="NBA TV HD" tvg-name="NBA TV" tvg-logo="https://play-lh.googleusercontent.com/I6Jz9nEZq-8jBPn2bmjywWLXLZ7GMn2WR64x9w1xQm8H5Isd1rhaQ4NDsp3jVUhLPFI" group-title="NBA MLB NFL LMB",NBA TV
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/339
-#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Boston Celtics" tvg-logo="" group-title="NBA MLB NFL",NBA Boston Celtics
+#EXTINF:-1 tvg-id="NBA - Dallas Mavericks" tvg-name="NBA Atlanta Hawks" tvg-logo="https://play-lh.googleusercontent.com/I6Jz9nEZq-8jBPn2bmjywWLXLZ7GMn2WR64x9w1xQm8H5Isd1rhaQ4NDsp3jVUhLPFI" group-title="NBA MLB NFL LMB",NBA Atlanta Hawks
+http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/40753
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Boston Celtics" tvg-logo="https://play-lh.googleusercontent.com/I6Jz9nEZq-8jBPn2bmjywWLXLZ7GMn2WR64x9w1xQm8H5Isd1rhaQ4NDsp3jVUhLPFI" group-title="NBA MLB NFL LMB",NBA Boston Celtics
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/22226
-#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Brooklyn Nets" tvg-logo="" group-title="NBA MLB NFL",NBA Brooklyn Nets
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Brooklyn Nets" tvg-logo="https://play-lh.googleusercontent.com/I6Jz9nEZq-8jBPn2bmjywWLXLZ7GMn2WR64x9w1xQm8H5Isd1rhaQ4NDsp3jVUhLPFI" group-title="NBA MLB NFL LMB",NBA Brooklyn Nets
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/5168
-#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Charlotte Hornets" tvg-logo="" group-title="NBA MLB NFL",NBA Charlotte Hornets
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Charlotte Hornets" tvg-logo="https://play-lh.googleusercontent.com/I6Jz9nEZq-8jBPn2bmjywWLXLZ7GMn2WR64x9w1xQm8H5Isd1rhaQ4NDsp3jVUhLPFI" group-title="NBA MLB NFL LMB",NBA Charlotte Hornets
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/5169
-#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Chicago Bulls" tvg-logo="" group-title="NBA MLB NFL",NBA Chicago Bulls
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Chicago Bulls" tvg-logo="https://play-lh.googleusercontent.com/I6Jz9nEZq-8jBPn2bmjywWLXLZ7GMn2WR64x9w1xQm8H5Isd1rhaQ4NDsp3jVUhLPFI" group-title="NBA MLB NFL LMB",NBA Chicago Bulls
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/5170
-#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Cleveland Cavaliers" tvg-logo="" group-title="NBA MLB NFL",NBA Cleveland Cavaliers
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Cleveland Cavaliers" tvg-logo="https://play-lh.googleusercontent.com/I6Jz9nEZq-8jBPn2bmjywWLXLZ7GMn2WR64x9w1xQm8H5Isd1rhaQ4NDsp3jVUhLPFI" group-title="NBA MLB NFL LMB",NBA Cleveland Cavaliers
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/5171
-#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Dallas Mavericks" tvg-logo="" group-title="NBA MLB NFL",NBA Dallas Mavericks
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Dallas Mavericks" tvg-logo="https://play-lh.googleusercontent.com/I6Jz9nEZq-8jBPn2bmjywWLXLZ7GMn2WR64x9w1xQm8H5Isd1rhaQ4NDsp3jVUhLPFI" group-title="NBA MLB NFL LMB",NBA Dallas Mavericks
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/5172
-#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Denver Nuggets" tvg-logo="" group-title="NBA MLB NFL",NBA Denver Nuggets
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Denver Nuggets" tvg-logo="https://play-lh.googleusercontent.com/I6Jz9nEZq-8jBPn2bmjywWLXLZ7GMn2WR64x9w1xQm8H5Isd1rhaQ4NDsp3jVUhLPFI" group-title="NBA MLB NFL LMB",NBA Denver Nuggets
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/5173
-#EXTINF:-1 tvg-id="NBA - Atlanta Hawks" tvg-name="NBA Detroit Pistons" tvg-logo="" group-title="NBA MLB NFL",NBA Detroit Pistons
+#EXTINF:-1 tvg-id="NBA - Atlanta Hawks" tvg-name="NBA Detroit Pistons" tvg-logo="https://play-lh.googleusercontent.com/I6Jz9nEZq-8jBPn2bmjywWLXLZ7GMn2WR64x9w1xQm8H5Isd1rhaQ4NDsp3jVUhLPFI" group-title="NBA MLB NFL LMB",NBA Detroit Pistons
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/5161
-#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Golden State Warriors" tvg-logo="" group-title="NBA MLB NFL",NBA Golden State Warriors
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Golden State Warriors" tvg-logo="https://play-lh.googleusercontent.com/I6Jz9nEZq-8jBPn2bmjywWLXLZ7GMn2WR64x9w1xQm8H5Isd1rhaQ4NDsp3jVUhLPFI" group-title="NBA MLB NFL LMB",NBA Golden State Warriors
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/5162
-#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Houston Rockets" tvg-logo="" group-title="NBA MLB NFL",NBA Houston Rockets
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Houston Rockets" tvg-logo="https://play-lh.googleusercontent.com/I6Jz9nEZq-8jBPn2bmjywWLXLZ7GMn2WR64x9w1xQm8H5Isd1rhaQ4NDsp3jVUhLPFI" group-title="NBA MLB NFL LMB",NBA Houston Rockets
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/5163
-#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Indiana Pacers" tvg-logo="" group-title="NBA MLB NFL",NBA Indiana Pacers
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Indiana Pacers" tvg-logo="https://play-lh.googleusercontent.com/I6Jz9nEZq-8jBPn2bmjywWLXLZ7GMn2WR64x9w1xQm8H5Isd1rhaQ4NDsp3jVUhLPFI" group-title="NBA MLB NFL LMB",NBA Indiana Pacers
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/5164
-#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Los Angeles Clippers" tvg-logo="" group-title="NBA MLB NFL",NBA Los Angeles Clippers
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Los Angeles Clippers" tvg-logo="https://play-lh.googleusercontent.com/I6Jz9nEZq-8jBPn2bmjywWLXLZ7GMn2WR64x9w1xQm8H5Isd1rhaQ4NDsp3jVUhLPFI" group-title="NBA MLB NFL LMB",NBA Los Angeles Clippers
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/5165
-#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Los Angeles Lakers" tvg-logo="" group-title="NBA MLB NFL",NBA Los Angeles Lakers
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Los Angeles Lakers" tvg-logo="https://play-lh.googleusercontent.com/I6Jz9nEZq-8jBPn2bmjywWLXLZ7GMn2WR64x9w1xQm8H5Isd1rhaQ4NDsp3jVUhLPFI" group-title="NBA MLB NFL LMB",NBA Los Angeles Lakers
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/5166
-#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Memphis Grizzlies" tvg-logo="" group-title="NBA MLB NFL",NBA Memphis Grizzlies
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Memphis Grizzlies" tvg-logo="https://play-lh.googleusercontent.com/I6Jz9nEZq-8jBPn2bmjywWLXLZ7GMn2WR64x9w1xQm8H5Isd1rhaQ4NDsp3jVUhLPFI" group-title="NBA MLB NFL LMB",NBA Memphis Grizzlies
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/5167
-#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Miami Heat" tvg-logo="" group-title="NBA MLB NFL",NBA Miami Heat
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Miami Heat" tvg-logo="https://play-lh.googleusercontent.com/I6Jz9nEZq-8jBPn2bmjywWLXLZ7GMn2WR64x9w1xQm8H5Isd1rhaQ4NDsp3jVUhLPFI" group-title="NBA MLB NFL LMB",NBA Miami Heat
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/5174
-#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Milwaukee Bucks" tvg-logo="" group-title="NBA MLB NFL",NBA Milwaukee Bucks
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Milwaukee Bucks" tvg-logo="https://play-lh.googleusercontent.com/I6Jz9nEZq-8jBPn2bmjywWLXLZ7GMn2WR64x9w1xQm8H5Isd1rhaQ4NDsp3jVUhLPFI" group-title="NBA MLB NFL LMB",NBA Milwaukee Bucks
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/5175
-#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Minnesota Timberwolves" tvg-logo="" group-title="NBA MLB NFL",NBA Minnesota Timberwolves
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Minnesota Timberwolves" tvg-logo="https://play-lh.googleusercontent.com/I6Jz9nEZq-8jBPn2bmjywWLXLZ7GMn2WR64x9w1xQm8H5Isd1rhaQ4NDsp3jVUhLPFI" group-title="NBA MLB NFL LMB",NBA Minnesota Timberwolves
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/5176
-#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA New Orleans Pelicans" tvg-logo="" group-title="NBA MLB NFL",NBA New Orleans Pelicans
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA New Orleans Pelicans" tvg-logo="https://play-lh.googleusercontent.com/I6Jz9nEZq-8jBPn2bmjywWLXLZ7GMn2WR64x9w1xQm8H5Isd1rhaQ4NDsp3jVUhLPFI" group-title="NBA MLB NFL LMB",NBA New Orleans Pelicans
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/5177
-#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA New York Knicks" tvg-logo="" group-title="NBA MLB NFL",NBA New York Knicks
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA New York Knicks" tvg-logo="https://play-lh.googleusercontent.com/I6Jz9nEZq-8jBPn2bmjywWLXLZ7GMn2WR64x9w1xQm8H5Isd1rhaQ4NDsp3jVUhLPFI" group-title="NBA MLB NFL LMB",NBA New York Knicks
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/5178
-#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Oklahoma City Thunder" tvg-logo="" group-title="NBA MLB NFL",NBA Oklahoma City Thunder
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Oklahoma City Thunder" tvg-logo="https://play-lh.googleusercontent.com/I6Jz9nEZq-8jBPn2bmjywWLXLZ7GMn2WR64x9w1xQm8H5Isd1rhaQ4NDsp3jVUhLPFI" group-title="NBA MLB NFL LMB",NBA Oklahoma City Thunder
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/5179
-#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Orlando Magic" tvg-logo="" group-title="NBA MLB NFL",NBA Orlando Magic
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Orlando Magic" tvg-logo="https://play-lh.googleusercontent.com/I6Jz9nEZq-8jBPn2bmjywWLXLZ7GMn2WR64x9w1xQm8H5Isd1rhaQ4NDsp3jVUhLPFI" group-title="NBA MLB NFL LMB",NBA Orlando Magic
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/5180
-#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Philadelphia 76ers" tvg-logo="" group-title="NBA MLB NFL",NBA Philadelphia 76ers
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Philadelphia 76ers" tvg-logo="https://play-lh.googleusercontent.com/I6Jz9nEZq-8jBPn2bmjywWLXLZ7GMn2WR64x9w1xQm8H5Isd1rhaQ4NDsp3jVUhLPFI" group-title="NBA MLB NFL LMB",NBA Philadelphia 76ers
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/5181
-#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Phoenix Suns" tvg-logo="" group-title="NBA MLB NFL",NBA Phoenix Suns
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Phoenix Suns" tvg-logo="https://play-lh.googleusercontent.com/I6Jz9nEZq-8jBPn2bmjywWLXLZ7GMn2WR64x9w1xQm8H5Isd1rhaQ4NDsp3jVUhLPFI" group-title="NBA MLB NFL LMB",NBA Phoenix Suns
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/5182
-#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Portland Trail Blazers" tvg-logo="" group-title="NBA MLB NFL",NBA Portland Trail Blazers
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Portland Trail Blazers" tvg-logo="https://play-lh.googleusercontent.com/I6Jz9nEZq-8jBPn2bmjywWLXLZ7GMn2WR64x9w1xQm8H5Isd1rhaQ4NDsp3jVUhLPFI" group-title="NBA MLB NFL LMB",NBA Portland Trail Blazers
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/5183
-#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Sacramento Kings" tvg-logo="" group-title="NBA MLB NFL",NBA Sacramento Kings
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Sacramento Kings" tvg-logo="https://play-lh.googleusercontent.com/I6Jz9nEZq-8jBPn2bmjywWLXLZ7GMn2WR64x9w1xQm8H5Isd1rhaQ4NDsp3jVUhLPFI" group-title="NBA MLB NFL LMB",NBA Sacramento Kings
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/5184
-#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA San Antonio Spurs" tvg-logo="" group-title="NBA MLB NFL",NBA San Antonio Spurs
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA San Antonio Spurs" tvg-logo="https://play-lh.googleusercontent.com/I6Jz9nEZq-8jBPn2bmjywWLXLZ7GMn2WR64x9w1xQm8H5Isd1rhaQ4NDsp3jVUhLPFI" group-title="NBA MLB NFL LMB",NBA San Antonio Spurs
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/5185
-#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Toronto Raptors" tvg-logo="" group-title="NBA MLB NFL",NBA Toronto Raptors
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Toronto Raptors" tvg-logo="https://play-lh.googleusercontent.com/I6Jz9nEZq-8jBPn2bmjywWLXLZ7GMn2WR64x9w1xQm8H5Isd1rhaQ4NDsp3jVUhLPFI" group-title="NBA MLB NFL LMB",NBA Toronto Raptors
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/5186
-#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Utah Jazz" tvg-logo="" group-title="NBA MLB NFL",NBA Utah Jazz
+#EXTINF:-1 tvg-id="NBA - Golden State Warriors" tvg-name="NBA Utah Jazz" tvg-logo="https://play-lh.googleusercontent.com/I6Jz9nEZq-8jBPn2bmjywWLXLZ7GMn2WR64x9w1xQm8H5Isd1rhaQ4NDsp3jVUhLPFI" group-title="NBA MLB NFL LMB",NBA Utah Jazz
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/5187
-#EXTINF:-1 tvg-id="NBA Washington Wizards" tvg-name="NBA Washington Wizards" tvg-logo="" group-title="NBA MLB NFL",NBA Washington Wizards
+#EXTINF:-1 tvg-id="NBA Washington Wizards" tvg-name="NBA Washington Wizards" tvg-logo="https://play-lh.googleusercontent.com/I6Jz9nEZq-8jBPn2bmjywWLXLZ7GMn2WR64x9w1xQm8H5Isd1rhaQ4NDsp3jVUhLPFI" group-title="NBA MLB NFL LMB",NBA Washington Wizards
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/30107
-#EXTINF:-1 tvg-id="NFL NETWORK" tvg-name="NFL NETWORK" tvg-logo="" group-title="NBA MLB NFL",NFL NETWORK
+#EXTINF:-1 tvg-id="NFL NETWORK" tvg-name="NFL NETWORK" tvg-logo="https://www.elsoldemexico.com.mx/incoming/94utop-nfl-logo-National-Football-League.jpg/ALTERNATES/FREE_768/nfl-logo-National-Football-League.jpg" group-title="NBA MLB NFL LMB",NFL NETWORK
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/340
-#EXTINF:-1 tvg-id="NFL REDZONE" tvg-name="NFL REDZONE" tvg-logo="" group-title="NBA MLB NFL",NFL REDZONE
+#EXTINF:-1 tvg-id="NFL REDZONE" tvg-name="NFL REDZONE" tvg-logo="https://www.elsoldemexico.com.mx/incoming/94utop-nfl-logo-National-Football-League.jpg/ALTERNATES/FREE_768/nfl-logo-National-Football-League.jpg" group-title="NBA MLB NFL LMB",NFL REDZONE
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/341
-#EXTINF:-1 tvg-id="NFL Arizona Cardinals" tvg-name="NFL Arizona Cardinals" tvg-logo="" group-title="NBA MLB NFL",NFL Arizona Cardinals
+#EXTINF:-1 tvg-id="NFL Arizona Cardinals" tvg-name="NFL Arizona Cardinals" tvg-logo="https://www.elsoldemexico.com.mx/incoming/94utop-nfl-logo-National-Football-League.jpg/ALTERNATES/FREE_768/nfl-logo-National-Football-League.jpg" group-title="NBA MLB NFL LMB",NFL Arizona Cardinals
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/30315
-#EXTINF:-1 tvg-id="NFL Atlanta Falcons" tvg-name="NFL Atlanta Falcons" tvg-logo="" group-title="NBA MLB NFL",NFL Atlanta Falcons
+#EXTINF:-1 tvg-id="NFL Arizona Cardinals" tvg-name="NFL Atlanta Falcons" tvg-logo="https://www.elsoldemexico.com.mx/incoming/94utop-nfl-logo-National-Football-League.jpg/ALTERNATES/FREE_768/nfl-logo-National-Football-League.jpg" group-title="NBA MLB NFL LMB",NFL Atlanta Falcons
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/30324
-#EXTINF:-1 tvg-id="NFL Baltimore Ravens" tvg-name="NFL Baltimore Ravens" tvg-logo="" group-title="NBA MLB NFL",NFL Baltimore Ravens
+#EXTINF:-1 tvg-id="NFL Arizona Cardinals" tvg-name="NFL Baltimore Ravens" tvg-logo="https://www.elsoldemexico.com.mx/incoming/94utop-nfl-logo-National-Football-League.jpg/ALTERNATES/FREE_768/nfl-logo-National-Football-League.jpg" group-title="NBA MLB NFL LMB",NFL Baltimore Ravens
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/30323
-#EXTINF:-1 tvg-id="NFL Buffalo Bills" tvg-name="NFL Buffalo Bills" tvg-logo="" group-title="NBA MLB NFL",NFL Buffalo Bills
+#EXTINF:-1 tvg-id="NFL Arizona Cardinals" tvg-name="NFL Buffalo Bills" tvg-logo="https://www.elsoldemexico.com.mx/incoming/94utop-nfl-logo-National-Football-League.jpg/ALTERNATES/FREE_768/nfl-logo-National-Football-League.jpg" group-title="NBA MLB NFL LMB",NFL Buffalo Bills
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/30322
-#EXTINF:-1 tvg-id="NFL Carolina Panthers" tvg-name="NFL Carolina Panthers" tvg-logo="" group-title="NBA MLB NFL",NFL Carolina Panthers
+#EXTINF:-1 tvg-id="NFL Arizona Cardinals" tvg-name="NFL Carolina Panthers" tvg-logo="https://www.elsoldemexico.com.mx/incoming/94utop-nfl-logo-National-Football-League.jpg/ALTERNATES/FREE_768/nfl-logo-National-Football-League.jpg" group-title="NBA MLB NFL LMB",NFL Carolina Panthers
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/30321
-#EXTINF:-1 tvg-id="NFL Chicago Bears" tvg-name="NFL Chicago Bears" tvg-logo="" group-title="NBA MLB NFL",NFL Chicago Bears
+#EXTINF:-1 tvg-id="NFL Arizona Cardinals" tvg-name="NFL Chicago Bears" tvg-logo="https://www.elsoldemexico.com.mx/incoming/94utop-nfl-logo-National-Football-League.jpg/ALTERNATES/FREE_768/nfl-logo-National-Football-League.jpg" group-title="NBA MLB NFL LMB",NFL Chicago Bears
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/30320
-#EXTINF:-1 tvg-id="NFL Cincinnati Bengals" tvg-name="NFL Cincinnati Bengals" tvg-logo="" group-title="NBA MLB NFL",NFL Cincinnati Bengals
+#EXTINF:-1 tvg-id="NFL Atlanta Falcons" tvg-name="NFL Cincinnati Bengals" tvg-logo="https://www.elsoldemexico.com.mx/incoming/94utop-nfl-logo-National-Football-League.jpg/ALTERNATES/FREE_768/nfl-logo-National-Football-League.jpg" group-title="NBA MLB NFL LMB",NFL Cincinnati Bengals
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/30319
-#EXTINF:-1 tvg-id="NFL Cleveland Browns" tvg-name="NFL Cleveland Browns" tvg-logo="" group-title="NBA MLB NFL",NFL Cleveland Browns
+#EXTINF:-1 tvg-id="NFL Arizona Cardinals" tvg-name="NFL Cleveland Browns" tvg-logo="https://www.elsoldemexico.com.mx/incoming/94utop-nfl-logo-National-Football-League.jpg/ALTERNATES/FREE_768/nfl-logo-National-Football-League.jpg" group-title="NBA MLB NFL LMB",NFL Cleveland Browns
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/30318
-#EXTINF:-1 tvg-id="NFL Dallas Cowboys" tvg-name="NFL Dallas Cowboys" tvg-logo="" group-title="NBA MLB NFL",NFL Dallas Cowboys
+#EXTINF:-1 tvg-id="NFL Atlanta Falcons" tvg-name="NFL Dallas Cowboys" tvg-logo="https://www.elsoldemexico.com.mx/incoming/94utop-nfl-logo-National-Football-League.jpg/ALTERNATES/FREE_768/nfl-logo-National-Football-League.jpg" group-title="NBA MLB NFL LMB",NFL Dallas Cowboys
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/30317
-#EXTINF:-1 tvg-id="NFL Denver Broncos" tvg-name="NFL Denver Broncos" tvg-logo="" group-title="NBA MLB NFL",NFL Denver Broncos
+#EXTINF:-1 tvg-id="NFL Atlanta Falcons" tvg-name="NFL Denver Broncos" tvg-logo="https://www.elsoldemexico.com.mx/incoming/94utop-nfl-logo-National-Football-League.jpg/ALTERNATES/FREE_768/nfl-logo-National-Football-League.jpg" group-title="NBA MLB NFL LMB",NFL Denver Broncos
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/30316
-#EXTINF:-1 tvg-id="NFL Detroit Lions" tvg-name="NFL Detroit Lions" tvg-logo="" group-title="NBA MLB NFL",NFL Detroit Lions
+#EXTINF:-1 tvg-id="NFL Arizona Cardinals" tvg-name="NFL Detroit Lions" tvg-logo="https://www.elsoldemexico.com.mx/incoming/94utop-nfl-logo-National-Football-League.jpg/ALTERNATES/FREE_768/nfl-logo-National-Football-League.jpg" group-title="NBA MLB NFL LMB",NFL Detroit Lions
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/30325
-#EXTINF:-1 tvg-id="NFL Green Bay Packers" tvg-name="NFL Green Bay Packers" tvg-logo="" group-title="NBA MLB NFL",NFL Green Bay Packers
+#EXTINF:-1 tvg-id="NFL Dallas Cowboys" tvg-name="NFL Green Bay Packers" tvg-logo="https://www.elsoldemexico.com.mx/incoming/94utop-nfl-logo-National-Football-League.jpg/ALTERNATES/FREE_768/nfl-logo-National-Football-League.jpg" group-title="NBA MLB NFL LMB",NFL Green Bay Packers
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/30345
-#EXTINF:-1 tvg-id="NFL Houston Texans" tvg-name="NFL Houston Texans" tvg-logo="" group-title="NBA MLB NFL",NFL Houston Texans
+#EXTINF:-1 tvg-id="NFL Arizona Cardinals" tvg-name="NFL Houston Texans" tvg-logo="https://www.elsoldemexico.com.mx/incoming/94utop-nfl-logo-National-Football-League.jpg/ALTERNATES/FREE_768/nfl-logo-National-Football-League.jpg" group-title="NBA MLB NFL LMB",NFL Houston Texans
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/30346
-#EXTINF:-1 tvg-id="NFL Indianapolis Colts" tvg-name="NFL Indianapolis Colts" tvg-logo="" group-title="NBA MLB NFL",NFL Indianapolis Colts
+#EXTINF:-1 tvg-id="NFL Arizona Cardinals" tvg-name="NFL Indianapolis Colts" tvg-logo="https://www.elsoldemexico.com.mx/incoming/94utop-nfl-logo-National-Football-League.jpg/ALTERNATES/FREE_768/nfl-logo-National-Football-League.jpg" group-title="NBA MLB NFL LMB",NFL Indianapolis Colts
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/30344
-#EXTINF:-1 tvg-id="NFL Jacksonville Jaguars" tvg-name="NFL Jacksonville Jaguars" tvg-logo="" group-title="NBA MLB NFL",NFL Jacksonville Jaguars
+#EXTINF:-1 tvg-id="NFL Arizona Cardinals" tvg-name="NFL Jacksonville Jaguars" tvg-logo="https://www.elsoldemexico.com.mx/incoming/94utop-nfl-logo-National-Football-League.jpg/ALTERNATES/FREE_768/nfl-logo-National-Football-League.jpg" group-title="NBA MLB NFL LMB",NFL Jacksonville Jaguars
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/30343
-#EXTINF:-1 tvg-id="NFL Kansas City Chiefs" tvg-name="NFL Kansas City Chiefs" tvg-logo="" group-title="NBA MLB NFL",NFL Kansas City Chiefs
+#EXTINF:-1 tvg-id="NFL Atlanta Falcons" tvg-name="NFL Kansas City Chiefs" tvg-logo="https://www.elsoldemexico.com.mx/incoming/94utop-nfl-logo-National-Football-League.jpg/ALTERNATES/FREE_768/nfl-logo-National-Football-League.jpg" group-title="NBA MLB NFL LMB",NFL Kansas City Chiefs
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/30342
-#EXTINF:-1 tvg-id="NFL Los Angeles Chargers" tvg-name="NFL Los Angeles Chargers" tvg-logo="" group-title="NBA MLB NFL",NFL Los Angeles Chargers
+#EXTINF:-1 tvg-id="NFL Arizona Cardinals" tvg-name="NFL Los Angeles Chargers" tvg-logo="https://www.elsoldemexico.com.mx/incoming/94utop-nfl-logo-National-Football-League.jpg/ALTERNATES/FREE_768/nfl-logo-National-Football-League.jpg" group-title="NBA MLB NFL LMB",NFL Los Angeles Chargers
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/30341
-#EXTINF:-1 tvg-id="NFL Los Angeles Rams" tvg-name="NFL Los Angeles Rams" tvg-logo="" group-title="NBA MLB NFL",NFL Los Angeles Rams
+#EXTINF:-1 tvg-id="NFL Arizona Cardinals" tvg-name="NFL Los Angeles Rams" tvg-logo="https://www.elsoldemexico.com.mx/incoming/94utop-nfl-logo-National-Football-League.jpg/ALTERNATES/FREE_768/nfl-logo-National-Football-League.jpg" group-title="NBA MLB NFL LMB",NFL Los Angeles Rams
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/30340
-#EXTINF:-1 tvg-id="NFL Miami Dolphins" tvg-name="NFL Miami Dolphins" tvg-logo="" group-title="NBA MLB NFL",NFL Miami Dolphins
+#EXTINF:-1 tvg-id="NFL Arizona Cardinals" tvg-name="NFL Miami Dolphins" tvg-logo="https://www.elsoldemexico.com.mx/incoming/94utop-nfl-logo-National-Football-League.jpg/ALTERNATES/FREE_768/nfl-logo-National-Football-League.jpg" group-title="NBA MLB NFL LMB",NFL Miami Dolphins
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/30339
-#EXTINF:-1 tvg-id="NFL Minnesota Vikings" tvg-name="NFL Minnesota Vikings" tvg-logo="" group-title="NBA MLB NFL",NFL Minnesota Vikings
+#EXTINF:-1 tvg-id="NFL Arizona Cardinals" tvg-name="NFL Minnesota Vikings" tvg-logo="https://www.elsoldemexico.com.mx/incoming/94utop-nfl-logo-National-Football-League.jpg/ALTERNATES/FREE_768/nfl-logo-National-Football-League.jpg" group-title="NBA MLB NFL LMB",NFL Minnesota Vikings
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/30338
-#EXTINF:-1 tvg-id="NFL New England Patriots" tvg-name="NFL New England Patriots" tvg-logo="" group-title="NBA MLB NFL",NFL New England Patriots
+#EXTINF:-1 tvg-id="NFL Atlanta Falcons" tvg-name="NFL New England Patriots" tvg-logo="https://www.elsoldemexico.com.mx/incoming/94utop-nfl-logo-National-Football-League.jpg/ALTERNATES/FREE_768/nfl-logo-National-Football-League.jpg" group-title="NBA MLB NFL LMB",NFL New England Patriots
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/30335
-#EXTINF:-1 tvg-id="NFL New Orleans Saints" tvg-name="NFL New Orleans Saints" tvg-logo="" group-title="NBA MLB NFL",NFL New Orleans Saints
+#EXTINF:-1 tvg-id="NFL Arizona Cardinals" tvg-name="NFL New Orleans Saints" tvg-logo="https://www.elsoldemexico.com.mx/incoming/94utop-nfl-logo-National-Football-League.jpg/ALTERNATES/FREE_768/nfl-logo-National-Football-League.jpg" group-title="NBA MLB NFL LMB",NFL New Orleans Saints
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/30337
-#EXTINF:-1 tvg-id="NFL New York Giants" tvg-name="NFL New York Giants" tvg-logo="" group-title="NBA MLB NFL",NFL New York Giants
+#EXTINF:-1 tvg-id="NFL Arizona Cardinals" tvg-name="NFL New York Giants" tvg-logo="https://www.elsoldemexico.com.mx/incoming/94utop-nfl-logo-National-Football-League.jpg/ALTERNATES/FREE_768/nfl-logo-National-Football-League.jpg" group-title="NBA MLB NFL LMB",NFL New York Giants
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/30334
-#EXTINF:-1 tvg-id="NFL New York Jets" tvg-name="NFL New York Jets" tvg-logo="" group-title="NBA MLB NFL",NFL New York Jets
+#EXTINF:-1 tvg-id="NFL Arizona Cardinals" tvg-name="NFL New York Jets" tvg-logo="https://www.elsoldemexico.com.mx/incoming/94utop-nfl-logo-National-Football-League.jpg/ALTERNATES/FREE_768/nfl-logo-National-Football-League.jpg" group-title="NBA MLB NFL LMB",NFL New York Jets
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/30336
-#EXTINF:-1 tvg-id="NFL Oakland Raiders" tvg-name="NFL Oakland Raiders" tvg-logo="" group-title="NBA MLB NFL",NFL Oakland Raiders
+#EXTINF:-1 tvg-id="NFL Arizona Cardinals" tvg-name="NFL Oakland Raiders" tvg-logo="https://www.elsoldemexico.com.mx/incoming/94utop-nfl-logo-National-Football-League.jpg/ALTERNATES/FREE_768/nfl-logo-National-Football-League.jpg" group-title="NBA MLB NFL LMB",NFL Oakland Raiders
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/30333
-#EXTINF:-1 tvg-id="NFL Philadelphia Eagles" tvg-name="NFL Philadelphia Eagles" tvg-logo="" group-title="NBA MLB NFL",NFL Philadelphia Eagles
+#EXTINF:-1 tvg-id="NFL Arizona Cardinals" tvg-name="NFL Philadelphia Eagles" tvg-logo="https://www.elsoldemexico.com.mx/incoming/94utop-nfl-logo-National-Football-League.jpg/ALTERNATES/FREE_768/nfl-logo-National-Football-League.jpg" group-title="NBA MLB NFL LMB",NFL Philadelphia Eagles
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/30332
-#EXTINF:-1 tvg-id="NFL Pittsburgh Steelers" tvg-name="NFL Pittsburgh Steelers" tvg-logo="" group-title="NBA MLB NFL",NFL Pittsburgh Steelers
+#EXTINF:-1 tvg-id="NFL Arizona Cardinals" tvg-name="NFL Pittsburgh Steelers" tvg-logo="https://www.elsoldemexico.com.mx/incoming/94utop-nfl-logo-National-Football-League.jpg/ALTERNATES/FREE_768/nfl-logo-National-Football-League.jpg" group-title="NBA MLB NFL LMB",NFL Pittsburgh Steelers
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/30331
-#EXTINF:-1 tvg-id="NFL San Francisco 49ers" tvg-name="NFL San Francisco 49ers" tvg-logo="" group-title="NBA MLB NFL",NFL San Francisco 49ers
+#EXTINF:-1 tvg-id="NFL Atlanta Falcons" tvg-name="NFL San Francisco 49ers" tvg-logo="https://www.elsoldemexico.com.mx/incoming/94utop-nfl-logo-National-Football-League.jpg/ALTERNATES/FREE_768/nfl-logo-National-Football-League.jpg" group-title="NBA MLB NFL LMB",NFL San Francisco 49ers
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/30330
-#EXTINF:-1 tvg-id="NFL Seattle Seahawks" tvg-name="NFL Seattle Seahawks" tvg-logo="" group-title="NBA MLB NFL",NFL Seattle Seahawks
+#EXTINF:-1 tvg-id="NFL Arizona Cardinals" tvg-name="NFL Seattle Seahawks" tvg-logo="https://www.elsoldemexico.com.mx/incoming/94utop-nfl-logo-National-Football-League.jpg/ALTERNATES/FREE_768/nfl-logo-National-Football-League.jpg" group-title="NBA MLB NFL LMB",NFL Seattle Seahawks
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/30329
-#EXTINF:-1 tvg-id="NFL Tampa Bay Buccaneers" tvg-name="NFL Tampa Bay Buccaneers" tvg-logo="" group-title="NBA MLB NFL",NFL Tampa Bay Buccaneers
+#EXTINF:-1 tvg-id="NFL Arizona Cardinals" tvg-name="NFL Tampa Bay Buccaneers" tvg-logo="https://www.elsoldemexico.com.mx/incoming/94utop-nfl-logo-National-Football-League.jpg/ALTERNATES/FREE_768/nfl-logo-National-Football-League.jpg" group-title="NBA MLB NFL LMB",NFL Tampa Bay Buccaneers
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/30327
-#EXTINF:-1 tvg-id="NFL Tennessee Titans" tvg-name="NFL Tennessee Titans" tvg-logo="" group-title="NBA MLB NFL",NFL Tennessee Titans
+#EXTINF:-1 tvg-id="NFL Arizona Cardinals" tvg-name="NFL Tennessee Titans" tvg-logo="https://www.elsoldemexico.com.mx/incoming/94utop-nfl-logo-National-Football-League.jpg/ALTERNATES/FREE_768/nfl-logo-National-Football-League.jpg" group-title="NBA MLB NFL LMB",NFL Tennessee Titans
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/30328
-#EXTINF:-1 tvg-id="NFL Washington Redskins" tvg-name="NFL Washington Redskins" tvg-logo="" group-title="NBA MLB NFL",NFL Washington Redskins
+#EXTINF:-1 tvg-id="NFL Arizona Cardinals" tvg-name="NFL Washington Redskins" tvg-logo="https://www.elsoldemexico.com.mx/incoming/94utop-nfl-logo-National-Football-League.jpg/ALTERNATES/FREE_768/nfl-logo-National-Football-League.jpg" group-title="NBA MLB NFL LMB",NFL Washington Redskins
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/30326
 #EXTINF:-1 tvg-id="NT BBC AMERICA HD" tvg-name="NT BBC AMERICA HD" group-title="NOTICIAS",NT BBC AMERICA HD
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/549
@@ -2723,7 +2741,7 @@ http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/19183
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/19166
 #EXTINF:-1 tvg-id="USA ABC Sacramento" tvg-name="USA ABC Sacramento" tvg-logo="" group-title="USA",USA ABC Sacramento
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/19176
-#EXTINF:-1 tvg-id="SP TVG2" tvg-name="USA ABC Saint Paul" tvg-logo="" group-title="USA",USA ABC Saint Paul
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="USA ABC Saint Paul" tvg-logo="" group-title="USA",USA ABC Saint Paul
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/27176
 #EXTINF:-1 tvg-id="USA ABC Salt Lake City" tvg-name="USA ABC Salt Lake City" tvg-logo="" group-title="USA",USA ABC Salt Lake City
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/19151
@@ -3195,12 +3213,16 @@ http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/27012
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/27017
 #EXTINF:-1 tvg-id="USA NCB Jacksonville" tvg-name="USA NCB Jacksonville" tvg-logo="" group-title="USA",USA NCB Jacksonville
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/27018
+#EXTINF:-1 tvg-id="USA Newsmax Tv" tvg-name="USA Newsmax Tv" tvg-logo="https://www.newsmax.com/Newsmax/files/83/8389e8ee-1019-471c-b10f-d343cd0459e7.jpg" group-title="USA",USA Newsmax Tv
+http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/40739
 #EXTINF:-1 tvg-id="USA Nick" tvg-name="USA Nick" tvg-logo="" group-title="USA",USA Nick
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/2245
 #EXTINF:-1 tvg-id="USA NICK JR" tvg-name="USA NICK JR" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DAgNJEGkL._SY355_.png" group-title="USA",USA NICK JR
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/2244
 #EXTINF:-1 tvg-id="USA Nicktoons." tvg-name="USA Nicktoons." tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1159.1405279210.png" group-title="USA",USA Nicktoons.
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/2243
+#EXTINF:-1 tvg-id="USA One American News Network" tvg-name="USA One American News Network" tvg-logo="https://politicon.com/wp-content/uploads/2018/10/OAN.jpg" group-title="USA",USA One American News Network
+http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/40738
 #EXTINF:-1 tvg-id="USA OUTDOOR CHANNEL" tvg-name="USA OUTDOOR CHANNEL" tvg-logo="" group-title="USA",USA OUTDOOR CHANNEL
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/2242
 #EXTINF:-1 tvg-id="USA OuterMax" tvg-name="USA OuterMax" tvg-logo="" group-title="USA",USA OuterMax
@@ -3241,8 +3263,6 @@ http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/25722
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/25723
 #EXTINF:-1 tvg-id="USA Sony HD" tvg-name="USA Sony HD" tvg-logo="" group-title="USA",USA Sony HD
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/2252
-#EXTINF:-1 tvg-id="USA Starz 2" tvg-name="USA Starz 2" tvg-logo="" group-title="USA",USA Starz 2
-http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/25715
 #EXTINF:-1 tvg-id="USA Starz Black" tvg-name="USA Starz Black" tvg-logo="" group-title="USA",USA Starz Black
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/25686
 #EXTINF:-1 tvg-id="USA Starz Cinema" tvg-name="USA Starz Cinema" tvg-logo="" group-title="USA",USA Starz Cinema
@@ -3265,8 +3285,6 @@ http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/25627
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/25700
 #EXTINF:-1 tvg-id="USA Starz Encore 2" tvg-name="USA Starz Encore 2" tvg-logo="" group-title="USA",USA Starz Encore 2
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/25712
-#EXTINF:-1 tvg-id="USA Starz Encore Action" tvg-name="USA Starz Encore Action" tvg-logo="" group-title="USA",USA Starz Encore Action
-http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/25695
 #EXTINF:-1 tvg-id="USA Starz Encore Black" tvg-name="USA Starz Encore Black" tvg-logo="" group-title="USA",USA Starz Encore Black
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/25696
 #EXTINF:-1 tvg-id="USA Starz Encore Family" tvg-name="USA Starz Encore Family" tvg-logo="" group-title="USA",USA Starz Encore Family
@@ -3489,8 +3507,6 @@ http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/394
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/392
 #EXTINF:-1 tvg-id="Univision New York" tvg-name="Univision New York" tvg-logo="" group-title="USA LATINO",Univision New York
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/391
-#EXTINF:-1 tvg-id="Univision Noticias" tvg-name="Univision Noticias" tvg-logo="" group-title="USA LATINO",Univision Noticias
-http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/390
 #EXTINF:-1 tvg-id="Univision San Francisco" tvg-name="Univision San Francisco" tvg-logo="" group-title="USA LATINO",Univision San Francisco
 http://xdgo.live:8080/49_vAngelapaisa_a/Ppv9GFEHxD/389
 #EXTINF:-1 tvg-id="Univision Washington" tvg-name="Univision Washington HD" tvg-logo="" group-title="USA LATINO",Univision Washington HD
@@ -5913,8 +5929,6 @@ http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/3276.mkv
 http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/3277.mkv
 #EXTINF:-1 tvg-id="Borron y cuenta nueva (1994)" tvg-name="Borron y cuenta nueva (1994)"  group-title="VFLIX COMEDIA",Borron y cuenta nueva (1994)
 http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/3278.mkv
-#EXTINF:-1 tvg-id="Bridget Jones' Baby (2016)" tvg-name="Bridget Jones' Baby (2016)"  group-title="VFLIX COMEDIA",Bridget Jones' Baby (2016)
-http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/3279.mkv
 #EXTINF:-1 tvg-id="Brüno (2009)" tvg-name="Brüno (2009)"  group-title="VFLIX COMEDIA",Brüno (2009)
 http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/3280.mkv
 #EXTINF:-1 tvg-id="Malditos vecinos (2014)" tvg-name="Malditos vecinos (2014)"  group-title="VFLIX COMEDIA",Malditos vecinos (2014)
@@ -6249,8 +6263,6 @@ http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/3447.mkv
 http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/3448.mkv
 #EXTINF:-1 tvg-id="Confesiones de una compradora compulsiva (2009)" tvg-name="Confesiones de una compradora compulsiva (2009)"  group-title="VFLIX COMEDIA",Confesiones de una compradora compulsiva (2009)
 http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/3449.mkv
-#EXTINF:-1 tvg-id="Loco por Mary (1998)" tvg-name="Loco por Mary (1998)"  group-title="VFLIX COMEDIA",Loco por Mary (1998)
-http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/3450.mkv
 #EXTINF:-1 tvg-id="Locos de Ira (2003)" tvg-name="Locos de Ira (2003)"  group-title="VFLIX COMEDIA",Locos de Ira (2003)
 http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/3451.mkv
 #EXTINF:-1 tvg-id="Locos por el anillo (2013)" tvg-name="Locos por el anillo (2013)"  group-title="VFLIX COMEDIA",Locos por el anillo (2013)
@@ -10833,6 +10845,26 @@ http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/12340.mkv
 http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/12341.mkv
 #EXTINF:-1 tvg-id="Cobra Kai S02 E10" tvg-name="Cobra Kai S02 E10"  group-title="SERIES ACCION",Cobra Kai S02 E10
 http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/12342.mkv
+#EXTINF:-1 tvg-id="Cobra Kai S03 E01" tvg-name="Cobra Kai S03 E01"  group-title="SERIES ACCION",Cobra Kai S03 E01
+http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/40921.mkv
+#EXTINF:-1 tvg-id="Cobra Kai S03 E02" tvg-name="Cobra Kai S03 E02"  group-title="SERIES ACCION",Cobra Kai S03 E02
+http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/40922.mkv
+#EXTINF:-1 tvg-id="Cobra Kai S03 E03" tvg-name="Cobra Kai S03 E03"  group-title="SERIES ACCION",Cobra Kai S03 E03
+http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/40923.mkv
+#EXTINF:-1 tvg-id="Cobra Kai S03 E04" tvg-name="Cobra Kai S03 E04"  group-title="SERIES ACCION",Cobra Kai S03 E04
+http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/40924.mkv
+#EXTINF:-1 tvg-id="Cobra Kai S03 E05" tvg-name="Cobra Kai S03 E05"  group-title="SERIES ACCION",Cobra Kai S03 E05
+http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/40925.mkv
+#EXTINF:-1 tvg-id="Cobra Kai S03 E06" tvg-name="Cobra Kai S03 E06"  group-title="SERIES ACCION",Cobra Kai S03 E06
+http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/40926.mkv
+#EXTINF:-1 tvg-id="Cobra Kai S03 E07" tvg-name="Cobra Kai S03 E07"  group-title="SERIES ACCION",Cobra Kai S03 E07
+http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/40927.mkv
+#EXTINF:-1 tvg-id="Cobra Kai S03 E08" tvg-name="Cobra Kai S03 E08"  group-title="SERIES ACCION",Cobra Kai S03 E08
+http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/40928.mkv
+#EXTINF:-1 tvg-id="Cobra Kai S03 E09" tvg-name="Cobra Kai S03 E09"  group-title="SERIES ACCION",Cobra Kai S03 E09
+http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/40929.mkv
+#EXTINF:-1 tvg-id="Cobra Kai S03 E10" tvg-name="Cobra Kai S03 E10"  group-title="SERIES ACCION",Cobra Kai S03 E10
+http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/40930.mkv
 #EXTINF:-1 tvg-id="CSI Miami S01 E01" tvg-name="CSI Miami S01 E01"  group-title="SERIES ACCION",CSI Miami S01 E01
 http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/12403.mp4
 #EXTINF:-1 tvg-id="CSI Miami S01 E02" tvg-name="CSI Miami S01 E02"  group-title="SERIES ACCION",CSI Miami S01 E02
@@ -11711,6 +11743,26 @@ http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/24011.mkv
 http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/24012.mkv
 #EXTINF:-1 tvg-id="Vikingos S06 E10" tvg-name="Vikingos S06 E10"  group-title="SERIES ACCION",Vikingos S06 E10
 http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/24013.mkv
+#EXTINF:-1 tvg-id="Vikingos S06 E11" tvg-name="Vikingos S06 E11"  group-title="SERIES ACCION",Vikingos S06 E11
+http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/40911.mkv
+#EXTINF:-1 tvg-id="Vikingos S06 E12" tvg-name="Vikingos S06 E12"  group-title="SERIES ACCION",Vikingos S06 E12
+http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/40912.mkv
+#EXTINF:-1 tvg-id="Vikingos S06 E13" tvg-name="Vikingos S06 E13"  group-title="SERIES ACCION",Vikingos S06 E13
+http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/40913.mkv
+#EXTINF:-1 tvg-id="Vikingos S06 E14" tvg-name="Vikingos S06 E14"  group-title="SERIES ACCION",Vikingos S06 E14
+http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/40914.mkv
+#EXTINF:-1 tvg-id="Vikingos S06 E15" tvg-name="Vikingos S06 E15"  group-title="SERIES ACCION",Vikingos S06 E15
+http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/40915.mkv
+#EXTINF:-1 tvg-id="Vikingos S06 E16" tvg-name="Vikingos S06 E16"  group-title="SERIES ACCION",Vikingos S06 E16
+http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/40916.mkv
+#EXTINF:-1 tvg-id="Vikingos S06 E17" tvg-name="Vikingos S06 E17"  group-title="SERIES ACCION",Vikingos S06 E17
+http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/40917.mkv
+#EXTINF:-1 tvg-id="Vikingos S06 E18" tvg-name="Vikingos S06 E18"  group-title="SERIES ACCION",Vikingos S06 E18
+http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/40918.mkv
+#EXTINF:-1 tvg-id="Vikingos S06 E19" tvg-name="Vikingos S06 E19"  group-title="SERIES ACCION",Vikingos S06 E19
+http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/40919.mkv
+#EXTINF:-1 tvg-id="Vikingos S06 E20" tvg-name="Vikingos S06 E20"  group-title="SERIES ACCION",Vikingos S06 E20
+http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/40920.mkv
 #EXTINF:-1 tvg-id="Z Nation S01 E01" tvg-name="Z Nation S01 E01"  group-title="SERIES ACCION",Z Nation S01 E01
 http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/15090.mkv
 #EXTINF:-1 tvg-id="Z Nation S01 E02" tvg-name="Z Nation S01 E02"  group-title="SERIES ACCION",Z Nation S01 E02
@@ -20757,6 +20809,14 @@ http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/40146.mkv
 http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/40650.mkv
 #EXTINF:-1 tvg-id="The Mandalorian S02 E04" tvg-name="The Mandalorian S02 E04"  group-title="SERIES FICCION - FANTASIA",The Mandalorian S02 E04
 http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/40651.mkv
+#EXTINF:-1 tvg-id="The Mandalorian S02 E05" tvg-name="The Mandalorian S02 E05"  group-title="SERIES FICCION - FANTASIA",The Mandalorian S02 E05
+http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/40779.mkv
+#EXTINF:-1 tvg-id="The Mandalorian S02 E06" tvg-name="The Mandalorian S02 E06"  group-title="SERIES FICCION - FANTASIA",The Mandalorian S02 E06
+http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/40780.mkv
+#EXTINF:-1 tvg-id="The Mandalorian S02 E07" tvg-name="The Mandalorian S02 E07"  group-title="SERIES FICCION - FANTASIA",The Mandalorian S02 E07
+http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/40781.mkv
+#EXTINF:-1 tvg-id="The Mandalorian S02 E08" tvg-name="The Mandalorian S02 E08"  group-title="SERIES FICCION - FANTASIA",The Mandalorian S02 E08
+http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/40834.mkv
 #EXTINF:-1 tvg-id="V Wars S01 E01" tvg-name="V Wars S01 E01"  group-title="SERIES FICCION - FANTASIA",V Wars S01 E01
 http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/16469.mkv
 #EXTINF:-1 tvg-id="V Wars S01 E02" tvg-name="V Wars S01 E02"  group-title="SERIES FICCION - FANTASIA",V Wars S01 E02
@@ -24024,9 +24084,93 @@ http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/25841.mkv
 #EXTINF:-1 tvg-id="The Walking Dead S10 E12" tvg-name="The Walking Dead S10 E12"  group-title="SERIES TERROR - THRILLER",The Walking Dead S10 E12
 http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/25842.mkv
 #EXTINF:-1 tvg-id="The Walking Dead S10 E13" tvg-name="The Walking Dead S10 E13"  group-title="SERIES TERROR - THRILLER",The Walking Dead S10 E13
-http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/25882.mkv
+http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/40732.mkv
 #EXTINF:-1 tvg-id="The Walking Dead S10 E14" tvg-name="The Walking Dead S10 E14"  group-title="SERIES TERROR - THRILLER",The Walking Dead S10 E14
-http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/25883.mkv
+http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/40735.mkv
+#EXTINF:-1 tvg-id="The Walking Dead S10 E15" tvg-name="The Walking Dead S10 E15"  group-title="SERIES TERROR - THRILLER",The Walking Dead S10 E15
+http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/40733.mkv
+#EXTINF:-1 tvg-id="The Walking Dead S10 E16" tvg-name="The Walking Dead S10 E16"  group-title="SERIES TERROR - THRILLER",The Walking Dead S10 E16
+http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/40734.mkv
+#EXTINF:-1 tvg-id="Wonder Woman 1984 (2020)" tvg-name="Wonder Woman 1984 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nvCsNbIaYo96GrM2IuQiiVOkq5O.jpg" group-title="VFLIX ESTRENOS",Wonder Woman 1984 (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/40818.mkv
+#EXTINF:-1 tvg-id="AK vs AK (2020)" tvg-name="AK vs AK (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ULEEvH0hDYnbWN3nClrb88sYCF.jpg" group-title="VFLIX ESTRENOS",AK vs AK (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/40819.mkv
+#EXTINF:-1 tvg-id="Chichipatos: ¡qué chimba de Navidad! (2020)" tvg-name="Chichipatos: ¡qué chimba de Navidad! (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cJMlBQCQpj3dhwhEPDNdI8BP2Z9.jpg" group-title="VFLIX ESTRENOS",Chichipatos: ¡qué chimba de Navidad! (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/40820.mkv
+#EXTINF:-1 tvg-id="From the Depths (2020)" tvg-name="From the Depths (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dlY1XJL31F385tYxFHfugHq1BCO.jpg" group-title="VFLIX ESTRENOS",From the Depths (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/40821.mkv
+#EXTINF:-1 tvg-id="Medio hermanos (2020)" tvg-name="Medio hermanos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qaHcvVfMdWkBJS0zjnZfAII0nEu.jpg" group-title="VFLIX ESTRENOS",Medio hermanos (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/40822.mkv
+#EXTINF:-1 tvg-id="Solía ir allí (2020)" tvg-name="Solía ir allí (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7cN1YBcuBKrxdtxUDig29cXKfKR.jpg" group-title="VFLIX ESTRENOS",Solía ir allí (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/40823.mkv
+#EXTINF:-1 tvg-id="La madre del blues (2020)" tvg-name="La madre del blues (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pvtyxijaBrCSbByXLcUIDDSvc40.jpg" group-title="VFLIX ESTRENOS",La madre del blues (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/40824.mkv
+#EXTINF:-1 tvg-id="Mundo Miraculous: Nueva York Héroes Unidos (2020)" tvg-name="Mundo Miraculous: Nueva York Héroes Unidos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNxqXCEEBllgbVOCuHLPasNsovt.jpg" group-title="VFLIX ESTRENOS",Mundo Miraculous: Nueva York Héroes Unidos (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/40825.mkv
+#EXTINF:-1 tvg-id="Soul (2020)" tvg-name="Soul (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jl8rZYy7JmbWlBlvDCfwvDmGO0g.jpg" group-title="VFLIX ESTRENOS",Soul (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/40826.mkv
+#EXTINF:-1 tvg-id="Sylvie's Love (2020)" tvg-name="Sylvie's Love (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/48P3lTdsg19OfmrD5av0VJYcjLM.jpg" group-title="VFLIX ESTRENOS",Sylvie's Love (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/40827.mkv
+#EXTINF:-1 tvg-id="The Doorman (2020)" tvg-name="The Doorman (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pklyUbh4k1DbHdnsOMASyw7C6NH.jpg" group-title="VFLIX ESTRENOS",The Doorman (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/40828.mkv
+#EXTINF:-1 tvg-id="Cielo de medianoche (2020)" tvg-name="Cielo de medianoche (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rttZeIKCI4VCIVsJGdVkYxSor8G.jpg" group-title="VFLIX ESTRENOS",Cielo de medianoche (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/40829.mkv
+#EXTINF:-1 tvg-id="The Reason (2020)" tvg-name="The Reason (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mn78STmcTtCafuUztN446I4rh5G.jpg" group-title="VFLIX ESTRENOS",The Reason (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/40830.mkv
+#EXTINF:-1 tvg-id="The Secrets We Keep (2020)" tvg-name="The Secrets We Keep (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sobZ7jdhcrF9wu4RNHxMpRBIpyj.jpg" group-title="VFLIX ESTRENOS",The Secrets We Keep (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/40831.mkv
+#EXTINF:-1 tvg-id="El árbol de los deseos (2020)" tvg-name="El árbol de los deseos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/90eStEGcL7tb65UU6ptMaG2PtIp.jpg" group-title="VFLIX ESTRENOS",El árbol de los deseos (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/40832.mkv
+#EXTINF:-1 tvg-id="Los Croods: Una nueva era (2020)" tvg-name="Los Croods: Una nueva era (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2fmufY8h0SirNKt37yprZdf7xi.jpg" group-title="VFLIX ESTRENOS",Los Croods: Una nueva era (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/40776.mkv
+#EXTINF:-1 tvg-id="Curious George: Go West Go Wild (2020)" tvg-name="Curious George: Go West Go Wild (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WWOiP8F6PHjXpJrnRZfvO2XNW.jpg" group-title="VFLIX ESTRENOS",Curious George: Go West Go Wild (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/40771.mkv
+#EXTINF:-1 tvg-id="Infamous (2020)" tvg-name="Infamous (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2lkJf1TAjImTHCEO7XvbqPtnPb.jpg" group-title="VFLIX ESTRENOS",Infamous (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/40772.mkv
+#EXTINF:-1 tvg-id="El Camino de Xico (2020)" tvg-name="El Camino de Xico (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ssk0Gd27ziryP2OUxprIVhAvr3e.jpg" group-title="VFLIX ESTRENOS",El Camino de Xico (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/40773.mkv
+#EXTINF:-1 tvg-id="La estación de la felicidad (2020)" tvg-name="La estación de la felicidad (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iWkm5KikTC3kRjc5rGlktSSMHlM.jpg" group-title="VFLIX ESTRENOS",La estación de la felicidad (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/40774.mkv
+#EXTINF:-1 tvg-id="La cita navideña de papá (2020)" tvg-name="La cita navideña de papá (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAfeEGYIwEG4YmVk77pv8fk0Dpr.jpg" group-title="VFLIX ESTRENOS",La cita navideña de papá (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/40775.mkv
+#EXTINF:-1 tvg-id="Los caminos que no escogemos (2020)" tvg-name="Los caminos que no escogemos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GtX3NDh8S8ImqtTp4Ww02SXh4B.jpg" group-title="VFLIX ESTRENOS",Los caminos que no escogemos (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/40777.mkv
+#EXTINF:-1 tvg-id="The Stand In (2020)" tvg-name="The Stand In (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i8ZaUny5Stxxsmc02ECOEQan1il.jpg" group-title="VFLIX ESTRENOS",The Stand In (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/40778.mkv
+#EXTINF:-1 tvg-id="Ammonite (2020)" tvg-name="Ammonite (2020)" tvg-logo="http://xdgo.live:8080/images/e89151ef6e135343a790b66641d8bc83.jpg" group-title="VFLIX ESTRENOS",Ammonite (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/40754.mkv
+#EXTINF:-1 tvg-id="Bobbleheads: The Movie (2020)" tvg-name="Bobbleheads: The Movie (2020)" tvg-logo="http://xdgo.live:8080/images/a2398edd5515a281ea47b50ad8a719b8.jpg" group-title="VFLIX ESTRENOS",Bobbleheads: The Movie (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/40755.mkv
+#EXTINF:-1 tvg-id="Combat Wombat (2020)" tvg-name="Combat Wombat (2020)" tvg-logo="http://xdgo.live:8080/images/1b17322b7034a9a83847a997df06b529.jpg" group-title="VFLIX ESTRENOS",Combat Wombat (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/40756.mkv
+#EXTINF:-1 tvg-id="Faith Under Fire (2020)" tvg-name="Faith Under Fire (2020)" tvg-logo="http://xdgo.live:8080/images/fb3f66fac62f1172932daed1f5d61d33.jpg" group-title="VFLIX ESTRENOS",Faith Under Fire (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/40757.mkv
+#EXTINF:-1 tvg-id="Soy tu mujer (2020)" tvg-name="Soy tu mujer (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTcJAxIV8BzNXuvcViBSibQSBid.jpg" group-title="VFLIX ESTRENOS",Soy tu mujer (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/40758.mkv
+#EXTINF:-1 tvg-id="Cómo sobrevivir en un mundo material (Kajillionaire) (2020)" tvg-name="Cómo sobrevivir en un mundo material (Kajillionaire) (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h13fXv8dg41fSqNmKEz25RIt2SH.jpg" group-title="VFLIX ESTRENOS",Cómo sobrevivir en un mundo material (Kajillionaire) (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/40759.mkv
+#EXTINF:-1 tvg-id="Mank (2020)" tvg-name="Mank (2020)" tvg-logo="http://xdgo.live:8080/images/5e87ca10741ef56b683d2c5a17fc816e.jpg" group-title="VFLIX ESTRENOS",Mank (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/40760.mkv
+#EXTINF:-1 tvg-id="Odio l'estate (2020)" tvg-name="Odio l'estate (2020)" tvg-logo="http://xdgo.live:8080/images/58b7874eebe3374523d8f45925f76bc9.jpg" group-title="VFLIX ESTRENOS",Odio l'estate (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/40761.mkv
+#EXTINF:-1 tvg-id="La increíble historia de la Isla de las Rosas (2020)" tvg-name="La increíble historia de la Isla de las Rosas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Q5cfHddcKyC4KBKOzZeQ5hI55N.jpg" group-title="VFLIX ESTRENOS",La increíble historia de la Isla de las Rosas (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/40762.mkv
+#EXTINF:-1 tvg-id="Safety: La Última Línea de Defensa (2020)" tvg-name="Safety: La Última Línea de Defensa (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKWe6JLwdQRjZFTwSLGWy2IUbvi.jpg" group-title="VFLIX ESTRENOS",Safety: La Última Línea de Defensa (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/40763.mkv
+#EXTINF:-1 tvg-id="Sin Origen (2020)" tvg-name="Sin Origen (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9IfhfkdgCe148DdU1E9jgyb40z.jpg" group-title="VFLIX ESTRENOS",Sin Origen (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/40764.mkv
+#EXTINF:-1 tvg-id="The Gift of Christmas (2020)" tvg-name="The Gift of Christmas (2020)" tvg-logo="http://xdgo.live:8080/images/afb80e23ea96fd37e6c9f9a6ae44d49a.jpg" group-title="VFLIX ESTRENOS",The Gift of Christmas (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/40765.mkv
+#EXTINF:-1 tvg-id="The Prom (2020)" tvg-name="The Prom (2020)" tvg-logo="http://xdgo.live:8080/images/d28b8cb96f8b0e684ddd81c06b323fbc.jpg" group-title="VFLIX ESTRENOS",The Prom (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/40766.mkv
+#EXTINF:-1 tvg-id="En guerra con mi abuelo (2020)" tvg-name="En guerra con mi abuelo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9UQxxaJMZODEIh5zh7sm0ag75EY.jpg" group-title="VFLIX ESTRENOS",En guerra con mi abuelo (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/40767.mkv
+#EXTINF:-1 tvg-id="A Christmas Love Story (2019)" tvg-name="A Christmas Love Story (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCkgza1eyHnK3TFzLwrvvVf8p22.jpg" group-title="VFLIX ESTRENOS",A Christmas Love Story (2019)
+http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/40768.mkv
+#EXTINF:-1 tvg-id="Wild Mountain Thyme (2020)" tvg-name="Wild Mountain Thyme (2020)" tvg-logo="http://xdgo.live:8080/images/a7b788a32e3ece81c93e4f3b975f1971.jpg" group-title="VFLIX ESTRENOS",Wild Mountain Thyme (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/40769.mkv
+#EXTINF:-1 tvg-id="Wolfwalkers (2020)" tvg-name="Wolfwalkers (2020)" tvg-logo="http://xdgo.live:8080/images/2f05df46df548b718800c5f08f591766.jpg" group-title="VFLIX ESTRENOS",Wolfwalkers (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/40770.mkv
 #EXTINF:-1 tvg-id="Venganza implacable (2020)" tvg-name="Venganza implacable (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zeD4PabP6099gpE0STWJrJrCBCs.jpg" group-title="VFLIX ESTRENOS",Venganza implacable (2020)
 http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/40717.mkv
 #EXTINF:-1 tvg-id="Lassie Come Home (2020)" tvg-name="Lassie Come Home (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82yxvnYtgeRzsq5f9USlrFJI05s.jpg" group-title="VFLIX ESTRENOS",Lassie Come Home (2020)
@@ -28945,6 +29089,8 @@ http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/13239.mp4
 http://xdgo.live:8080/series/49_vAngelapaisa_a/Ppv9GFEHxD/11388.mkv
 #EXTINF:-1 tvg-id="xXx Reactivated (2017)" tvg-name="xXx Reactivated (2017)"  group-title="VFLIX CIENCIA FICCION",xXx Reactivated (2017)
 http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/22646.mp4
+#EXTINF:-1 tvg-id="Estación zombie 2 (2020)" tvg-name="Estación zombie 2 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmzfmGxXxSF716SYBW6seMgxMWE.jpg" group-title="VFLIX ESTRENOS",Estación zombie 2 (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/40833.mkv
 #EXTINF:-1 tvg-id="El Hombre Sin Gravedad" tvg-name="El Hombre Sin Gravedad" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukDD174mBv4IxXXho8R8CS3ocLK.jpg" group-title="VFLIX ESTRENOS",El Hombre Sin Gravedad
 http://xdgo.live:8080/movie/49_vAngelapaisa_a/Ppv9GFEHxD/6084.mkv
 #EXTINF:-1 tvg-id="Mole de olla receta original" tvg-name="Mole de olla receta original" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqqqkNlibXxXIhbDbEG97H3kZC5.jpg" group-title="VFLIX ESTRENOS",Mole de olla receta original
