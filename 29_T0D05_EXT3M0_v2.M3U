@@ -651,7 +651,7 @@ http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/30293
 http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/21863
 #EXTINF:-1 tvg-id="WINSPORTS PLUS HD" tvg-name="WINSPORTS PLUS HD" tvg-logo="https://bolavip.com/__export/1579878857776/sites/bolavip/img/2020/01/24/win_x1_crop1579878857355.png_267849830.png" group-title="DEPORTES",WINSPORTS PLUS HD
 http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/21862
-#EXTINF:-1 tvg-id="WINSPORTS PLUS FHD" tvg-name="WINSPORTS PLUS FHD" tvg-logo="https://bolavip.com/__export/1579878857776/sites/bolavip/img/2020/01/24/win_x1_crop1579878857355.png_267849830.png" group-title="DEPORTES",WINSPORTS PLUS FHD
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="WINSPORTS PLUS FHD" tvg-logo="https://bolavip.com/__export/1579878857776/sites/bolavip/img/2020/01/24/win_x1_crop1579878857355.png_267849830.png" group-title="DEPORTES",WINSPORTS PLUS FHD
 http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/21861
 #EXTINF:-1 tvg-id="WINSPORTS PLUS FHD op2" tvg-name="WINSPORTS PLUS FHD op2" tvg-logo="https://bolavip.com/__export/1579878857776/sites/bolavip/img/2020/01/24/win_x1_crop1579878857355.png_267849830.png" group-title="DEPORTES",WINSPORTS PLUS FHD op2
 http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/22149
@@ -961,9 +961,9 @@ http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/40047
 http://tv.xdgo.live:8080/movie/29_vAngela/dQ9yRjYZDk/22733.mp4
 #EXTINF:-1 tvg-id="Alberto Barros - Tributo A La Salsa Colombiana 2" tvg-name="Alberto Barros - Tributo A La Salsa Colombiana 2"  group-title="VFLIX CONCIERTOS",Alberto Barros - Tributo A La Salsa Colombiana 2
 http://tv.xdgo.live:8080/movie/29_vAngela/dQ9yRjYZDk/3638.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nunca,126  casi nunca
+#EXTINF:-1 tvg-id="" tvg-name="Nunca,148  casi nunca
 http://tv.xdgo.live:8080/movie/29_vAngela/dQ9yRjYZDk/40164.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Padre,296  Soldado
+#EXTINF:-1 tvg-id="" tvg-name="Padre,318  Soldado
 http://tv.xdgo.live:8080/movie/29_vAngela/dQ9yRjYZDk/30099.mkv
 #EXTINF:-1 tvg-id="BR WOOHOO HD" tvg-name="BR WOOHOO HD" group-title="BRASIL",BR WOOHOO HD
 http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/5579
@@ -1939,6 +1939,78 @@ http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/57
 http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/24261
 #EXTINF:-1 tvg-id="UFC FHD MX" tvg-name="PPV UFC" group-title="EVENTOS PPV",PPV UFC
 http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/23239
+#EXTINF:-1 tvg-id="PPV|| Soccer (Liga MX) Toluca at Tijuana 10:06 PM EST ( FOXD)" tvg-name="PPV|| Soccer (Liga MX) Toluca at Tijuana 10:06 PM EST ( FOXD)"  group-title="EVENTOS PPV",PPV|| Soccer (Liga MX) Toluca at Tijuana 10:06 PM EST ( FOXD)
+http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/41286
+#EXTINF:-1 tvg-id="PPV|| Golf (EPGA) Omega Dubai Desert Classic Final Round 3:30 AM EST ( Golf)" tvg-name="PPV|| Golf (EPGA) Omega Dubai Desert Classic Final Round 3:30 AM EST ( Golf)"  group-title="EVENTOS PPV",PPV|| Golf (EPGA) Omega Dubai Desert Classic Final Round 3:30 AM EST ( Golf)
+http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/41287
+#EXTINF:-1 tvg-id="PPV|| Racing (Auto) IMSA Weathertech :Rolex 24h at Daytona 6:00 AM EST ( NBCS)" tvg-name="PPV|| Racing (Auto) IMSA Weathertech :Rolex 24h at Daytona 6:00 AM EST ( NBCS)"  group-title="EVENTOS PPV",PPV|| Racing (Auto) IMSA Weathertech :Rolex 24h at Daytona 6:00 AM EST ( NBCS)
+http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/41288
+#EXTINF:-1 tvg-id="PPV|| Darts Ladbrokes Masters Day 1 7:45am EST (ITV4)" tvg-name="PPV|| Darts Ladbrokes Masters Day 1 7:45am EST (ITV4)"  group-title="EVENTOS PPV",PPV|| Darts Ladbrokes Masters Day 1 7:45am EST (ITV4)
+http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/41289
+#EXTINF:-1 tvg-id="PPV|| Snooker German Masters 9:00am EST (E1)" tvg-name="PPV|| Snooker German Masters 9:00am EST (E1)"  group-title="EVENTOS PPV",PPV|| Snooker German Masters 9:00am EST (E1)
+http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/41290
+#EXTINF:-1 tvg-id="PPV|| Basketball (NCAA Men) Southern Methodist at Houston 1:00 PM EST ( ESPN)" tvg-name="PPV|| Basketball (NCAA Men) Southern Methodist at Houston 1:00 PM EST ( ESPN)"  group-title="EVENTOS PPV",PPV|| Basketball (NCAA Men) Southern Methodist at Houston 1:00 PM EST ( ESPN)
+http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/41291
+#EXTINF:-1 tvg-id="PPV|| Hockey (NHL) New Jersey Devils at Buffalo Sabres 1:00 PM EST ( NHLN)" tvg-name="PPV|| Hockey (NHL) New Jersey Devils at Buffalo Sabres 1:00 PM EST ( NHLN)"  group-title="EVENTOS PPV",PPV|| Hockey (NHL) New Jersey Devils at Buffalo Sabres 1:00 PM EST ( NHLN)
+http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/41292
+#EXTINF:-1 tvg-id="PPV|| Golf (PGA) Farmers Insurance Open Final Round 1:00 PM EST ( Golf)" tvg-name="PPV|| Golf (PGA) Farmers Insurance Open Final Round 1:00 PM EST ( Golf)"  group-title="EVENTOS PPV",PPV|| Golf (PGA) Farmers Insurance Open Final Round 1:00 PM EST ( Golf)
+http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/41293
+#EXTINF:-1 tvg-id="PPV|| Soccer (Liga MX) Atlas at Club Universidad Nacional 1:00 PM EST ( UNIe)" tvg-name="PPV|| Soccer (Liga MX) Atlas at Club Universidad Nacional 1:00 PM EST ( UNIe)"  group-title="EVENTOS PPV",PPV|| Soccer (Liga MX) Atlas at Club Universidad Nacional 1:00 PM EST ( UNIe)
+http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/41294
+#EXTINF:-1 tvg-id="PPV|| Basketball (NBA) Los Angeles Clippers at New York Knicks 1:00 PM EST (MSG)" tvg-name="PPV|| Basketball (NBA) Los Angeles Clippers at New York Knicks 1:00 PM EST (MSG)" tvg-logo="http://xdgo.live:8080/images/3e05b5a53c55e5852704d008bd17cf18.jpg" group-title="EVENTOS PPV",PPV|| Basketball (NBA) Los Angeles Clippers at New York Knicks 1:00 PM EST (MSG)
+http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/41295
+#EXTINF:-1 tvg-id="PPV|| Snooker German Masters 2:00pm EST (E1)" tvg-name="PPV|| Snooker German Masters 2:00pm EST (E1)"  group-title="EVENTOS PPV",PPV|| Snooker German Masters 2:00pm EST (E1)
+http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/41296
+#EXTINF:-1 tvg-id="PPV|| Basketball (NCAA Men) Loyola Chicago at Missouri State 3:00 PM EST ( CBSSN)" tvg-name="PPV|| Basketball (NCAA Men) Loyola Chicago at Missouri State 3:00 PM EST ( CBSSN)"  group-title="EVENTOS PPV",PPV|| Basketball (NCAA Men) Loyola Chicago at Missouri State 3:00 PM EST ( CBSSN)
+http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/41297
+#EXTINF:-1 tvg-id="PPV|| Basketball (NBA) Utah Jazz at Denver Nuggets 3:30 PM EST ( NBATV)" tvg-name="PPV|| Basketball (NBA) Utah Jazz at Denver Nuggets 3:30 PM EST ( NBATV)" tvg-logo="http://xdgo.live:8080/images/3e05b5a53c55e5852704d008bd17cf18.jpg" group-title="EVENTOS PPV",PPV|| Basketball (NBA) Utah Jazz at Denver Nuggets 3:30 PM EST ( NBATV)
+http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/41298
+#EXTINF:-1 tvg-id="PPV|| Basketball (NCAA Men) Sam Houston St. at Stephen F. Austin State 4:00 PM EST ( ESPNU)" tvg-name="PPV|| Basketball (NCAA Men) Sam Houston St. at Stephen F. Austin State 4:00 PM EST ( ESPNU)"  group-title="EVENTOS PPV",PPV|| Basketball (NCAA Men) Sam Houston St. at Stephen F. Austin State 4:00 PM EST ( ESPNU)
+http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/41299
+#EXTINF:-1 tvg-id="PPV|| Hockey (NHL) Florida Panthers at Detroit Red Wings 5:00 PM EST ( NHLN)" tvg-name="PPV|| Hockey (NHL) Florida Panthers at Detroit Red Wings 5:00 PM EST ( NHLN)"  group-title="EVENTOS PPV",PPV|| Hockey (NHL) Florida Panthers at Detroit Red Wings 5:00 PM EST ( NHLN)
+http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/41300
+#EXTINF:-1 tvg-id="PPV|| Hockey (NHL) Dallas Stars at Carolina Hurricanes 5:00 PM EST (FSCR)" tvg-name="PPV|| Hockey (NHL) Dallas Stars at Carolina Hurricanes 5:00 PM EST (FSCR)"  group-title="EVENTOS PPV",PPV|| Hockey (NHL) Dallas Stars at Carolina Hurricanes 5:00 PM EST (FSCR)
+http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/41301
+#EXTINF:-1 tvg-id="PPV|| Basketball (NCAA Men) Northern Iowa at Southern Illinois Carbondale 6:00 PM EST ( ESPN2)" tvg-name="PPV|| Basketball (NCAA Men) Northern Iowa at Southern Illinois Carbondale 6:00 PM EST ( ESPN2)"  group-title="EVENTOS PPV",PPV|| Basketball (NCAA Men) Northern Iowa at Southern Illinois Carbondale 6:00 PM EST ( ESPN2)
+http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/41302
+#EXTINF:-1 tvg-id="PPV|| Tennis (Pro) Gippsland Trophy & Yarra Valley 6:30 PM EST ( TNNS)" tvg-name="PPV|| Tennis (Pro) Gippsland Trophy & Yarra Valley 6:30 PM EST ( TNNS)"  group-title="EVENTOS PPV",PPV|| Tennis (Pro) Gippsland Trophy & Yarra Valley 6:30 PM EST ( TNNS)
+http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/41303
+#EXTINF:-1 tvg-id="PPV|| Basketball (NBA) Brooklyn Nets at Washington Wizards 7:00 PM EST ( NBATV)" tvg-name="PPV|| Basketball (NBA) Brooklyn Nets at Washington Wizards 7:00 PM EST ( NBATV)" tvg-logo="http://xdgo.live:8080/images/3e05b5a53c55e5852704d008bd17cf18.jpg" group-title="EVENTOS PPV",PPV|| Basketball (NBA) Brooklyn Nets at Washington Wizards 7:00 PM EST ( NBATV)
+http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/41304
+#EXTINF:-1 tvg-id="PPV|| Basketball (NBA) Philadelphia 76ers at Indiana Pacers 7:00 PM EST (NBCSP)" tvg-name="PPV|| Basketball (NBA) Philadelphia 76ers at Indiana Pacers 7:00 PM EST (NBCSP)" tvg-logo="http://xdgo.live:8080/images/3e05b5a53c55e5852704d008bd17cf18.jpg" group-title="EVENTOS PPV",PPV|| Basketball (NBA) Philadelphia 76ers at Indiana Pacers 7:00 PM EST (NBCSP)
+http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/41305
+#EXTINF:-1 tvg-id="PPV|| Basketball (NBA) Orlando Magic at Toronto Raptors 7:00 PM EST (SN1)" tvg-name="PPV|| Basketball (NBA) Orlando Magic at Toronto Raptors 7:00 PM EST (SN1)" tvg-logo="http://xdgo.live:8080/images/3e05b5a53c55e5852704d008bd17cf18.jpg" group-title="EVENTOS PPV",PPV|| Basketball (NBA) Orlando Magic at Toronto Raptors 7:00 PM EST (SN1)
+http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/41306
+#EXTINF:-1 tvg-id="PPV|| Hockey (NHL) New York Islanders at Philadelphia Flyers 7:00 PM EST (SNE)" tvg-name="PPV|| Hockey (NHL) New York Islanders at Philadelphia Flyers 7:00 PM EST (SNE)"  group-title="EVENTOS PPV",PPV|| Hockey (NHL) New York Islanders at Philadelphia Flyers 7:00 PM EST (SNE)
+http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/41307
+#EXTINF:-1 tvg-id="PPV|| Hockey (NHL) Columbus Blue Jackets at Chicago Blackhawks 7:00 PM EST (NBCSCH)" tvg-name="PPV|| Hockey (NHL) Columbus Blue Jackets at Chicago Blackhawks 7:00 PM EST (NBCSCH)"  group-title="EVENTOS PPV",PPV|| Hockey (NHL) Columbus Blue Jackets at Chicago Blackhawks 7:00 PM EST (NBCSCH)
+http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/41308
+#EXTINF:-1 tvg-id="PPV|| Basketball (NCAA Men) Rutgers at Northwestern 7:30 PM EST ( BTN)" tvg-name="PPV|| Basketball (NCAA Men) Rutgers at Northwestern 7:30 PM EST ( BTN)"  group-title="EVENTOS PPV",PPV|| Basketball (NCAA Men) Rutgers at Northwestern 7:30 PM EST ( BTN)
+http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/41309
+#EXTINF:-1 tvg-id="PPV|| Hockey (NHL) Colorado Avalanche at Minnesota Wild 8:00 PM EST ( NHLN)" tvg-name="PPV|| Hockey (NHL) Colorado Avalanche at Minnesota Wild 8:00 PM EST ( NHLN)"  group-title="EVENTOS PPV",PPV|| Hockey (NHL) Colorado Avalanche at Minnesota Wild 8:00 PM EST ( NHLN)
+http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/41310
+#EXTINF:-1 tvg-id="PPV|| Basketball (NBA) Cleveland Cavaliers at Minnesota Timberwolves 8:00 PM EST (FSN)" tvg-name="PPV|| Basketball (NBA) Cleveland Cavaliers at Minnesota Timberwolves 8:00 PM EST (FSN)" tvg-logo="http://xdgo.live:8080/images/3e05b5a53c55e5852704d008bd17cf18.jpg" group-title="EVENTOS PPV",PPV|| Basketball (NBA) Cleveland Cavaliers at Minnesota Timberwolves 8:00 PM EST (FSN)
+http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/41311
+#EXTINF:-1 tvg-id="PPV|| Hockey (NHL) St. Louis Blues at Anaheim Ducks 8:00 PM EST (FSW)" tvg-name="PPV|| Hockey (NHL) St. Louis Blues at Anaheim Ducks 8:00 PM EST (FSW)"  group-title="EVENTOS PPV",PPV|| Hockey (NHL) St. Louis Blues at Anaheim Ducks 8:00 PM EST (FSW)
+http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/41312
+#EXTINF:-1 tvg-id="PPV|| Soccer (Liga MX) Club AmÃ©rica at Santos Laguna 8:06 PM EST ( FOXD)" tvg-name="PPV|| Soccer (Liga MX) Club AmÃ©rica at Santos Laguna 8:06 PM EST ( FOXD)"  group-title="EVENTOS PPV",PPV|| Soccer (Liga MX) Club AmÃ©rica at Santos Laguna 8:06 PM EST ( FOXD)
+http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/41313
+#EXTINF:-1 tvg-id="PPV|| Hockey (NHL) Ottawa Senators at Edmonton Oilers 9:00 PM EST (TSN5)" tvg-name="PPV|| Hockey (NHL) Ottawa Senators at Edmonton Oilers 9:00 PM EST (TSN5)"  group-title="EVENTOS PPV",PPV|| Hockey (NHL) Ottawa Senators at Edmonton Oilers 9:00 PM EST (TSN5)
+http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/41314
+#EXTINF:-1 tvg-id="PPV|| Basketball (NCAA Men) UNLV at Nevada 9:30 PM EST ( FS1)" tvg-name="PPV|| Basketball (NCAA Men) UNLV at Nevada 9:30 PM EST ( FS1)"  group-title="EVENTOS PPV",PPV|| Basketball (NCAA Men) UNLV at Nevada 9:30 PM EST ( FS1)
+http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/41315
+#EXTINF:-1 tvg-id="Rage in the Cage OKC 78 Lenz vs Pfister 8:30pm EST (PPV1)" tvg-name="Rage in the Cage OKC 78 Lenz vs Pfister 8:30pm EST (PPV1)"  group-title="EVENTOS PPV",Rage in the Cage OKC 78 Lenz vs Pfister 8:30pm EST (PPV1)
+http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/41316
+#EXTINF:-1 tvg-id="Dynasty Combat Sports 67 Coleman vs Wischmann 9:00pm EST (PPV1)" tvg-name="Dynasty Combat Sports 67 Coleman vs Wischmann 9:00pm EST (PPV1)"  group-title="EVENTOS PPV",Dynasty Combat Sports 67 Coleman vs Wischmann 9:00pm EST (PPV1)
+http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/41317
+#EXTINF:-1 tvg-id="PPV|| Wrestling WWE Royal Rumble 2021 Kickoff 6:00pm EST (PPV1)" tvg-name="PPV|| Wrestling WWE Royal Rumble 2021 Kickoff 6:00pm EST (PPV1)"  group-title="EVENTOS PPV",PPV|| Wrestling WWE Royal Rumble 2021 Kickoff 6:00pm EST (PPV1)
+http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/41318
+#EXTINF:-1 tvg-id="PPV|| Wrestling WWE Royal Rumble 7:00pm EST (PPV2)" tvg-name="PPV|| Wrestling WWE Royal Rumble 7:00pm EST (PPV2)"  group-title="EVENTOS PPV",PPV|| Wrestling WWE Royal Rumble 7:00pm EST (PPV2)
+http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/41319
+#EXTINF:-1 tvg-id="PPV|| Wrestling WWE Royal Rumble 7:00pm EST (PPV3)" tvg-name="PPV|| Wrestling WWE Royal Rumble 7:00pm EST (PPV3)"  group-title="EVENTOS PPV",PPV|| Wrestling WWE Royal Rumble 7:00pm EST (PPV3)
+http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/41320
+#EXTINF:-1 tvg-id="PPV|| Wrestling WWE Royal Rumble 7:00pm EST (PPV4)" tvg-name="PPV|| Wrestling WWE Royal Rumble 7:00pm EST (PPV4)"  group-title="EVENTOS PPV",PPV|| Wrestling WWE Royal Rumble 7:00pm EST (PPV4)
+http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/41321
 #EXTINF:-1 tvg-id="GUA Canal 4" tvg-name="GUA VEA CANAL" group-title="GUATEMALA",GUA VEA CANAL
 http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/2597
 #EXTINF:-1 tvg-id="GUA CANAL 11" tvg-name="GUA CANAL 11" group-title="GUATEMALA",GUA CANAL 11
@@ -3491,7 +3563,7 @@ http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/5914
 http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/360
 #EXTINF:-1 tvg-id="Universo" tvg-name="Universo" tvg-logo="" group-title="USA LATINO",Universo
 http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/374
-#EXTINF:-1 tvg-id="Universo" tvg-name="Universo Latino" tvg-logo="" group-title="USA LATINO",Universo Latino
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="Universo Latino" tvg-logo="" group-title="USA LATINO",Universo Latino
 http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/2198
 #EXTINF:-1 tvg-id="Univision" tvg-name="Univision" tvg-logo="" group-title="USA LATINO",Univision
 http://tv.xdgo.live:8080/29_vAngela/dQ9yRjYZDk/358
@@ -24115,6 +24187,52 @@ http://tv.xdgo.live:8080/series/29_vAngela/dQ9yRjYZDk/41081.mkv
 http://tv.xdgo.live:8080/series/29_vAngela/dQ9yRjYZDk/41082.mkv
 #EXTINF:-1 tvg-id="WandaVision S01 E03" tvg-name="WandaVision S01 E03"  group-title="WANDAVISION",WandaVision S01 E03
 http://tv.xdgo.live:8080/series/29_vAngela/dQ9yRjYZDk/41174.mkv
+#EXTINF:-1 tvg-id="WandaVision S01 E04" tvg-name="WandaVision S01 E04"  group-title="WANDAVISION",WandaVision S01 E04
+http://tv.xdgo.live:8080/series/29_vAngela/dQ9yRjYZDk/41262.mkv
+#EXTINF:-1 tvg-id="Butchers (2021)" tvg-name="Butchers (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLbuMxKORru3oTlItLBWpI5WJxR.jpg" group-title="VFLIX ESTRENOS",Butchers (2021)
+http://tv.xdgo.live:8080/movie/29_vAngela/dQ9yRjYZDk/41265.mkv
+#EXTINF:-1 tvg-id="Padre por duplicado (2021)" tvg-name="Padre por duplicado (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9k5MjbLsCftyrQ4ec6bPmRtORf.jpg" group-title="VFLIX ESTRENOS",Padre por duplicado (2021)
+http://tv.xdgo.live:8080/movie/29_vAngela/dQ9yRjYZDk/41268.mkv
+#EXTINF:-1 tvg-id="El Ascensor (2021)" tvg-name="El Ascensor (2021)" tvg-logo="http://xdgo.live:8080/images/0cf3565c7f48de4be7f5ec6a7739b9d4.jpg" group-title="VFLIX ESTRENOS",El Ascensor (2021)
+http://tv.xdgo.live:8080/movie/29_vAngela/dQ9yRjYZDk/41270.mkv
+#EXTINF:-1 tvg-id="Palmer (2021)" tvg-name="Palmer (2021)" tvg-logo="http://xdgo.live:8080/images/58c42aa26e22b53673bfad3817fbd673.jpg" group-title="VFLIX ESTRENOS",Palmer (2021)
+http://tv.xdgo.live:8080/movie/29_vAngela/dQ9yRjYZDk/41275.mkv
+#EXTINF:-1 tvg-id="Pequeños detalles (2021)" tvg-name="Pequeños detalles (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOb7bALn1uZZ7XYX1NT5Xfe9kbE.jpg" group-title="VFLIX ESTRENOS",Pequeños detalles (2021)
+http://tv.xdgo.live:8080/movie/29_vAngela/dQ9yRjYZDk/41281.mkv
+#EXTINF:-1 tvg-id="Para toda la vida (2020)" tvg-name="Para toda la vida (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hFgFMOtpLi6R1ejg0UeVaz5Mcxj.jpg" group-title="VFLIX ESTRENOS",Para toda la vida (2020)
+http://tv.xdgo.live:8080/movie/29_vAngela/dQ9yRjYZDk/41263.mkv
+#EXTINF:-1 tvg-id="Bajocero (2021)" tvg-name="Bajocero (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jSQm5N889mt4rudOYfYBUFapdYN.jpg" group-title="VFLIX ESTRENOS",Bajocero (2021)
+http://tv.xdgo.live:8080/movie/29_vAngela/dQ9yRjYZDk/41264.mkv
+#EXTINF:-1 tvg-id="Atrapado (2020)" tvg-name="Atrapado (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRCPafF0QzdUpWgZhfGVsW8Z7oI.jpg" group-title="VFLIX ESTRENOS",Atrapado (2020)
+http://tv.xdgo.live:8080/movie/29_vAngela/dQ9yRjYZDk/41266.mkv
+#EXTINF:-1 tvg-id="Dino Dana: The Movie (2020)" tvg-name="Dino Dana: The Movie (2020)" tvg-logo="http://xdgo.live:8080/images/88c336fa3a3df0ad8699952b7d125b02.jpg" group-title="VFLIX ESTRENOS",Dino Dana: The Movie (2020)
+http://tv.xdgo.live:8080/movie/29_vAngela/dQ9yRjYZDk/41267.mkv
+#EXTINF:-1 tvg-id="Echo Boomers (2020)" tvg-name="Echo Boomers (2020)" tvg-logo="http://xdgo.live:8080/images/b21fa61e25f25572ce25300e6b9fe348.jpg" group-title="VFLIX ESTRENOS",Echo Boomers (2020)
+http://tv.xdgo.live:8080/movie/29_vAngela/dQ9yRjYZDk/41269.mkv
+#EXTINF:-1 tvg-id="Ohana: El Tesoro De Hawái (2021)" tvg-name="Ohana: El Tesoro De Hawái (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTWl37oAYRXS3D5mEHmjveXXyrN.jpg" group-title="VFLIX ESTRENOS",Ohana: El Tesoro De Hawái (2021)
+http://tv.xdgo.live:8080/movie/29_vAngela/dQ9yRjYZDk/41272.mkv
+#EXTINF:-1 tvg-id="Jiu Jitsu (2020)" tvg-name="Jiu Jitsu (2020)" tvg-logo="http://xdgo.live:8080/images/6a26db49935009839593012500573420.jpg" group-title="VFLIX ESTRENOS",Jiu Jitsu (2020)
+http://tv.xdgo.live:8080/movie/29_vAngela/dQ9yRjYZDk/41273.mkv
+#EXTINF:-1 tvg-id="Nuevo orden (2020)" tvg-name="Nuevo orden (2020)" tvg-logo="http://xdgo.live:8080/images/f6e9328753324862baedbd1a335db496.jpg" group-title="VFLIX ESTRENOS",Nuevo orden (2020)
+http://tv.xdgo.live:8080/movie/29_vAngela/dQ9yRjYZDk/41274.mkv
+#EXTINF:-1 tvg-id="Una joven prometedora (2020)" tvg-name="Una joven prometedora (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7P6nT9AJXBtcYe2HlCxDz2p8eG6.jpg" group-title="VFLIX ESTRENOS",Una joven prometedora (2020)
+http://tv.xdgo.live:8080/movie/29_vAngela/dQ9yRjYZDk/41276.mkv
+#EXTINF:-1 tvg-id="A Soldiers Revenge (2020)" tvg-name="A Soldiers Revenge (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tJkYXEfM2teq48u3HBcvvjgqIb1.jpg" group-title="VFLIX ESTRENOS",A Soldiers Revenge (2020)
+http://tv.xdgo.live:8080/movie/29_vAngela/dQ9yRjYZDk/41277.mkv
+#EXTINF:-1 tvg-id="The Captive Nanny (2020)" tvg-name="The Captive Nanny (2020)" tvg-logo="http://xdgo.live:8080/images/7710714db4da8b2470f278b1fc8e8c42.jpg" group-title="VFLIX ESTRENOS",The Captive Nanny (2020)
+http://tv.xdgo.live:8080/movie/29_vAngela/dQ9yRjYZDk/41278.mkv
+#EXTINF:-1 tvg-id="The Dig (2019)" tvg-name="The Dig (2019)" tvg-logo="http://xdgo.live:8080/images/bd7c8e96762ff3347a565cfb6f775477.jpg" group-title="VFLIX ESTRENOS",The Dig (2019)
+http://tv.xdgo.live:8080/movie/29_vAngela/dQ9yRjYZDk/41279.mkv
+#EXTINF:-1 tvg-id="El joven detective (2020)" tvg-name="El joven detective (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNVEbuXSFXFmgLzNQLTYNNNJCoB.jpg" group-title="VFLIX ESTRENOS",El joven detective (2020)
+http://tv.xdgo.live:8080/movie/29_vAngela/dQ9yRjYZDk/41280.mkv
+#EXTINF:-1 tvg-id="The Outpost (2020)" tvg-name="The Outpost (2020)" tvg-logo="http://xdgo.live:8080/images/133c7b3490a28bb4d17f67026a0ffa62.jpg" group-title="VFLIX ESTRENOS",The Outpost (2020)
+http://tv.xdgo.live:8080/movie/29_vAngela/dQ9yRjYZDk/41282.mkv
+#EXTINF:-1 tvg-id="The Right One (2021)" tvg-name="The Right One (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAKqq0NKuWcQ2YnqVSb5RfGJA74.jpg" group-title="VFLIX ESTRENOS",The Right One (2021)
+http://tv.xdgo.live:8080/movie/29_vAngela/dQ9yRjYZDk/41283.mkv
+#EXTINF:-1 tvg-id="Ultraman Geed The Movie (2018)" tvg-name="Ultraman Geed The Movie (2018)" tvg-logo="http://xdgo.live:8080/images/698720162e7512d52ea83544dd2ea4de.jpg" group-title="VFLIX ESTRENOS",Ultraman Geed The Movie (2018)
+http://tv.xdgo.live:8080/movie/29_vAngela/dQ9yRjYZDk/41284.mkv
+#EXTINF:-1 tvg-id="Última misión en Afganistán (2019)" tvg-name="Última misión en Afganistán (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jUj3k9qpdCbeGCO0edYTfRmUYO5.jpg" group-title="VFLIX ESTRENOS",Última misión en Afganistán (2019)
+http://tv.xdgo.live:8080/movie/29_vAngela/dQ9yRjYZDk/41285.mkv
 #EXTINF:-1 tvg-id="Batman: Alma de Dragón (2021)" tvg-name="Batman: Alma de Dragón (2021)" tvg-logo="http://xdgo.live:8080/images/fd925d0456ccc594b0a5e4db5b85d430.jpg" group-title="VFLIX ESTRENOS",Batman: Alma de Dragón (2021)
 http://tv.xdgo.live:8080/movie/29_vAngela/dQ9yRjYZDk/41086.mkv
 #EXTINF:-1 tvg-id="Crack: Cocaine Corruption & Conspiracy (2021)" tvg-name="Crack: Cocaine Corruption & Conspiracy (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f7x1RoKXEkYtw175m7sN4emUrXl.jpg" group-title="VFLIX ESTRENOS",Crack: Cocaine Corruption & Conspiracy (2021)
