@@ -119,8 +119,6 @@ http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/23858
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/23831
 #EXTINF:-1 tvg-id="24 Horas Casado con Hijos" tvg-name="IRON MAN" group-title="24/7",IRON MAN
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/23872
-#EXTINF:-1 tvg-id="UNIVERSO MOVIES TARANTINO" tvg-name="LA DOCTORA JUGUETE" group-title="24/7",LA DOCTORA JUGUETE
-http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/23954
 #EXTINF:-1 tvg-id="24 Horas Casado con Hijos" tvg-name="LA LEY DE MILO MURPHY" group-title="24/7",LA LEY DE MILO MURPHY
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/23890
 #EXTINF:-1 tvg-id="24 Horas Casado con Hijos" tvg-name="LA PANTERA ROSA" group-title="24/7",LA PANTERA ROSA
@@ -209,8 +207,6 @@ http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/23839
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/23856
 #EXTINF:-1 tvg-id="24 Horas Casado con Hijos" tvg-name="TRANSFORMERS" group-title="24/7",TRANSFORMERS
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/23859
-#EXTINF:-1 tvg-id="24 Horas Casado con Hijos" tvg-name="TWO AND A HALF MEN" group-title="24/7",TWO AND A HALF MEN
-http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/23846
 #EXTINF:-1 tvg-id="UNIVERSO MOVIES TARANTINO" tvg-name="UFC PPV" group-title="24/7",UFC PPV
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/25806
 #EXTINF:-1 tvg-id="UNIVERSO MOVIES TARANTINO" tvg-name="UN SHOW MAS" group-title="24/7",UN SHOW MAS
@@ -271,7 +267,7 @@ http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1112
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1113
 #EXTINF:-1 tvg-id="CO CARACOL INTERNACIONAL HD" tvg-name="CO CARACOL INTERNACIONAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/2015_Caracol_TV_logo.svg/1024px-2015_Caracol_TV_logo.svg.png" group-title="COLOMBIA",CO CARACOL INTERNACIONAL HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/22256
-#EXTINF:-1 tvg-id="CO CITY TV HQ" tvg-name="CO CITY TV HD" tvg-logo="https://www.streetchurch.ca/wp-content/uploads/2010/02/Citytv_web1-800x445.png" group-title="COLOMBIA",CO CITY TV HD
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="CO CITY TV HD" tvg-logo="https://www.streetchurch.ca/wp-content/uploads/2010/02/Citytv_web1-800x445.png" group-title="COLOMBIA",CO CITY TV HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1115
 #EXTINF:-1 tvg-id="CO EL TIEMPO HD" tvg-name="CO EL TIEMPO HD" tvg-logo="https://pbs.twimg.com/profile_images/756594027223511045/y7NleJb3.jpg" group-title="COLOMBIA",CO EL TIEMPO HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1117
@@ -323,7 +319,7 @@ http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/2345
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/23994
 #EXTINF:-1 tvg-id="BEIN SPORTS FHD" tvg-name="BEIN SPORTS FHD" tvg-logo="https://comparaiso.es/sites/default/files/images/beinlogo-300.png" group-title="DEPORTES",BEIN SPORTS FHD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1849
-#EXTINF:-1 tvg-id="BEIN SPORTS N FHD" tvg-name="BEIN SPORTS N HQ" tvg-logo="https://comparaiso.es/sites/default/files/images/beinlogo-300.png" group-title="DEPORTES",BEIN SPORTS N HQ
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="BEIN SPORTS N HQ" tvg-logo="https://comparaiso.es/sites/default/files/images/beinlogo-300.png" group-title="DEPORTES",BEIN SPORTS N HQ
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/23993
 #EXTINF:-1 tvg-id="BEIN SPORTS N HD" tvg-name="BEIN SPORTS N HD" tvg-logo="https://comparaiso.es/sites/default/files/images/beinlogo-300.png" group-title="DEPORTES",BEIN SPORTS N HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1854
@@ -331,6 +327,8 @@ http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1854
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1853
 #EXTINF:-1 tvg-id="BEIN SPORTS N HD" tvg-name="BEIN SPORTS N HD op3" tvg-logo="https://comparaiso.es/sites/default/files/images/beinlogo-300.png" group-title="DEPORTES",BEIN SPORTS N HD op3
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1852
+#EXTINF:-1 tvg-id="BEIN SPORTS N HD" tvg-name="BEIN SPORTS N FHD" tvg-logo="https://comparaiso.es/sites/default/files/images/beinlogo-300.png" group-title="DEPORTES",BEIN SPORTS N FHD
+http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/41773
 #EXTINF:-1 tvg-id="BEIN SPORTS LALIGA FHD" tvg-name="BEIN SPORTS LALIGA HQ" tvg-logo="https://comparaiso.es/sites/default/files/images/beinlogo-300.png" group-title="DEPORTES",BEIN SPORTS LALIGA HQ
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/23995
 #EXTINF:-1 tvg-id="BEIN SPORTS LALIGA FHD" tvg-name="BEIN SPORTS LALIGA FHD" tvg-logo="https://comparaiso.es/sites/default/files/images/beinlogo-300.png" group-title="DEPORTES",BEIN SPORTS LALIGA FHD
@@ -343,9 +341,9 @@ http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/40737
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/40736
 #EXTINF:-1 tvg-id="CDO BASICO HD" tvg-name="CDO BASICO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/2013-09-04_JJDDNN_en_directo_a_traves_de_CDO.jpg/245px-2013-09-04_JJDDNN_en_directo_a_traves_de_CDO.jpg" group-title="DEPORTES",CDO BASICO HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1839
-#EXTINF:-1 tvg-id="CDO PREMIUM HD" tvg-name="CDO PREMIUM HD" tvg-logo="https://lisa.zapping.live/uploads/canales/color/cdo.jpg" group-title="DEPORTES",CDO PREMIUM HD
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="CDO PREMIUM HD" tvg-logo="https://lisa.zapping.live/uploads/canales/color/cdo.jpg" group-title="DEPORTES",CDO PREMIUM HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1840
-#EXTINF:-1 tvg-id="COMBATE HD" tvg-name="COMBATE HD" tvg-logo="http://s2.glbimg.com/nWiPzL7WGQSduafJ9Z0jLcO7-Og=/200x0/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/f/k/PGAPBBQeGWVAMkqdUQsw/logo-combate.png" group-title="DEPORTES",COMBATE HD
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="COMBATE HD" tvg-logo="http://s2.glbimg.com/nWiPzL7WGQSduafJ9Z0jLcO7-Og=/200x0/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/f/k/PGAPBBQeGWVAMkqdUQsw/logo-combate.png" group-title="DEPORTES",COMBATE HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/2330
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 1 HD" tvg-name="DIRECTV SPORTS 1 CL HQ" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 CL HQ
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/25834
@@ -391,9 +389,7 @@ http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/40099
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/22220
 #EXTINF:-1 tvg-id="ESPN SUR HD" tvg-name="ESPN PE FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN PE FHD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/40005
-#EXTINF:-1 tvg-id="ESPN BR HD" tvg-name="ESPN BR HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN BR HD
-http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/2332
-#EXTINF:-1 tvg-id="ESPN BR HD" tvg-name="ESPN BR HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN BR HD
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="ESPN BR HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN BR HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/2334
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="ESPN SUR LQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN SUR LQ
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/29594
@@ -403,31 +399,35 @@ http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/30425
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1858
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="ESPN SUR FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN SUR FHD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1861
-#EXTINF:-1 tvg-id="ESPN MX HQ" tvg-name="ESPN MX HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN MX HQ
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="ESPN MX HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN MX HQ
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1797
-#EXTINF:-1 tvg-id="ESPN MX HD" tvg-name="ESPN MX HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN MX HD
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="ESPN MX HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN MX HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1799
 #EXTINF:-1 tvg-id="ESPN MX FHD" tvg-name="ESPN MX FHD" tvg-logo="" group-title="DEPORTES",ESPN MX FHD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/30428
+#EXTINF:-1 tvg-id="ESPN SUR FHD" tvg-name="ESPN UR HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN UR HQ
+http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/41601
+#EXTINF:-1 tvg-id="ESPN SUR FHD" tvg-name="ESPN UR HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN UR HD
+http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/41595
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="ESPN 2 CL HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 2 CL HQ
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/30295
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="ESPN 2 CL HQ op2" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 2 CL HQ op2
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/28212
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="ESPN 2 CL HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 2 CL HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/30294
-#EXTINF:-1 tvg-id="ESPN 2 CL HD" tvg-name="ESPN 2 CL HD op2" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 2 CL HD op2
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="ESPN 2 CL HD op2" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 2 CL HD op2
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/22221
 #EXTINF:-1 tvg-id="ESPN 2 CL HD" tvg-name="ESPN 2 CL FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 2 CL FHD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/41173
 #EXTINF:-1 tvg-id="ESPN 2 SUR HD" tvg-name="ESPN 2 PE FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 2 PE FHD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/40006
-#EXTINF:-1 tvg-id="ESPN 2 BR HD" tvg-name="ESPN 2 BR HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 2 BR HD
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="ESPN 2 BR HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 2 BR HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/2331
-#EXTINF:-1 tvg-id="ESPN 2 MX HQ" tvg-name="ESPN 2 MX HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 2 MX HQ
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="ESPN 2 MX HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 2 MX HQ
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1796
-#EXTINF:-1 tvg-id="ESPN 2 MX HD" tvg-name="ESPN 2 MX HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 2 MX HD
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="ESPN 2 MX HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 2 MX HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1801
-#EXTINF:-1 tvg-id="ESPN 2 MX FHD" tvg-name="ESPN 2 MX FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 2 MX FHD
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="ESPN 2 MX FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 2 MX FHD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1793
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="ESPN 2 SUR HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 2 SUR HQ
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1856
@@ -437,13 +437,17 @@ http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1859
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1862
 #EXTINF:-1 tvg-id="ESPN 2 NORTE HD" tvg-name="ESPN 2 NORTE HD" tvg-logo="" group-title="DEPORTES",ESPN 2 NORTE HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/30426
+#EXTINF:-1 tvg-id="ESPN 2 SUR HQ" tvg-name="ESPN 2 UR HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 2 UR HQ
+http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/41602
+#EXTINF:-1 tvg-id="ESPN 2 SUR HQ" tvg-name="ESPN 2 UR HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 2 UR HD
+http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/41596
 #EXTINF:-1 tvg-id="ESPN 3 SUR HD" tvg-name="ESPN 3 PE FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 3 PE FHD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/40007
 #EXTINF:-1 tvg-id="ESPN 3 MX HQ" tvg-name="ESPN 3 MX HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 3 MX HQ
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1795
-#EXTINF:-1 tvg-id="ESPN 3 MX HD" tvg-name="ESPN 3 MX HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 3 MX HD
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="ESPN 3 MX HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 3 MX HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1800
-#EXTINF:-1 tvg-id="ESPN 3 MX FHD" tvg-name="ESPN 3 MX FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 3 MX FHD
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="ESPN 3 MX FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 3 MX FHD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1792
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="ESPN 3 SUR HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 3 SUR HQ
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1857
@@ -451,17 +455,21 @@ http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1857
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1860
 #EXTINF:-1 tvg-id="ESPN 3 SUR FHD" tvg-name="ESPN 3 SUR FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 3 SUR FHD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1863
+#EXTINF:-1 tvg-id="ESPN 3 SUR FHD" tvg-name="ESPN 3 UR HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 3 UR HQ
+http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/41603
+#EXTINF:-1 tvg-id="ESPN 3 SUR FHD" tvg-name="ESPN 3 UR HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 3 UR HD
+http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/41597
 #EXTINF:-1 tvg-id="ESPN  PLUS  MX HQ" tvg-name="ESPN  PLUS  MX HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN  PLUS  MX HQ
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1794
 #EXTINF:-1 tvg-id="ESPN  PLUS  MX HD" tvg-name="ESPN  PLUS  MX HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN  PLUS  MX HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1798
 #EXTINF:-1 tvg-id="ESPN  PLUS  MX FHD" tvg-name="ESPN  PLUS  MX FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN  PLUS  MX FHD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1790
-#EXTINF:-1 tvg-id="ESPN EXTRA BR HD" tvg-name="ESPN EXTRA BR HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN EXTRA BR HD
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="ESPN EXTRA BR HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN EXTRA BR HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/2333
 #EXTINF:-1 tvg-id="FOX DEPORTES FHD" tvg-name="FOX DEPORTES FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX DEPORTES FHD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1838
-#EXTINF:-1 tvg-id="FOX $PORTS BR HD" tvg-name="FOX $PORTS BR HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS BR HD
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="FOX $PORTS BR HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS BR HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/2336
 #EXTINF:-1 tvg-id="FOX $PORTS CL HD" tvg-name="FOX $PORTS CL HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS CL HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/2356
@@ -489,7 +497,7 @@ http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/2071
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/40686
 #EXTINF:-1 tvg-id="FOX $PORTS 1 CO HD" tvg-name="FOX $PORTS 1 CO HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 1 CO HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/40689
-#EXTINF:-1 tvg-id="FOX $PORTS 1 CO FHD" tvg-name="FOX $PORTS 1 CO FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 1 CO FHD
+#EXTINF:-1 tvg-id="FOX $PORTS 1 CO HD" tvg-name="FOX $PORTS 1 CO FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 1 CO FHD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/40692
 #EXTINF:-1 tvg-id="FOX $PORTS 1 MX HQ" tvg-name="FOX $PORTS 1 MX HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 1 MX HQ
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1771
@@ -497,7 +505,13 @@ http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1771
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1772
 #EXTINF:-1 tvg-id="FOX $PORTS 1 MX FHD" tvg-name="FOX $PORTS 1 MX FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 1 MX FHD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1766
-#EXTINF:-1 tvg-id="FOX $PORTS 2 BR HD" tvg-name="FOX $PORTS 2 BR HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 2 BR HD
+#EXTINF:-1 tvg-id="FOX $PORTS 1 CO HD" tvg-name="FOX $PORTS 1 PE FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 1 PE FHD
+http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/41770
+#EXTINF:-1 tvg-id="FOX $PORTS 1 AR HQ" tvg-name="FOX $PORTS 1 UR HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 1 UR HQ
+http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/41598
+#EXTINF:-1 tvg-id="FOX $PORTS 1 AR LQ" tvg-name="FOX $PORTS 1 UR HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 1 UR HD
+http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/41608
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="FOX $PORTS 2 BR HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 2 BR HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/2335
 #EXTINF:-1 tvg-id="FOX $PORTS 2 CL FHD" tvg-name="FOX $PORTS 2 CL HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 2 CL HQ
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/40150
@@ -509,7 +523,7 @@ http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/40154
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/40687
 #EXTINF:-1 tvg-id="FOX $PORTS 2 CO HD" tvg-name="FOX $PORTS 2 CO HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 2 CO HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/40690
-#EXTINF:-1 tvg-id="FOX $PORTS 2 CO FHD" tvg-name="FOX $PORTS 2 CO FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 2 CO FHD
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="FOX $PORTS 2 CO FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 2 CO FHD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/40693
 #EXTINF:-1 tvg-id="FOX $PORTS 2 AR HQ" tvg-name="FOX $PORTS 2 MX HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 2 MX HQ
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1770
@@ -523,6 +537,12 @@ http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1776
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1782
 #EXTINF:-1 tvg-id="FOX $PORTS 2 AR FHD" tvg-name="FOX $PORTS 2 AR FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 2 AR FHD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1778
+#EXTINF:-1 tvg-id="FOX $PORTS 2 CO HD" tvg-name="FOX $PORTS 2 PE FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 2 PE FHD
+http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/41771
+#EXTINF:-1 tvg-id="FOX $PORTS 2 CO HD" tvg-name="FOX $PORTS 2 UR HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 2 UR HQ
+http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/41599
+#EXTINF:-1 tvg-id="FOX $PORTS 2 CO HD" tvg-name="FOX $PORTS 2 UR HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 2 UR HD
+http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/41593
 #EXTINF:-1 tvg-id="FOX $PORTS 3 AR HQ" tvg-name="FOX $PORTS 3 AR HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 3 AR HQ
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1775
 #EXTINF:-1 tvg-id="FOX $PORTS 3 AR HD" tvg-name="FOX $PORTS 3 AR HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 3 AR HD
@@ -539,6 +559,12 @@ http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1769
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1773
 #EXTINF:-1 tvg-id="FOX $PORTS 3 MX FHD" tvg-name="FOX $PORTS 3 MX FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 3 MX FHD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1767
+#EXTINF:-1 tvg-id="FOX $PORTS 3 CO HD" tvg-name="FOX $PORTS 3 PE HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 3 PE HD
+http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/41772
+#EXTINF:-1 tvg-id="FOX $PORTS 3 AR HQ" tvg-name="FOX $PORTS 3 UR HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 3 UR HQ
+http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/41600
+#EXTINF:-1 tvg-id="FOX $PORTS 3 AR HD" tvg-name="FOX $PORTS 3 UR HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 3 UR HD
+http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/41594
 #EXTINF:-1 tvg-id="FOX $PORTS PREMIUM HD" tvg-name="FOX $PORTS PREMIUM HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS PREMIUM HQ
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/40910
 #EXTINF:-1 tvg-id="FOX $PORTS PREMIUM HD" tvg-name="FOX $PORTS PREMIUM HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS PREMIUM HD
@@ -565,7 +591,7 @@ http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/40101
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1833
 #EXTINF:-1 tvg-id="GOL TV Ecuador FHD" tvg-name="GOL TV ECUADOR FHD" tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf_400x400.jpg" group-title="DEPORTES",GOL TV ECUADOR FHD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1834
-#EXTINF:-1 tvg-id="GOLF CHANNEL HQ" tvg-name="GOLF CHANNEL HQ" tvg-logo="https://images.mi.tv/channels/co_golf-channel_m.png" group-title="DEPORTES",GOLF CHANNEL HQ
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="GOLF CHANNEL HD" tvg-logo="https://images.mi.tv/channels/co_golf-channel_m.png" group-title="DEPORTES",GOLF CHANNEL HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1831
 #EXTINF:-1 tvg-id="LA LIGA TV FHD" tvg-name="LALIGA TV FHD" tvg-logo="https://www.eluniverso.com/sites/default/files/styles/powgallery_1024/public/fotos/2019/08/laliga-h-1200x1200_2018.jpg?itok=tmme1ICf" group-title="DEPORTES",LALIGA TV FHD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1830
@@ -609,6 +635,8 @@ http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1823
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1820
 #EXTINF:-1 tvg-id="TIGO SPORTS 2 HD" tvg-name="TIGO SPORTS 2 HD" tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",TIGO SPORTS 2 HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1821
+#EXTINF:-1 tvg-id="TIGO SPORTS 1 HD" tvg-name="TIGO SPORTS HONDURAS HD" tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",TIGO SPORTS HONDURAS HD
+http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/41345
 #EXTINF:-1 tvg-id="TNT SPORTS HD" tvg-name="TNT SPORTS AR HD" tvg-logo="https://tntsports.com/__export/1565373169000/sites/tntsports/arte/apps/facebook.jpg" group-title="DEPORTES",TNT SPORTS AR HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1815
 #EXTINF:-1 tvg-id="TNT SPORTS FHD" tvg-name="TNT SPORTS AR FHD" tvg-logo="https://tntsports.com/__export/1565373169000/sites/tntsports/arte/apps/facebook.jpg" group-title="DEPORTES",TNT SPORTS AR FHD
@@ -633,12 +661,20 @@ http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1812
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1810
 #EXTINF:-1 tvg-id="TyC SPORTS INTERNACIONAL FHD" tvg-name="TyC SPORTS INTERNACIONAL FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102018/untitled-1_0.png?F6I3fSfXjacEnK1eqDG27n_ZDOB47hGe&itok=O6OvPoFN" group-title="DEPORTES",TyC SPORTS INTERNACIONAL FHD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1864
+#EXTINF:-1 tvg-id="VTV HQ" tvg-name="VTV HQ op3" tvg-logo="https://pbs.twimg.com/profile_images/846441916917002240/AlVftQ9-_400x400.jpg" group-title="DEPORTES",VTV HQ op3
+http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/41606
+#EXTINF:-1 tvg-id="VTV HQ op2" tvg-name="VTV HD op2" tvg-logo="https://pbs.twimg.com/profile_images/846441916917002240/AlVftQ9-_400x400.jpg" group-title="DEPORTES",VTV HD op2
+http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/41607
 #EXTINF:-1 tvg-id="VTV  PLUS  HD" tvg-name="VTV  PLUS  HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VTV 2BUruguay.svg/768px-VTV 2BUruguay.svg.png" group-title="DEPORTES",VTV  PLUS  HQ
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/17333
+#EXTINF:-1 tvg-id="VTV  PLUS  HD" tvg-name="VTV  PLUS  HQ op2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VTV 2BUruguay.svg/768px-VTV 2BUruguay.svg.png" group-title="DEPORTES",VTV  PLUS  HQ op2
+http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/41609
 #EXTINF:-1 tvg-id="VTV  PLUS  HD" tvg-name="VTV  PLUS  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VTV 2BUruguay.svg/768px-VTV 2BUruguay.svg.png" group-title="DEPORTES",VTV  PLUS  HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/16453
 #EXTINF:-1 tvg-id="VTV  PLUS  HQ" tvg-name="VTV  PLUS  HD op2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VTV 2BUruguay.svg/768px-VTV 2BUruguay.svg.png" group-title="DEPORTES",VTV  PLUS  HD op2
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/16454
+#EXTINF:-1 tvg-id="VTV  PLUS  HD" tvg-name="VTV  PLUS  HD op3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VTV 2BUruguay.svg/768px-VTV 2BUruguay.svg.png" group-title="DEPORTES",VTV  PLUS  HD op3
+http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/41610
 #EXTINF:-1 tvg-id="WINSPORTS HQ" tvg-name="WINSPORTS HQ" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/26/f8/5e/26f85e39-1c07-4a6b-937c-64488469731d/source/512x512bb.jpg" group-title="DEPORTES",WINSPORTS HQ
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1802
 #EXTINF:-1 tvg-id="WINSPORTS HD" tvg-name="WINSPORTS HD" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/26/f8/5e/26f85e39-1c07-4a6b-937c-64488469731d/source/512x512bb.jpg" group-title="DEPORTES",WINSPORTS HD
@@ -649,11 +685,11 @@ http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1804
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/30293
 #EXTINF:-1 tvg-id="WINSPORTS PLUS HQ" tvg-name="WINSPORTS PLUS HQ" tvg-logo="https://bolavip.com/__export/1579878857776/sites/bolavip/img/2020/01/24/win_x1_crop1579878857355.png_267849830.png" group-title="DEPORTES",WINSPORTS PLUS HQ
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/21863
-#EXTINF:-1 tvg-id="WINSPORTS PLUS HD" tvg-name="WINSPORTS PLUS HD" tvg-logo="https://bolavip.com/__export/1579878857776/sites/bolavip/img/2020/01/24/win_x1_crop1579878857355.png_267849830.png" group-title="DEPORTES",WINSPORTS PLUS HD
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="WINSPORTS PLUS HD" tvg-logo="https://bolavip.com/__export/1579878857776/sites/bolavip/img/2020/01/24/win_x1_crop1579878857355.png_267849830.png" group-title="DEPORTES",WINSPORTS PLUS HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/21862
-#EXTINF:-1 tvg-id="WINSPORTS PLUS FHD" tvg-name="WINSPORTS PLUS FHD" tvg-logo="https://bolavip.com/__export/1579878857776/sites/bolavip/img/2020/01/24/win_x1_crop1579878857355.png_267849830.png" group-title="DEPORTES",WINSPORTS PLUS FHD
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="WINSPORTS PLUS FHD" tvg-logo="https://bolavip.com/__export/1579878857776/sites/bolavip/img/2020/01/24/win_x1_crop1579878857355.png_267849830.png" group-title="DEPORTES",WINSPORTS PLUS FHD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/21861
-#EXTINF:-1 tvg-id="WINSPORTS PLUS FHD op2" tvg-name="WINSPORTS PLUS FHD op2" tvg-logo="https://bolavip.com/__export/1579878857776/sites/bolavip/img/2020/01/24/win_x1_crop1579878857355.png_267849830.png" group-title="DEPORTES",WINSPORTS PLUS FHD op2
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="WINSPORTS PLUS FHD op2" tvg-logo="https://bolavip.com/__export/1579878857776/sites/bolavip/img/2020/01/24/win_x1_crop1579878857355.png_267849830.png" group-title="DEPORTES",WINSPORTS PLUS FHD op2
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/22149
 #EXTINF:-1 tvg-id="WWE HD" tvg-name="WWE HD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51EVQDiJh1L.png" group-title="DEPORTES",WWE HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/2344
@@ -723,15 +759,17 @@ http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/2369
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/2378
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES INTERNACIONALES",ESPN 2
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/2379
-#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="ESPN DEPORTES" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES INTERNACIONALES",ESPN DEPORTES
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN DEPORTES" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES INTERNACIONALES",ESPN DEPORTES
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/2380
-#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="ESPN DEPORTES op2" tvg-logo="" group-title="DEPORTES INTERNACIONALES",ESPN DEPORTES op2
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN DEPORTES op2" tvg-logo="" group-title="DEPORTES INTERNACIONALES",ESPN DEPORTES op2
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/23240
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN DEPORTES op3" tvg-logo="" group-title="DEPORTES INTERNACIONALES",ESPN DEPORTES op3
+http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/41362
 #EXTINF:-1 tvg-id="ESPN NEWS" tvg-name="ESPN NEWS" tvg-logo="" group-title="DEPORTES INTERNACIONALES",ESPN NEWS
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/30194
 #EXTINF:-1 tvg-id="ESPN op2" tvg-name="ESPN op2" tvg-logo="" group-title="DEPORTES INTERNACIONALES",ESPN op2
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/22449
-#EXTINF:-1 tvg-id="ESPN U" tvg-name="ESPN U" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES INTERNACIONALES",ESPN U
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="ESPN U" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES INTERNACIONALES",ESPN U
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/2377
 #EXTINF:-1 tvg-id="ELEVEN SPORTS" tvg-name="ELEVEN SPORTS" tvg-logo="" group-title="DEPORTES INTERNACIONALES",ELEVEN SPORTS
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/2048
@@ -883,8 +921,6 @@ http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1984
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1985
 #EXTINF:-1 tvg-id="REDBULL TV" tvg-name="REDBULL TV" tvg-logo="https://aertv.s3.amazonaws.com/wp-content/uploads/2013/05/redbull-tv-logo.png" group-title="DEPORTES INTERNACIONALES",REDBULL TV
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/27496
-#EXTINF:-1 tvg-id="ROMA CHANNEL" tvg-name="ROMA CHANNEL" tvg-logo="" group-title="DEPORTES INTERNACIONALES",ROMA CHANNEL
-http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/30209
 #EXTINF:-1 tvg-id="SKY MOTO GP HD" tvg-name="SKY MOTO GP HD" tvg-logo="" group-title="DEPORTES INTERNACIONALES",SKY MOTO GP HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/5435
 #EXTINF:-1 tvg-id="SKY SPORT 1" tvg-name="SKY SPORT 1" tvg-logo="" group-title="DEPORTES INTERNACIONALES",SKY SPORT 1
@@ -953,19 +989,19 @@ http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/30191
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/2049
 #EXTINF:-1 tvg-id="YES NETWORK" tvg-name="YES NETWORK" tvg-logo="" group-title="DEPORTES INTERNACIONALES",YES NETWORK
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/30196
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 1 HD" tvg-name="BEIN SPORTS 12" tvg-logo="" group-title="DEPORTES INTERNACIONALES",BEIN SPORTS 12
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="BEIN SPORTS 12" tvg-logo="" group-title="DEPORTES INTERNACIONALES",BEIN SPORTS 12
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/40046
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 1 HD" tvg-name="BEIN SPORTS 11" tvg-logo="" group-title="DEPORTES INTERNACIONALES",BEIN SPORTS 11
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="BEIN SPORTS 11" tvg-logo="" group-title="DEPORTES INTERNACIONALES",BEIN SPORTS 11
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/40047
 #EXTINF:-1 tvg-id="Colombiana (2011)" tvg-name="Colombiana (2011)"  group-title="VFLIX ACCION",Colombiana (2011)
 http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/22733.mp4
 #EXTINF:-1 tvg-id="Alberto Barros - Tributo A La Salsa Colombiana 2" tvg-name="Alberto Barros - Tributo A La Salsa Colombiana 2"  group-title="VFLIX CONCIERTOS",Alberto Barros - Tributo A La Salsa Colombiana 2
 http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/3638.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nunca,126  casi nunca
+#EXTINF:-1 tvg-id="" tvg-name="Nunca,188  casi nunca
 http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/40164.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Padre,296  Soldado
+#EXTINF:-1 tvg-id="" tvg-name="Padre,358  Soldado
 http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/30099.mkv
-#EXTINF:-1 tvg-id="BR WOOHOO HD" tvg-name="BR WOOHOO HD" group-title="BRASIL",BR WOOHOO HD
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="BR WOOHOO HD" group-title="BRASIL",BR WOOHOO HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/5579
 #EXTINF:-1 tvg-id="BR WARNER HD" tvg-name="BR WARNER HD" group-title="BRASIL",BR WARNER HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/5578
@@ -973,7 +1009,7 @@ http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/5578
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/5577
 #EXTINF:-1 tvg-id="BR UNIVERSAL CHANNEL HD" tvg-name="BR UNIVERSAL CHANNEL HD" group-title="BRASIL",BR UNIVERSAL CHANNEL HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/5575
-#EXTINF:-1 tvg-id="BR TV RA TIM BUM HD" tvg-name="BR TV RA TIM BUM HD" group-title="BRASIL",BR TV RA TIM BUM HD
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="BR TV RA TIM BUM HD" group-title="BRASIL",BR TV RA TIM BUM HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/5572
 #EXTINF:-1 tvg-id="BR TV GAZETA HD" tvg-name="BR TV GAZETA HD" group-title="BRASIL",BR TV GAZETA HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/5571
@@ -1101,7 +1137,7 @@ http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/5465
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/5463
 #EXTINF:-1 tvg-id="BR CARTOON NETWORK HD" tvg-name="BR CARTOON NETWORK HD" group-title="BRASIL",BR CARTOON NETWORK HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/5461
-#EXTINF:-1 tvg-id="BR CANAL BRASIL HD" tvg-name="BR CANAL BRASIL HD" group-title="BRASIL",BR CANAL BRASIL HD
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="BR CANAL BRASIL HD" group-title="BRASIL",BR CANAL BRASIL HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/5459
 #EXTINF:-1 tvg-id="BR BOOMERANG HD" tvg-name="BR BOOMERANG HD" group-title="BRASIL",BR BOOMERANG HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/5458
@@ -1109,7 +1145,7 @@ http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/5458
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/5457
 #EXTINF:-1 tvg-id="BR BAND SPORTS HD" tvg-name="BR BAND SPORTS HD" group-title="BRASIL",BR BAND SPORTS HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/5456
-#EXTINF:-1 tvg-id="BR BAND NEWS HD" tvg-name="BR BAND NEWS HD" group-title="BRASIL",BR BAND NEWS HD
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="BR BAND NEWS HD" group-title="BRASIL",BR BAND NEWS HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/5455
 #EXTINF:-1 tvg-id="BR BAND HD" tvg-name="BR BAND HD" group-title="BRASIL",BR BAND HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/5454
@@ -1133,7 +1169,7 @@ http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/5690
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/5665
 #EXTINF:-1 tvg-id="CA BBC WORLD NEWS" tvg-name="CA BBC WORLD NEWS" group-title="CANADA",CA BBC WORLD NEWS
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/5745
-#EXTINF:-1 tvg-id="USA beIN Sports" tvg-name="CA BEIN SPORTS" tvg-logo="https://comparaiso.es/sites/default/files/images/beinlogo-300.png" group-title="CANADA",CA BEIN SPORTS
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="CA BEIN SPORTS" group-title="CANADA",CA BEIN SPORTS
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/5689
 #EXTINF:-1 tvg-id="CA BET" tvg-name="CA BET" group-title="CANADA",CA BET
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/5714
@@ -1535,7 +1571,7 @@ http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/956
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/871
 #EXTINF:-1 tvg-id="FOX PREMIUM ACTION HD" tvg-name="FOX PREMIUM ACTION HD" tvg-logo="https://foxmas.foxplay.com/img/logo_foxaction.png" group-title="CINE HD",FOX PREMIUM ACTION HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/910
-#EXTINF:-1 tvg-id="FOX PREMIUM ACTION FHD" tvg-name="FOX PREMIUM ACTION HD op2" tvg-logo="https://foxmas.foxplay.com/img/logo_foxaction.png" group-title="CINE HD",FOX PREMIUM ACTION HD op2
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="FOX PREMIUM ACTION HD op2" tvg-logo="https://foxmas.foxplay.com/img/logo_foxaction.png" group-title="CINE HD",FOX PREMIUM ACTION HD op2
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/937
 #EXTINF:-1 tvg-id="FOX PREMIUM ACTION HQ" tvg-name="FOX PREMIUM ACTION HQ" tvg-logo="https://foxmas.foxplay.com/img/logo_foxaction.png" group-title="CINE HD",FOX PREMIUM ACTION HQ
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/875
@@ -1583,6 +1619,10 @@ http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/864
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/2386
 #EXTINF:-1 tvg-id="GOLDEN PREMIER HQ" tvg-name="GOLDEN PREMIER HQ" tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/05/televisa-afiliados-senales-golden-premier.jpg" group-title="CINE HD",GOLDEN PREMIER HQ
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/2387
+#EXTINF:-1 tvg-id="GOLDEN PREMIER FHD" tvg-name="GOLDEN PREMIER 2 HD" tvg-logo="https://promocionestigosv.com/report-tigo/SV/tigo-star-canales/images/238-Golden-Premier-2-01.jpg" group-title="CINE HD",GOLDEN PREMIER 2 HD
+http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/41590
+#EXTINF:-1 tvg-id="GOLDEN PREMIER HD" tvg-name="GOLDEN PREMIER 2 HQ" tvg-logo="https://promocionestigosv.com/report-tigo/SV/tigo-star-canales/images/238-Golden-Premier-2-01.jpg" group-title="CINE HD",GOLDEN PREMIER 2 HQ
+http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/41591
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo.png" group-title="CINE HD",HBO HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/2388
 #EXTINF:-1 tvg-id="HBO HQ" tvg-name="HBO HQ" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo.png" group-title="CINE HD",HBO HQ
@@ -1743,9 +1783,9 @@ http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/985
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1036
 #EXTINF:-1 tvg-id="USA HGTV" tvg-name="HGTV HQ" tvg-logo="https://i.pinimg.com/280x280_RS/1b/f1/d4/1bf1d4bf0ed8c37e1c8efc5b17401467.jpg" group-title="CULTURA ",HGTV HQ
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/40086
-#EXTINF:-1 tvg-id="USA HGTV" tvg-name="HGTV HD" tvg-logo="https://i.pinimg.com/280x280_RS/1b/f1/d4/1bf1d4bf0ed8c37e1c8efc5b17401467.jpg" group-title="CULTURA ",HGTV HD
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="HGTV HD" group-title="CULTURA ",HGTV HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/40085
-#EXTINF:-1 tvg-id="USA HGTV" tvg-name="HGTV FHD" tvg-logo="https://i.pinimg.com/280x280_RS/1b/f1/d4/1bf1d4bf0ed8c37e1c8efc5b17401467.jpg" group-title="CULTURA ",HGTV FHD
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="HGTV FHD" group-title="CULTURA ",HGTV FHD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/40084
 #EXTINF:-1 tvg-id="HISTORY HQ" tvg-name="HISTORY HQ" group-title="CULTURA ",HISTORY HQ
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/1008
@@ -1959,7 +1999,7 @@ http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/2464
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/2463
 #EXTINF:-1 tvg-id="HN CANAL 45 TV" tvg-name="HN CANAL 45 TV" group-title="HONDURAS",HN CANAL 45 TV
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/2460
-#EXTINF:-1 tvg-id="HN CANAL 5 HQ" tvg-name="HN CANAL 5" group-title="HONDURAS",HN CANAL 5
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="HN CANAL 5" group-title="HONDURAS",HN CANAL 5
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/22227
 #EXTINF:-1 tvg-id="HN CANAL 6" tvg-name="HN CANAL 6" group-title="HONDURAS",HN CANAL 6
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/2458
@@ -2201,7 +2241,7 @@ http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/27578
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/177
 #EXTINF:-1 tvg-id="MX Hola TV HD" tvg-name="MX Hola TV HQ" group-title="MEXICO",MX Hola TV HQ
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/27579
-#EXTINF:-1 tvg-id="MX IMAGEN TELEVISION" tvg-name="MX Imagen TV FHD" group-title="MEXICO",MX Imagen TV FHD
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="MX Imagen TV FHD" group-title="MEXICO",MX Imagen TV FHD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/40013
 #EXTINF:-1 tvg-id="CR CANAL 14 TV SUR" tvg-name="MX Milenio FHD" group-title="MEXICO",MX Milenio FHD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/27586
@@ -2241,8 +2281,6 @@ http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/22208
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/162
 #EXTINF:-1 tvg-id="MX Unicable HD" tvg-name="MX Unicable HQ" group-title="MEXICO",MX Unicable HQ
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/27577
-#EXTINF:-1 tvg-id="MX Wobi HD" tvg-name="MX Wobi HD" group-title="MEXICO",MX Wobi HD
-http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/27583
 #EXTINF:-1 tvg-id="USA YES" tvg-name="MX Wobi HQ" tvg-logo="https://staticz.womenalia.com/images/imagenes/hoy-en-womenalia/otros-temas/hew_otrostemas_wobi.jpg" group-title="MEXICO",MX Wobi HQ
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/27582
 #EXTINF:-1 tvg-id="MU BANDAMAX HD" tvg-name="MU BANDAMAX HQ" group-title="MUSICA",MU BANDAMAX HQ
@@ -2407,7 +2445,7 @@ http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/336
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/337
 #EXTINF:-1 tvg-id="NBA League Pass - TNT" tvg-name="NBA League Pass - TNT" tvg-logo="https://play-lh.googleusercontent.com/I6Jz9nEZq-8jBPn2bmjywWLXLZ7GMn2WR64x9w1xQm8H5Isd1rhaQ4NDsp3jVUhLPFI" group-title="NBA MLB NFL NHL",NBA League Pass - TNT
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/338
-#EXTINF:-1 tvg-id="NBA TV HD" tvg-name="NBA TV" tvg-logo="https://play-lh.googleusercontent.com/I6Jz9nEZq-8jBPn2bmjywWLXLZ7GMn2WR64x9w1xQm8H5Isd1rhaQ4NDsp3jVUhLPFI" group-title="NBA MLB NFL NHL",NBA TV
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="NBA TV" tvg-logo="https://play-lh.googleusercontent.com/I6Jz9nEZq-8jBPn2bmjywWLXLZ7GMn2WR64x9w1xQm8H5Isd1rhaQ4NDsp3jVUhLPFI" group-title="NBA MLB NFL NHL",NBA TV
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/339
 #EXTINF:-1 tvg-id="NBA - Dallas Mavericks" tvg-name="NBA Atlanta Hawks" tvg-logo="https://play-lh.googleusercontent.com/I6Jz9nEZq-8jBPn2bmjywWLXLZ7GMn2WR64x9w1xQm8H5Isd1rhaQ4NDsp3jVUhLPFI" group-title="NBA MLB NFL NHL",NBA Atlanta Hawks
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/40753
@@ -2697,8 +2735,6 @@ http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/6044
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/6043
 #EXTINF:-1 tvg-id="REL ALIENTO Y VISION" tvg-name="REL ALIENTO Y VISION" group-title="RELIGIOSOS",REL ALIENTO Y VISION
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/17313
-#EXTINF:-1 tvg-id="REL CADENA SALVACION" tvg-name="REL CADENA SALVACION" group-title="RELIGIOSOS",REL CADENA SALVACION
-http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/17297
 #EXTINF:-1 tvg-id="REL CANDELITA TV" tvg-name="REL CANDELITA TV" group-title="RELIGIOSOS",REL CANDELITA TV
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/17314
 #EXTINF:-1 tvg-id="REL CBN" tvg-name="REL CBN" group-title="RELIGIOSOS",REL CBN
@@ -2795,8 +2831,6 @@ http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/40108
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/22270
 #EXTINF:-1 tvg-id="USA Aspire" tvg-name="USA Aspire" tvg-logo="" group-title="USA",USA Aspire
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/40106
-#EXTINF:-1 tvg-id="USA Audience" tvg-name="USA Audience" tvg-logo="" group-title="USA",USA Audience
-http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/40103
 #EXTINF:-1 tvg-id="USA AWE" tvg-name="USA AWE" tvg-logo="" group-title="USA",USA AWE
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/40104
 #EXTINF:-1 tvg-id="USA BabyTV" tvg-name="USA BabyTV" tvg-logo="" group-title="USA",USA BabyTV
@@ -2821,8 +2855,6 @@ http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/2239
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/40102
 #EXTINF:-1 tvg-id="USA Bravo TV" tvg-name="USA Bravo TV" tvg-logo="" group-title="USA",USA Bravo TV
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/2323
-#EXTINF:-1 tvg-id="USA Buzzer" tvg-name="USA Buzzer" tvg-logo="" group-title="USA",USA Buzzer
-http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/40113
 #EXTINF:-1 tvg-id="USA CARTOON NETWORK" tvg-name="USA Cartoon Network" tvg-logo="https://pm1.narvii.com/6466/0ed83137cec9f532e42ddc644eb6bb2614a0ed6e_hq.jpg" group-title="USA",USA Cartoon Network
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/2207
 #EXTINF:-1 tvg-id="SP CBS" tvg-name="USA CBS" tvg-logo="" group-title="USA",USA CBS
@@ -3007,7 +3039,7 @@ http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/22259
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/22261
 #EXTINF:-1 tvg-id="USA Disney XD" tvg-name="USA Disney XD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYgET6P_a7vdo8smEqK7J3R8jq-t56mnrrf71QDgzn8Ytig0bb&s" group-title="USA",USA Disney XD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/2234
-#EXTINF:-1 tvg-id="USA Disney XD" tvg-name="USA Disney XD" tvg-logo="" group-title="USA",USA Disney XD
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="USA Disney XD" tvg-logo="" group-title="USA",USA Disney XD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/22262
 #EXTINF:-1 tvg-id="USA Disney XD" tvg-name="USA Disney XD Pacific" tvg-logo="" group-title="USA",USA Disney XD Pacific
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/22263
@@ -3107,7 +3139,7 @@ http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/40126
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/2268
 #EXTINF:-1 tvg-id="USA FX" tvg-name="USA FX" tvg-logo="" group-title="USA",USA FX
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/2219
-#EXTINF:-1 tvg-id="USA FXM" tvg-name="USA FXM" tvg-logo="" group-title="USA",USA FXM
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="USA FXM" tvg-logo="" group-title="USA",USA FXM
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/2218
 #EXTINF:-1 tvg-id="USA FXX" tvg-name="USA FXX" tvg-logo="" group-title="USA",USA FXX
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/2217
@@ -3237,8 +3269,6 @@ http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/27012
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/27017
 #EXTINF:-1 tvg-id="USA NCB Jacksonville" tvg-name="USA NCB Jacksonville" tvg-logo="" group-title="USA",USA NCB Jacksonville
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/27018
-#EXTINF:-1 tvg-id="USA Newsmax Tv" tvg-name="USA Newsmax Tv" tvg-logo="https://www.newsmax.com/Newsmax/files/83/8389e8ee-1019-471c-b10f-d343cd0459e7.jpg" group-title="USA",USA Newsmax Tv
-http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/40739
 #EXTINF:-1 tvg-id="USA Nick" tvg-name="USA Nick" tvg-logo="" group-title="USA",USA Nick
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/2245
 #EXTINF:-1 tvg-id="USA NICK JR" tvg-name="USA NICK JR" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DAgNJEGkL._SY355_.png" group-title="USA",USA NICK JR
@@ -3457,7 +3487,7 @@ http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/367
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/5907
 #EXTINF:-1 tvg-id="Unimas Cleveland" tvg-name="Unimas Cleveland" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/23_es.png" group-title="USA LATINO",Unimas Cleveland
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/5902
-#EXTINF:-1 tvg-id="Unimas Dallas" tvg-name="Unimas Dallas" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/11_es.png" group-title="USA LATINO",Unimas Dallas
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="Unimas Dallas" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/11_es.png" group-title="USA LATINO",Unimas Dallas
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/5908
 #EXTINF:-1 tvg-id="Unimas East" tvg-name="Unimas East" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/6_es.png" group-title="USA LATINO",Unimas East
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/5910
@@ -3491,7 +3521,7 @@ http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/5914
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/360
 #EXTINF:-1 tvg-id="Universo" tvg-name="Universo" tvg-logo="" group-title="USA LATINO",Universo
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/374
-#EXTINF:-1 tvg-id="Universo" tvg-name="Universo Latino" tvg-logo="" group-title="USA LATINO",Universo Latino
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="Universo Latino" tvg-logo="" group-title="USA LATINO",Universo Latino
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/2198
 #EXTINF:-1 tvg-id="Univision" tvg-name="Univision" tvg-logo="" group-title="USA LATINO",Univision
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/358
@@ -3519,7 +3549,7 @@ http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/397
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/380
 #EXTINF:-1 tvg-id="Univision Houston" tvg-name="Univision Houston" tvg-logo="" group-title="USA LATINO",Univision Houston
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/395
-#EXTINF:-1 tvg-id="Univision Los Angeles" tvg-name="Univision Los Angeles" tvg-logo="" group-title="USA LATINO",Univision Los Angeles
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="Univision Los Angeles" tvg-logo="" group-title="USA LATINO",Univision Los Angeles
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/394
 #EXTINF:-1 tvg-id="Univision Miami" tvg-name="Univision Miami" tvg-logo="" group-title="USA LATINO",Univision Miami
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/392
@@ -10395,6 +10425,16 @@ http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/87
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/121
 #EXTINF:-1 tvg-id="ES MoviStar Series Mania HD" tvg-name="ES MoviStar Series Mania HD" group-title="ESPANA",ES MoviStar Series Mania HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/122
+#EXTINF:-1 tvg-id="Los Visitantes S01 E01" tvg-name="Los Visitantes S01 E01"  group-title="LOS VISITANTES",Los Visitantes S01 E01
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41473.mkv
+#EXTINF:-1 tvg-id="Los Visitantes S01 E02" tvg-name="Los Visitantes S01 E02"  group-title="LOS VISITANTES",Los Visitantes S01 E02
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41474.mkv
+#EXTINF:-1 tvg-id="Los Visitantes S01 E03" tvg-name="Los Visitantes S01 E03"  group-title="LOS VISITANTES",Los Visitantes S01 E03
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41475.mkv
+#EXTINF:-1 tvg-id="Los Visitantes S01 E04" tvg-name="Los Visitantes S01 E04"  group-title="LOS VISITANTES",Los Visitantes S01 E04
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41476.mkv
+#EXTINF:-1 tvg-id="Los Visitantes S01 E05" tvg-name="Los Visitantes S01 E05"  group-title="LOS VISITANTES",Los Visitantes S01 E05
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41477.mkv
 #EXTINF:-1 tvg-id="A3 SERIES FHD" tvg-name="MX A3 Series HD" group-title="MEXICO",MX A3 Series HD
 http://xdgo.live:8080/53_Christopher_b/FTGTBmupNN/209
 #EXTINF:-1 tvg-id="Homeland S01 E01" tvg-name="Homeland S01 E01"  group-title="SERIES ACCION",Homeland S01 E01
@@ -14591,6 +14631,26 @@ http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/30035.mkv
 http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/30036.mkv
 #EXTINF:-1 tvg-id="Como sobrevivir soltero S01 E10" tvg-name="Como sobrevivir soltero S01 E10"  group-title="SERIES COMEDIA",Como sobrevivir soltero S01 E10
 http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/30037.mkv
+#EXTINF:-1 tvg-id="Ted Lasso S01 E01" tvg-name="Ted Lasso S01 E01"  group-title="SERIES COMEDIA",Ted Lasso S01 E01
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41611.mkv
+#EXTINF:-1 tvg-id="Ted Lasso S01 E02" tvg-name="Ted Lasso S01 E02"  group-title="SERIES COMEDIA",Ted Lasso S01 E02
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41612.mkv
+#EXTINF:-1 tvg-id="Ted Lasso S01 E03" tvg-name="Ted Lasso S01 E03"  group-title="SERIES COMEDIA",Ted Lasso S01 E03
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41613.mkv
+#EXTINF:-1 tvg-id="Ted Lasso S01 E04" tvg-name="Ted Lasso S01 E04"  group-title="SERIES COMEDIA",Ted Lasso S01 E04
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41614.mkv
+#EXTINF:-1 tvg-id="Ted Lasso S01 E05" tvg-name="Ted Lasso S01 E05"  group-title="SERIES COMEDIA",Ted Lasso S01 E05
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41615.mkv
+#EXTINF:-1 tvg-id="Ted Lasso S01 E06" tvg-name="Ted Lasso S01 E06"  group-title="SERIES COMEDIA",Ted Lasso S01 E06
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41616.mkv
+#EXTINF:-1 tvg-id="Ted Lasso S01 E07" tvg-name="Ted Lasso S01 E07"  group-title="SERIES COMEDIA",Ted Lasso S01 E07
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41617.mkv
+#EXTINF:-1 tvg-id="Ted Lasso S01 E08" tvg-name="Ted Lasso S01 E08"  group-title="SERIES COMEDIA",Ted Lasso S01 E08
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41618.mkv
+#EXTINF:-1 tvg-id="Ted Lasso S01 E09" tvg-name="Ted Lasso S01 E09"  group-title="SERIES COMEDIA",Ted Lasso S01 E09
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41619.mkv
+#EXTINF:-1 tvg-id="Ted Lasso S01 E10" tvg-name="Ted Lasso S01 E10"  group-title="SERIES COMEDIA",Ted Lasso S01 E10
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41620.mkv
 #EXTINF:-1 tvg-id="Hannibal S01 E01" tvg-name="Hannibal S01 E01"  group-title="SERIES DRAMA",Hannibal S01 E01
 http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/6691.mkv
 #EXTINF:-1 tvg-id="Hannibal S01 E02" tvg-name="Hannibal S01 E02"  group-title="SERIES DRAMA",Hannibal S01 E02
@@ -18437,6 +18497,208 @@ http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/40711.mkv
 http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/40712.mkv
 #EXTINF:-1 tvg-id="Selena La serie S01 E09" tvg-name="Selena La serie S01 E09"  group-title="SERIES DRAMA",Selena La serie S01 E09
 http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/40713.mkv
+#EXTINF:-1 tvg-id="Hache S01 E01" tvg-name="Hache S01 E01"  group-title="SERIES DRAMA",Hache S01 E01
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41488.mkv
+#EXTINF:-1 tvg-id="Hache S01 E02" tvg-name="Hache S01 E02"  group-title="SERIES DRAMA",Hache S01 E02
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41489.mkv
+#EXTINF:-1 tvg-id="Hache S01 E03" tvg-name="Hache S01 E03"  group-title="SERIES DRAMA",Hache S01 E03
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41490.mkv
+#EXTINF:-1 tvg-id="Hache S01 E04" tvg-name="Hache S01 E04"  group-title="SERIES DRAMA",Hache S01 E04
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41491.mkv
+#EXTINF:-1 tvg-id="Hache S01 E05" tvg-name="Hache S01 E05"  group-title="SERIES DRAMA",Hache S01 E05
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41492.mkv
+#EXTINF:-1 tvg-id="Hache S01 E06" tvg-name="Hache S01 E06"  group-title="SERIES DRAMA",Hache S01 E06
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41493.mkv
+#EXTINF:-1 tvg-id="Hache S01 E07" tvg-name="Hache S01 E07"  group-title="SERIES DRAMA",Hache S01 E07
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41494.mkv
+#EXTINF:-1 tvg-id="Hache S01 E08" tvg-name="Hache S01 E08"  group-title="SERIES DRAMA",Hache S01 E08
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41495.mkv
+#EXTINF:-1 tvg-id="Hache S02 E01" tvg-name="Hache S02 E01"  group-title="SERIES DRAMA",Hache S02 E01
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41496.mkv
+#EXTINF:-1 tvg-id="Hache S02 E02" tvg-name="Hache S02 E02"  group-title="SERIES DRAMA",Hache S02 E02
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41497.mkv
+#EXTINF:-1 tvg-id="Hache S02 E03" tvg-name="Hache S02 E03"  group-title="SERIES DRAMA",Hache S02 E03
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41498.mkv
+#EXTINF:-1 tvg-id="Hache S02 E04" tvg-name="Hache S02 E04"  group-title="SERIES DRAMA",Hache S02 E04
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41499.mkv
+#EXTINF:-1 tvg-id="Hache S02 E05" tvg-name="Hache S02 E05"  group-title="SERIES DRAMA",Hache S02 E05
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41500.mkv
+#EXTINF:-1 tvg-id="Hache S02 E06" tvg-name="Hache S02 E06"  group-title="SERIES DRAMA",Hache S02 E06
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41501.mkv
+#EXTINF:-1 tvg-id="Normal People S01 E01" tvg-name="Normal People S01 E01"  group-title="SERIES DRAMA",Normal People S01 E01
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41621.mkv
+#EXTINF:-1 tvg-id="Normal People S01 E02" tvg-name="Normal People S01 E02"  group-title="SERIES DRAMA",Normal People S01 E02
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41622.mkv
+#EXTINF:-1 tvg-id="Normal People S01 E03" tvg-name="Normal People S01 E03"  group-title="SERIES DRAMA",Normal People S01 E03
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41623.mkv
+#EXTINF:-1 tvg-id="Normal People S01 E04" tvg-name="Normal People S01 E04"  group-title="SERIES DRAMA",Normal People S01 E04
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41624.mkv
+#EXTINF:-1 tvg-id="Normal People S01 E05" tvg-name="Normal People S01 E05"  group-title="SERIES DRAMA",Normal People S01 E05
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41625.mkv
+#EXTINF:-1 tvg-id="Normal People S01 E06" tvg-name="Normal People S01 E06"  group-title="SERIES DRAMA",Normal People S01 E06
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41626.mkv
+#EXTINF:-1 tvg-id="Normal People S01 E07" tvg-name="Normal People S01 E07"  group-title="SERIES DRAMA",Normal People S01 E07
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41627.mkv
+#EXTINF:-1 tvg-id="Normal People S01 E08" tvg-name="Normal People S01 E08"  group-title="SERIES DRAMA",Normal People S01 E08
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41628.mkv
+#EXTINF:-1 tvg-id="Normal People S01 E09" tvg-name="Normal People S01 E09"  group-title="SERIES DRAMA",Normal People S01 E09
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41629.mkv
+#EXTINF:-1 tvg-id="Normal People S01 E10" tvg-name="Normal People S01 E10"  group-title="SERIES DRAMA",Normal People S01 E10
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41630.mkv
+#EXTINF:-1 tvg-id="Normal People S01 E11" tvg-name="Normal People S01 E11"  group-title="SERIES DRAMA",Normal People S01 E11
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41631.mkv
+#EXTINF:-1 tvg-id="Normal People S01 E12" tvg-name="Normal People S01 E12"  group-title="SERIES DRAMA",Normal People S01 E12
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41632.mkv
+#EXTINF:-1 tvg-id="Perdiendo a Alice S01 E01" tvg-name="Perdiendo a Alice S01 E01"  group-title="SERIES DRAMA",Perdiendo a Alice S01 E01
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41633.mkv
+#EXTINF:-1 tvg-id="Perdiendo a Alice S01 E02" tvg-name="Perdiendo a Alice S01 E02"  group-title="SERIES DRAMA",Perdiendo a Alice S01 E02
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41634.mkv
+#EXTINF:-1 tvg-id="Perdiendo a Alice S01 E03" tvg-name="Perdiendo a Alice S01 E03"  group-title="SERIES DRAMA",Perdiendo a Alice S01 E03
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41635.mkv
+#EXTINF:-1 tvg-id="Los internacionales S01 E01" tvg-name="Los internacionales S01 E01"  group-title="SERIES DRAMA",Los internacionales S01 E01
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41644.mkv
+#EXTINF:-1 tvg-id="Los internacionales S01 E02" tvg-name="Los internacionales S01 E02"  group-title="SERIES DRAMA",Los internacionales S01 E02
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41645.mkv
+#EXTINF:-1 tvg-id="Los internacionales S01 E03" tvg-name="Los internacionales S01 E03"  group-title="SERIES DRAMA",Los internacionales S01 E03
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41646.mkv
+#EXTINF:-1 tvg-id="Los internacionales S01 E04" tvg-name="Los internacionales S01 E04"  group-title="SERIES DRAMA",Los internacionales S01 E04
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41647.mkv
+#EXTINF:-1 tvg-id="Los internacionales S01 E05" tvg-name="Los internacionales S01 E05"  group-title="SERIES DRAMA",Los internacionales S01 E05
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41648.mkv
+#EXTINF:-1 tvg-id="Los internacionales S01 E06" tvg-name="Los internacionales S01 E06"  group-title="SERIES DRAMA",Los internacionales S01 E06
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41649.mkv
+#EXTINF:-1 tvg-id="Los internacionales S01 E07" tvg-name="Los internacionales S01 E07"  group-title="SERIES DRAMA",Los internacionales S01 E07
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41650.mkv
+#EXTINF:-1 tvg-id="Los internacionales S01 E08" tvg-name="Los internacionales S01 E08"  group-title="SERIES DRAMA",Los internacionales S01 E08
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41651.mkv
+#EXTINF:-1 tvg-id="FBI S01 E01" tvg-name="FBI S01 E01"  group-title="SERIES DRAMA",FBI S01 E01
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41658.mkv
+#EXTINF:-1 tvg-id="FBI S01 E02" tvg-name="FBI S01 E02"  group-title="SERIES DRAMA",FBI S01 E02
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41659.mkv
+#EXTINF:-1 tvg-id="FBI S01 E03" tvg-name="FBI S01 E03"  group-title="SERIES DRAMA",FBI S01 E03
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41653.mkv
+#EXTINF:-1 tvg-id="FBI S01 E04" tvg-name="FBI S01 E04"  group-title="SERIES DRAMA",FBI S01 E04
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41652.mkv
+#EXTINF:-1 tvg-id="FBI S01 E05" tvg-name="FBI S01 E05"  group-title="SERIES DRAMA",FBI S01 E05
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41654.mkv
+#EXTINF:-1 tvg-id="FBI S01 E06" tvg-name="FBI S01 E06"  group-title="SERIES DRAMA",FBI S01 E06
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41655.mkv
+#EXTINF:-1 tvg-id="FBI S01 E07" tvg-name="FBI S01 E07"  group-title="SERIES DRAMA",FBI S01 E07
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41656.mkv
+#EXTINF:-1 tvg-id="FBI S01 E08" tvg-name="FBI S01 E08"  group-title="SERIES DRAMA",FBI S01 E08
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41657.mkv
+#EXTINF:-1 tvg-id="FBI S01 E09" tvg-name="FBI S01 E09"  group-title="SERIES DRAMA",FBI S01 E09
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41660.mkv
+#EXTINF:-1 tvg-id="FBI S01 E10" tvg-name="FBI S01 E10"  group-title="SERIES DRAMA",FBI S01 E10
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41661.mkv
+#EXTINF:-1 tvg-id="FBI S01 E11" tvg-name="FBI S01 E11"  group-title="SERIES DRAMA",FBI S01 E11
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41662.mkv
+#EXTINF:-1 tvg-id="FBI S01 E12" tvg-name="FBI S01 E12"  group-title="SERIES DRAMA",FBI S01 E12
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41663.mkv
+#EXTINF:-1 tvg-id="FBI S01 E13" tvg-name="FBI S01 E13"  group-title="SERIES DRAMA",FBI S01 E13
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41664.mkv
+#EXTINF:-1 tvg-id="FBI S01 E14" tvg-name="FBI S01 E14"  group-title="SERIES DRAMA",FBI S01 E14
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41665.mkv
+#EXTINF:-1 tvg-id="FBI S02 E01" tvg-name="FBI S02 E01"  group-title="SERIES DRAMA",FBI S02 E01
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41666.mkv
+#EXTINF:-1 tvg-id="FBI S02 E02" tvg-name="FBI S02 E02"  group-title="SERIES DRAMA",FBI S02 E02
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41667.mkv
+#EXTINF:-1 tvg-id="FBI S02 E03" tvg-name="FBI S02 E03"  group-title="SERIES DRAMA",FBI S02 E03
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41668.mkv
+#EXTINF:-1 tvg-id="FBI S02 E04" tvg-name="FBI S02 E04"  group-title="SERIES DRAMA",FBI S02 E04
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41669.mkv
+#EXTINF:-1 tvg-id="FBI S02 E05" tvg-name="FBI S02 E05"  group-title="SERIES DRAMA",FBI S02 E05
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41670.mkv
+#EXTINF:-1 tvg-id="FBI S02 E06" tvg-name="FBI S02 E06"  group-title="SERIES DRAMA",FBI S02 E06
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41671.mkv
+#EXTINF:-1 tvg-id="FBI S02 E07" tvg-name="FBI S02 E07"  group-title="SERIES DRAMA",FBI S02 E07
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41672.mkv
+#EXTINF:-1 tvg-id="FBI S02 E08" tvg-name="FBI S02 E08"  group-title="SERIES DRAMA",FBI S02 E08
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41673.mkv
+#EXTINF:-1 tvg-id="FBI S02 E09" tvg-name="FBI S02 E09"  group-title="SERIES DRAMA",FBI S02 E09
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41682.mkv
+#EXTINF:-1 tvg-id="FBI S02 E10" tvg-name="FBI S02 E10"  group-title="SERIES DRAMA",FBI S02 E10
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41683.mkv
+#EXTINF:-1 tvg-id="FBI S02 E11" tvg-name="FBI S02 E11"  group-title="SERIES DRAMA",FBI S02 E11
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41674.mkv
+#EXTINF:-1 tvg-id="FBI S02 E12" tvg-name="FBI S02 E12"  group-title="SERIES DRAMA",FBI S02 E12
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41675.mkv
+#EXTINF:-1 tvg-id="FBI S02 E13" tvg-name="FBI S02 E13"  group-title="SERIES DRAMA",FBI S02 E13
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41676.mkv
+#EXTINF:-1 tvg-id="FBI S02 E14" tvg-name="FBI S02 E14"  group-title="SERIES DRAMA",FBI S02 E14
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41677.mkv
+#EXTINF:-1 tvg-id="FBI S02 E15" tvg-name="FBI S02 E15"  group-title="SERIES DRAMA",FBI S02 E15
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41678.mkv
+#EXTINF:-1 tvg-id="FBI S02 E16" tvg-name="FBI S02 E16"  group-title="SERIES DRAMA",FBI S02 E16
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41679.mkv
+#EXTINF:-1 tvg-id="FBI S02 E17" tvg-name="FBI S02 E17"  group-title="SERIES DRAMA",FBI S02 E17
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41684.mkv
+#EXTINF:-1 tvg-id="FBI S02 E18" tvg-name="FBI S02 E18"  group-title="SERIES DRAMA",FBI S02 E18
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41680.mkv
+#EXTINF:-1 tvg-id="FBI S02 E19" tvg-name="FBI S02 E19"  group-title="SERIES DRAMA",FBI S02 E19
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41681.mkv
+#EXTINF:-1 tvg-id="Ciudad invisible S01 E01" tvg-name="Ciudad invisible S01 E01"  group-title="SERIES DRAMA",Ciudad invisible S01 E01
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41691.mkv
+#EXTINF:-1 tvg-id="Ciudad invisible S01 E02" tvg-name="Ciudad invisible S01 E02"  group-title="SERIES DRAMA",Ciudad invisible S01 E02
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41692.mkv
+#EXTINF:-1 tvg-id="Ciudad invisible S01 E03" tvg-name="Ciudad invisible S01 E03"  group-title="SERIES DRAMA",Ciudad invisible S01 E03
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41693.mkv
+#EXTINF:-1 tvg-id="Ciudad invisible S01 E04" tvg-name="Ciudad invisible S01 E04"  group-title="SERIES DRAMA",Ciudad invisible S01 E04
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41694.mkv
+#EXTINF:-1 tvg-id="Ciudad invisible S01 E05" tvg-name="Ciudad invisible S01 E05"  group-title="SERIES DRAMA",Ciudad invisible S01 E05
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41695.mkv
+#EXTINF:-1 tvg-id="Ciudad invisible S01 E06" tvg-name="Ciudad invisible S01 E06"  group-title="SERIES DRAMA",Ciudad invisible S01 E06
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41696.mkv
+#EXTINF:-1 tvg-id="Ciudad invisible S01 E07" tvg-name="Ciudad invisible S01 E07"  group-title="SERIES DRAMA",Ciudad invisible S01 E07
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41697.mkv
+#EXTINF:-1 tvg-id="El baile de las luciernagas S01 E01" tvg-name="El baile de las luciernagas S01 E01"  group-title="SERIES DRAMA",El baile de las luciernagas S01 E01
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41698.mkv
+#EXTINF:-1 tvg-id="El baile de las luciernagas S01 E02" tvg-name="El baile de las luciernagas S01 E02"  group-title="SERIES DRAMA",El baile de las luciernagas S01 E02
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41699.mkv
+#EXTINF:-1 tvg-id="El baile de las luciernagas S01 E03" tvg-name="El baile de las luciernagas S01 E03"  group-title="SERIES DRAMA",El baile de las luciernagas S01 E03
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41700.mkv
+#EXTINF:-1 tvg-id="El baile de las luciernagas S01 E04" tvg-name="El baile de las luciernagas S01 E04"  group-title="SERIES DRAMA",El baile de las luciernagas S01 E04
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41701.mkv
+#EXTINF:-1 tvg-id="El baile de las luciernagas S01 E05" tvg-name="El baile de las luciernagas S01 E05"  group-title="SERIES DRAMA",El baile de las luciernagas S01 E05
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41702.mkv
+#EXTINF:-1 tvg-id="El baile de las luciernagas S01 E06" tvg-name="El baile de las luciernagas S01 E06"  group-title="SERIES DRAMA",El baile de las luciernagas S01 E06
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41703.mkv
+#EXTINF:-1 tvg-id="El baile de las luciernagas S01 E07" tvg-name="El baile de las luciernagas S01 E07"  group-title="SERIES DRAMA",El baile de las luciernagas S01 E07
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41704.mkv
+#EXTINF:-1 tvg-id="El baile de las luciernagas S01 E08" tvg-name="El baile de las luciernagas S01 E08"  group-title="SERIES DRAMA",El baile de las luciernagas S01 E08
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41705.mkv
+#EXTINF:-1 tvg-id="El baile de las luciernagas S01 E09" tvg-name="El baile de las luciernagas S01 E09"  group-title="SERIES DRAMA",El baile de las luciernagas S01 E09
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41706.mkv
+#EXTINF:-1 tvg-id="El baile de las luciernagas S01 E10" tvg-name="El baile de las luciernagas S01 E10"  group-title="SERIES DRAMA",El baile de las luciernagas S01 E10
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41707.mkv
+#EXTINF:-1 tvg-id="La innegable verdad S01 E01" tvg-name="La innegable verdad S01 E01"  group-title="SERIES DRAMA",La innegable verdad S01 E01
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41708.mkv
+#EXTINF:-1 tvg-id="La innegable verdad S01 E02" tvg-name="La innegable verdad S01 E02"  group-title="SERIES DRAMA",La innegable verdad S01 E02
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41709.mkv
+#EXTINF:-1 tvg-id="La innegable verdad S01 E03" tvg-name="La innegable verdad S01 E03"  group-title="SERIES DRAMA",La innegable verdad S01 E03
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41710.mkv
+#EXTINF:-1 tvg-id="La innegable verdad S01 E04" tvg-name="La innegable verdad S01 E04"  group-title="SERIES DRAMA",La innegable verdad S01 E04
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41711.mkv
+#EXTINF:-1 tvg-id="La innegable verdad S01 E05" tvg-name="La innegable verdad S01 E05"  group-title="SERIES DRAMA",La innegable verdad S01 E05
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41712.mkv
+#EXTINF:-1 tvg-id="La innegable verdad S01 E06" tvg-name="La innegable verdad S01 E06"  group-title="SERIES DRAMA",La innegable verdad S01 E06
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41713.mkv
+#EXTINF:-1 tvg-id="50m250 M2 S01 E01" tvg-name="50m250 M2 S01 E01"  group-title="SERIES DRAMA",50m250 M2 S01 E01
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41714.mkv
+#EXTINF:-1 tvg-id="50m250 M2 S01 E02" tvg-name="50m250 M2 S01 E02"  group-title="SERIES DRAMA",50m250 M2 S01 E02
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41715.mkv
+#EXTINF:-1 tvg-id="50m250 M2 S01 E03" tvg-name="50m250 M2 S01 E03"  group-title="SERIES DRAMA",50m250 M2 S01 E03
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41716.mkv
+#EXTINF:-1 tvg-id="50m250 M2 S01 E04" tvg-name="50m250 M2 S01 E04"  group-title="SERIES DRAMA",50m250 M2 S01 E04
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41717.mkv
+#EXTINF:-1 tvg-id="50m250 M2 S01 E05" tvg-name="50m250 M2 S01 E05"  group-title="SERIES DRAMA",50m250 M2 S01 E05
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41718.mkv
+#EXTINF:-1 tvg-id="50m250 M2 S01 E06" tvg-name="50m250 M2 S01 E06"  group-title="SERIES DRAMA",50m250 M2 S01 E06
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41719.mkv
+#EXTINF:-1 tvg-id="50m250 M2 S01 E07" tvg-name="50m250 M2 S01 E07"  group-title="SERIES DRAMA",50m250 M2 S01 E07
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41720.mkv
+#EXTINF:-1 tvg-id="50m250 M2 S01 E08" tvg-name="50m250 M2 S01 E08"  group-title="SERIES DRAMA",50m250 M2 S01 E08
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41721.mkv
 #EXTINF:-1 tvg-id="Game of Thrones S01 E01" tvg-name="Game of Thrones S01 E01"  group-title="SERIES FICCION - FANTASIA",Game of Thrones S01 E01
 http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/6124.avi
 #EXTINF:-1 tvg-id="Game of Thrones S01 E02" tvg-name="Game of Thrones S01 E02"  group-title="SERIES FICCION - FANTASIA",Game of Thrones S01 E02
@@ -19826,31 +20088,37 @@ http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/22307.mkv
 #EXTINF:-1 tvg-id="Los 100 S06 E13" tvg-name="Los 100 S06 E13"  group-title="SERIES FICCION - FANTASIA",Los 100 S06 E13
 http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/22308.mkv
 #EXTINF:-1 tvg-id="Los 100 S07 E01" tvg-name="Los 100 S07 E01"  group-title="SERIES FICCION - FANTASIA",Los 100 S07 E01
-http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/30274.mp4
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41451.mkv
 #EXTINF:-1 tvg-id="Los 100 S07 E02" tvg-name="Los 100 S07 E02"  group-title="SERIES FICCION - FANTASIA",Los 100 S07 E02
-http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/30268.mp4
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41452.mkv
 #EXTINF:-1 tvg-id="Los 100 S07 E03" tvg-name="Los 100 S07 E03"  group-title="SERIES FICCION - FANTASIA",Los 100 S07 E03
-http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/30269.mp4
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41453.mkv
 #EXTINF:-1 tvg-id="Los 100 S07 E04" tvg-name="Los 100 S07 E04"  group-title="SERIES FICCION - FANTASIA",Los 100 S07 E04
-http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/30275.mp4
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41454.mkv
 #EXTINF:-1 tvg-id="Los 100 S07 E05" tvg-name="Los 100 S07 E05"  group-title="SERIES FICCION - FANTASIA",Los 100 S07 E05
-http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/30276.mp4
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41455.mkv
 #EXTINF:-1 tvg-id="Los 100 S07 E06" tvg-name="Los 100 S07 E06"  group-title="SERIES FICCION - FANTASIA",Los 100 S07 E06
-http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/30270.mp4
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41456.mkv
 #EXTINF:-1 tvg-id="Los 100 S07 E07" tvg-name="Los 100 S07 E07"  group-title="SERIES FICCION - FANTASIA",Los 100 S07 E07
-http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/30277.mp4
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41457.mkv
 #EXTINF:-1 tvg-id="Los 100 S07 E08" tvg-name="Los 100 S07 E08"  group-title="SERIES FICCION - FANTASIA",Los 100 S07 E08
-http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/30271.mp4
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41458.mkv
 #EXTINF:-1 tvg-id="Los 100 S07 E09" tvg-name="Los 100 S07 E09"  group-title="SERIES FICCION - FANTASIA",Los 100 S07 E09
-http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/30272.mp4
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41459.mkv
 #EXTINF:-1 tvg-id="Los 100 S07 E10" tvg-name="Los 100 S07 E10"  group-title="SERIES FICCION - FANTASIA",Los 100 S07 E10
-http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/30273.mp4
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41460.mkv
 #EXTINF:-1 tvg-id="Los 100 S07 E11" tvg-name="Los 100 S07 E11"  group-title="SERIES FICCION - FANTASIA",Los 100 S07 E11
-http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/30278.mp4
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41461.mkv
 #EXTINF:-1 tvg-id="Los 100 S07 E12" tvg-name="Los 100 S07 E12"  group-title="SERIES FICCION - FANTASIA",Los 100 S07 E12
-http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/40044.mkv
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41462.mkv
 #EXTINF:-1 tvg-id="Los 100 S07 E13" tvg-name="Los 100 S07 E13"  group-title="SERIES FICCION - FANTASIA",Los 100 S07 E13
-http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/40045.mkv
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41463.mkv
+#EXTINF:-1 tvg-id="Los 100 S07 E14" tvg-name="Los 100 S07 E14"  group-title="SERIES FICCION - FANTASIA",Los 100 S07 E14
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41464.mkv
+#EXTINF:-1 tvg-id="Los 100 S07 E15" tvg-name="Los 100 S07 E15"  group-title="SERIES FICCION - FANTASIA",Los 100 S07 E15
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41465.mkv
+#EXTINF:-1 tvg-id="Los 100 S07 E16" tvg-name="Los 100 S07 E16"  group-title="SERIES FICCION - FANTASIA",Los 100 S07 E16
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41466.mkv
 #EXTINF:-1 tvg-id="El exorcista S01 E01" tvg-name="El exorcista S01 E01"  group-title="SERIES FICCION - FANTASIA",El exorcista S01 E01
 http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/11172.mkv
 #EXTINF:-1 tvg-id="El exorcista S01 E02" tvg-name="El exorcista S01 E02"  group-title="SERIES FICCION - FANTASIA",El exorcista S01 E02
@@ -21813,6 +22081,84 @@ http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/40242.mp4
 http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/40243.mp4
 #EXTINF:-1 tvg-id="El hombre en el castillo S04 E10" tvg-name="El hombre en el castillo S04 E10"  group-title="SERIES FICCION - FANTASIA",El hombre en el castillo S04 E10
 http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/40244.mp4
+#EXTINF:-1 tvg-id="Batwoman S01 E01" tvg-name="Batwoman S01 E01"  group-title="SERIES FICCION - FANTASIA",Batwoman S01 E01
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41515.mkv
+#EXTINF:-1 tvg-id="Batwoman S01 E02" tvg-name="Batwoman S01 E02"  group-title="SERIES FICCION - FANTASIA",Batwoman S01 E02
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41509.mkv
+#EXTINF:-1 tvg-id="Batwoman S01 E03" tvg-name="Batwoman S01 E03"  group-title="SERIES FICCION - FANTASIA",Batwoman S01 E03
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41510.mkv
+#EXTINF:-1 tvg-id="Batwoman S01 E04" tvg-name="Batwoman S01 E04"  group-title="SERIES FICCION - FANTASIA",Batwoman S01 E04
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41511.mkv
+#EXTINF:-1 tvg-id="Batwoman S01 E05" tvg-name="Batwoman S01 E05"  group-title="SERIES FICCION - FANTASIA",Batwoman S01 E05
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41512.mkv
+#EXTINF:-1 tvg-id="Batwoman S01 E06" tvg-name="Batwoman S01 E06"  group-title="SERIES FICCION - FANTASIA",Batwoman S01 E06
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41513.mkv
+#EXTINF:-1 tvg-id="Batwoman S01 E07" tvg-name="Batwoman S01 E07"  group-title="SERIES FICCION - FANTASIA",Batwoman S01 E07
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41516.mkv
+#EXTINF:-1 tvg-id="Batwoman S01 E08" tvg-name="Batwoman S01 E08"  group-title="SERIES FICCION - FANTASIA",Batwoman S01 E08
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41514.mkv
+#EXTINF:-1 tvg-id="Batwoman S01 E09" tvg-name="Batwoman S01 E09"  group-title="SERIES FICCION - FANTASIA",Batwoman S01 E09
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41517.mkv
+#EXTINF:-1 tvg-id="Batwoman S01 E10" tvg-name="Batwoman S01 E10"  group-title="SERIES FICCION - FANTASIA",Batwoman S01 E10
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41518.mkv
+#EXTINF:-1 tvg-id="Batwoman S01 E11" tvg-name="Batwoman S01 E11"  group-title="SERIES FICCION - FANTASIA",Batwoman S01 E11
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41519.mkv
+#EXTINF:-1 tvg-id="Batwoman S01 E12" tvg-name="Batwoman S01 E12"  group-title="SERIES FICCION - FANTASIA",Batwoman S01 E12
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41520.mkv
+#EXTINF:-1 tvg-id="Batwoman S01 E13" tvg-name="Batwoman S01 E13"  group-title="SERIES FICCION - FANTASIA",Batwoman S01 E13
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41521.mkv
+#EXTINF:-1 tvg-id="Batwoman S01 E14" tvg-name="Batwoman S01 E14"  group-title="SERIES FICCION - FANTASIA",Batwoman S01 E14
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41502.mkv
+#EXTINF:-1 tvg-id="Batwoman S01 E15" tvg-name="Batwoman S01 E15"  group-title="SERIES FICCION - FANTASIA",Batwoman S01 E15
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41503.mkv
+#EXTINF:-1 tvg-id="Batwoman S01 E16" tvg-name="Batwoman S01 E16"  group-title="SERIES FICCION - FANTASIA",Batwoman S01 E16
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41504.mkv
+#EXTINF:-1 tvg-id="Batwoman S01 E17" tvg-name="Batwoman S01 E17"  group-title="SERIES FICCION - FANTASIA",Batwoman S01 E17
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41505.mkv
+#EXTINF:-1 tvg-id="Batwoman S01 E18" tvg-name="Batwoman S01 E18"  group-title="SERIES FICCION - FANTASIA",Batwoman S01 E18
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41506.mkv
+#EXTINF:-1 tvg-id="Batwoman S01 E19" tvg-name="Batwoman S01 E19"  group-title="SERIES FICCION - FANTASIA",Batwoman S01 E19
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41507.mkv
+#EXTINF:-1 tvg-id="Batwoman S01 E20" tvg-name="Batwoman S01 E20"  group-title="SERIES FICCION - FANTASIA",Batwoman S01 E20
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41508.mkv
+#EXTINF:-1 tvg-id="Batwoman S02 E01" tvg-name="Batwoman S02 E01"  group-title="SERIES FICCION - FANTASIA",Batwoman S02 E01
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41732.mkv
+#EXTINF:-1 tvg-id="Batwoman S02 E02" tvg-name="Batwoman S02 E02"  group-title="SERIES FICCION - FANTASIA",Batwoman S02 E02
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41733.mkv
+#EXTINF:-1 tvg-id="Batwoman S02 E03" tvg-name="Batwoman S02 E03"  group-title="SERIES FICCION - FANTASIA",Batwoman S02 E03
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41734.mkv
+#EXTINF:-1 tvg-id="Destino La saga Winx S01 E01" tvg-name="Destino La saga Winx S01 E01"  group-title="SERIES FICCION - FANTASIA",Destino La saga Winx S01 E01
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41685.mkv
+#EXTINF:-1 tvg-id="Destino La saga Winx S01 E02" tvg-name="Destino La saga Winx S01 E02"  group-title="SERIES FICCION - FANTASIA",Destino La saga Winx S01 E02
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41686.mkv
+#EXTINF:-1 tvg-id="Destino La saga Winx S01 E03" tvg-name="Destino La saga Winx S01 E03"  group-title="SERIES FICCION - FANTASIA",Destino La saga Winx S01 E03
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41687.mkv
+#EXTINF:-1 tvg-id="Destino La saga Winx S01 E04" tvg-name="Destino La saga Winx S01 E04"  group-title="SERIES FICCION - FANTASIA",Destino La saga Winx S01 E04
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41688.mkv
+#EXTINF:-1 tvg-id="Destino La saga Winx S01 E05" tvg-name="Destino La saga Winx S01 E05"  group-title="SERIES FICCION - FANTASIA",Destino La saga Winx S01 E05
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41689.mkv
+#EXTINF:-1 tvg-id="Destino La saga Winx S01 E06" tvg-name="Destino La saga Winx S01 E06"  group-title="SERIES FICCION - FANTASIA",Destino La saga Winx S01 E06
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41690.mkv
+#EXTINF:-1 tvg-id="Dani Who? S01 E01" tvg-name="Dani Who? S01 E01"  group-title="SERIES FICCION - FANTASIA",Dani Who? S01 E01
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41722.mkv
+#EXTINF:-1 tvg-id="Dani Who? S01 E02" tvg-name="Dani Who? S01 E02"  group-title="SERIES FICCION - FANTASIA",Dani Who? S01 E02
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41723.mkv
+#EXTINF:-1 tvg-id="Dani Who? S01 E03" tvg-name="Dani Who? S01 E03"  group-title="SERIES FICCION - FANTASIA",Dani Who? S01 E03
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41724.mkv
+#EXTINF:-1 tvg-id="Dani Who? S01 E04" tvg-name="Dani Who? S01 E04"  group-title="SERIES FICCION - FANTASIA",Dani Who? S01 E04
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41725.mkv
+#EXTINF:-1 tvg-id="Dani Who? S01 E05" tvg-name="Dani Who? S01 E05"  group-title="SERIES FICCION - FANTASIA",Dani Who? S01 E05
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41726.mkv
+#EXTINF:-1 tvg-id="Dani Who? S01 E06" tvg-name="Dani Who? S01 E06"  group-title="SERIES FICCION - FANTASIA",Dani Who? S01 E06
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41727.mkv
+#EXTINF:-1 tvg-id="Dani Who? S01 E07" tvg-name="Dani Who? S01 E07"  group-title="SERIES FICCION - FANTASIA",Dani Who? S01 E07
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41728.mkv
+#EXTINF:-1 tvg-id="Dani Who? S01 E08" tvg-name="Dani Who? S01 E08"  group-title="SERIES FICCION - FANTASIA",Dani Who? S01 E08
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41729.mkv
+#EXTINF:-1 tvg-id="Dani Who? S01 E09" tvg-name="Dani Who? S01 E09"  group-title="SERIES FICCION - FANTASIA",Dani Who? S01 E09
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41730.mkv
+#EXTINF:-1 tvg-id="Dani Who? S01 E10" tvg-name="Dani Who? S01 E10"  group-title="SERIES FICCION - FANTASIA",Dani Who? S01 E10
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41731.mkv
 #EXTINF:-1 tvg-id="Johnny Bravo S01 E01" tvg-name="Johnny Bravo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9Ug39KxbIt1opgXdJY3AJhAlGx.jpg" group-title="SERIES INFANTILES",Johnny Bravo S01 E01
 http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/6923.mp4
 #EXTINF:-1 tvg-id="Johnny Bravo S01 E02" tvg-name="Johnny Bravo S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qLChCIiUhEDZQ5CMsPm6fhMeCwB.jpg" group-title="SERIES INFANTILES",Johnny Bravo S01 E02
@@ -24077,6 +24423,18 @@ http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/40735.mkv
 http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/40733.mkv
 #EXTINF:-1 tvg-id="The Walking Dead S10 E16" tvg-name="The Walking Dead S10 E16"  group-title="SERIES TERROR - THRILLER",The Walking Dead S10 E16
 http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/40734.mkv
+#EXTINF:-1 tvg-id="Soulmates S01 E01" tvg-name="Soulmates S01 E01"  group-title="SOULMATES",Soulmates S01 E01
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41467.mkv
+#EXTINF:-1 tvg-id="Soulmates S01 E02" tvg-name="Soulmates S01 E02"  group-title="SOULMATES",Soulmates S01 E02
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41468.mkv
+#EXTINF:-1 tvg-id="Soulmates S01 E03" tvg-name="Soulmates S01 E03"  group-title="SOULMATES",Soulmates S01 E03
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41469.mkv
+#EXTINF:-1 tvg-id="Soulmates S01 E04" tvg-name="Soulmates S01 E04"  group-title="SOULMATES",Soulmates S01 E04
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41470.mkv
+#EXTINF:-1 tvg-id="Soulmates S01 E05" tvg-name="Soulmates S01 E05"  group-title="SOULMATES",Soulmates S01 E05
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41471.mkv
+#EXTINF:-1 tvg-id="Soulmates S01 E06" tvg-name="Soulmates S01 E06"  group-title="SOULMATES",Soulmates S01 E06
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41472.mkv
 #EXTINF:-1 tvg-id="The Mandalorian S01 E01" tvg-name="The Mandalorian S01 E01"  group-title="THE MANDALORIAN",The Mandalorian S01 E01
 http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/16460.mkv
 #EXTINF:-1 tvg-id="The Mandalorian S01 E02" tvg-name="The Mandalorian S01 E02"  group-title="THE MANDALORIAN",The Mandalorian S01 E02
@@ -24109,12 +24467,154 @@ http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/40780.mkv
 http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/40781.mkv
 #EXTINF:-1 tvg-id="The Mandalorian S02 E08" tvg-name="The Mandalorian S02 E08"  group-title="THE MANDALORIAN",The Mandalorian S02 E08
 http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/40834.mkv
+#EXTINF:-1 tvg-id="The Stand S01 E01" tvg-name="The Stand S01 E01"  group-title="THE STAND",The Stand S01 E01
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41478.mkv
+#EXTINF:-1 tvg-id="The Stand S01 E02" tvg-name="The Stand S01 E02"  group-title="THE STAND",The Stand S01 E02
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41479.mkv
+#EXTINF:-1 tvg-id="The Stand S01 E03" tvg-name="The Stand S01 E03"  group-title="THE STAND",The Stand S01 E03
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41480.mkv
+#EXTINF:-1 tvg-id="The Stand S01 E04" tvg-name="The Stand S01 E04"  group-title="THE STAND",The Stand S01 E04
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41481.mkv
+#EXTINF:-1 tvg-id="The Stand S01 E05" tvg-name="The Stand S01 E05"  group-title="THE STAND",The Stand S01 E05
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41482.mkv
+#EXTINF:-1 tvg-id="The Stand S01 E06" tvg-name="The Stand S01 E06"  group-title="THE STAND",The Stand S01 E06
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41483.mkv
 #EXTINF:-1 tvg-id="WandaVision S01 E01" tvg-name="WandaVision S01 E01"  group-title="WANDAVISION",WandaVision S01 E01
 http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41081.mkv
 #EXTINF:-1 tvg-id="WandaVision S01 E02" tvg-name="WandaVision S01 E02"  group-title="WANDAVISION",WandaVision S01 E02
 http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41082.mkv
 #EXTINF:-1 tvg-id="WandaVision S01 E03" tvg-name="WandaVision S01 E03"  group-title="WANDAVISION",WandaVision S01 E03
 http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41174.mkv
+#EXTINF:-1 tvg-id="WandaVision S01 E04" tvg-name="WandaVision S01 E04"  group-title="WANDAVISION",WandaVision S01 E04
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41262.mkv
+#EXTINF:-1 tvg-id="WandaVision S01 E05" tvg-name="WandaVision S01 E05"  group-title="WANDAVISION",WandaVision S01 E05
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41363.mkv
+#EXTINF:-1 tvg-id="WandaVision S01 E06" tvg-name="WandaVision S01 E06"  group-title="WANDAVISION",WandaVision S01 E06
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41450.mkv
+#EXTINF:-1 tvg-id="Fear of Rain (2021)" tvg-name="Fear of Rain (2021)" tvg-logo="http://xdgo.live:8080/images/a039464edc13d82b2b8e5d52a0ac1eaa.jpg" group-title="VFLIX ESTRENOS",Fear of Rain (2021)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41525.mkv
+#EXTINF:-1 tvg-id="Judas and the Black Messiah (2021)" tvg-name="Judas and the Black Messiah (2021)" tvg-logo="http://xdgo.live:8080/images/7a1e746fe573c594536909c6433cd049.jpg" group-title="VFLIX ESTRENOS",Judas and the Black Messiah (2021)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41527.mkv
+#EXTINF:-1 tvg-id="Punto rojo (2021)" tvg-name="Punto rojo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWEMxv4vaF4VQsQcOIXJg0NqtsL.jpg" group-title="VFLIX ESTRENOS",Punto rojo (2021)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41529.mkv
+#EXTINF:-1 tvg-id="Amor al cuadrado (2021)" tvg-name="Amor al cuadrado (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqX1O4PMi2UXuyNVfrps2kq8uFw.jpg" group-title="VFLIX ESTRENOS",Amor al cuadrado (2021)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41530.mkv
+#EXTINF:-1 tvg-id="El mapa de las pequeñas cosas perfectas (2021)" tvg-name="El mapa de las pequeñas cosas perfectas (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6y3ev0rJFbHA1hU22UPmmfzBjrG.jpg" group-title="VFLIX ESTRENOS",El mapa de las pequeñas cosas perfectas (2021)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41532.mkv
+#EXTINF:-1 tvg-id="A todos los chicos: Para siempre (2021)" tvg-name="A todos los chicos: Para siempre (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zdkJs9j6yKo9di0kjtctM01fSMv.jpg" group-title="VFLIX ESTRENOS",A todos los chicos: Para siempre (2021)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41533.mkv
+#EXTINF:-1 tvg-id="¿Qué fue del Sr. Cha? (2021)" tvg-name="¿Qué fue del Sr. Cha? (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSoagGDAy1i8Fpky9JQDyMNWeEJ.jpg" group-title="VFLIX ESTRENOS",¿Qué fue del Sr. Cha? (2021)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41534.mkv
+#EXTINF:-1 tvg-id="108 Costuras (2019)" tvg-name="108 Costuras (2019)" tvg-logo="http://xdgo.live:8080/images/651cf2bbd5ddac87bb36b7247bc49f88.jpg" group-title="VFLIX ESTRENOS",108 Costuras (2019)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41522.mkv
+#EXTINF:-1 tvg-id="Abduction (2019)" tvg-name="Abduction (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sDYbxPraTJr6HatPnAJKnp2EteD.jpg" group-title="VFLIX ESTRENOS",Abduction (2019)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41523.mkv
+#EXTINF:-1 tvg-id="A Valentine's Match (2020)" tvg-name="A Valentine's Match (2020)" tvg-logo="http://xdgo.live:8080/images/be70b583c6054f9659027c7442be94b8.jpg" group-title="VFLIX ESTRENOS",A Valentine's Match (2020)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41524.mkv
+#EXTINF:-1 tvg-id="Joueurs (2018)" tvg-name="Joueurs (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMfr5wO7Of5YdPvITWZBG0Nq2ZF.jpg" group-title="VFLIX ESTRENOS",Joueurs (2018)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41526.mkv
+#EXTINF:-1 tvg-id="Narco Soldiers (2019)" tvg-name="Narco Soldiers (2019)" tvg-logo="http://xdgo.live:8080/images/09c778e4a28118e00981493d0ecd4ef2.jpg" group-title="VFLIX ESTRENOS",Narco Soldiers (2019)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41528.mkv
+#EXTINF:-1 tvg-id="El príncipe olvidado (2020)" tvg-name="El príncipe olvidado (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xVUMCDpn58JwY3zdWFmTZwu37f.jpg" group-title="VFLIX ESTRENOS",El príncipe olvidado (2020)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41531.mkv
+#EXTINF:-1 tvg-id="Z (2019)" tvg-name="Z (2019)" tvg-logo="http://xdgo.live:8080/images/e64ff45899cce4e925f278e3f567fcb1.jpg" group-title="VFLIX ESTRENOS",Z (2019)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41535.mkv
+#EXTINF:-1 tvg-id="Colegio de magia y hechicería (2020)" tvg-name="Colegio de magia y hechicería (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/83TGw9qcqywfnjM9dsWG1sSZziQ.jpg" group-title="VFLIX ESTRENOS",Colegio de magia y hechicería (2020)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41430.mkv
+#EXTINF:-1 tvg-id="Cosmética del enemigo (2020)" tvg-name="Cosmética del enemigo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ksLE8wXhKxJEfrjwJa8XmJAKHZ.jpg" group-title="VFLIX ESTRENOS",Cosmética del enemigo (2020)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41431.mkv
+#EXTINF:-1 tvg-id="Attraction 2 (Invasion) (2020)" tvg-name="Attraction 2 (Invasion) (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8skHIUHUCEkWJ23q8mCSSR8SvYd.jpg" group-title="VFLIX ESTRENOS",Attraction 2 (Invasion) (2020)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41432.mkv
+#EXTINF:-1 tvg-id="Psych 2: Lassie Come Home (2020)" tvg-name="Psych 2: Lassie Come Home (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LXQUhkzo27jKotK7poHkNaw59B.jpg" group-title="VFLIX ESTRENOS",Psych 2: Lassie Come Home (2020)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41434.mkv
+#EXTINF:-1 tvg-id="Víctima del poder (2020)" tvg-name="Víctima del poder (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFnTXH1KoX5KSwf7qlQJd0BmTUi.jpg" group-title="VFLIX ESTRENOS",Víctima del poder (2020)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41436.mkv
+#EXTINF:-1 tvg-id="El Profesor (2019)" tvg-name="El Profesor (2019)" tvg-logo="http://xdgo.live:8080/images/f95c5660a075f3f2794a50854719204c.jpg" group-title="VFLIX ESTRENOS",El Profesor (2019)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41437.mkv
+#EXTINF:-1 tvg-id="Presencias malditas (2019)" tvg-name="Presencias malditas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/491m2wG5uNzF253woglS7S8F7g2.jpg" group-title="VFLIX ESTRENOS",Presencias malditas (2019)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41438.mkv
+#EXTINF:-1 tvg-id="Felicidad (2021)" tvg-name="Felicidad (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zz9Fa9gDEasVXRgHw3rvFb8Rtpa.jpg" group-title="VFLIX ESTRENOS",Felicidad (2021)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41425.mkv
+#EXTINF:-1 tvg-id="Barrenderos espaciales (2021)" tvg-name="Barrenderos espaciales (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOefWMYqC1S3aiCTD5MD8HeXl0Y.jpg" group-title="VFLIX ESTRENOS",Barrenderos espaciales (2021)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41427.mkv
+#EXTINF:-1 tvg-id="Strip Down Rise Up (2021)" tvg-name="Strip Down Rise Up (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/CXQ5zOrhHGcw1imsRMwa7W8izS.jpg" group-title="VFLIX ESTRENOS",Strip Down Rise Up (2021)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41428.mkv
+#EXTINF:-1 tvg-id="El último de los Paradiso (2021)" tvg-name="El último de los Paradiso (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1KYAyf91gHBqa1LKYj389GevRX.jpg" group-title="VFLIX ESTRENOS",El último de los Paradiso (2021)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41429.mkv
+#EXTINF:-1 tvg-id="Fake Famous (2021)" tvg-name="Fake Famous (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1EEK9l5PUsWimPTUxktCORxwnEh.jpg" group-title="VFLIX ESTRENOS",Fake Famous (2021)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41351.mkv
+#EXTINF:-1 tvg-id="La funeraria (2021)" tvg-name="La funeraria (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ptFvXiJoCV5BB7nWyyOth29Pz99.jpg" group-title="VFLIX ESTRENOS",La funeraria (2021)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41357.mkv
+#EXTINF:-1 tvg-id="Virgen de San Juan cuatro siglos de milagros (2021)" tvg-name="Virgen de San Juan cuatro siglos de milagros (2021)" tvg-logo="http://xdgo.live:8080/images/6d064be4bd7f67683efa288185bb80fe.jpg" group-title="VFLIX ESTRENOS",Virgen de San Juan cuatro siglos de milagros (2021)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41360.mkv
+#EXTINF:-1 tvg-id="2 Hearts (2020)" tvg-name="2 Hearts (2020)" tvg-logo="http://xdgo.live:8080/images/996190970de05f211f1b8a4e831691cf.jpg" group-title="VFLIX ESTRENOS",2 Hearts (2020)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41347.mkv
+#EXTINF:-1 tvg-id="Black Beach (2020)" tvg-name="Black Beach (2020)" tvg-logo="http://xdgo.live:8080/images/8dd68e35990d6a36c8fc6e1e2ffd30ba.jpg" group-title="VFLIX ESTRENOS",Black Beach (2020)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41348.mkv
+#EXTINF:-1 tvg-id="Días de un extraño verano (2020)" tvg-name="Días de un extraño verano (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EL45C23bLCUMm7UJGMKPDpV8Dk.jpg" group-title="VFLIX ESTRENOS",Días de un extraño verano (2020)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41349.mkv
+#EXTINF:-1 tvg-id="Explota Explota (2020)" tvg-name="Explota Explota (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GvZ2HFBe7URP3ByCsBYwmDnmzG.jpg" group-title="VFLIX ESTRENOS",Explota Explota (2020)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41350.mkv
+#EXTINF:-1 tvg-id="Honey Boy (2019)" tvg-name="Honey Boy (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3BZ2rBn31kWER45ZMj7OTe9keMm.jpg" group-title="VFLIX ESTRENOS",Honey Boy (2019)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41352.mkv
+#EXTINF:-1 tvg-id="Los fuertes (2019)" tvg-name="Los fuertes (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/un7Swx5taovgbWXXHDKv040tUGV.jpg" group-title="VFLIX ESTRENOS",Los fuertes (2019)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41353.mkv
+#EXTINF:-1 tvg-id="Madre oscura (2020)" tvg-name="Madre oscura (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9ErzjpaE6BOHajCvcKx9fycemT.jpg" group-title="VFLIX ESTRENOS",Madre oscura (2020)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41354.mkv
+#EXTINF:-1 tvg-id="El profesor (Teacher) (2019)" tvg-name="El profesor (Teacher) (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kpeieckCWekt8XTzgPylAmcvUt4.jpg" group-title="VFLIX ESTRENOS",El profesor (Teacher) (2019)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41355.mkv
+#EXTINF:-1 tvg-id="The Cleansing Hour (2020)" tvg-name="The Cleansing Hour (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0daWffGoQpk5Y0LZuQ3gFwisdF.jpg" group-title="VFLIX ESTRENOS",The Cleansing Hour (2020)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41356.mkv
+#EXTINF:-1 tvg-id="Todos mis amigos están muertos (2020)" tvg-name="Todos mis amigos están muertos (2020)" tvg-logo="http://xdgo.live:8080/images/62ad055e7c2d6bc8bdaa6bf682b2d1d0.jpg" group-title="VFLIX ESTRENOS",Todos mis amigos están muertos (2020)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41358.mkv
+#EXTINF:-1 tvg-id="Vicious Fun (2020)" tvg-name="Vicious Fun (2020)" tvg-logo="http://xdgo.live:8080/images/5ea14841a3323a698f8466305d39d930.jpg" group-title="VFLIX ESTRENOS",Vicious Fun (2020)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41359.mkv
+#EXTINF:-1 tvg-id="¡Ánimo Juventud! (2020)" tvg-name="¡Ánimo Juventud! (2020)" tvg-logo="http://xdgo.live:8080/images/531be6d1595d306541487309b322de86.jpg" group-title="VFLIX ESTRENOS",¡Ánimo Juventud! (2020)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41361.mkv
+#EXTINF:-1 tvg-id="Butchers (2021)" tvg-name="Butchers (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLbuMxKORru3oTlItLBWpI5WJxR.jpg" group-title="VFLIX ESTRENOS",Butchers (2021)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41265.mkv
+#EXTINF:-1 tvg-id="Padre por duplicado (2021)" tvg-name="Padre por duplicado (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9k5MjbLsCftyrQ4ec6bPmRtORf.jpg" group-title="VFLIX ESTRENOS",Padre por duplicado (2021)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41268.mkv
+#EXTINF:-1 tvg-id="El Ascensor (2021)" tvg-name="El Ascensor (2021)" tvg-logo="http://xdgo.live:8080/images/0cf3565c7f48de4be7f5ec6a7739b9d4.jpg" group-title="VFLIX ESTRENOS",El Ascensor (2021)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41270.mkv
+#EXTINF:-1 tvg-id="Palmer (2021)" tvg-name="Palmer (2021)" tvg-logo="http://xdgo.live:8080/images/58c42aa26e22b53673bfad3817fbd673.jpg" group-title="VFLIX ESTRENOS",Palmer (2021)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41275.mkv
+#EXTINF:-1 tvg-id="Pequeños detalles (2021)" tvg-name="Pequeños detalles (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOb7bALn1uZZ7XYX1NT5Xfe9kbE.jpg" group-title="VFLIX ESTRENOS",Pequeños detalles (2021)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41281.mkv
+#EXTINF:-1 tvg-id="Para toda la vida (2020)" tvg-name="Para toda la vida (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hFgFMOtpLi6R1ejg0UeVaz5Mcxj.jpg" group-title="VFLIX ESTRENOS",Para toda la vida (2020)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41263.mkv
+#EXTINF:-1 tvg-id="Bajocero (2021)" tvg-name="Bajocero (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jSQm5N889mt4rudOYfYBUFapdYN.jpg" group-title="VFLIX ESTRENOS",Bajocero (2021)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41264.mkv
+#EXTINF:-1 tvg-id="Atrapado (2020)" tvg-name="Atrapado (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRCPafF0QzdUpWgZhfGVsW8Z7oI.jpg" group-title="VFLIX ESTRENOS",Atrapado (2020)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41266.mkv
+#EXTINF:-1 tvg-id="Dino Dana: The Movie (2020)" tvg-name="Dino Dana: The Movie (2020)" tvg-logo="http://xdgo.live:8080/images/88c336fa3a3df0ad8699952b7d125b02.jpg" group-title="VFLIX ESTRENOS",Dino Dana: The Movie (2020)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41267.mkv
+#EXTINF:-1 tvg-id="Echo Boomers (2020)" tvg-name="Echo Boomers (2020)" tvg-logo="http://xdgo.live:8080/images/b21fa61e25f25572ce25300e6b9fe348.jpg" group-title="VFLIX ESTRENOS",Echo Boomers (2020)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41269.mkv
+#EXTINF:-1 tvg-id="Ohana: El Tesoro De Hawái (2021)" tvg-name="Ohana: El Tesoro De Hawái (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTWl37oAYRXS3D5mEHmjveXXyrN.jpg" group-title="VFLIX ESTRENOS",Ohana: El Tesoro De Hawái (2021)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41272.mkv
+#EXTINF:-1 tvg-id="Jiu Jitsu (2020)" tvg-name="Jiu Jitsu (2020)" tvg-logo="http://xdgo.live:8080/images/6a26db49935009839593012500573420.jpg" group-title="VFLIX ESTRENOS",Jiu Jitsu (2020)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41273.mkv
+#EXTINF:-1 tvg-id="Nuevo orden (2020)" tvg-name="Nuevo orden (2020)" tvg-logo="http://xdgo.live:8080/images/f6e9328753324862baedbd1a335db496.jpg" group-title="VFLIX ESTRENOS",Nuevo orden (2020)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41274.mkv
+#EXTINF:-1 tvg-id="Una joven prometedora (2020)" tvg-name="Una joven prometedora (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7P6nT9AJXBtcYe2HlCxDz2p8eG6.jpg" group-title="VFLIX ESTRENOS",Una joven prometedora (2020)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41276.mkv
+#EXTINF:-1 tvg-id="A Soldiers Revenge (2020)" tvg-name="A Soldiers Revenge (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tJkYXEfM2teq48u3HBcvvjgqIb1.jpg" group-title="VFLIX ESTRENOS",A Soldiers Revenge (2020)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41277.mkv
+#EXTINF:-1 tvg-id="The Captive Nanny (2020)" tvg-name="The Captive Nanny (2020)" tvg-logo="http://xdgo.live:8080/images/7710714db4da8b2470f278b1fc8e8c42.jpg" group-title="VFLIX ESTRENOS",The Captive Nanny (2020)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41278.mkv
+#EXTINF:-1 tvg-id="The Dig (2019)" tvg-name="The Dig (2019)" tvg-logo="http://xdgo.live:8080/images/bd7c8e96762ff3347a565cfb6f775477.jpg" group-title="VFLIX ESTRENOS",The Dig (2019)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41279.mkv
+#EXTINF:-1 tvg-id="El joven detective (2020)" tvg-name="El joven detective (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNVEbuXSFXFmgLzNQLTYNNNJCoB.jpg" group-title="VFLIX ESTRENOS",El joven detective (2020)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41280.mkv
+#EXTINF:-1 tvg-id="The Outpost (2020)" tvg-name="The Outpost (2020)" tvg-logo="http://xdgo.live:8080/images/133c7b3490a28bb4d17f67026a0ffa62.jpg" group-title="VFLIX ESTRENOS",The Outpost (2020)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41282.mkv
+#EXTINF:-1 tvg-id="The Right One (2021)" tvg-name="The Right One (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAKqq0NKuWcQ2YnqVSb5RfGJA74.jpg" group-title="VFLIX ESTRENOS",The Right One (2021)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41283.mkv
+#EXTINF:-1 tvg-id="Ultraman Geed The Movie (2018)" tvg-name="Ultraman Geed The Movie (2018)" tvg-logo="http://xdgo.live:8080/images/698720162e7512d52ea83544dd2ea4de.jpg" group-title="VFLIX ESTRENOS",Ultraman Geed The Movie (2018)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41284.mkv
+#EXTINF:-1 tvg-id="Última misión en Afganistán (2019)" tvg-name="Última misión en Afganistán (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jUj3k9qpdCbeGCO0edYTfRmUYO5.jpg" group-title="VFLIX ESTRENOS",Última misión en Afganistán (2019)
+http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41285.mkv
 #EXTINF:-1 tvg-id="Batman: Alma de Dragón (2021)" tvg-name="Batman: Alma de Dragón (2021)" tvg-logo="http://xdgo.live:8080/images/fd925d0456ccc594b0a5e4db5b85d430.jpg" group-title="VFLIX ESTRENOS",Batman: Alma de Dragón (2021)
 http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/41086.mkv
 #EXTINF:-1 tvg-id="Crack: Cocaine Corruption & Conspiracy (2021)" tvg-name="Crack: Cocaine Corruption & Conspiracy (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f7x1RoKXEkYtw175m7sN4emUrXl.jpg" group-title="VFLIX ESTRENOS",Crack: Cocaine Corruption & Conspiracy (2021)
@@ -26663,6 +27163,30 @@ http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/40060.mkv
 http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/40061.mkv
 #EXTINF:-1 tvg-id="Subete a mi moto S01 E15" tvg-name="Subete a mi moto S01 E15"  group-title="SERIES DOCUMENTALES",Subete a mi moto S01 E15
 http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/40062.mkv
+#EXTINF:-1 tvg-id="Escena del crimen Desaparicion en el Hotel Cecil S01 E01" tvg-name="Escena del crimen Desaparicion en el Hotel Cecil S01 E01"  group-title="SERIES DOCUMENTALES",Escena del crimen Desaparicion en el Hotel Cecil S01 E01
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41484.mkv
+#EXTINF:-1 tvg-id="Escena del crimen Desaparicion en el Hotel Cecil S01 E02" tvg-name="Escena del crimen Desaparicion en el Hotel Cecil S01 E02"  group-title="SERIES DOCUMENTALES",Escena del crimen Desaparicion en el Hotel Cecil S01 E02
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41485.mkv
+#EXTINF:-1 tvg-id="Escena del crimen Desaparicion en el Hotel Cecil S01 E03" tvg-name="Escena del crimen Desaparicion en el Hotel Cecil S01 E03"  group-title="SERIES DOCUMENTALES",Escena del crimen Desaparicion en el Hotel Cecil S01 E03
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41486.mkv
+#EXTINF:-1 tvg-id="Escena del crimen Desaparicion en el Hotel Cecil S01 E04" tvg-name="Escena del crimen Desaparicion en el Hotel Cecil S01 E04"  group-title="SERIES DOCUMENTALES",Escena del crimen Desaparicion en el Hotel Cecil S01 E04
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41487.mkv
+#EXTINF:-1 tvg-id="El oficio del espia S01 E01" tvg-name="El oficio del espia S01 E01"  group-title="SERIES DOCUMENTALES",El oficio del espia S01 E01
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41636.mkv
+#EXTINF:-1 tvg-id="El oficio del espia S01 E02" tvg-name="El oficio del espia S01 E02"  group-title="SERIES DOCUMENTALES",El oficio del espia S01 E02
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41637.mkv
+#EXTINF:-1 tvg-id="El oficio del espia S01 E03" tvg-name="El oficio del espia S01 E03"  group-title="SERIES DOCUMENTALES",El oficio del espia S01 E03
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41638.mkv
+#EXTINF:-1 tvg-id="El oficio del espia S01 E04" tvg-name="El oficio del espia S01 E04"  group-title="SERIES DOCUMENTALES",El oficio del espia S01 E04
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41639.mkv
+#EXTINF:-1 tvg-id="El oficio del espia S01 E05" tvg-name="El oficio del espia S01 E05"  group-title="SERIES DOCUMENTALES",El oficio del espia S01 E05
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41640.mkv
+#EXTINF:-1 tvg-id="El oficio del espia S01 E06" tvg-name="El oficio del espia S01 E06"  group-title="SERIES DOCUMENTALES",El oficio del espia S01 E06
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41641.mkv
+#EXTINF:-1 tvg-id="El oficio del espia S01 E07" tvg-name="El oficio del espia S01 E07"  group-title="SERIES DOCUMENTALES",El oficio del espia S01 E07
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41642.mkv
+#EXTINF:-1 tvg-id="El oficio del espia S01 E08" tvg-name="El oficio del espia S01 E08"  group-title="SERIES DOCUMENTALES",El oficio del espia S01 E08
+http://xdgo.live:8080/series/53_Christopher_b/FTGTBmupNN/41643.mkv
 #EXTINF:-1 tvg-id="Discovery - El Origen del Coronavirus" tvg-name="Discovery - El Origen del Coronavirus"  group-title="VFLIX DOCUMENTALES",Discovery - El Origen del Coronavirus
 http://xdgo.live:8080/movie/53_Christopher_b/FTGTBmupNN/25732.mp4
 #EXTINF:-1 tvg-id="History - Pandemia Alerta Mundial" tvg-name="History - Pandemia Alerta Mundial"  group-title="VFLIX DOCUMENTALES",History - Pandemia Alerta Mundial
