@@ -575,6 +575,14 @@ http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/2359
 http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/29818
 #EXTINF:-1 tvg-id="TD PLUS  2 HD" tvg-name="TD PLUS  2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M C3 A1s_2_Logo.svg/1280px-TD_M C3 A1s_2_Logo.svg.png" group-title="DEPORTES",TD PLUS  2 FHD
 http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/29817
+#EXTINF:-1 tvg-id="GOL PERU HQ" tvg-name="GOL PERU HQ" tvg-logo="https://2.bp.blogspot.com/-usJcxF6gJIg/WUVrMywkyzI/AAAAAAAAAi8/DV9fYjhJyKM5Qzd_HIJQKZ1aB-BXRi6CQCLcBGAs/s1600/gol 2Bperu.jpg" group-title="DEPORTES",GOL PERU HQ
+http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/1835
+#EXTINF:-1 tvg-id="GOL PERU HD" tvg-name="GOL PERU HD" tvg-logo="https://2.bp.blogspot.com/-usJcxF6gJIg/WUVrMywkyzI/AAAAAAAAAi8/DV9fYjhJyKM5Qzd_HIJQKZ1aB-BXRi6CQCLcBGAs/s1600/gol 2Bperu.jpg" group-title="DEPORTES",GOL PERU HD
+http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/1837
+#EXTINF:-1 tvg-id="GOL PERU FHD" tvg-name="GOL PERU FHD" tvg-logo="https://2.bp.blogspot.com/-usJcxF6gJIg/WUVrMywkyzI/AAAAAAAAAi8/DV9fYjhJyKM5Qzd_HIJQKZ1aB-BXRi6CQCLcBGAs/s1600/gol 2Bperu.jpg" group-title="DEPORTES",GOL PERU FHD
+http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/1836
+#EXTINF:-1 tvg-id="GOL PERU FHD" tvg-name="GOL PERU FHD op2" tvg-logo="https://2.bp.blogspot.com/-usJcxF6gJIg/WUVrMywkyzI/AAAAAAAAAi8/DV9fYjhJyKM5Qzd_HIJQKZ1aB-BXRi6CQCLcBGAs/s1600/gol 2Bperu.jpg" group-title="DEPORTES",GOL PERU FHD op2
+http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/40011
 #EXTINF:-1 tvg-id="GOL TV INGLES HD" tvg-name="GOL TV INGLES HD" tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf_400x400.jpg" group-title="DEPORTES",GOL TV INGLES HD
 http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/16452
 #EXTINF:-1 tvg-id="GOL TV ESPANOL HD" tvg-name="GOL TV ESPANOL HD" tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf_400x400.jpg" group-title="DEPORTES",GOL TV ESPANOL HD
@@ -2663,6 +2671,80 @@ http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/556
 http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/559
 #EXTINF:-1 tvg-id="24 Horas Casado con Hijos" tvg-name="NT INFORMATIVO CORONAVIRUS" group-title="NOTICIAS",NT INFORMATIVO CORONAVIRUS
 http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/24262
+#EXTINF:-1 tvg-id="AMERICA TV HQ" tvg-name="AMERICA TV HQ" group-title="PERU",AMERICA TV HQ
+http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/17282
+#EXTINF:-1 tvg-id="AMERICA TV HD" tvg-name="AMERICA TV HD" group-title="PERU",AMERICA TV HD
+http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/1133
+#EXTINF:-1 tvg-id="AMERICA TV HD" tvg-name="AMERICA TV HD op2" group-title="PERU",AMERICA TV HD op2
+http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/6093
+#EXTINF:-1 tvg-id="AMERICA TV FHD" tvg-name="AMERICA TV FHD" group-title="PERU",AMERICA TV FHD
+http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/1134
+#EXTINF:-1 tvg-id="AMERICA TV HD" tvg-name="AMERICA TV FHD op2" group-title="PERU",AMERICA TV FHD op2
+http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/5427
+#EXTINF:-1 tvg-id="ATV HQ" tvg-name="ATV HQ" group-title="PERU",ATV HQ
+http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/1136
+#EXTINF:-1 tvg-id="ATV HQ" tvg-name="ATV HQ op2" group-title="PERU",ATV HQ op2
+http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/17278
+#EXTINF:-1 tvg-id="ATV HD" tvg-name="ATV HD" group-title="PERU",ATV HD
+http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/1135
+#EXTINF:-1 tvg-id="ATV HD op2" tvg-name="ATV HD op2" group-title="PERU",ATV HD op2
+http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/5428
+#EXTINF:-1 tvg-id="ATV FHD" tvg-name="ATV FHD" group-title="PERU",ATV FHD
+http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/16327
+#EXTINF:-1 tvg-id="ATV HD" tvg-name="ATV PLUS HD" group-title="PERU",ATV PLUS HD
+http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/27515
+#EXTINF:-1 tvg-id="CTC CUSCO HQ" tvg-name="BHTV HD" group-title="PERU",BHTV HD
+http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/41440
+#EXTINF:-1 tvg-id="ANTARES TV" tvg-name="CANAL IPE" group-title="PERU",CANAL IPE
+http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/1152
+#EXTINF:-1 tvg-id="CANAL N HQ" tvg-name="CANAL N HQ" group-title="PERU",CANAL N HQ
+http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/17279
+#EXTINF:-1 tvg-id="CANAL N HD" tvg-name="CANAL N HD" group-title="PERU",CANAL N HD
+http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/17280
+#EXTINF:-1 tvg-id="WILLAX FHD" tvg-name="EXITOSA HD" group-title="PERU",EXITOSA HD
+http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/27510
+#EXTINF:-1 tvg-id="CTC CUSCO HQ" tvg-name="GLOBAL TV HD" group-title="PERU",GLOBAL TV HD
+http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/41439
+#EXTINF:-1 tvg-id="CTC CUSCO HQ" tvg-name="KARIBENA HD" group-title="PERU",KARIBENA HD
+http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/41441
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="LA TELE FHD" group-title="PERU",LA TELE FHD
+http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/40012
+#EXTINF:-1 tvg-id="LATINA HQ" tvg-name="LATINA HQ" group-title="PERU",LATINA HQ
+http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/1138
+#EXTINF:-1 tvg-id="LATINA HQ op2" tvg-name="LATINA HQ op2" group-title="PERU",LATINA HQ op2
+http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/17277
+#EXTINF:-1 tvg-id="LATINA HD" tvg-name="LATINA HD" group-title="PERU",LATINA HD
+http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/1139
+#EXTINF:-1 tvg-id="LATINA FHD" tvg-name="LATINA FHD" group-title="PERU",LATINA FHD
+http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/1137
+#EXTINF:-1 tvg-id="LATINA FHD op2" tvg-name="LATINA FHD op2" group-title="PERU",LATINA FHD op2
+http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/6220
+#EXTINF:-1 tvg-id="MOVISTAR PLUS HQ" tvg-name="MOVISTAR PLUS" group-title="PERU",MOVISTAR PLUS
+http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/1143
+#EXTINF:-1 tvg-id="MOVISTAR PLUS HD" tvg-name="MOVISTAR PLUS FHD" group-title="PERU",MOVISTAR PLUS FHD
+http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/40009
+#EXTINF:-1 tvg-id="PANAMERICANA HQ" tvg-name="PANAMERICANA HQ" group-title="PERU",PANAMERICANA HQ
+http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/1141
+#EXTINF:-1 tvg-id="PANAMERICANA HQ op2" tvg-name="PANAMERICANA HQ op2" group-title="PERU",PANAMERICANA HQ op2
+http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/17283
+#EXTINF:-1 tvg-id="PANAMERICANA HD" tvg-name="PANAMERICANA HD" group-title="PERU",PANAMERICANA HD
+http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/1142
+#EXTINF:-1 tvg-id="PANAMERICANA FHD" tvg-name="PANAMERICANA FHD" group-title="PERU",PANAMERICANA FHD
+http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/1140
+#EXTINF:-1 tvg-id="PERU MAGICO HQ" tvg-name="PERU MAGICO HQ" group-title="PERU",PERU MAGICO HQ
+http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/17276
+#EXTINF:-1 tvg-id="PERU MAGICO" tvg-name="PERU MAGICO" group-title="PERU",PERU MAGICO
+http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/1144
+#EXTINF:-1 tvg-id="RPP TV HQ" tvg-name="RPP TV HQ" group-title="PERU",RPP TV HQ
+http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/17281
+#EXTINF:-1 tvg-id="RPP TV HD" tvg-name="RPP TV HD" group-title="PERU",RPP TV HD
+http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/16456
+#EXTINF:-1 tvg-id="TV PERU HQ" tvg-name="TV PERU FHD" group-title="PERU",TV PERU FHD
+http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/27514
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="TV PERU NOTICIAS" group-title="PERU",TV PERU NOTICIAS
+http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/1150
+#EXTINF:-1 tvg-id="WILLAX FHD" tvg-name="WILLAX FHD" group-title="PERU",WILLAX FHD
+http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/27511
 #EXTINF:-1 tvg-id="PPV CINEMA 01" tvg-name="PPV CINEMA 01" tvg-logo="" group-title="PPV ESTRENOS FHD",PPV CINEMA 01
 http://xdgo.live:8080/60_franciaparra_a/cpZc8Mv5zf/6077
 #EXTINF:-1 tvg-id="PPV CINEMA 01" tvg-name="PPV CINEMA 02" tvg-logo="" group-title="PPV ESTRENOS FHD",PPV CINEMA 02
