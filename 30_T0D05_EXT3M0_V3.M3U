@@ -267,7 +267,7 @@ http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1112
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1113
 #EXTINF:-1 tvg-id="CO CARACOL INTERNACIONAL HD" tvg-name="CO CARACOL INTERNACIONAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/2015_Caracol_TV_logo.svg/1024px-2015_Caracol_TV_logo.svg.png" group-title="COLOMBIA",CO CARACOL INTERNACIONAL HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/22256
-#EXTINF:-1 tvg-id="CO CITY TV HQ" tvg-name="CO CITY TV HD" tvg-logo="https://www.streetchurch.ca/wp-content/uploads/2010/02/Citytv_web1-800x445.png" group-title="COLOMBIA",CO CITY TV HD
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="CO CITY TV HD" tvg-logo="https://www.streetchurch.ca/wp-content/uploads/2010/02/Citytv_web1-800x445.png" group-title="COLOMBIA",CO CITY TV HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1115
 #EXTINF:-1 tvg-id="CO EL TIEMPO HD" tvg-name="CO EL TIEMPO HD" tvg-logo="https://pbs.twimg.com/profile_images/756594027223511045/y7NleJb3.jpg" group-title="COLOMBIA",CO EL TIEMPO HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1117
@@ -319,7 +319,7 @@ http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/2345
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/23994
 #EXTINF:-1 tvg-id="BEIN SPORTS FHD" tvg-name="BEIN SPORTS FHD" tvg-logo="https://comparaiso.es/sites/default/files/images/beinlogo-300.png" group-title="DEPORTES",BEIN SPORTS FHD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1849
-#EXTINF:-1 tvg-id="BEIN SPORTS N FHD" tvg-name="BEIN SPORTS N HQ" tvg-logo="https://comparaiso.es/sites/default/files/images/beinlogo-300.png" group-title="DEPORTES",BEIN SPORTS N HQ
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="BEIN SPORTS N HQ" tvg-logo="https://comparaiso.es/sites/default/files/images/beinlogo-300.png" group-title="DEPORTES",BEIN SPORTS N HQ
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/23993
 #EXTINF:-1 tvg-id="BEIN SPORTS N HD" tvg-name="BEIN SPORTS N HD" tvg-logo="https://comparaiso.es/sites/default/files/images/beinlogo-300.png" group-title="DEPORTES",BEIN SPORTS N HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1854
@@ -327,6 +327,8 @@ http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1854
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1853
 #EXTINF:-1 tvg-id="BEIN SPORTS N HD" tvg-name="BEIN SPORTS N HD op3" tvg-logo="https://comparaiso.es/sites/default/files/images/beinlogo-300.png" group-title="DEPORTES",BEIN SPORTS N HD op3
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1852
+#EXTINF:-1 tvg-id="BEIN SPORTS N HD" tvg-name="BEIN SPORTS N FHD" tvg-logo="https://comparaiso.es/sites/default/files/images/beinlogo-300.png" group-title="DEPORTES",BEIN SPORTS N FHD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/41773
 #EXTINF:-1 tvg-id="BEIN SPORTS LALIGA FHD" tvg-name="BEIN SPORTS LALIGA HQ" tvg-logo="https://comparaiso.es/sites/default/files/images/beinlogo-300.png" group-title="DEPORTES",BEIN SPORTS LALIGA HQ
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/23995
 #EXTINF:-1 tvg-id="BEIN SPORTS LALIGA FHD" tvg-name="BEIN SPORTS LALIGA FHD" tvg-logo="https://comparaiso.es/sites/default/files/images/beinlogo-300.png" group-title="DEPORTES",BEIN SPORTS LALIGA FHD
@@ -403,6 +405,10 @@ http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1797
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1799
 #EXTINF:-1 tvg-id="ESPN MX FHD" tvg-name="ESPN MX FHD" tvg-logo="" group-title="DEPORTES",ESPN MX FHD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/30428
+#EXTINF:-1 tvg-id="ESPN SUR FHD" tvg-name="ESPN UR HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN UR HQ
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/41601
+#EXTINF:-1 tvg-id="ESPN SUR FHD" tvg-name="ESPN UR HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN UR HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/41595
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="ESPN 2 CL HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 2 CL HQ
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/30295
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="ESPN 2 CL HQ op2" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 2 CL HQ op2
@@ -431,6 +437,10 @@ http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1859
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1862
 #EXTINF:-1 tvg-id="ESPN 2 NORTE HD" tvg-name="ESPN 2 NORTE HD" tvg-logo="" group-title="DEPORTES",ESPN 2 NORTE HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/30426
+#EXTINF:-1 tvg-id="ESPN 2 SUR HQ" tvg-name="ESPN 2 UR HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 2 UR HQ
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/41602
+#EXTINF:-1 tvg-id="ESPN 2 SUR HQ" tvg-name="ESPN 2 UR HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 2 UR HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/41596
 #EXTINF:-1 tvg-id="ESPN 3 SUR HD" tvg-name="ESPN 3 PE FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 3 PE FHD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/40007
 #EXTINF:-1 tvg-id="ESPN 3 MX HQ" tvg-name="ESPN 3 MX HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 3 MX HQ
@@ -445,6 +455,10 @@ http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1857
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1860
 #EXTINF:-1 tvg-id="ESPN 3 SUR FHD" tvg-name="ESPN 3 SUR FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 3 SUR FHD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1863
+#EXTINF:-1 tvg-id="ESPN 3 SUR FHD" tvg-name="ESPN 3 UR HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 3 UR HQ
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/41603
+#EXTINF:-1 tvg-id="ESPN 3 SUR FHD" tvg-name="ESPN 3 UR HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 3 UR HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/41597
 #EXTINF:-1 tvg-id="ESPN  PLUS  MX HQ" tvg-name="ESPN  PLUS  MX HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN  PLUS  MX HQ
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1794
 #EXTINF:-1 tvg-id="ESPN  PLUS  MX HD" tvg-name="ESPN  PLUS  MX HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN  PLUS  MX HD
@@ -455,89 +469,107 @@ http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1790
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/2333
 #EXTINF:-1 tvg-id="FOX DEPORTES FHD" tvg-name="FOX DEPORTES FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX DEPORTES FHD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1838
-#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="FOX $PORTS BR HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS BR HD
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="FOX SPORTS BR HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS BR HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/2336
-#EXTINF:-1 tvg-id="FOX $PORTS CL HD" tvg-name="FOX $PORTS CL HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS CL HD
+#EXTINF:-1 tvg-id="FOX SPORTS CL HD" tvg-name="FOX SPORTS CL HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS CL HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/2356
-#EXTINF:-1 tvg-id="FOX $PORTS 1 CL HD" tvg-name="FOX $PORTS 1 CL HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 1 CL HQ
+#EXTINF:-1 tvg-id="FOX SPORTS 1 CL HD" tvg-name="FOX SPORTS 1 CL HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 1 CL HQ
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/40149
-#EXTINF:-1 tvg-id="FOX $PORTS 1 CL HD" tvg-name="FOX $PORTS 1 CL HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 1 CL HD
+#EXTINF:-1 tvg-id="FOX SPORTS 1 CL HD" tvg-name="FOX SPORTS 1 CL HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 1 CL HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/40151
-#EXTINF:-1 tvg-id="FOX $PORTS CL FHD" tvg-name="FOX $PORTS 1 CL HD op2" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 1 CL HD op2
+#EXTINF:-1 tvg-id="FOX SPORTS CL FHD" tvg-name="FOX SPORTS 1 CL HD op2" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 1 CL HD op2
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/30314
-#EXTINF:-1 tvg-id="FOX $PORTS 1 CL FHD" tvg-name="FOX $PORTS 1 CL FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 1 CL FHD
+#EXTINF:-1 tvg-id="FOX SPORTS 1 CL FHD" tvg-name="FOX SPORTS 1 CL FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 1 CL FHD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/40152
-#EXTINF:-1 tvg-id="FOX $PORTS 1 CL FHD" tvg-name="FOX $PORTS 1 CL FHD op2" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 1 CL FHD op2
+#EXTINF:-1 tvg-id="FOX SPORTS 1 CL FHD" tvg-name="FOX SPORTS 1 CL FHD op2" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 1 CL FHD op2
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/2354
-#EXTINF:-1 tvg-id="FOX $PORTS 1 AR LQ" tvg-name="FOX $PORTS 1 AR LQ" tvg-logo="" group-title="DEPORTES",FOX $PORTS 1 AR LQ
+#EXTINF:-1 tvg-id="FOX SPORTS 1 AR LQ" tvg-name="FOX SPORTS 1 AR LQ" tvg-logo="" group-title="DEPORTES",FOX SPORTS 1 AR LQ
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/30427
-#EXTINF:-1 tvg-id="FOX $PORTS 1 AR HQ" tvg-name="FOX $PORTS 1 AR HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 1 AR HQ
+#EXTINF:-1 tvg-id="FOX SPORTS 1 AR HQ" tvg-name="FOX SPORTS 1 AR HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 1 AR HQ
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1777
-#EXTINF:-1 tvg-id="FOX $PORTS 1 AR HD" tvg-name="FOX $PORTS 1 AR HD" tvg-logo="" group-title="DEPORTES",FOX $PORTS 1 AR HD
+#EXTINF:-1 tvg-id="FOX SPORTS 1 AR HD" tvg-name="FOX SPORTS 1 AR HD" tvg-logo="" group-title="DEPORTES",FOX SPORTS 1 AR HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/30424
-#EXTINF:-1 tvg-id="FOX $PORTS 1 AR FHD" tvg-name="FOX $PORTS 1 AR FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 1 AR FHD
+#EXTINF:-1 tvg-id="FOX SPORTS 1 AR FHD" tvg-name="FOX SPORTS 1 AR FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 1 AR FHD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1779
-#EXTINF:-1 tvg-id="FOX $PORTS 1 AR FHD op2" tvg-name="FOX $PORTS 1 AR FHD op2" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 1 AR FHD op2
+#EXTINF:-1 tvg-id="FOX SPORTS 1 AR FHD op2" tvg-name="FOX SPORTS 1 AR FHD op2" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 1 AR FHD op2
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/2071
-#EXTINF:-1 tvg-id="FOX $PORTS 1 CO HQ" tvg-name="FOX $PORTS 1 CO HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 1 CO HQ
+#EXTINF:-1 tvg-id="FOX SPORTS 1 CO HQ" tvg-name="FOX SPORTS 1 CO HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 1 CO HQ
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/40686
-#EXTINF:-1 tvg-id="FOX $PORTS 1 CO HD" tvg-name="FOX $PORTS 1 CO HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 1 CO HD
+#EXTINF:-1 tvg-id="FOX SPORTS 1 CO HD" tvg-name="FOX SPORTS 1 CO HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 1 CO HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/40689
-#EXTINF:-1 tvg-id="FOX $PORTS 1 CO FHD" tvg-name="FOX $PORTS 1 CO FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 1 CO FHD
+#EXTINF:-1 tvg-id="FOX SPORTS 1 CO HD" tvg-name="FOX SPORTS 1 CO FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 1 CO FHD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/40692
-#EXTINF:-1 tvg-id="FOX $PORTS 1 MX HQ" tvg-name="FOX $PORTS 1 MX HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 1 MX HQ
+#EXTINF:-1 tvg-id="FOX SPORTS 1 MX HQ" tvg-name="FOX SPORTS 1 MX HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 1 MX HQ
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1771
-#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="FOX $PORTS 1 MX HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 1 MX HD
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="FOX SPORTS 1 MX HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 1 MX HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1772
-#EXTINF:-1 tvg-id="FOX $PORTS 1 MX FHD" tvg-name="FOX $PORTS 1 MX FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 1 MX FHD
+#EXTINF:-1 tvg-id="FOX SPORTS 1 MX FHD" tvg-name="FOX SPORTS 1 MX FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 1 MX FHD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1766
-#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="FOX $PORTS 2 BR HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 2 BR HD
+#EXTINF:-1 tvg-id="FOX SPORTS 1 CO HD" tvg-name="FOX SPORTS 1 PE FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 1 PE FHD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/41770
+#EXTINF:-1 tvg-id="FOX SPORTS 1 AR HQ" tvg-name="FOX SPORTS 1 UR HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 1 UR HQ
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/41598
+#EXTINF:-1 tvg-id="FOX SPORTS 1 AR LQ" tvg-name="FOX SPORTS 1 UR HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 1 UR HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/41608
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="FOX SPORTS 2 BR HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 2 BR HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/2335
-#EXTINF:-1 tvg-id="FOX $PORTS 2 CL FHD" tvg-name="FOX $PORTS 2 CL HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 2 CL HQ
+#EXTINF:-1 tvg-id="FOX SPORTS 2 CL FHD" tvg-name="FOX SPORTS 2 CL HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 2 CL HQ
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/40150
-#EXTINF:-1 tvg-id="FOX $PORTS 2 CL FHD" tvg-name="FOX $PORTS 2 CL HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 2 CL HD
+#EXTINF:-1 tvg-id="FOX SPORTS 2 CL FHD" tvg-name="FOX SPORTS 2 CL HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 2 CL HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/40153
-#EXTINF:-1 tvg-id="FOX $PORTS 2 CL FHD" tvg-name="FOX $PORTS 2 CL FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 2 CL FHD
+#EXTINF:-1 tvg-id="FOX SPORTS 2 CL FHD" tvg-name="FOX SPORTS 2 CL FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 2 CL FHD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/40154
-#EXTINF:-1 tvg-id="FOX $PORTS 2 CO HQ" tvg-name="FOX $PORTS 2 CO HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 2 CO HQ
+#EXTINF:-1 tvg-id="FOX SPORTS 2 CO HQ" tvg-name="FOX SPORTS 2 CO HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 2 CO HQ
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/40687
-#EXTINF:-1 tvg-id="FOX $PORTS 2 CO HD" tvg-name="FOX $PORTS 2 CO HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 2 CO HD
+#EXTINF:-1 tvg-id="FOX SPORTS 2 CO HD" tvg-name="FOX SPORTS 2 CO HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 2 CO HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/40690
-#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="FOX $PORTS 2 CO FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 2 CO FHD
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="FOX SPORTS 2 CO FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 2 CO FHD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/40693
-#EXTINF:-1 tvg-id="FOX $PORTS 2 AR HQ" tvg-name="FOX $PORTS 2 MX HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 2 MX HQ
+#EXTINF:-1 tvg-id="FOX SPORTS 2 AR HQ" tvg-name="FOX SPORTS 2 MX HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 2 MX HQ
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1770
-#EXTINF:-1 tvg-id="FOX $PORTS 2 AR HQ" tvg-name="FOX $PORTS 2 MX HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 2 MX HD
+#EXTINF:-1 tvg-id="FOX SPORTS 2 AR HQ" tvg-name="FOX SPORTS 2 MX HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 2 MX HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1774
-#EXTINF:-1 tvg-id="FOX $PORTS 2 AR HQ" tvg-name="FOX $PORTS 2 MX FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 2 MX FHD
+#EXTINF:-1 tvg-id="FOX SPORTS 2 AR HQ" tvg-name="FOX SPORTS 2 MX FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 2 MX FHD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1768
-#EXTINF:-1 tvg-id="FOX $PORTS 2 AR HQ" tvg-name="FOX $PORTS 2 AR HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 2 AR HQ
+#EXTINF:-1 tvg-id="FOX SPORTS 2 AR HQ" tvg-name="FOX SPORTS 2 AR HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 2 AR HQ
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1776
-#EXTINF:-1 tvg-id="FOX $PORTS 2 AR HD" tvg-name="FOX $PORTS 2 AR HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 2 AR HD
+#EXTINF:-1 tvg-id="FOX SPORTS 2 AR HD" tvg-name="FOX SPORTS 2 AR HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 2 AR HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1782
-#EXTINF:-1 tvg-id="FOX $PORTS 2 AR FHD" tvg-name="FOX $PORTS 2 AR FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 2 AR FHD
+#EXTINF:-1 tvg-id="FOX SPORTS 2 AR FHD" tvg-name="FOX SPORTS 2 AR FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 2 AR FHD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1778
-#EXTINF:-1 tvg-id="FOX $PORTS 3 AR HQ" tvg-name="FOX $PORTS 3 AR HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 3 AR HQ
+#EXTINF:-1 tvg-id="FOX SPORTS 2 CO HD" tvg-name="FOX SPORTS 2 PE FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 2 PE FHD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/41771
+#EXTINF:-1 tvg-id="FOX SPORTS 2 CO HD" tvg-name="FOX SPORTS 2 UR HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 2 UR HQ
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/41599
+#EXTINF:-1 tvg-id="FOX SPORTS 2 CO HD" tvg-name="FOX SPORTS 2 UR HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 2 UR HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/41593
+#EXTINF:-1 tvg-id="FOX SPORTS 3 AR HQ" tvg-name="FOX SPORTS 3 AR HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 3 AR HQ
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1775
-#EXTINF:-1 tvg-id="FOX $PORTS 3 AR HD" tvg-name="FOX $PORTS 3 AR HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 3 AR HD
+#EXTINF:-1 tvg-id="FOX SPORTS 3 AR HD" tvg-name="FOX SPORTS 3 AR HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 3 AR HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1781
-#EXTINF:-1 tvg-id="FOX $PORTS 3 CO HQ" tvg-name="FOX $PORTS 3 CO HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 3 CO HQ
+#EXTINF:-1 tvg-id="FOX SPORTS 3 CO HQ" tvg-name="FOX SPORTS 3 CO HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 3 CO HQ
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/40688
-#EXTINF:-1 tvg-id="FOX $PORTS 3 CO HD" tvg-name="FOX $PORTS 3 CO HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 3 CO HD
+#EXTINF:-1 tvg-id="FOX SPORTS 3 CO HD" tvg-name="FOX SPORTS 3 CO HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 3 CO HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/40691
-#EXTINF:-1 tvg-id="FOX $PORTS 3 CO FHD" tvg-name="FOX $PORTS 3 CO FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 3 CO FHD
+#EXTINF:-1 tvg-id="FOX SPORTS 3 CO FHD" tvg-name="FOX SPORTS 3 CO FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 3 CO FHD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/40694
-#EXTINF:-1 tvg-id="FOX $PORTS 3 MX HQ" tvg-name="FOX $PORTS 3 MX HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 3 MX HQ
+#EXTINF:-1 tvg-id="FOX SPORTS 3 MX HQ" tvg-name="FOX SPORTS 3 MX HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 3 MX HQ
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1769
-#EXTINF:-1 tvg-id="FOX $PORTS 3 MX HD" tvg-name="FOX $PORTS 3 MX HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 3 MX HD
+#EXTINF:-1 tvg-id="FOX SPORTS 3 MX HD" tvg-name="FOX SPORTS 3 MX HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 3 MX HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1773
-#EXTINF:-1 tvg-id="FOX $PORTS 3 MX FHD" tvg-name="FOX $PORTS 3 MX FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS 3 MX FHD
+#EXTINF:-1 tvg-id="FOX SPORTS 3 MX FHD" tvg-name="FOX SPORTS 3 MX FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 3 MX FHD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1767
-#EXTINF:-1 tvg-id="FOX $PORTS PREMIUM HD" tvg-name="FOX $PORTS PREMIUM HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS PREMIUM HQ
+#EXTINF:-1 tvg-id="FOX SPORTS 3 CO HD" tvg-name="FOX SPORTS 3 PE HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 3 PE HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/41772
+#EXTINF:-1 tvg-id="FOX SPORTS 3 AR HQ" tvg-name="FOX SPORTS 3 UR HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 3 UR HQ
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/41600
+#EXTINF:-1 tvg-id="FOX SPORTS 3 AR HD" tvg-name="FOX SPORTS 3 UR HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 3 UR HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/41594
+#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM HD" tvg-name="FOX SPORTS PREMIUM HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS PREMIUM HQ
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/40910
-#EXTINF:-1 tvg-id="FOX $PORTS PREMIUM HD" tvg-name="FOX $PORTS PREMIUM HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS PREMIUM HD
+#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM HD" tvg-name="FOX SPORTS PREMIUM HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS PREMIUM HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1780
-#EXTINF:-1 tvg-id="FOX $PORTS PREMIUM FHD" tvg-name="FOX $PORTS PREMIUM FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX $PORTS PREMIUM FHD
+#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM FHD" tvg-name="FOX SPORTS PREMIUM FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS PREMIUM FHD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/2359
 #EXTINF:-1 tvg-id="TD PLUS  HD" tvg-name="TD PLUS  FHD" tvg-logo="https://pbs.twimg.com/profile_images/1189755464386519041/2wI2B-TY_400x400.jpg" group-title="DEPORTES",TD PLUS  FHD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/29818
@@ -629,12 +661,20 @@ http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1812
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1810
 #EXTINF:-1 tvg-id="TyC SPORTS INTERNACIONAL FHD" tvg-name="TyC SPORTS INTERNACIONAL FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102018/untitled-1_0.png?F6I3fSfXjacEnK1eqDG27n_ZDOB47hGe&itok=O6OvPoFN" group-title="DEPORTES",TyC SPORTS INTERNACIONAL FHD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1864
+#EXTINF:-1 tvg-id="VTV HQ" tvg-name="VTV HQ op3" tvg-logo="https://pbs.twimg.com/profile_images/846441916917002240/AlVftQ9-_400x400.jpg" group-title="DEPORTES",VTV HQ op3
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/41606
+#EXTINF:-1 tvg-id="VTV HQ op2" tvg-name="VTV HD op2" tvg-logo="https://pbs.twimg.com/profile_images/846441916917002240/AlVftQ9-_400x400.jpg" group-title="DEPORTES",VTV HD op2
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/41607
 #EXTINF:-1 tvg-id="VTV  PLUS  HD" tvg-name="VTV  PLUS  HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VTV 2BUruguay.svg/768px-VTV 2BUruguay.svg.png" group-title="DEPORTES",VTV  PLUS  HQ
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/17333
+#EXTINF:-1 tvg-id="VTV  PLUS  HD" tvg-name="VTV  PLUS  HQ op2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VTV 2BUruguay.svg/768px-VTV 2BUruguay.svg.png" group-title="DEPORTES",VTV  PLUS  HQ op2
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/41609
 #EXTINF:-1 tvg-id="VTV  PLUS  HD" tvg-name="VTV  PLUS  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VTV 2BUruguay.svg/768px-VTV 2BUruguay.svg.png" group-title="DEPORTES",VTV  PLUS  HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/16453
 #EXTINF:-1 tvg-id="VTV  PLUS  HQ" tvg-name="VTV  PLUS  HD op2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VTV 2BUruguay.svg/768px-VTV 2BUruguay.svg.png" group-title="DEPORTES",VTV  PLUS  HD op2
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/16454
+#EXTINF:-1 tvg-id="VTV  PLUS  HD" tvg-name="VTV  PLUS  HD op3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VTV 2BUruguay.svg/768px-VTV 2BUruguay.svg.png" group-title="DEPORTES",VTV  PLUS  HD op3
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/41610
 #EXTINF:-1 tvg-id="WINSPORTS HQ" tvg-name="WINSPORTS HQ" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/26/f8/5e/26f85e39-1c07-4a6b-937c-64488469731d/source/512x512bb.jpg" group-title="DEPORTES",WINSPORTS HQ
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1802
 #EXTINF:-1 tvg-id="WINSPORTS HD" tvg-name="WINSPORTS HD" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/26/f8/5e/26f85e39-1c07-4a6b-937c-64488469731d/source/512x512bb.jpg" group-title="DEPORTES",WINSPORTS HD
@@ -753,21 +793,21 @@ http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/2367
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/2033
 #EXTINF:-1 tvg-id="USA Fight Network" tvg-name="FIGHT NETWORK" tvg-logo="" group-title="DEPORTES INTERNACIONALES",FIGHT NETWORK
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/2035
-#EXTINF:-1 tvg-id="FOX $PORTS ATLANTA" tvg-name="FOX $PORTS ATLANTA" tvg-logo="" group-title="DEPORTES INTERNACIONALES",FOX $PORTS ATLANTA
+#EXTINF:-1 tvg-id="FOX SPORTS ATLANTA" tvg-name="FOX SPORTS ATLANTA" tvg-logo="" group-title="DEPORTES INTERNACIONALES",FOX SPORTS ATLANTA
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/2007
-#EXTINF:-1 tvg-id="FOX $PORTS CAROLINAS" tvg-name="FOX $PORTS CAROLINAS" tvg-logo="" group-title="DEPORTES INTERNACIONALES",FOX $PORTS CAROLINAS
+#EXTINF:-1 tvg-id="FOX SPORTS CAROLINAS" tvg-name="FOX SPORTS CAROLINAS" tvg-logo="" group-title="DEPORTES INTERNACIONALES",FOX SPORTS CAROLINAS
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/2022
-#EXTINF:-1 tvg-id="FOX $PORTS DETROIT" tvg-name="FOX $PORTS DETROIT" tvg-logo="" group-title="DEPORTES INTERNACIONALES",FOX $PORTS DETROIT
+#EXTINF:-1 tvg-id="FOX SPORTS DETROIT" tvg-name="FOX SPORTS DETROIT" tvg-logo="" group-title="DEPORTES INTERNACIONALES",FOX SPORTS DETROIT
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/22103
-#EXTINF:-1 tvg-id="FOX $PORTS FLORIDA" tvg-name="FOX $PORTS FLORIDA" tvg-logo="" group-title="DEPORTES INTERNACIONALES",FOX $PORTS FLORIDA
+#EXTINF:-1 tvg-id="FOX SPORTS FLORIDA" tvg-name="FOX SPORTS FLORIDA" tvg-logo="" group-title="DEPORTES INTERNACIONALES",FOX SPORTS FLORIDA
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/22105
-#EXTINF:-1 tvg-id="FOX $PORTS SUN" tvg-name="FOX $PORTS SUN" tvg-logo="" group-title="DEPORTES INTERNACIONALES",FOX $PORTS SUN
+#EXTINF:-1 tvg-id="FOX SPORTS SUN" tvg-name="FOX SPORTS SUN" tvg-logo="" group-title="DEPORTES INTERNACIONALES",FOX SPORTS SUN
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/22101
-#EXTINF:-1 tvg-id="FOX $PORTS TAMPA" tvg-name="FOX $PORTS TAMPA" tvg-logo="" group-title="DEPORTES INTERNACIONALES",FOX $PORTS TAMPA
+#EXTINF:-1 tvg-id="FOX SPORTS TAMPA" tvg-name="FOX SPORTS TAMPA" tvg-logo="" group-title="DEPORTES INTERNACIONALES",FOX SPORTS TAMPA
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/22114
-#EXTINF:-1 tvg-id="FOX $PORTS TNNESS" tvg-name="FOX $PORTS TNNESS" tvg-logo="" group-title="DEPORTES INTERNACIONALES",FOX $PORTS TNNESS
+#EXTINF:-1 tvg-id="FOX SPORTS TNNESS" tvg-name="FOX SPORTS TNNESS" tvg-logo="" group-title="DEPORTES INTERNACIONALES",FOX SPORTS TNNESS
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/22102
-#EXTINF:-1 tvg-id="FOX $PORTS WEST" tvg-name="FOX $PORTS WEST" tvg-logo="" group-title="DEPORTES INTERNACIONALES",FOX $PORTS WEST
+#EXTINF:-1 tvg-id="FOX SPORTS WEST" tvg-name="FOX SPORTS WEST" tvg-logo="" group-title="DEPORTES INTERNACIONALES",FOX SPORTS WEST
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/22115
 #EXTINF:-1 tvg-id="FOX ATLANTA" tvg-name="FOX ATLANTA" tvg-logo="" group-title="DEPORTES INTERNACIONALES",FOX ATLANTA
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/2011
@@ -957,9 +997,9 @@ http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/40047
 http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/22733.mp4
 #EXTINF:-1 tvg-id="Alberto Barros - Tributo A La Salsa Colombiana 2" tvg-name="Alberto Barros - Tributo A La Salsa Colombiana 2"  group-title="VFLIX CONCIERTOS",Alberto Barros - Tributo A La Salsa Colombiana 2
 http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/3638.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nunca,174  casi nunca
+#EXTINF:-1 tvg-id="" tvg-name="Nunca,233  casi nunca
 http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/40164.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Padre,344  Soldado
+#EXTINF:-1 tvg-id="" tvg-name="Padre,403  Soldado
 http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/30099.mkv
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="BR WOOHOO HD" group-title="BRASIL",BR WOOHOO HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/5579
@@ -1051,11 +1091,11 @@ http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/5497
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/5495
 #EXTINF:-1 tvg-id="BR FX HD" tvg-name="BR FX HD" group-title="BRASIL",BR FX HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/5494
-#EXTINF:-1 tvg-id="BR FOX $PORTS 2 HD" tvg-name="BR FOX $PORTS 2 HD" group-title="BRASIL",BR FOX $PORTS 2 HD
+#EXTINF:-1 tvg-id="BR FOX SPORTS 2 HD" tvg-name="BR FOX SPORTS 2 HD" group-title="BRASIL",BR FOX SPORTS 2 HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/5491
 #EXTINF:-1 tvg-id="BR FOX LIFE HD" tvg-name="BR FOX LIFE HD" group-title="BRASIL",BR FOX LIFE HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/5488
-#EXTINF:-1 tvg-id="BR FOX HD" tvg-name="BR FOX HD" group-title="BRASIL",BR FOX HD
+#EXTINF:-1 tvg-id="BR FOX HD" tvg-name="BR STAR CHANNEL HD" group-title="BRASIL",BR STAR CHANNEL HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/5487
 #EXTINF:-1 tvg-id="BR FISH TV HD" tvg-name="BR FISH TV HD" group-title="BRASIL",BR FISH TV HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/5486
@@ -1129,7 +1169,7 @@ http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/5690
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/5665
 #EXTINF:-1 tvg-id="CA BBC WORLD NEWS" tvg-name="CA BBC WORLD NEWS" group-title="CANADA",CA BBC WORLD NEWS
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/5745
-#EXTINF:-1 tvg-id="USA beIN Sports" tvg-name="CA BEIN SPORTS" tvg-logo="https://comparaiso.es/sites/default/files/images/beinlogo-300.png" group-title="CANADA",CA BEIN SPORTS
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="CA BEIN SPORTS" group-title="CANADA",CA BEIN SPORTS
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/5689
 #EXTINF:-1 tvg-id="CA BET" tvg-name="CA BET" group-title="CANADA",CA BET
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/5714
@@ -1365,21 +1405,21 @@ http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/797
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/798
 #EXTINF:-1 tvg-id="FILM & ART HQ" tvg-name="FILM ARTS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEDPrdTYm61rgOsAJlv0uUnVWxf23p7gLqBfQJEsarP3fY3CRs&s" group-title="CINE FHD",FILM ARTS FHD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/795
-#EXTINF:-1 tvg-id="FOX FHD" tvg-name="FOX FHD" tvg-logo="https://hypeauditor.com/uploads/h/4/e/5/5755a06c721f16d05d672876c34d08b3.jpg?p=qMr4CAJJ9ehzOc19teDKllI1Qnn6HTdnUH77H8kIggVt5HfmNEjCkMBvBBSvmBpb0K9toF7Cmf8PlWJ 2FvOvyU3DtVlXE32je20r6sLg1L1V 2F3x9W2qHp0XdO3oIClXmPCW0KKxc8No4jG2AWnq1kjQ 3D 3D" group-title="CINE FHD",FOX FHD
+#EXTINF:-1 tvg-id="FOX FHD" tvg-name="STAR CHANNEL FHD" tvg-logo="https://hypeauditor.com/uploads/h/4/e/5/5755a06c721f16d05d672876c34d08b3.jpg?p=qMr4CAJJ9ehzOc19teDKllI1Qnn6HTdnUH77H8kIggVt5HfmNEjCkMBvBBSvmBpb0K9toF7Cmf8PlWJ 2FvOvyU3DtVlXE32je20r6sLg1L1V 2F3x9W2qHp0XdO3oIClXmPCW0KKxc8No4jG2AWnq1kjQ 3D 3D" group-title="CINE FHD",STAR CHANNEL FHD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/792
 #EXTINF:-1 tvg-id="FOX LIFE FHD" tvg-name="FOX LIFE FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png?itok=BYCf-fZz" group-title="CINE FHD",FOX LIFE FHD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/793
-#EXTINF:-1 tvg-id="FOX PREMIUM ACTION FHD" tvg-name="FOX PREMIUM ACTION FHD" tvg-logo="https://foxmas.foxplay.com/img/logo_foxaction.png" group-title="CINE FHD",FOX PREMIUM ACTION FHD
+#EXTINF:-1 tvg-id="FOX PREMIUM ACTION FHD" tvg-name="STAR ACTION FHD" tvg-logo="https://foxmas.foxplay.com/img/logo_foxaction.png" group-title="CINE FHD",STAR ACTION FHD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/784
-#EXTINF:-1 tvg-id="FOX PREMIUM CINE FHD" tvg-name="FOX PREMIUM CINE FHD" tvg-logo="https://foxmas.foxplay.com/img/logo_foxcinema.png" group-title="CINE FHD",FOX PREMIUM CINE FHD
+#EXTINF:-1 tvg-id="FOX PREMIUM CINE FHD" tvg-name="STAR CINE FHD" tvg-logo="https://foxmas.foxplay.com/img/logo_foxcinema.png" group-title="CINE FHD",STAR CINE FHD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/785
-#EXTINF:-1 tvg-id="FOX PREMIUM CLASSICS FHD" tvg-name="FOX PREMIUM CLASSIC FHD" tvg-logo="https://foxmas.foxplay.com/img/logo_foxclassics.png" group-title="CINE FHD",FOX PREMIUM CLASSIC FHD
+#EXTINF:-1 tvg-id="FOX PREMIUM CLASSICS FHD" tvg-name="STAR CLASSICS FHD" tvg-logo="https://foxmas.foxplay.com/img/logo_foxclassics.png" group-title="CINE FHD",STAR CLASSICS FHD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/790
-#EXTINF:-1 tvg-id="FOX PREMIUM COMEDY FHD" tvg-name="FOX PREMIUM COMEDY FHD" tvg-logo="https://foxmas.foxplay.com/img/logo_foxcomedy.png" group-title="CINE FHD",FOX PREMIUM COMEDY FHD
+#EXTINF:-1 tvg-id="FOX PREMIUM COMEDY FHD" tvg-name="STAR COMEDY FHD" tvg-logo="https://foxmas.foxplay.com/img/logo_foxcomedy.png" group-title="CINE FHD",STAR COMEDY FHD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/791
-#EXTINF:-1 tvg-id="FOX PREMIUM FAMILY FHD" tvg-name="FOX PREMIUM FAMILY FHD" tvg-logo="https://foxmas.foxplay.com/img/logo_foxfamily.png" group-title="CINE FHD",FOX PREMIUM FAMILY FHD
+#EXTINF:-1 tvg-id="FOX PREMIUM FAMILY FHD" tvg-name="STAR FUN FHD" tvg-logo="https://foxmas.foxplay.com/img/logo_foxfamily.png" group-title="CINE FHD",STAR FUN FHD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/789
-#EXTINF:-1 tvg-id="FOX PREMIUM MOVIES FHD" tvg-name="FOX PREMIUM MOVIES FHD" tvg-logo="https://foxmas.foxplay.com/img/logo_foxmovies.png" group-title="CINE FHD",FOX PREMIUM MOVIES FHD
+#EXTINF:-1 tvg-id="FOX PREMIUM MOVIES FHD" tvg-name="STAR HIT FHD" tvg-logo="https://foxmas.foxplay.com/img/logo_foxmovies.png" group-title="CINE FHD",STAR HIT FHD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/794
 #EXTINF:-1 tvg-id="FX FHD" tvg-name="FX FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjlmmXnsW5hqqhPFniYa3xcR8HeQtNjjkSjL5ji_TG5i8jSrXq&s" group-title="CINE FHD",FX FHD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/781
@@ -1521,39 +1561,39 @@ http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/914
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/939
 #EXTINF:-1 tvg-id="FILM & ART HQ" tvg-name="FILM ART HQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEDPrdTYm61rgOsAJlv0uUnVWxf23p7gLqBfQJEsarP3fY3CRs&s" group-title="CINE HD",FILM ART HQ
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/913
-#EXTINF:-1 tvg-id="FOX HD" tvg-name="FOX HD" tvg-logo="https://hypeauditor.com/uploads/h/4/e/5/5755a06c721f16d05d672876c34d08b3.jpg?p=qMr4CAJJ9ehzOc19teDKllI1Qnn6HTdnUH77H8kIggVt5HfmNEjCkMBvBBSvmBpb0K9toF7Cmf8PlWJ 2FvOvyU3DtVlXE32je20r6sLg1L1V 2F3x9W2qHp0XdO3oIClXmPCW0KKxc8No4jG2AWnq1kjQ 3D 3D" group-title="CINE HD",FOX HD
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="STAR CHANNEL HD" tvg-logo="https://hypeauditor.com/uploads/h/4/e/5/5755a06c721f16d05d672876c34d08b3.jpg?p=qMr4CAJJ9ehzOc19teDKllI1Qnn6HTdnUH77H8kIggVt5HfmNEjCkMBvBBSvmBpb0K9toF7Cmf8PlWJ 2FvOvyU3DtVlXE32je20r6sLg1L1V 2F3x9W2qHp0XdO3oIClXmPCW0KKxc8No4jG2AWnq1kjQ 3D 3D" group-title="CINE HD",STAR CHANNEL HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/938
-#EXTINF:-1 tvg-id="FOX HQ" tvg-name="FOX HQ" tvg-logo="https://hypeauditor.com/uploads/h/4/e/5/5755a06c721f16d05d672876c34d08b3.jpg?p=qMr4CAJJ9ehzOc19teDKllI1Qnn6HTdnUH77H8kIggVt5HfmNEjCkMBvBBSvmBpb0K9toF7Cmf8PlWJ 2FvOvyU3DtVlXE32je20r6sLg1L1V 2F3x9W2qHp0XdO3oIClXmPCW0KKxc8No4jG2AWnq1kjQ 3D 3D" group-title="CINE HD",FOX HQ
+#EXTINF:-1 tvg-id="FOX HQ" tvg-name="STAR CHANNEL HQ" tvg-logo="https://hypeauditor.com/uploads/h/4/e/5/5755a06c721f16d05d672876c34d08b3.jpg?p=qMr4CAJJ9ehzOc19teDKllI1Qnn6HTdnUH77H8kIggVt5HfmNEjCkMBvBBSvmBpb0K9toF7Cmf8PlWJ 2FvOvyU3DtVlXE32je20r6sLg1L1V 2F3x9W2qHp0XdO3oIClXmPCW0KKxc8No4jG2AWnq1kjQ 3D 3D" group-title="CINE HD",STAR CHANNEL HQ
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/874
 #EXTINF:-1 tvg-id="FOX LIFE HD" tvg-name="FOX LIFE HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png?itok=BYCf-fZz" group-title="CINE HD",FOX LIFE HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/956
 #EXTINF:-1 tvg-id="FOX LIFE HQ" tvg-name="FOX LIFE HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png?itok=BYCf-fZz" group-title="CINE HD",FOX LIFE HQ
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/871
-#EXTINF:-1 tvg-id="FOX PREMIUM ACTION HD" tvg-name="FOX PREMIUM ACTION HD" tvg-logo="https://foxmas.foxplay.com/img/logo_foxaction.png" group-title="CINE HD",FOX PREMIUM ACTION HD
+#EXTINF:-1 tvg-id="FOX PREMIUM ACTION HD" tvg-name="STAR ACTION HD" tvg-logo="https://foxmas.foxplay.com/img/logo_foxaction.png" group-title="CINE HD",STAR ACTION HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/910
-#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="FOX PREMIUM ACTION HD op2" tvg-logo="https://foxmas.foxplay.com/img/logo_foxaction.png" group-title="CINE HD",FOX PREMIUM ACTION HD op2
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="STAR ACTION HD op2" tvg-logo="https://foxmas.foxplay.com/img/logo_foxaction.png" group-title="CINE HD",STAR ACTION HD op2
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/937
-#EXTINF:-1 tvg-id="FOX PREMIUM ACTION HQ" tvg-name="FOX PREMIUM ACTION HQ" tvg-logo="https://foxmas.foxplay.com/img/logo_foxaction.png" group-title="CINE HD",FOX PREMIUM ACTION HQ
+#EXTINF:-1 tvg-id="FOX PREMIUM ACTION HQ" tvg-name="STAR ACTION HQ" tvg-logo="https://foxmas.foxplay.com/img/logo_foxaction.png" group-title="CINE HD",STAR ACTION HQ
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/875
-#EXTINF:-1 tvg-id="FOX PREMIUM CINEMA HD" tvg-name="FOX PREMIUM CINEMA HD" tvg-logo="https://foxmas.foxplay.com/img/logo_foxcinema.png" group-title="CINE HD",FOX PREMIUM CINEMA HD
+#EXTINF:-1 tvg-id="FOX PREMIUM CINEMA HD" tvg-name="STAR CINEMA HD" tvg-logo="https://foxmas.foxplay.com/img/logo_foxcinema.png" group-title="CINE HD",STAR CINEMA HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/936
-#EXTINF:-1 tvg-id="FOX PREMIUM CINEMA HQ" tvg-name="FOX PREMIUM CINEMA HQ" tvg-logo="https://foxmas.foxplay.com/img/logo_foxcinema.png" group-title="CINE HD",FOX PREMIUM CINEMA HQ
+#EXTINF:-1 tvg-id="FOX PREMIUM CINEMA HQ" tvg-name="STAR CINEMA HQ" tvg-logo="https://foxmas.foxplay.com/img/logo_foxcinema.png" group-title="CINE HD",STAR CINEMA HQ
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/873
-#EXTINF:-1 tvg-id="FOX PREMIUM CLASSICS HD" tvg-name="FOX PREMIUM CLASSICS HD" tvg-logo="https://foxmas.foxplay.com/img/logo_foxclassics.png" group-title="CINE HD",FOX PREMIUM CLASSICS HD
+#EXTINF:-1 tvg-id="FOX PREMIUM CLASSICS HD" tvg-name="STAR CLASSICS HD" tvg-logo="https://foxmas.foxplay.com/img/logo_foxclassics.png" group-title="CINE HD",STAR CLASSICS HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/935
-#EXTINF:-1 tvg-id="FOX PREMIUM CLASSICS HQ" tvg-name="FOX PREMIUM CLASSICS HQ" tvg-logo="https://foxmas.foxplay.com/img/logo_foxclassics.png" group-title="CINE HD",FOX PREMIUM CLASSICS HQ
+#EXTINF:-1 tvg-id="FOX PREMIUM CLASSICS HQ" tvg-name="STAR CLASSICS HQ" tvg-logo="https://foxmas.foxplay.com/img/logo_foxclassics.png" group-title="CINE HD",STAR CLASSICS HQ
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/908
-#EXTINF:-1 tvg-id="FOX PREMIUM COMEDY HD" tvg-name="FOX PREMIUM COMEDY HD" tvg-logo="https://foxmas.foxplay.com/img/logo_foxcomedy.png" group-title="CINE HD",FOX PREMIUM COMEDY HD
+#EXTINF:-1 tvg-id="FOX PREMIUM COMEDY HD" tvg-name="STAR COMEDY HD" tvg-logo="https://foxmas.foxplay.com/img/logo_foxcomedy.png" group-title="CINE HD",STAR COMEDY HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/904
-#EXTINF:-1 tvg-id="FOX PREMIUM COMEDY HQ" tvg-name="FOX PREMIUM COMEDY HQ" tvg-logo="https://foxmas.foxplay.com/img/logo_foxcomedy.png" group-title="CINE HD",FOX PREMIUM COMEDY HQ
+#EXTINF:-1 tvg-id="FOX PREMIUM COMEDY HQ" tvg-name="STAR COMEDY HQ" tvg-logo="https://foxmas.foxplay.com/img/logo_foxcomedy.png" group-title="CINE HD",STAR COMEDY HQ
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/907
-#EXTINF:-1 tvg-id="FOX PREMIUM FAMILY HD" tvg-name="FOX PREMIUM FAMILY HD" tvg-logo="https://foxmas.foxplay.com/img/logo_foxfamily.png" group-title="CINE HD",FOX PREMIUM FAMILY HD
+#EXTINF:-1 tvg-id="FOX PREMIUM FAMILY HD" tvg-name="STAR FUN HD" tvg-logo="https://foxmas.foxplay.com/img/logo_foxfamily.png" group-title="CINE HD",STAR FUN HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/906
-#EXTINF:-1 tvg-id="FOX PREMIUM FAMILY HQ" tvg-name="FOX PREMIUM FAMILY HQ" tvg-logo="https://foxmas.foxplay.com/img/logo_foxfamily.png" group-title="CINE HD",FOX PREMIUM FAMILY HQ
+#EXTINF:-1 tvg-id="FOX PREMIUM FAMILY HQ" tvg-name="STAR FUN HQ" tvg-logo="https://foxmas.foxplay.com/img/logo_foxfamily.png" group-title="CINE HD",STAR FUN HQ
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/905
-#EXTINF:-1 tvg-id="FOX PREMIUM MOVIES HD" tvg-name="FOX PREMIUM MOVIES HD" tvg-logo="https://foxmas.foxplay.com/img/logo_foxmovies.png" group-title="CINE HD",FOX PREMIUM MOVIES HD
+#EXTINF:-1 tvg-id="FOX PREMIUM MOVIES HD" tvg-name="STAR HIT HD" tvg-logo="https://foxmas.foxplay.com/img/logo_foxmovies.png" group-title="CINE HD",STAR HIT HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/933
-#EXTINF:-1 tvg-id="FOX PREMIUM MOVIES HQ" tvg-name="FOX PREMIUM MOVIES HQ" tvg-logo="https://foxmas.foxplay.com/img/logo_foxmovies.png" group-title="CINE HD",FOX PREMIUM MOVIES HQ
+#EXTINF:-1 tvg-id="FOX PREMIUM MOVIES HQ" tvg-name="STAR HIT HQ" tvg-logo="https://foxmas.foxplay.com/img/logo_foxmovies.png" group-title="CINE HD",STAR HIT HQ
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/870
 #EXTINF:-1 tvg-id="FX HD" tvg-name="FX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjlmmXnsW5hqqhPFniYa3xcR8HeQtNjjkSjL5ji_TG5i8jSrXq&s" group-title="CINE HD",FX HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/931
@@ -1579,6 +1619,10 @@ http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/864
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/2386
 #EXTINF:-1 tvg-id="GOLDEN PREMIER HQ" tvg-name="GOLDEN PREMIER HQ" tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/05/televisa-afiliados-senales-golden-premier.jpg" group-title="CINE HD",GOLDEN PREMIER HQ
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/2387
+#EXTINF:-1 tvg-id="GOLDEN PREMIER FHD" tvg-name="GOLDEN PREMIER 2 HD" tvg-logo="https://promocionestigosv.com/report-tigo/SV/tigo-star-canales/images/238-Golden-Premier-2-01.jpg" group-title="CINE HD",GOLDEN PREMIER 2 HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/41590
+#EXTINF:-1 tvg-id="GOLDEN PREMIER HD" tvg-name="GOLDEN PREMIER 2 HQ" tvg-logo="https://promocionestigosv.com/report-tigo/SV/tigo-star-canales/images/238-Golden-Premier-2-01.jpg" group-title="CINE HD",GOLDEN PREMIER 2 HQ
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/41591
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo.png" group-title="CINE HD",HBO HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/2388
 #EXTINF:-1 tvg-id="HBO HQ" tvg-name="HBO HQ" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo.png" group-title="CINE HD",HBO HQ
@@ -1819,8 +1863,6 @@ http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/39
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/101
 #EXTINF:-1 tvg-id="ES CANAL ODISEA" tvg-name="ES CANAL ODISEA" group-title="ESPANA",ES CANAL ODISEA
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/103
-#EXTINF:-1 tvg-id="ES CANAL PANDA" tvg-name="ES CANAL PANDA" group-title="ESPANA",ES CANAL PANDA
-http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/104
 #EXTINF:-1 tvg-id="ES CANAL SUR" tvg-name="ES CANAL SUR" group-title="ESPANA",ES CANAL SUR
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/105
 #EXTINF:-1 tvg-id="ES CAZA Y PESCA HD" tvg-name="ES CAZA Y PESCA HD" group-title="ESPANA",ES CAZA Y PESCA HD
@@ -3341,8 +3383,6 @@ http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/2210
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/5891
 #EXTINF:-1 tvg-id="Estrella TV" tvg-name="Estrella TV" tvg-logo="" group-title="USA LATINO",Estrella TV
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/2466
-#EXTINF:-1 tvg-id="Pasiones" tvg-name="Pasiones" tvg-logo="" group-title="USA LATINO",Pasiones
-http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/402
 #EXTINF:-1 tvg-id="Galavision" tvg-name="Galavision" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/56_es.png" group-title="USA LATINO",Galavision
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/5816
 #EXTINF:-1 tvg-id="GALAVISION ATLANTA" tvg-name="Galavision Atlanta" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/48_es.png" group-title="USA LATINO",Galavision Atlanta
@@ -3391,6 +3431,8 @@ http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/27542
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/370
 #EXTINF:-1 tvg-id="Novelas in 5 Minutos" tvg-name="Novelas in 5 Minutos" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/75_es.png" group-title="USA LATINO",Novelas in 5 Minutos
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/5890
+#EXTINF:-1 tvg-id="Pasiones" tvg-name="Pasiones" tvg-logo="" group-title="USA LATINO",Pasiones
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/402
 #EXTINF:-1 tvg-id="Telemundo Denver" tvg-name="Telemundo Atlanta" tvg-logo="" group-title="USA LATINO",Telemundo Atlanta
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/27592
 #EXTINF:-1 tvg-id="Telemundo Boston" tvg-name="Telemundo Boston" tvg-logo="" group-title="USA LATINO",Telemundo Boston
@@ -3409,6 +3451,8 @@ http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/352
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/351
 #EXTINF:-1 tvg-id="Telemundo HD" tvg-name="Telemundo Internacional" tvg-logo="" group-title="USA LATINO",Telemundo Internacional
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/27842
+#EXTINF:-1 tvg-id="Telemundo Internacional op2" tvg-name="Telemundo Internacional op2" tvg-logo="" group-title="USA LATINO",Telemundo Internacional op2
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/28949
 #EXTINF:-1 tvg-id="Telemundo Las Vegas" tvg-name="Telemundo Las Vegas" tvg-logo="" group-title="USA LATINO",Telemundo Las Vegas
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/350
 #EXTINF:-1 tvg-id="Telemundo Los Angeles" tvg-name="Telemundo Los Angeles" tvg-logo="" group-title="USA LATINO",Telemundo Los Angeles
@@ -3417,6 +3461,8 @@ http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/349
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/348
 #EXTINF:-1 tvg-id="Telemundo New York" tvg-name="Telemundo New York" tvg-logo="" group-title="USA LATINO",Telemundo New York
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/347
+#EXTINF:-1 tvg-id="Telemundo New York op2" tvg-name="Telemundo New York op2" tvg-logo="" group-title="USA LATINO",Telemundo New York op2
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/41774
 #EXTINF:-1 tvg-id="Telemundo Orlando FHD" tvg-name="Telemundo Orlando" tvg-logo="" group-title="USA LATINO",Telemundo Orlando
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/27185
 #EXTINF:-1 tvg-id="Telemundo Philadelphia" tvg-name="Telemundo Philadelphia" tvg-logo="" group-title="USA LATINO",Telemundo Philadelphia
@@ -3511,20 +3557,20 @@ http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/394
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/392
 #EXTINF:-1 tvg-id="Univision New York" tvg-name="Univision New York" tvg-logo="" group-title="USA LATINO",Univision New York
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/391
+#EXTINF:-1 tvg-id="Univision New York op2" tvg-name="Univision New York op2" tvg-logo="" group-title="USA LATINO",Univision New York op2
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/41775
 #EXTINF:-1 tvg-id="Univision San Francisco" tvg-name="Univision San Francisco" tvg-logo="" group-title="USA LATINO",Univision San Francisco
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/389
-#EXTINF:-1 tvg-id="Univision Washington" tvg-name="Univision Washington HD" tvg-logo="" group-title="USA LATINO",Univision Washington HD
-http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/30350
-#EXTINF:-1 tvg-id="Univision Washington" tvg-name="Univision Washington FHD" tvg-logo="" group-title="USA LATINO",Univision Washington FHD
-http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/30351
 #EXTINF:-1 tvg-id="USA UNIVISION TDN" tvg-name="Univision TDN" tvg-logo="" group-title="USA LATINO",Univision TDN
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/387
 #EXTINF:-1 tvg-id="Univision tlnovelas" tvg-name="Univision tlnovelas" tvg-logo="" group-title="USA LATINO",Univision tlnovelas
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/386
+#EXTINF:-1 tvg-id="Univision Washington" tvg-name="Univision Washington FHD" tvg-logo="" group-title="USA LATINO",Univision Washington FHD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/30351
+#EXTINF:-1 tvg-id="Univision Washington" tvg-name="Univision Washington HD" tvg-logo="" group-title="USA LATINO",Univision Washington HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/30350
 #EXTINF:-1 tvg-id="Univision West" tvg-name="Univision West" tvg-logo="" group-title="USA LATINO",Univision West
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/385
-#EXTINF:-1 tvg-id="Telemundo Internacional op2" tvg-name="Telemundo Internacional op2" tvg-logo="" group-title="USA LATINO",Telemundo Internacional op2
-http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/28949
 #EXTINF:-1 tvg-id="Amor de Vinilo (2018)" tvg-name="Amor de Vinilo (2018)"  group-title="VFLIX 4K",Amor de Vinilo (2018)
 http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/2741.mkv
 #EXTINF:-1 tvg-id="Annabelle Creation" tvg-name="Annabelle Creation"  group-title="VFLIX 4K",Annabelle Creation
@@ -5687,6 +5733,8 @@ http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/22647.avi
 http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/22648.mkv
 #EXTINF:-1 tvg-id="Zombieland Mata y remata - 2019" tvg-name="Zombieland Mata y remata - 2019"  group-title="VFLIX CIENCIA FICCION",Zombieland Mata y remata - 2019
 http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/22649.mkv
+#EXTINF:-1 tvg-id="Buscando a Eva (1999)" tvg-name="Buscando a Eva (1999)"  group-title="VFLIX COMEDIA",Buscando a Eva (1999)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/41881.mkv
 #EXTINF:-1 tvg-id="¡Que dilema! (2011)" tvg-name="¡Que dilema! (2011)"  group-title="VFLIX COMEDIA",¡Que dilema! (2011)
 http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/30265.mkv
 #EXTINF:-1 tvg-id="Socios y sabuesos (1989)" tvg-name="Socios y sabuesos (1989)"  group-title="VFLIX COMEDIA",Socios y sabuesos (1989)
@@ -10359,7 +10407,7 @@ http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/28211.mp4
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/5562
 #EXTINF:-1 tvg-id="A3 SERIES FHD" tvg-name="A3 SERIES FHD" tvg-logo="https://atreseries.atresmedia.com/public/img/atreseries/apple-touch-icon-180x180.png" group-title="CINE FHD",A3 SERIES FHD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/808
-#EXTINF:-1 tvg-id="FOX PREMIUM SERIES FHD" tvg-name="FOX PREMIUM SERIES FHD" tvg-logo="https://foxmas.foxplay.com/img/logo_foxseries.png" group-title="CINE FHD",FOX PREMIUM SERIES FHD
+#EXTINF:-1 tvg-id="FOX PREMIUM SERIES FHD" tvg-name="STAR SERIES FHD" tvg-logo="https://foxmas.foxplay.com/img/logo_foxseries.png" group-title="CINE FHD",STAR SERIES FHD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/788
 #EXTINF:-1 tvg-id="TNT SERIES FHD" tvg-name="TNT SERIES FHD" tvg-logo="https://pbs.twimg.com/profile_images/837305655262330880/qQPwpyZH_400x400.jpg" group-title="CINE FHD",TNT SERIES FHD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/766
@@ -10367,9 +10415,9 @@ http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/766
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/947
 #EXTINF:-1 tvg-id="A3 SERIES HQ" tvg-name="A3 SERIES HQ" tvg-logo="https://atreseries.atresmedia.com/public/img/atreseries/apple-touch-icon-180x180.png" group-title="CINE HD",A3 SERIES HQ
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/957
-#EXTINF:-1 tvg-id="FOX PREMIUM SERIES HD" tvg-name="FOX PREMIUM SERIES HD" tvg-logo="https://foxmas.foxplay.com/img/logo_foxseries.png" group-title="CINE HD",FOX PREMIUM SERIES HD
+#EXTINF:-1 tvg-id="FOX PREMIUM SERIES HD" tvg-name="STAR SERIES HD" tvg-logo="https://foxmas.foxplay.com/img/logo_foxseries.png" group-title="CINE HD",STAR SERIES HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/932
-#EXTINF:-1 tvg-id="FOX PREMIUM SERIES HQ" tvg-name="FOX PREMIUM SERIES HQ" tvg-logo="https://foxmas.foxplay.com/img/logo_foxseries.png" group-title="CINE HD",FOX PREMIUM SERIES HQ
+#EXTINF:-1 tvg-id="FOX PREMIUM SERIES HQ" tvg-name="STAR SERIES HQ" tvg-logo="https://foxmas.foxplay.com/img/logo_foxseries.png" group-title="CINE HD",STAR SERIES HQ
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/869
 #EXTINF:-1 tvg-id="TNT SERIES HD" tvg-name="TNT SERIES HD" tvg-logo="https://pbs.twimg.com/profile_images/837305655262330880/qQPwpyZH_400x400.jpg" group-title="CINE HD",TNT SERIES HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/854
@@ -10381,6 +10429,16 @@ http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/87
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/121
 #EXTINF:-1 tvg-id="ES MoviStar Series Mania HD" tvg-name="ES MoviStar Series Mania HD" group-title="ESPANA",ES MoviStar Series Mania HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/122
+#EXTINF:-1 tvg-id="Los Visitantes S01 E01" tvg-name="Los Visitantes S01 E01"  group-title="LOS VISITANTES",Los Visitantes S01 E01
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41473.mkv
+#EXTINF:-1 tvg-id="Los Visitantes S01 E02" tvg-name="Los Visitantes S01 E02"  group-title="LOS VISITANTES",Los Visitantes S01 E02
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41474.mkv
+#EXTINF:-1 tvg-id="Los Visitantes S01 E03" tvg-name="Los Visitantes S01 E03"  group-title="LOS VISITANTES",Los Visitantes S01 E03
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41475.mkv
+#EXTINF:-1 tvg-id="Los Visitantes S01 E04" tvg-name="Los Visitantes S01 E04"  group-title="LOS VISITANTES",Los Visitantes S01 E04
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41476.mkv
+#EXTINF:-1 tvg-id="Los Visitantes S01 E05" tvg-name="Los Visitantes S01 E05"  group-title="LOS VISITANTES",Los Visitantes S01 E05
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41477.mkv
 #EXTINF:-1 tvg-id="A3 SERIES FHD" tvg-name="MX A3 Series HD" group-title="MEXICO",MX A3 Series HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/209
 #EXTINF:-1 tvg-id="Homeland S01 E01" tvg-name="Homeland S01 E01"  group-title="SERIES ACCION",Homeland S01 E01
@@ -12345,6 +12403,22 @@ http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/40203.mkv
 http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/40204.mkv
 #EXTINF:-1 tvg-id="Barbaros S01 E06" tvg-name="Barbaros S01 E06"  group-title="SERIES ACCION",Barbaros S01 E06
 http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/40205.mkv
+#EXTINF:-1 tvg-id="Tierra de Nadie S01 E01" tvg-name="Tierra de Nadie S01 E01"  group-title="SERIES ACCION",Tierra de Nadie S01 E01
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41957.mkv
+#EXTINF:-1 tvg-id="Tierra de Nadie S01 E02" tvg-name="Tierra de Nadie S01 E02"  group-title="SERIES ACCION",Tierra de Nadie S01 E02
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41958.mkv
+#EXTINF:-1 tvg-id="Tierra de Nadie S01 E03" tvg-name="Tierra de Nadie S01 E03"  group-title="SERIES ACCION",Tierra de Nadie S01 E03
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41959.mkv
+#EXTINF:-1 tvg-id="Tierra de Nadie S01 E04" tvg-name="Tierra de Nadie S01 E04"  group-title="SERIES ACCION",Tierra de Nadie S01 E04
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41960.mkv
+#EXTINF:-1 tvg-id="Tierra de Nadie S01 E05" tvg-name="Tierra de Nadie S01 E05"  group-title="SERIES ACCION",Tierra de Nadie S01 E05
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41961.mkv
+#EXTINF:-1 tvg-id="Tierra de Nadie S01 E06" tvg-name="Tierra de Nadie S01 E06"  group-title="SERIES ACCION",Tierra de Nadie S01 E06
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41962.mkv
+#EXTINF:-1 tvg-id="Tierra de Nadie S01 E07" tvg-name="Tierra de Nadie S01 E07"  group-title="SERIES ACCION",Tierra de Nadie S01 E07
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41963.mkv
+#EXTINF:-1 tvg-id="Tierra de Nadie S01 E08" tvg-name="Tierra de Nadie S01 E08"  group-title="SERIES ACCION",Tierra de Nadie S01 E08
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41964.mkv
 #EXTINF:-1 tvg-id="Los Super Campeones hacia el Mundial Oliver y Benji (Super Campeones 2002) S01 E01" tvg-name="Los Super Campeones hacia el Mundial Oliver y Benji (Super Campeones 2002) S01 E01"  group-title="SERIES ANIME",Los Super Campeones hacia el Mundial Oliver y Benji (Super Campeones 2002) S01 E01
 http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/7933.mp4
 #EXTINF:-1 tvg-id="Los Super Campeones hacia el Mundial Oliver y Benji (Super Campeones 2002) S01 E02" tvg-name="Los Super Campeones hacia el Mundial Oliver y Benji (Super Campeones 2002) S01 E02"  group-title="SERIES ANIME",Los Super Campeones hacia el Mundial Oliver y Benji (Super Campeones 2002) S01 E02
@@ -14577,6 +14651,70 @@ http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/30035.mkv
 http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/30036.mkv
 #EXTINF:-1 tvg-id="Como sobrevivir soltero S01 E10" tvg-name="Como sobrevivir soltero S01 E10"  group-title="SERIES COMEDIA",Como sobrevivir soltero S01 E10
 http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/30037.mkv
+#EXTINF:-1 tvg-id="Ted Lasso S01 E01" tvg-name="Ted Lasso S01 E01"  group-title="SERIES COMEDIA",Ted Lasso S01 E01
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41611.mkv
+#EXTINF:-1 tvg-id="Ted Lasso S01 E02" tvg-name="Ted Lasso S01 E02"  group-title="SERIES COMEDIA",Ted Lasso S01 E02
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41612.mkv
+#EXTINF:-1 tvg-id="Ted Lasso S01 E03" tvg-name="Ted Lasso S01 E03"  group-title="SERIES COMEDIA",Ted Lasso S01 E03
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41613.mkv
+#EXTINF:-1 tvg-id="Ted Lasso S01 E04" tvg-name="Ted Lasso S01 E04"  group-title="SERIES COMEDIA",Ted Lasso S01 E04
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41614.mkv
+#EXTINF:-1 tvg-id="Ted Lasso S01 E05" tvg-name="Ted Lasso S01 E05"  group-title="SERIES COMEDIA",Ted Lasso S01 E05
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41615.mkv
+#EXTINF:-1 tvg-id="Ted Lasso S01 E06" tvg-name="Ted Lasso S01 E06"  group-title="SERIES COMEDIA",Ted Lasso S01 E06
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41616.mkv
+#EXTINF:-1 tvg-id="Ted Lasso S01 E07" tvg-name="Ted Lasso S01 E07"  group-title="SERIES COMEDIA",Ted Lasso S01 E07
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41617.mkv
+#EXTINF:-1 tvg-id="Ted Lasso S01 E08" tvg-name="Ted Lasso S01 E08"  group-title="SERIES COMEDIA",Ted Lasso S01 E08
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41618.mkv
+#EXTINF:-1 tvg-id="Ted Lasso S01 E09" tvg-name="Ted Lasso S01 E09"  group-title="SERIES COMEDIA",Ted Lasso S01 E09
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41619.mkv
+#EXTINF:-1 tvg-id="Ted Lasso S01 E10" tvg-name="Ted Lasso S01 E10"  group-title="SERIES COMEDIA",Ted Lasso S01 E10
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41620.mkv
+#EXTINF:-1 tvg-id="Madre solo hay dos S01 E01" tvg-name="Madre solo hay dos S01 E01"  group-title="SERIES COMEDIA",Madre solo hay dos S01 E01
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41899.mkv
+#EXTINF:-1 tvg-id="Madre solo hay dos S01 E02" tvg-name="Madre solo hay dos S01 E02"  group-title="SERIES COMEDIA",Madre solo hay dos S01 E02
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41900.mkv
+#EXTINF:-1 tvg-id="Madre solo hay dos S01 E03" tvg-name="Madre solo hay dos S01 E03"  group-title="SERIES COMEDIA",Madre solo hay dos S01 E03
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41901.mkv
+#EXTINF:-1 tvg-id="Madre solo hay dos S01 E04" tvg-name="Madre solo hay dos S01 E04"  group-title="SERIES COMEDIA",Madre solo hay dos S01 E04
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41902.mkv
+#EXTINF:-1 tvg-id="Madre solo hay dos S01 E05" tvg-name="Madre solo hay dos S01 E05"  group-title="SERIES COMEDIA",Madre solo hay dos S01 E05
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41903.mkv
+#EXTINF:-1 tvg-id="Madre solo hay dos S01 E06" tvg-name="Madre solo hay dos S01 E06"  group-title="SERIES COMEDIA",Madre solo hay dos S01 E06
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41904.mkv
+#EXTINF:-1 tvg-id="Madre solo hay dos S01 E07" tvg-name="Madre solo hay dos S01 E07"  group-title="SERIES COMEDIA",Madre solo hay dos S01 E07
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41905.mkv
+#EXTINF:-1 tvg-id="Madre solo hay dos S01 E08" tvg-name="Madre solo hay dos S01 E08"  group-title="SERIES COMEDIA",Madre solo hay dos S01 E08
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41906.mkv
+#EXTINF:-1 tvg-id="Madre solo hay dos S01 E09" tvg-name="Madre solo hay dos S01 E09"  group-title="SERIES COMEDIA",Madre solo hay dos S01 E09
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41907.mkv
+#EXTINF:-1 tvg-id="High Fidelity S01 E01" tvg-name="High Fidelity S01 E01"  group-title="SERIES COMEDIA",High Fidelity S01 E01
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41918.mkv
+#EXTINF:-1 tvg-id="High Fidelity S01 E02" tvg-name="High Fidelity S01 E02"  group-title="SERIES COMEDIA",High Fidelity S01 E02
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41919.mkv
+#EXTINF:-1 tvg-id="High Fidelity S01 E03" tvg-name="High Fidelity S01 E03"  group-title="SERIES COMEDIA",High Fidelity S01 E03
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41920.mkv
+#EXTINF:-1 tvg-id="High Fidelity S01 E04" tvg-name="High Fidelity S01 E04"  group-title="SERIES COMEDIA",High Fidelity S01 E04
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41921.mkv
+#EXTINF:-1 tvg-id="High Fidelity S01 E05" tvg-name="High Fidelity S01 E05"  group-title="SERIES COMEDIA",High Fidelity S01 E05
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41922.mkv
+#EXTINF:-1 tvg-id="High Fidelity S01 E06" tvg-name="High Fidelity S01 E06"  group-title="SERIES COMEDIA",High Fidelity S01 E06
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41923.mkv
+#EXTINF:-1 tvg-id="High Fidelity S01 E07" tvg-name="High Fidelity S01 E07"  group-title="SERIES COMEDIA",High Fidelity S01 E07
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41924.mkv
+#EXTINF:-1 tvg-id="High Fidelity S01 E08" tvg-name="High Fidelity S01 E08"  group-title="SERIES COMEDIA",High Fidelity S01 E08
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41925.mkv
+#EXTINF:-1 tvg-id="High Fidelity S01 E09" tvg-name="High Fidelity S01 E09"  group-title="SERIES COMEDIA",High Fidelity S01 E09
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41916.mkv
+#EXTINF:-1 tvg-id="High Fidelity S01 E10" tvg-name="High Fidelity S01 E10"  group-title="SERIES COMEDIA",High Fidelity S01 E10
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41917.mkv
+#EXTINF:-1 tvg-id="Como cargarse las Navidades La boda S01 E01" tvg-name="Como cargarse las Navidades La boda S01 E01"  group-title="SERIES COMEDIA",Como cargarse las Navidades La boda S01 E01
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42025.mkv
+#EXTINF:-1 tvg-id="Como cargarse las Navidades La boda S01 E02" tvg-name="Como cargarse las Navidades La boda S01 E02"  group-title="SERIES COMEDIA",Como cargarse las Navidades La boda S01 E02
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42026.mkv
+#EXTINF:-1 tvg-id="Como cargarse las Navidades La boda S01 E03" tvg-name="Como cargarse las Navidades La boda S01 E03"  group-title="SERIES COMEDIA",Como cargarse las Navidades La boda S01 E03
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42027.mkv
 #EXTINF:-1 tvg-id="Hannibal S01 E01" tvg-name="Hannibal S01 E01"  group-title="SERIES DRAMA",Hannibal S01 E01
 http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/6691.mkv
 #EXTINF:-1 tvg-id="Hannibal S01 E02" tvg-name="Hannibal S01 E02"  group-title="SERIES DRAMA",Hannibal S01 E02
@@ -18423,6 +18561,338 @@ http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/40711.mkv
 http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/40712.mkv
 #EXTINF:-1 tvg-id="Selena La serie S01 E09" tvg-name="Selena La serie S01 E09"  group-title="SERIES DRAMA",Selena La serie S01 E09
 http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/40713.mkv
+#EXTINF:-1 tvg-id="Hache S01 E01" tvg-name="Hache S01 E01"  group-title="SERIES DRAMA",Hache S01 E01
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41488.mkv
+#EXTINF:-1 tvg-id="Hache S01 E02" tvg-name="Hache S01 E02"  group-title="SERIES DRAMA",Hache S01 E02
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41489.mkv
+#EXTINF:-1 tvg-id="Hache S01 E03" tvg-name="Hache S01 E03"  group-title="SERIES DRAMA",Hache S01 E03
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41490.mkv
+#EXTINF:-1 tvg-id="Hache S01 E04" tvg-name="Hache S01 E04"  group-title="SERIES DRAMA",Hache S01 E04
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41491.mkv
+#EXTINF:-1 tvg-id="Hache S01 E05" tvg-name="Hache S01 E05"  group-title="SERIES DRAMA",Hache S01 E05
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41492.mkv
+#EXTINF:-1 tvg-id="Hache S01 E06" tvg-name="Hache S01 E06"  group-title="SERIES DRAMA",Hache S01 E06
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41493.mkv
+#EXTINF:-1 tvg-id="Hache S01 E07" tvg-name="Hache S01 E07"  group-title="SERIES DRAMA",Hache S01 E07
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41494.mkv
+#EXTINF:-1 tvg-id="Hache S01 E08" tvg-name="Hache S01 E08"  group-title="SERIES DRAMA",Hache S01 E08
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41495.mkv
+#EXTINF:-1 tvg-id="Hache S02 E01" tvg-name="Hache S02 E01"  group-title="SERIES DRAMA",Hache S02 E01
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41496.mkv
+#EXTINF:-1 tvg-id="Hache S02 E02" tvg-name="Hache S02 E02"  group-title="SERIES DRAMA",Hache S02 E02
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41497.mkv
+#EXTINF:-1 tvg-id="Hache S02 E03" tvg-name="Hache S02 E03"  group-title="SERIES DRAMA",Hache S02 E03
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41498.mkv
+#EXTINF:-1 tvg-id="Hache S02 E04" tvg-name="Hache S02 E04"  group-title="SERIES DRAMA",Hache S02 E04
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41499.mkv
+#EXTINF:-1 tvg-id="Hache S02 E05" tvg-name="Hache S02 E05"  group-title="SERIES DRAMA",Hache S02 E05
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41500.mkv
+#EXTINF:-1 tvg-id="Hache S02 E06" tvg-name="Hache S02 E06"  group-title="SERIES DRAMA",Hache S02 E06
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41501.mkv
+#EXTINF:-1 tvg-id="Normal People S01 E01" tvg-name="Normal People S01 E01"  group-title="SERIES DRAMA",Normal People S01 E01
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41621.mkv
+#EXTINF:-1 tvg-id="Normal People S01 E02" tvg-name="Normal People S01 E02"  group-title="SERIES DRAMA",Normal People S01 E02
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41622.mkv
+#EXTINF:-1 tvg-id="Normal People S01 E03" tvg-name="Normal People S01 E03"  group-title="SERIES DRAMA",Normal People S01 E03
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41623.mkv
+#EXTINF:-1 tvg-id="Normal People S01 E04" tvg-name="Normal People S01 E04"  group-title="SERIES DRAMA",Normal People S01 E04
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41624.mkv
+#EXTINF:-1 tvg-id="Normal People S01 E05" tvg-name="Normal People S01 E05"  group-title="SERIES DRAMA",Normal People S01 E05
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41625.mkv
+#EXTINF:-1 tvg-id="Normal People S01 E06" tvg-name="Normal People S01 E06"  group-title="SERIES DRAMA",Normal People S01 E06
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41626.mkv
+#EXTINF:-1 tvg-id="Normal People S01 E07" tvg-name="Normal People S01 E07"  group-title="SERIES DRAMA",Normal People S01 E07
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41627.mkv
+#EXTINF:-1 tvg-id="Normal People S01 E08" tvg-name="Normal People S01 E08"  group-title="SERIES DRAMA",Normal People S01 E08
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41628.mkv
+#EXTINF:-1 tvg-id="Normal People S01 E09" tvg-name="Normal People S01 E09"  group-title="SERIES DRAMA",Normal People S01 E09
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41629.mkv
+#EXTINF:-1 tvg-id="Normal People S01 E10" tvg-name="Normal People S01 E10"  group-title="SERIES DRAMA",Normal People S01 E10
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41630.mkv
+#EXTINF:-1 tvg-id="Normal People S01 E11" tvg-name="Normal People S01 E11"  group-title="SERIES DRAMA",Normal People S01 E11
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41631.mkv
+#EXTINF:-1 tvg-id="Normal People S01 E12" tvg-name="Normal People S01 E12"  group-title="SERIES DRAMA",Normal People S01 E12
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41632.mkv
+#EXTINF:-1 tvg-id="Perdiendo a Alice S01 E01" tvg-name="Perdiendo a Alice S01 E01"  group-title="SERIES DRAMA",Perdiendo a Alice S01 E01
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41633.mkv
+#EXTINF:-1 tvg-id="Perdiendo a Alice S01 E02" tvg-name="Perdiendo a Alice S01 E02"  group-title="SERIES DRAMA",Perdiendo a Alice S01 E02
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41634.mkv
+#EXTINF:-1 tvg-id="Perdiendo a Alice S01 E03" tvg-name="Perdiendo a Alice S01 E03"  group-title="SERIES DRAMA",Perdiendo a Alice S01 E03
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41635.mkv
+#EXTINF:-1 tvg-id="Los internacionales S01 E01" tvg-name="Los internacionales S01 E01"  group-title="SERIES DRAMA",Los internacionales S01 E01
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41644.mkv
+#EXTINF:-1 tvg-id="Los internacionales S01 E02" tvg-name="Los internacionales S01 E02"  group-title="SERIES DRAMA",Los internacionales S01 E02
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41645.mkv
+#EXTINF:-1 tvg-id="Los internacionales S01 E03" tvg-name="Los internacionales S01 E03"  group-title="SERIES DRAMA",Los internacionales S01 E03
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41646.mkv
+#EXTINF:-1 tvg-id="Los internacionales S01 E04" tvg-name="Los internacionales S01 E04"  group-title="SERIES DRAMA",Los internacionales S01 E04
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41647.mkv
+#EXTINF:-1 tvg-id="Los internacionales S01 E05" tvg-name="Los internacionales S01 E05"  group-title="SERIES DRAMA",Los internacionales S01 E05
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41648.mkv
+#EXTINF:-1 tvg-id="Los internacionales S01 E06" tvg-name="Los internacionales S01 E06"  group-title="SERIES DRAMA",Los internacionales S01 E06
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41649.mkv
+#EXTINF:-1 tvg-id="Los internacionales S01 E07" tvg-name="Los internacionales S01 E07"  group-title="SERIES DRAMA",Los internacionales S01 E07
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41650.mkv
+#EXTINF:-1 tvg-id="Los internacionales S01 E08" tvg-name="Los internacionales S01 E08"  group-title="SERIES DRAMA",Los internacionales S01 E08
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41651.mkv
+#EXTINF:-1 tvg-id="FBI S01 E01" tvg-name="FBI S01 E01"  group-title="SERIES DRAMA",FBI S01 E01
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41658.mkv
+#EXTINF:-1 tvg-id="FBI S01 E02" tvg-name="FBI S01 E02"  group-title="SERIES DRAMA",FBI S01 E02
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41659.mkv
+#EXTINF:-1 tvg-id="FBI S01 E03" tvg-name="FBI S01 E03"  group-title="SERIES DRAMA",FBI S01 E03
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41653.mkv
+#EXTINF:-1 tvg-id="FBI S01 E04" tvg-name="FBI S01 E04"  group-title="SERIES DRAMA",FBI S01 E04
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41652.mkv
+#EXTINF:-1 tvg-id="FBI S01 E05" tvg-name="FBI S01 E05"  group-title="SERIES DRAMA",FBI S01 E05
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41654.mkv
+#EXTINF:-1 tvg-id="FBI S01 E06" tvg-name="FBI S01 E06"  group-title="SERIES DRAMA",FBI S01 E06
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41655.mkv
+#EXTINF:-1 tvg-id="FBI S01 E07" tvg-name="FBI S01 E07"  group-title="SERIES DRAMA",FBI S01 E07
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41656.mkv
+#EXTINF:-1 tvg-id="FBI S01 E08" tvg-name="FBI S01 E08"  group-title="SERIES DRAMA",FBI S01 E08
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41657.mkv
+#EXTINF:-1 tvg-id="FBI S01 E09" tvg-name="FBI S01 E09"  group-title="SERIES DRAMA",FBI S01 E09
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41660.mkv
+#EXTINF:-1 tvg-id="FBI S01 E10" tvg-name="FBI S01 E10"  group-title="SERIES DRAMA",FBI S01 E10
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41661.mkv
+#EXTINF:-1 tvg-id="FBI S01 E11" tvg-name="FBI S01 E11"  group-title="SERIES DRAMA",FBI S01 E11
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41662.mkv
+#EXTINF:-1 tvg-id="FBI S01 E12" tvg-name="FBI S01 E12"  group-title="SERIES DRAMA",FBI S01 E12
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41663.mkv
+#EXTINF:-1 tvg-id="FBI S01 E13" tvg-name="FBI S01 E13"  group-title="SERIES DRAMA",FBI S01 E13
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41664.mkv
+#EXTINF:-1 tvg-id="FBI S01 E14" tvg-name="FBI S01 E14"  group-title="SERIES DRAMA",FBI S01 E14
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41665.mkv
+#EXTINF:-1 tvg-id="FBI S02 E01" tvg-name="FBI S02 E01"  group-title="SERIES DRAMA",FBI S02 E01
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41666.mkv
+#EXTINF:-1 tvg-id="FBI S02 E02" tvg-name="FBI S02 E02"  group-title="SERIES DRAMA",FBI S02 E02
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41667.mkv
+#EXTINF:-1 tvg-id="FBI S02 E03" tvg-name="FBI S02 E03"  group-title="SERIES DRAMA",FBI S02 E03
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41668.mkv
+#EXTINF:-1 tvg-id="FBI S02 E04" tvg-name="FBI S02 E04"  group-title="SERIES DRAMA",FBI S02 E04
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41669.mkv
+#EXTINF:-1 tvg-id="FBI S02 E05" tvg-name="FBI S02 E05"  group-title="SERIES DRAMA",FBI S02 E05
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41670.mkv
+#EXTINF:-1 tvg-id="FBI S02 E06" tvg-name="FBI S02 E06"  group-title="SERIES DRAMA",FBI S02 E06
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41671.mkv
+#EXTINF:-1 tvg-id="FBI S02 E07" tvg-name="FBI S02 E07"  group-title="SERIES DRAMA",FBI S02 E07
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41672.mkv
+#EXTINF:-1 tvg-id="FBI S02 E08" tvg-name="FBI S02 E08"  group-title="SERIES DRAMA",FBI S02 E08
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41673.mkv
+#EXTINF:-1 tvg-id="FBI S02 E09" tvg-name="FBI S02 E09"  group-title="SERIES DRAMA",FBI S02 E09
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41682.mkv
+#EXTINF:-1 tvg-id="FBI S02 E10" tvg-name="FBI S02 E10"  group-title="SERIES DRAMA",FBI S02 E10
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41683.mkv
+#EXTINF:-1 tvg-id="FBI S02 E11" tvg-name="FBI S02 E11"  group-title="SERIES DRAMA",FBI S02 E11
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41674.mkv
+#EXTINF:-1 tvg-id="FBI S02 E12" tvg-name="FBI S02 E12"  group-title="SERIES DRAMA",FBI S02 E12
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41675.mkv
+#EXTINF:-1 tvg-id="FBI S02 E13" tvg-name="FBI S02 E13"  group-title="SERIES DRAMA",FBI S02 E13
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41676.mkv
+#EXTINF:-1 tvg-id="FBI S02 E14" tvg-name="FBI S02 E14"  group-title="SERIES DRAMA",FBI S02 E14
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41677.mkv
+#EXTINF:-1 tvg-id="FBI S02 E15" tvg-name="FBI S02 E15"  group-title="SERIES DRAMA",FBI S02 E15
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41678.mkv
+#EXTINF:-1 tvg-id="FBI S02 E16" tvg-name="FBI S02 E16"  group-title="SERIES DRAMA",FBI S02 E16
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41679.mkv
+#EXTINF:-1 tvg-id="FBI S02 E17" tvg-name="FBI S02 E17"  group-title="SERIES DRAMA",FBI S02 E17
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41684.mkv
+#EXTINF:-1 tvg-id="FBI S02 E18" tvg-name="FBI S02 E18"  group-title="SERIES DRAMA",FBI S02 E18
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41680.mkv
+#EXTINF:-1 tvg-id="FBI S02 E19" tvg-name="FBI S02 E19"  group-title="SERIES DRAMA",FBI S02 E19
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41681.mkv
+#EXTINF:-1 tvg-id="Ciudad invisible S01 E01" tvg-name="Ciudad invisible S01 E01"  group-title="SERIES DRAMA",Ciudad invisible S01 E01
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41691.mkv
+#EXTINF:-1 tvg-id="Ciudad invisible S01 E02" tvg-name="Ciudad invisible S01 E02"  group-title="SERIES DRAMA",Ciudad invisible S01 E02
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41692.mkv
+#EXTINF:-1 tvg-id="Ciudad invisible S01 E03" tvg-name="Ciudad invisible S01 E03"  group-title="SERIES DRAMA",Ciudad invisible S01 E03
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41693.mkv
+#EXTINF:-1 tvg-id="Ciudad invisible S01 E04" tvg-name="Ciudad invisible S01 E04"  group-title="SERIES DRAMA",Ciudad invisible S01 E04
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41694.mkv
+#EXTINF:-1 tvg-id="Ciudad invisible S01 E05" tvg-name="Ciudad invisible S01 E05"  group-title="SERIES DRAMA",Ciudad invisible S01 E05
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41695.mkv
+#EXTINF:-1 tvg-id="Ciudad invisible S01 E06" tvg-name="Ciudad invisible S01 E06"  group-title="SERIES DRAMA",Ciudad invisible S01 E06
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41696.mkv
+#EXTINF:-1 tvg-id="Ciudad invisible S01 E07" tvg-name="Ciudad invisible S01 E07"  group-title="SERIES DRAMA",Ciudad invisible S01 E07
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41697.mkv
+#EXTINF:-1 tvg-id="El baile de las luciernagas S01 E01" tvg-name="El baile de las luciernagas S01 E01"  group-title="SERIES DRAMA",El baile de las luciernagas S01 E01
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41698.mkv
+#EXTINF:-1 tvg-id="El baile de las luciernagas S01 E02" tvg-name="El baile de las luciernagas S01 E02"  group-title="SERIES DRAMA",El baile de las luciernagas S01 E02
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41699.mkv
+#EXTINF:-1 tvg-id="El baile de las luciernagas S01 E03" tvg-name="El baile de las luciernagas S01 E03"  group-title="SERIES DRAMA",El baile de las luciernagas S01 E03
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41700.mkv
+#EXTINF:-1 tvg-id="El baile de las luciernagas S01 E04" tvg-name="El baile de las luciernagas S01 E04"  group-title="SERIES DRAMA",El baile de las luciernagas S01 E04
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41701.mkv
+#EXTINF:-1 tvg-id="El baile de las luciernagas S01 E05" tvg-name="El baile de las luciernagas S01 E05"  group-title="SERIES DRAMA",El baile de las luciernagas S01 E05
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41702.mkv
+#EXTINF:-1 tvg-id="El baile de las luciernagas S01 E06" tvg-name="El baile de las luciernagas S01 E06"  group-title="SERIES DRAMA",El baile de las luciernagas S01 E06
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41703.mkv
+#EXTINF:-1 tvg-id="El baile de las luciernagas S01 E07" tvg-name="El baile de las luciernagas S01 E07"  group-title="SERIES DRAMA",El baile de las luciernagas S01 E07
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41704.mkv
+#EXTINF:-1 tvg-id="El baile de las luciernagas S01 E08" tvg-name="El baile de las luciernagas S01 E08"  group-title="SERIES DRAMA",El baile de las luciernagas S01 E08
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41705.mkv
+#EXTINF:-1 tvg-id="El baile de las luciernagas S01 E09" tvg-name="El baile de las luciernagas S01 E09"  group-title="SERIES DRAMA",El baile de las luciernagas S01 E09
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41706.mkv
+#EXTINF:-1 tvg-id="El baile de las luciernagas S01 E10" tvg-name="El baile de las luciernagas S01 E10"  group-title="SERIES DRAMA",El baile de las luciernagas S01 E10
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41707.mkv
+#EXTINF:-1 tvg-id="La innegable verdad S01 E01" tvg-name="La innegable verdad S01 E01"  group-title="SERIES DRAMA",La innegable verdad S01 E01
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41708.mkv
+#EXTINF:-1 tvg-id="La innegable verdad S01 E02" tvg-name="La innegable verdad S01 E02"  group-title="SERIES DRAMA",La innegable verdad S01 E02
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41709.mkv
+#EXTINF:-1 tvg-id="La innegable verdad S01 E03" tvg-name="La innegable verdad S01 E03"  group-title="SERIES DRAMA",La innegable verdad S01 E03
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41710.mkv
+#EXTINF:-1 tvg-id="La innegable verdad S01 E04" tvg-name="La innegable verdad S01 E04"  group-title="SERIES DRAMA",La innegable verdad S01 E04
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41711.mkv
+#EXTINF:-1 tvg-id="La innegable verdad S01 E05" tvg-name="La innegable verdad S01 E05"  group-title="SERIES DRAMA",La innegable verdad S01 E05
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41712.mkv
+#EXTINF:-1 tvg-id="La innegable verdad S01 E06" tvg-name="La innegable verdad S01 E06"  group-title="SERIES DRAMA",La innegable verdad S01 E06
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41713.mkv
+#EXTINF:-1 tvg-id="50m250 M2 S01 E01" tvg-name="50m250 M2 S01 E01"  group-title="SERIES DRAMA",50m250 M2 S01 E01
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41714.mkv
+#EXTINF:-1 tvg-id="50m250 M2 S01 E02" tvg-name="50m250 M2 S01 E02"  group-title="SERIES DRAMA",50m250 M2 S01 E02
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41715.mkv
+#EXTINF:-1 tvg-id="50m250 M2 S01 E03" tvg-name="50m250 M2 S01 E03"  group-title="SERIES DRAMA",50m250 M2 S01 E03
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41716.mkv
+#EXTINF:-1 tvg-id="50m250 M2 S01 E04" tvg-name="50m250 M2 S01 E04"  group-title="SERIES DRAMA",50m250 M2 S01 E04
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41717.mkv
+#EXTINF:-1 tvg-id="50m250 M2 S01 E05" tvg-name="50m250 M2 S01 E05"  group-title="SERIES DRAMA",50m250 M2 S01 E05
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41718.mkv
+#EXTINF:-1 tvg-id="50m250 M2 S01 E06" tvg-name="50m250 M2 S01 E06"  group-title="SERIES DRAMA",50m250 M2 S01 E06
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41719.mkv
+#EXTINF:-1 tvg-id="50m250 M2 S01 E07" tvg-name="50m250 M2 S01 E07"  group-title="SERIES DRAMA",50m250 M2 S01 E07
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41720.mkv
+#EXTINF:-1 tvg-id="50m250 M2 S01 E08" tvg-name="50m250 M2 S01 E08"  group-title="SERIES DRAMA",50m250 M2 S01 E08
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41721.mkv
+#EXTINF:-1 tvg-id="30 Monedas S01 E01" tvg-name="30 Monedas S01 E01"  group-title="SERIES DRAMA",30 Monedas S01 E01
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41913.mkv
+#EXTINF:-1 tvg-id="30 Monedas S01 E02" tvg-name="30 Monedas S01 E02"  group-title="SERIES DRAMA",30 Monedas S01 E02
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41914.mkv
+#EXTINF:-1 tvg-id="30 Monedas S01 E03" tvg-name="30 Monedas S01 E03"  group-title="SERIES DRAMA",30 Monedas S01 E03
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41915.mkv
+#EXTINF:-1 tvg-id="30 Monedas S01 E04" tvg-name="30 Monedas S01 E04"  group-title="SERIES DRAMA",30 Monedas S01 E04
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41908.mkv
+#EXTINF:-1 tvg-id="30 Monedas S01 E05" tvg-name="30 Monedas S01 E05"  group-title="SERIES DRAMA",30 Monedas S01 E05
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41909.mkv
+#EXTINF:-1 tvg-id="30 Monedas S01 E06" tvg-name="30 Monedas S01 E06"  group-title="SERIES DRAMA",30 Monedas S01 E06
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41910.mkv
+#EXTINF:-1 tvg-id="30 Monedas S01 E07" tvg-name="30 Monedas S01 E07"  group-title="SERIES DRAMA",30 Monedas S01 E07
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41911.mkv
+#EXTINF:-1 tvg-id="30 Monedas S01 E08" tvg-name="30 Monedas S01 E08"  group-title="SERIES DRAMA",30 Monedas S01 E08
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41912.mkv
+#EXTINF:-1 tvg-id="Gangs of London S01 E01" tvg-name="Gangs of London S01 E01"  group-title="SERIES DRAMA",Gangs of London S01 E01
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41941.mkv
+#EXTINF:-1 tvg-id="Gangs of London S01 E02" tvg-name="Gangs of London S01 E02"  group-title="SERIES DRAMA",Gangs of London S01 E02
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41942.mkv
+#EXTINF:-1 tvg-id="Gangs of London S01 E03" tvg-name="Gangs of London S01 E03"  group-title="SERIES DRAMA",Gangs of London S01 E03
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41940.mkv
+#EXTINF:-1 tvg-id="Gangs of London S01 E04" tvg-name="Gangs of London S01 E04"  group-title="SERIES DRAMA",Gangs of London S01 E04
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41943.mkv
+#EXTINF:-1 tvg-id="Gangs of London S01 E05" tvg-name="Gangs of London S01 E05"  group-title="SERIES DRAMA",Gangs of London S01 E05
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41944.mkv
+#EXTINF:-1 tvg-id="Gangs of London S01 E06" tvg-name="Gangs of London S01 E06"  group-title="SERIES DRAMA",Gangs of London S01 E06
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41945.mkv
+#EXTINF:-1 tvg-id="Gangs of London S01 E07" tvg-name="Gangs of London S01 E07"  group-title="SERIES DRAMA",Gangs of London S01 E07
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41946.mkv
+#EXTINF:-1 tvg-id="Gangs of London S01 E08" tvg-name="Gangs of London S01 E08"  group-title="SERIES DRAMA",Gangs of London S01 E08
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41948.mkv
+#EXTINF:-1 tvg-id="Gangs of London S01 E09" tvg-name="Gangs of London S01 E09"  group-title="SERIES DRAMA",Gangs of London S01 E09
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41947.mkv
+#EXTINF:-1 tvg-id="Lupin S01 E01" tvg-name="Lupin S01 E01"  group-title="SERIES DRAMA",Lupin S01 E01
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41965.mkv
+#EXTINF:-1 tvg-id="Lupin S01 E02" tvg-name="Lupin S01 E02"  group-title="SERIES DRAMA",Lupin S01 E02
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41966.mkv
+#EXTINF:-1 tvg-id="Lupin S01 E03" tvg-name="Lupin S01 E03"  group-title="SERIES DRAMA",Lupin S01 E03
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41967.mkv
+#EXTINF:-1 tvg-id="Lupin S01 E04" tvg-name="Lupin S01 E04"  group-title="SERIES DRAMA",Lupin S01 E04
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41968.mkv
+#EXTINF:-1 tvg-id="Lupin S01 E05" tvg-name="Lupin S01 E05"  group-title="SERIES DRAMA",Lupin S01 E05
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41969.mkv
+#EXTINF:-1 tvg-id="Power Book II Ghost S01 E01" tvg-name="Power Book II Ghost S01 E01"  group-title="SERIES DRAMA",Power Book II Ghost S01 E01
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42002.mkv
+#EXTINF:-1 tvg-id="Power Book II Ghost S01 E02" tvg-name="Power Book II Ghost S01 E02"  group-title="SERIES DRAMA",Power Book II Ghost S01 E02
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42003.mkv
+#EXTINF:-1 tvg-id="Power Book II Ghost S01 E03" tvg-name="Power Book II Ghost S01 E03"  group-title="SERIES DRAMA",Power Book II Ghost S01 E03
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42004.mkv
+#EXTINF:-1 tvg-id="Power Book II Ghost S01 E04" tvg-name="Power Book II Ghost S01 E04"  group-title="SERIES DRAMA",Power Book II Ghost S01 E04
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42005.mkv
+#EXTINF:-1 tvg-id="Power Book II Ghost S01 E05" tvg-name="Power Book II Ghost S01 E05"  group-title="SERIES DRAMA",Power Book II Ghost S01 E05
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42006.mkv
+#EXTINF:-1 tvg-id="Power Book II Ghost S01 E06" tvg-name="Power Book II Ghost S01 E06"  group-title="SERIES DRAMA",Power Book II Ghost S01 E06
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42007.mkv
+#EXTINF:-1 tvg-id="Power Book II Ghost S01 E07" tvg-name="Power Book II Ghost S01 E07"  group-title="SERIES DRAMA",Power Book II Ghost S01 E07
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42008.mkv
+#EXTINF:-1 tvg-id="Power Book II Ghost S01 E08" tvg-name="Power Book II Ghost S01 E08"  group-title="SERIES DRAMA",Power Book II Ghost S01 E08
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42009.mkv
+#EXTINF:-1 tvg-id="Power Book II Ghost S01 E09" tvg-name="Power Book II Ghost S01 E09"  group-title="SERIES DRAMA",Power Book II Ghost S01 E09
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42010.mkv
+#EXTINF:-1 tvg-id="Power Book II Ghost S01 E10" tvg-name="Power Book II Ghost S01 E10"  group-title="SERIES DRAMA",Power Book II Ghost S01 E10
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42011.mkv
+#EXTINF:-1 tvg-id="La valla S01 E01" tvg-name="La valla S01 E01"  group-title="SERIES DRAMA",La valla S01 E01
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42012.mkv
+#EXTINF:-1 tvg-id="La valla S01 E02" tvg-name="La valla S01 E02"  group-title="SERIES DRAMA",La valla S01 E02
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42013.mkv
+#EXTINF:-1 tvg-id="La valla S01 E03" tvg-name="La valla S01 E03"  group-title="SERIES DRAMA",La valla S01 E03
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42014.mkv
+#EXTINF:-1 tvg-id="La valla S01 E04" tvg-name="La valla S01 E04"  group-title="SERIES DRAMA",La valla S01 E04
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42015.mkv
+#EXTINF:-1 tvg-id="La valla S01 E05" tvg-name="La valla S01 E05"  group-title="SERIES DRAMA",La valla S01 E05
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42016.mkv
+#EXTINF:-1 tvg-id="La valla S01 E06" tvg-name="La valla S01 E06"  group-title="SERIES DRAMA",La valla S01 E06
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42017.mkv
+#EXTINF:-1 tvg-id="La valla S01 E07" tvg-name="La valla S01 E07"  group-title="SERIES DRAMA",La valla S01 E07
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42018.mkv
+#EXTINF:-1 tvg-id="La valla S01 E08" tvg-name="La valla S01 E08"  group-title="SERIES DRAMA",La valla S01 E08
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42019.mkv
+#EXTINF:-1 tvg-id="La valla S01 E09" tvg-name="La valla S01 E09"  group-title="SERIES DRAMA",La valla S01 E09
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42020.mkv
+#EXTINF:-1 tvg-id="La valla S01 E10" tvg-name="La valla S01 E10"  group-title="SERIES DRAMA",La valla S01 E10
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42021.mkv
+#EXTINF:-1 tvg-id="La valla S01 E11" tvg-name="La valla S01 E11"  group-title="SERIES DRAMA",La valla S01 E11
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42022.mkv
+#EXTINF:-1 tvg-id="La valla S01 E12" tvg-name="La valla S01 E12"  group-title="SERIES DRAMA",La valla S01 E12
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42023.mkv
+#EXTINF:-1 tvg-id="La valla S01 E13" tvg-name="La valla S01 E13"  group-title="SERIES DRAMA",La valla S01 E13
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42024.mkv
+#EXTINF:-1 tvg-id="Veneno S01 E01" tvg-name="Veneno S01 E01"  group-title="SERIES DRAMA",Veneno S01 E01
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42028.mkv
+#EXTINF:-1 tvg-id="Veneno S01 E02" tvg-name="Veneno S01 E02"  group-title="SERIES DRAMA",Veneno S01 E02
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42029.mkv
+#EXTINF:-1 tvg-id="Veneno S01 E03" tvg-name="Veneno S01 E03"  group-title="SERIES DRAMA",Veneno S01 E03
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42030.mkv
+#EXTINF:-1 tvg-id="Veneno S01 E04" tvg-name="Veneno S01 E04"  group-title="SERIES DRAMA",Veneno S01 E04
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42031.mkv
+#EXTINF:-1 tvg-id="Veneno S01 E05" tvg-name="Veneno S01 E05"  group-title="SERIES DRAMA",Veneno S01 E05
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42032.mkv
+#EXTINF:-1 tvg-id="Veneno S01 E06" tvg-name="Veneno S01 E06"  group-title="SERIES DRAMA",Veneno S01 E06
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42033.mkv
+#EXTINF:-1 tvg-id="Veneno S01 E07" tvg-name="Veneno S01 E07"  group-title="SERIES DRAMA",Veneno S01 E07
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42034.mkv
+#EXTINF:-1 tvg-id="Veneno S01 E08" tvg-name="Veneno S01 E08"  group-title="SERIES DRAMA",Veneno S01 E08
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42035.mkv
+#EXTINF:-1 tvg-id="Capitani S01 E01" tvg-name="Capitani S01 E01"  group-title="SERIES DRAMA",Capitani S01 E01
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42036.mkv
+#EXTINF:-1 tvg-id="Capitani S01 E02" tvg-name="Capitani S01 E02"  group-title="SERIES DRAMA",Capitani S01 E02
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42037.mkv
+#EXTINF:-1 tvg-id="Capitani S01 E03" tvg-name="Capitani S01 E03"  group-title="SERIES DRAMA",Capitani S01 E03
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42038.mkv
+#EXTINF:-1 tvg-id="Capitani S01 E04" tvg-name="Capitani S01 E04"  group-title="SERIES DRAMA",Capitani S01 E04
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42039.mkv
+#EXTINF:-1 tvg-id="Capitani S01 E05" tvg-name="Capitani S01 E05"  group-title="SERIES DRAMA",Capitani S01 E05
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42040.mkv
+#EXTINF:-1 tvg-id="Capitani S01 E06" tvg-name="Capitani S01 E06"  group-title="SERIES DRAMA",Capitani S01 E06
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42041.mkv
+#EXTINF:-1 tvg-id="Capitani S01 E07" tvg-name="Capitani S01 E07"  group-title="SERIES DRAMA",Capitani S01 E07
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42042.mkv
+#EXTINF:-1 tvg-id="Capitani S01 E08" tvg-name="Capitani S01 E08"  group-title="SERIES DRAMA",Capitani S01 E08
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42043.mkv
+#EXTINF:-1 tvg-id="Capitani S01 E09" tvg-name="Capitani S01 E09"  group-title="SERIES DRAMA",Capitani S01 E09
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42044.mkv
+#EXTINF:-1 tvg-id="Capitani S01 E10" tvg-name="Capitani S01 E10"  group-title="SERIES DRAMA",Capitani S01 E10
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42045.mkv
+#EXTINF:-1 tvg-id="Capitani S01 E11" tvg-name="Capitani S01 E11"  group-title="SERIES DRAMA",Capitani S01 E11
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42046.mkv
+#EXTINF:-1 tvg-id="Capitani S01 E12" tvg-name="Capitani S01 E12"  group-title="SERIES DRAMA",Capitani S01 E12
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42047.mkv
 #EXTINF:-1 tvg-id="Game of Thrones S01 E01" tvg-name="Game of Thrones S01 E01"  group-title="SERIES FICCION - FANTASIA",Game of Thrones S01 E01
 http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/6124.avi
 #EXTINF:-1 tvg-id="Game of Thrones S01 E02" tvg-name="Game of Thrones S01 E02"  group-title="SERIES FICCION - FANTASIA",Game of Thrones S01 E02
@@ -19812,31 +20282,37 @@ http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/22307.mkv
 #EXTINF:-1 tvg-id="Los 100 S06 E13" tvg-name="Los 100 S06 E13"  group-title="SERIES FICCION - FANTASIA",Los 100 S06 E13
 http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/22308.mkv
 #EXTINF:-1 tvg-id="Los 100 S07 E01" tvg-name="Los 100 S07 E01"  group-title="SERIES FICCION - FANTASIA",Los 100 S07 E01
-http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/30274.mp4
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41451.mkv
 #EXTINF:-1 tvg-id="Los 100 S07 E02" tvg-name="Los 100 S07 E02"  group-title="SERIES FICCION - FANTASIA",Los 100 S07 E02
-http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/30268.mp4
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41452.mkv
 #EXTINF:-1 tvg-id="Los 100 S07 E03" tvg-name="Los 100 S07 E03"  group-title="SERIES FICCION - FANTASIA",Los 100 S07 E03
-http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/30269.mp4
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41453.mkv
 #EXTINF:-1 tvg-id="Los 100 S07 E04" tvg-name="Los 100 S07 E04"  group-title="SERIES FICCION - FANTASIA",Los 100 S07 E04
-http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/30275.mp4
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41454.mkv
 #EXTINF:-1 tvg-id="Los 100 S07 E05" tvg-name="Los 100 S07 E05"  group-title="SERIES FICCION - FANTASIA",Los 100 S07 E05
-http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/30276.mp4
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41455.mkv
 #EXTINF:-1 tvg-id="Los 100 S07 E06" tvg-name="Los 100 S07 E06"  group-title="SERIES FICCION - FANTASIA",Los 100 S07 E06
-http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/30270.mp4
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41456.mkv
 #EXTINF:-1 tvg-id="Los 100 S07 E07" tvg-name="Los 100 S07 E07"  group-title="SERIES FICCION - FANTASIA",Los 100 S07 E07
-http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/30277.mp4
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41457.mkv
 #EXTINF:-1 tvg-id="Los 100 S07 E08" tvg-name="Los 100 S07 E08"  group-title="SERIES FICCION - FANTASIA",Los 100 S07 E08
-http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/30271.mp4
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41458.mkv
 #EXTINF:-1 tvg-id="Los 100 S07 E09" tvg-name="Los 100 S07 E09"  group-title="SERIES FICCION - FANTASIA",Los 100 S07 E09
-http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/30272.mp4
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41459.mkv
 #EXTINF:-1 tvg-id="Los 100 S07 E10" tvg-name="Los 100 S07 E10"  group-title="SERIES FICCION - FANTASIA",Los 100 S07 E10
-http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/30273.mp4
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41460.mkv
 #EXTINF:-1 tvg-id="Los 100 S07 E11" tvg-name="Los 100 S07 E11"  group-title="SERIES FICCION - FANTASIA",Los 100 S07 E11
-http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/30278.mp4
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41461.mkv
 #EXTINF:-1 tvg-id="Los 100 S07 E12" tvg-name="Los 100 S07 E12"  group-title="SERIES FICCION - FANTASIA",Los 100 S07 E12
-http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/40044.mkv
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41462.mkv
 #EXTINF:-1 tvg-id="Los 100 S07 E13" tvg-name="Los 100 S07 E13"  group-title="SERIES FICCION - FANTASIA",Los 100 S07 E13
-http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/40045.mkv
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41463.mkv
+#EXTINF:-1 tvg-id="Los 100 S07 E14" tvg-name="Los 100 S07 E14"  group-title="SERIES FICCION - FANTASIA",Los 100 S07 E14
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41464.mkv
+#EXTINF:-1 tvg-id="Los 100 S07 E15" tvg-name="Los 100 S07 E15"  group-title="SERIES FICCION - FANTASIA",Los 100 S07 E15
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41465.mkv
+#EXTINF:-1 tvg-id="Los 100 S07 E16" tvg-name="Los 100 S07 E16"  group-title="SERIES FICCION - FANTASIA",Los 100 S07 E16
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41466.mkv
 #EXTINF:-1 tvg-id="El exorcista S01 E01" tvg-name="El exorcista S01 E01"  group-title="SERIES FICCION - FANTASIA",El exorcista S01 E01
 http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/11172.mkv
 #EXTINF:-1 tvg-id="El exorcista S01 E02" tvg-name="El exorcista S01 E02"  group-title="SERIES FICCION - FANTASIA",El exorcista S01 E02
@@ -21799,6 +22275,84 @@ http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/40242.mp4
 http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/40243.mp4
 #EXTINF:-1 tvg-id="El hombre en el castillo S04 E10" tvg-name="El hombre en el castillo S04 E10"  group-title="SERIES FICCION - FANTASIA",El hombre en el castillo S04 E10
 http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/40244.mp4
+#EXTINF:-1 tvg-id="Batwoman S01 E01" tvg-name="Batwoman S01 E01"  group-title="SERIES FICCION - FANTASIA",Batwoman S01 E01
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41515.mkv
+#EXTINF:-1 tvg-id="Batwoman S01 E02" tvg-name="Batwoman S01 E02"  group-title="SERIES FICCION - FANTASIA",Batwoman S01 E02
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41509.mkv
+#EXTINF:-1 tvg-id="Batwoman S01 E03" tvg-name="Batwoman S01 E03"  group-title="SERIES FICCION - FANTASIA",Batwoman S01 E03
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41510.mkv
+#EXTINF:-1 tvg-id="Batwoman S01 E04" tvg-name="Batwoman S01 E04"  group-title="SERIES FICCION - FANTASIA",Batwoman S01 E04
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41511.mkv
+#EXTINF:-1 tvg-id="Batwoman S01 E05" tvg-name="Batwoman S01 E05"  group-title="SERIES FICCION - FANTASIA",Batwoman S01 E05
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41512.mkv
+#EXTINF:-1 tvg-id="Batwoman S01 E06" tvg-name="Batwoman S01 E06"  group-title="SERIES FICCION - FANTASIA",Batwoman S01 E06
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41513.mkv
+#EXTINF:-1 tvg-id="Batwoman S01 E07" tvg-name="Batwoman S01 E07"  group-title="SERIES FICCION - FANTASIA",Batwoman S01 E07
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41516.mkv
+#EXTINF:-1 tvg-id="Batwoman S01 E08" tvg-name="Batwoman S01 E08"  group-title="SERIES FICCION - FANTASIA",Batwoman S01 E08
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41514.mkv
+#EXTINF:-1 tvg-id="Batwoman S01 E09" tvg-name="Batwoman S01 E09"  group-title="SERIES FICCION - FANTASIA",Batwoman S01 E09
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41517.mkv
+#EXTINF:-1 tvg-id="Batwoman S01 E10" tvg-name="Batwoman S01 E10"  group-title="SERIES FICCION - FANTASIA",Batwoman S01 E10
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41518.mkv
+#EXTINF:-1 tvg-id="Batwoman S01 E11" tvg-name="Batwoman S01 E11"  group-title="SERIES FICCION - FANTASIA",Batwoman S01 E11
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41519.mkv
+#EXTINF:-1 tvg-id="Batwoman S01 E12" tvg-name="Batwoman S01 E12"  group-title="SERIES FICCION - FANTASIA",Batwoman S01 E12
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41520.mkv
+#EXTINF:-1 tvg-id="Batwoman S01 E13" tvg-name="Batwoman S01 E13"  group-title="SERIES FICCION - FANTASIA",Batwoman S01 E13
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41521.mkv
+#EXTINF:-1 tvg-id="Batwoman S01 E14" tvg-name="Batwoman S01 E14"  group-title="SERIES FICCION - FANTASIA",Batwoman S01 E14
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41502.mkv
+#EXTINF:-1 tvg-id="Batwoman S01 E15" tvg-name="Batwoman S01 E15"  group-title="SERIES FICCION - FANTASIA",Batwoman S01 E15
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41503.mkv
+#EXTINF:-1 tvg-id="Batwoman S01 E16" tvg-name="Batwoman S01 E16"  group-title="SERIES FICCION - FANTASIA",Batwoman S01 E16
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41504.mkv
+#EXTINF:-1 tvg-id="Batwoman S01 E17" tvg-name="Batwoman S01 E17"  group-title="SERIES FICCION - FANTASIA",Batwoman S01 E17
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41505.mkv
+#EXTINF:-1 tvg-id="Batwoman S01 E18" tvg-name="Batwoman S01 E18"  group-title="SERIES FICCION - FANTASIA",Batwoman S01 E18
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41506.mkv
+#EXTINF:-1 tvg-id="Batwoman S01 E19" tvg-name="Batwoman S01 E19"  group-title="SERIES FICCION - FANTASIA",Batwoman S01 E19
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41507.mkv
+#EXTINF:-1 tvg-id="Batwoman S01 E20" tvg-name="Batwoman S01 E20"  group-title="SERIES FICCION - FANTASIA",Batwoman S01 E20
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41508.mkv
+#EXTINF:-1 tvg-id="Batwoman S02 E01" tvg-name="Batwoman S02 E01"  group-title="SERIES FICCION - FANTASIA",Batwoman S02 E01
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41732.mkv
+#EXTINF:-1 tvg-id="Batwoman S02 E02" tvg-name="Batwoman S02 E02"  group-title="SERIES FICCION - FANTASIA",Batwoman S02 E02
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41733.mkv
+#EXTINF:-1 tvg-id="Batwoman S02 E03" tvg-name="Batwoman S02 E03"  group-title="SERIES FICCION - FANTASIA",Batwoman S02 E03
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41734.mkv
+#EXTINF:-1 tvg-id="Destino La saga Winx S01 E01" tvg-name="Destino La saga Winx S01 E01"  group-title="SERIES FICCION - FANTASIA",Destino La saga Winx S01 E01
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41685.mkv
+#EXTINF:-1 tvg-id="Destino La saga Winx S01 E02" tvg-name="Destino La saga Winx S01 E02"  group-title="SERIES FICCION - FANTASIA",Destino La saga Winx S01 E02
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41686.mkv
+#EXTINF:-1 tvg-id="Destino La saga Winx S01 E03" tvg-name="Destino La saga Winx S01 E03"  group-title="SERIES FICCION - FANTASIA",Destino La saga Winx S01 E03
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41687.mkv
+#EXTINF:-1 tvg-id="Destino La saga Winx S01 E04" tvg-name="Destino La saga Winx S01 E04"  group-title="SERIES FICCION - FANTASIA",Destino La saga Winx S01 E04
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41688.mkv
+#EXTINF:-1 tvg-id="Destino La saga Winx S01 E05" tvg-name="Destino La saga Winx S01 E05"  group-title="SERIES FICCION - FANTASIA",Destino La saga Winx S01 E05
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41689.mkv
+#EXTINF:-1 tvg-id="Destino La saga Winx S01 E06" tvg-name="Destino La saga Winx S01 E06"  group-title="SERIES FICCION - FANTASIA",Destino La saga Winx S01 E06
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41690.mkv
+#EXTINF:-1 tvg-id="Dani Who? S01 E01" tvg-name="Dani Who? S01 E01"  group-title="SERIES FICCION - FANTASIA",Dani Who? S01 E01
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41722.mkv
+#EXTINF:-1 tvg-id="Dani Who? S01 E02" tvg-name="Dani Who? S01 E02"  group-title="SERIES FICCION - FANTASIA",Dani Who? S01 E02
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41723.mkv
+#EXTINF:-1 tvg-id="Dani Who? S01 E03" tvg-name="Dani Who? S01 E03"  group-title="SERIES FICCION - FANTASIA",Dani Who? S01 E03
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41724.mkv
+#EXTINF:-1 tvg-id="Dani Who? S01 E04" tvg-name="Dani Who? S01 E04"  group-title="SERIES FICCION - FANTASIA",Dani Who? S01 E04
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41725.mkv
+#EXTINF:-1 tvg-id="Dani Who? S01 E05" tvg-name="Dani Who? S01 E05"  group-title="SERIES FICCION - FANTASIA",Dani Who? S01 E05
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41726.mkv
+#EXTINF:-1 tvg-id="Dani Who? S01 E06" tvg-name="Dani Who? S01 E06"  group-title="SERIES FICCION - FANTASIA",Dani Who? S01 E06
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41727.mkv
+#EXTINF:-1 tvg-id="Dani Who? S01 E07" tvg-name="Dani Who? S01 E07"  group-title="SERIES FICCION - FANTASIA",Dani Who? S01 E07
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41728.mkv
+#EXTINF:-1 tvg-id="Dani Who? S01 E08" tvg-name="Dani Who? S01 E08"  group-title="SERIES FICCION - FANTASIA",Dani Who? S01 E08
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41729.mkv
+#EXTINF:-1 tvg-id="Dani Who? S01 E09" tvg-name="Dani Who? S01 E09"  group-title="SERIES FICCION - FANTASIA",Dani Who? S01 E09
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41730.mkv
+#EXTINF:-1 tvg-id="Dani Who? S01 E10" tvg-name="Dani Who? S01 E10"  group-title="SERIES FICCION - FANTASIA",Dani Who? S01 E10
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41731.mkv
 #EXTINF:-1 tvg-id="Johnny Bravo S01 E01" tvg-name="Johnny Bravo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9Ug39KxbIt1opgXdJY3AJhAlGx.jpg" group-title="SERIES INFANTILES",Johnny Bravo S01 E01
 http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/6923.mp4
 #EXTINF:-1 tvg-id="Johnny Bravo S01 E02" tvg-name="Johnny Bravo S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qLChCIiUhEDZQ5CMsPm6fhMeCwB.jpg" group-title="SERIES INFANTILES",Johnny Bravo S01 E02
@@ -23555,6 +24109,78 @@ http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/21165.mkv
 http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/21166.mkv
 #EXTINF:-1 tvg-id="Kung Fu Panda The Paws of Destiny S01 E13" tvg-name="Kung Fu Panda The Paws of Destiny S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Wcu6LIru7ISEMl68pcqSa13f6U.jpg" group-title="SERIES INFANTILES",Kung Fu Panda The Paws of Destiny S01 E13
 http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/21167.mkv
+#EXTINF:-1 tvg-id="El maravilloso mundo de Mickey Mouse S01 E01" tvg-name="El maravilloso mundo de Mickey Mouse S01 E01" tvg-logo="http://xdgo.live:8080/images/3178ad7cefacce7cc7179984c3e0b23d.jpg" group-title="SERIES INFANTILES",El maravilloso mundo de Mickey Mouse S01 E01
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41926.mkv
+#EXTINF:-1 tvg-id="El maravilloso mundo de Mickey Mouse S01 E02" tvg-name="El maravilloso mundo de Mickey Mouse S01 E02" tvg-logo="http://xdgo.live:8080/images/a19b8c7a8adc0033544c37ca7c45f076.jpg" group-title="SERIES INFANTILES",El maravilloso mundo de Mickey Mouse S01 E02
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41927.mkv
+#EXTINF:-1 tvg-id="El maravilloso mundo de Mickey Mouse S01 E03" tvg-name="El maravilloso mundo de Mickey Mouse S01 E03" tvg-logo="http://xdgo.live:8080/images/daf210ed36d7c602310ae137957b02cd.jpg" group-title="SERIES INFANTILES",El maravilloso mundo de Mickey Mouse S01 E03
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41928.mkv
+#EXTINF:-1 tvg-id="El maravilloso mundo de Mickey Mouse S01 E04" tvg-name="El maravilloso mundo de Mickey Mouse S01 E04" tvg-logo="http://xdgo.live:8080/images/f3fb65c696ffc9fc40ed7a1f8629082c.jpg" group-title="SERIES INFANTILES",El maravilloso mundo de Mickey Mouse S01 E04
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41929.mkv
+#EXTINF:-1 tvg-id="El maravilloso mundo de Mickey Mouse S01 E05" tvg-name="El maravilloso mundo de Mickey Mouse S01 E05" tvg-logo="http://xdgo.live:8080/images/b653b4925dd2d37f13fde411888c7a5d.jpg" group-title="SERIES INFANTILES",El maravilloso mundo de Mickey Mouse S01 E05
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41930.mkv
+#EXTINF:-1 tvg-id="El maravilloso mundo de Mickey Mouse S01 E06" tvg-name="El maravilloso mundo de Mickey Mouse S01 E06" tvg-logo="http://xdgo.live:8080/images/f66de1273e05c59154d1d3b369a74298.jpg" group-title="SERIES INFANTILES",El maravilloso mundo de Mickey Mouse S01 E06
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41931.mkv
+#EXTINF:-1 tvg-id="El maravilloso mundo de Mickey Mouse S01 E07" tvg-name="El maravilloso mundo de Mickey Mouse S01 E07" tvg-logo="http://xdgo.live:8080/images/10925bcf0e90e081232c3118bc41770c.jpg" group-title="SERIES INFANTILES",El maravilloso mundo de Mickey Mouse S01 E07
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41932.mkv
+#EXTINF:-1 tvg-id="El maravilloso mundo de Mickey Mouse S01 E08" tvg-name="El maravilloso mundo de Mickey Mouse S01 E08" tvg-logo="http://xdgo.live:8080/images/9cd1249231e38d1b1f8fc8e7f4cee083.jpg" group-title="SERIES INFANTILES",El maravilloso mundo de Mickey Mouse S01 E08
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41933.mkv
+#EXTINF:-1 tvg-id="El maravilloso mundo de Mickey Mouse S01 E09" tvg-name="El maravilloso mundo de Mickey Mouse S01 E09" tvg-logo="http://xdgo.live:8080/images/dc735f2721c17f613c3493e08006ff76.jpg" group-title="SERIES INFANTILES",El maravilloso mundo de Mickey Mouse S01 E09
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41934.mkv
+#EXTINF:-1 tvg-id="El maravilloso mundo de Mickey Mouse S01 E10" tvg-name="El maravilloso mundo de Mickey Mouse S01 E10" tvg-logo="http://xdgo.live:8080/images/aa88bb9f752eb2b47112c10d94494599.jpg" group-title="SERIES INFANTILES",El maravilloso mundo de Mickey Mouse S01 E10
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41935.mkv
+#EXTINF:-1 tvg-id="Hilda S01 E01" tvg-name="Hilda S01 E01" tvg-logo="http://xdgo.live:8080/images/9807c8a15083b79f5b9d1e3dc3f18f06.jpg" group-title="SERIES INFANTILES",Hilda S01 E01
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41976.mkv
+#EXTINF:-1 tvg-id="Hilda S01 E02" tvg-name="Hilda S01 E02" tvg-logo="http://xdgo.live:8080/images/c07086ff982d7dfe3dcfed5b89e08eb7.jpg" group-title="SERIES INFANTILES",Hilda S01 E02
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41977.mkv
+#EXTINF:-1 tvg-id="Hilda S01 E03" tvg-name="Hilda S01 E03" tvg-logo="http://xdgo.live:8080/images/f433557c556be754884b20aa2b9d5c4f.jpg" group-title="SERIES INFANTILES",Hilda S01 E03
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41978.mkv
+#EXTINF:-1 tvg-id="Hilda S01 E04" tvg-name="Hilda S01 E04" tvg-logo="http://xdgo.live:8080/images/7e5a0f9001cd746ab597718e77d70de7.jpg" group-title="SERIES INFANTILES",Hilda S01 E04
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41979.mkv
+#EXTINF:-1 tvg-id="Hilda S01 E05" tvg-name="Hilda S01 E05" tvg-logo="http://xdgo.live:8080/images/b35995ead11b37034ace2bb5c329bbcb.jpg" group-title="SERIES INFANTILES",Hilda S01 E05
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41980.mkv
+#EXTINF:-1 tvg-id="Hilda S01 E06" tvg-name="Hilda S01 E06" tvg-logo="http://xdgo.live:8080/images/e156abd74fc9e26bf53046ecd39a00f2.jpg" group-title="SERIES INFANTILES",Hilda S01 E06
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41981.mkv
+#EXTINF:-1 tvg-id="Hilda S01 E07" tvg-name="Hilda S01 E07" tvg-logo="http://xdgo.live:8080/images/7806bf6dd5d7c64d5a2a27dda099f5ce.jpg" group-title="SERIES INFANTILES",Hilda S01 E07
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41982.mkv
+#EXTINF:-1 tvg-id="Hilda S01 E08" tvg-name="Hilda S01 E08" tvg-logo="http://xdgo.live:8080/images/ea2dd15c12a8b770318fd21eda6765e8.jpg" group-title="SERIES INFANTILES",Hilda S01 E08
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41983.mkv
+#EXTINF:-1 tvg-id="Hilda S01 E09" tvg-name="Hilda S01 E09" tvg-logo="http://xdgo.live:8080/images/93737a3fd0ed98f2288801b5a2999453.jpg" group-title="SERIES INFANTILES",Hilda S01 E09
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41984.mkv
+#EXTINF:-1 tvg-id="Hilda S01 E10" tvg-name="Hilda S01 E10" tvg-logo="http://xdgo.live:8080/images/157aabf1f419e29a6097e1a287d33c56.jpg" group-title="SERIES INFANTILES",Hilda S01 E10
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41985.mkv
+#EXTINF:-1 tvg-id="Hilda S01 E11" tvg-name="Hilda S01 E11" tvg-logo="http://xdgo.live:8080/images/fdd40b2d4b42c7c1cf516b6876e89809.jpg" group-title="SERIES INFANTILES",Hilda S01 E11
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41986.mkv
+#EXTINF:-1 tvg-id="Hilda S01 E12" tvg-name="Hilda S01 E12" tvg-logo="http://xdgo.live:8080/images/b2db70e1ebc46b23cb58163d09428d41.jpg" group-title="SERIES INFANTILES",Hilda S01 E12
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41987.mkv
+#EXTINF:-1 tvg-id="Hilda S01 E13" tvg-name="Hilda S01 E13" tvg-logo="http://xdgo.live:8080/images/199c569d563977343610e475372813c9.jpg" group-title="SERIES INFANTILES",Hilda S01 E13
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41988.mkv
+#EXTINF:-1 tvg-id="Hilda S02 E01" tvg-name="Hilda S02 E01" tvg-logo="http://xdgo.live:8080/images/dc1fadb9ea8048a53f7519b5257a8941.jpg" group-title="SERIES INFANTILES",Hilda S02 E01
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41989.mkv
+#EXTINF:-1 tvg-id="Hilda S02 E02" tvg-name="Hilda S02 E02" tvg-logo="http://xdgo.live:8080/images/5ad35435f3bf146f210e82a4888d6e67.jpg" group-title="SERIES INFANTILES",Hilda S02 E02
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41990.mkv
+#EXTINF:-1 tvg-id="Hilda S02 E03" tvg-name="Hilda S02 E03" tvg-logo="http://xdgo.live:8080/images/ac839c3802e265d56195acc1c15a6c25.jpg" group-title="SERIES INFANTILES",Hilda S02 E03
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41991.mkv
+#EXTINF:-1 tvg-id="Hilda S02 E04" tvg-name="Hilda S02 E04" tvg-logo="http://xdgo.live:8080/images/33885e252238db481637b4f0f719c9ea.jpg" group-title="SERIES INFANTILES",Hilda S02 E04
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41992.mkv
+#EXTINF:-1 tvg-id="Hilda S02 E05" tvg-name="Hilda S02 E05" tvg-logo="http://xdgo.live:8080/images/25059a48b635fd8ea266afda89fc207e.jpg" group-title="SERIES INFANTILES",Hilda S02 E05
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41993.mkv
+#EXTINF:-1 tvg-id="Hilda S02 E06" tvg-name="Hilda S02 E06" tvg-logo="http://xdgo.live:8080/images/b9cd334bb1e381cf16b56d247bb2b517.jpg" group-title="SERIES INFANTILES",Hilda S02 E06
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41994.mkv
+#EXTINF:-1 tvg-id="Hilda S02 E07" tvg-name="Hilda S02 E07" tvg-logo="http://xdgo.live:8080/images/059acfdf52ddcbafabd9b8934f2477e3.jpg" group-title="SERIES INFANTILES",Hilda S02 E07
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41995.mkv
+#EXTINF:-1 tvg-id="Hilda S02 E08" tvg-name="Hilda S02 E08" tvg-logo="http://xdgo.live:8080/images/22633e01b8e370745821464540eebcf4.jpg" group-title="SERIES INFANTILES",Hilda S02 E08
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41996.mkv
+#EXTINF:-1 tvg-id="Hilda S02 E09" tvg-name="Hilda S02 E09" tvg-logo="http://xdgo.live:8080/images/3272d71cdfd4d5746e8426877ec5d132.jpg" group-title="SERIES INFANTILES",Hilda S02 E09
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41997.mkv
+#EXTINF:-1 tvg-id="Hilda S02 E10" tvg-name="Hilda S02 E10" tvg-logo="http://xdgo.live:8080/images/775974ea3f4dff1bf14093c762db9384.jpg" group-title="SERIES INFANTILES",Hilda S02 E10
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41998.mkv
+#EXTINF:-1 tvg-id="Hilda S02 E11" tvg-name="Hilda S02 E11" tvg-logo="http://xdgo.live:8080/images/60882caa2faa3ae296c1c0273b53c33d.jpg" group-title="SERIES INFANTILES",Hilda S02 E11
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41999.mkv
+#EXTINF:-1 tvg-id="Hilda S02 E12" tvg-name="Hilda S02 E12" tvg-logo="http://xdgo.live:8080/images/717d250bf7455c4684bd22cb52030445.jpg" group-title="SERIES INFANTILES",Hilda S02 E12
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42000.mkv
+#EXTINF:-1 tvg-id="Hilda S02 E13" tvg-name="Hilda S02 E13" tvg-logo="http://xdgo.live:8080/images/c8ae6f48046c84484af34b0ea188db61.jpg" group-title="SERIES INFANTILES",Hilda S02 E13
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42001.mkv
 #EXTINF:-1 tvg-id="Homecoming S01 E01" tvg-name="Homecoming S01 E01"  group-title="SERIES TERROR - THRILLER",Homecoming S01 E01
 http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/6816.mkv
 #EXTINF:-1 tvg-id="Homecoming S01 E02" tvg-name="Homecoming S01 E02"  group-title="SERIES TERROR - THRILLER",Homecoming S01 E02
@@ -24063,6 +24689,34 @@ http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/40735.mkv
 http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/40733.mkv
 #EXTINF:-1 tvg-id="The Walking Dead S10 E16" tvg-name="The Walking Dead S10 E16"  group-title="SERIES TERROR - THRILLER",The Walking Dead S10 E16
 http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/40734.mkv
+#EXTINF:-1 tvg-id="Alice in Borderland S01 E01" tvg-name="Alice in Borderland S01 E01"  group-title="SERIES TERROR - THRILLER",Alice in Borderland S01 E01
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41949.mkv
+#EXTINF:-1 tvg-id="Alice in Borderland S01 E02" tvg-name="Alice in Borderland S01 E02"  group-title="SERIES TERROR - THRILLER",Alice in Borderland S01 E02
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41950.mkv
+#EXTINF:-1 tvg-id="Alice in Borderland S01 E03" tvg-name="Alice in Borderland S01 E03"  group-title="SERIES TERROR - THRILLER",Alice in Borderland S01 E03
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41951.mkv
+#EXTINF:-1 tvg-id="Alice in Borderland S01 E04" tvg-name="Alice in Borderland S01 E04"  group-title="SERIES TERROR - THRILLER",Alice in Borderland S01 E04
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41952.mkv
+#EXTINF:-1 tvg-id="Alice in Borderland S01 E05" tvg-name="Alice in Borderland S01 E05"  group-title="SERIES TERROR - THRILLER",Alice in Borderland S01 E05
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41953.mkv
+#EXTINF:-1 tvg-id="Alice in Borderland S01 E06" tvg-name="Alice in Borderland S01 E06"  group-title="SERIES TERROR - THRILLER",Alice in Borderland S01 E06
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41954.mkv
+#EXTINF:-1 tvg-id="Alice in Borderland S01 E07" tvg-name="Alice in Borderland S01 E07"  group-title="SERIES TERROR - THRILLER",Alice in Borderland S01 E07
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41955.mkv
+#EXTINF:-1 tvg-id="Alice in Borderland S01 E08" tvg-name="Alice in Borderland S01 E08"  group-title="SERIES TERROR - THRILLER",Alice in Borderland S01 E08
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41956.mkv
+#EXTINF:-1 tvg-id="Soulmates S01 E01" tvg-name="Soulmates S01 E01"  group-title="SOULMATES",Soulmates S01 E01
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41467.mkv
+#EXTINF:-1 tvg-id="Soulmates S01 E02" tvg-name="Soulmates S01 E02"  group-title="SOULMATES",Soulmates S01 E02
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41468.mkv
+#EXTINF:-1 tvg-id="Soulmates S01 E03" tvg-name="Soulmates S01 E03"  group-title="SOULMATES",Soulmates S01 E03
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41469.mkv
+#EXTINF:-1 tvg-id="Soulmates S01 E04" tvg-name="Soulmates S01 E04"  group-title="SOULMATES",Soulmates S01 E04
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41470.mkv
+#EXTINF:-1 tvg-id="Soulmates S01 E05" tvg-name="Soulmates S01 E05"  group-title="SOULMATES",Soulmates S01 E05
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41471.mkv
+#EXTINF:-1 tvg-id="Soulmates S01 E06" tvg-name="Soulmates S01 E06"  group-title="SOULMATES",Soulmates S01 E06
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41472.mkv
 #EXTINF:-1 tvg-id="The Mandalorian S01 E01" tvg-name="The Mandalorian S01 E01"  group-title="THE MANDALORIAN",The Mandalorian S01 E01
 http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/16460.mkv
 #EXTINF:-1 tvg-id="The Mandalorian S01 E02" tvg-name="The Mandalorian S01 E02"  group-title="THE MANDALORIAN",The Mandalorian S01 E02
@@ -24095,6 +24749,18 @@ http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/40780.mkv
 http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/40781.mkv
 #EXTINF:-1 tvg-id="The Mandalorian S02 E08" tvg-name="The Mandalorian S02 E08"  group-title="THE MANDALORIAN",The Mandalorian S02 E08
 http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/40834.mkv
+#EXTINF:-1 tvg-id="The Stand S01 E01" tvg-name="The Stand S01 E01"  group-title="THE STAND",The Stand S01 E01
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41478.mkv
+#EXTINF:-1 tvg-id="The Stand S01 E02" tvg-name="The Stand S01 E02"  group-title="THE STAND",The Stand S01 E02
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41479.mkv
+#EXTINF:-1 tvg-id="The Stand S01 E03" tvg-name="The Stand S01 E03"  group-title="THE STAND",The Stand S01 E03
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41480.mkv
+#EXTINF:-1 tvg-id="The Stand S01 E04" tvg-name="The Stand S01 E04"  group-title="THE STAND",The Stand S01 E04
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41481.mkv
+#EXTINF:-1 tvg-id="The Stand S01 E05" tvg-name="The Stand S01 E05"  group-title="THE STAND",The Stand S01 E05
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41482.mkv
+#EXTINF:-1 tvg-id="The Stand S01 E06" tvg-name="The Stand S01 E06"  group-title="THE STAND",The Stand S01 E06
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41483.mkv
 #EXTINF:-1 tvg-id="WandaVision S01 E01" tvg-name="WandaVision S01 E01"  group-title="WANDAVISION",WandaVision S01 E01
 http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41081.mkv
 #EXTINF:-1 tvg-id="WandaVision S01 E02" tvg-name="WandaVision S01 E02"  group-title="WANDAVISION",WandaVision S01 E02
@@ -24105,6 +24771,132 @@ http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41174.mkv
 http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41262.mkv
 #EXTINF:-1 tvg-id="WandaVision S01 E05" tvg-name="WandaVision S01 E05"  group-title="WANDAVISION",WandaVision S01 E05
 http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41363.mkv
+#EXTINF:-1 tvg-id="WandaVision S01 E06" tvg-name="WandaVision S01 E06"  group-title="WANDAVISION",WandaVision S01 E06
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41450.mkv
+#EXTINF:-1 tvg-id="WandaVision S01 E07" tvg-name="WandaVision S01 E07"  group-title="WANDAVISION",WandaVision S01 E07
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41776.mkv
+#EXTINF:-1 tvg-id="WandaVision S01 E08" tvg-name="WandaVision S01 E08"  group-title="WANDAVISION",WandaVision S01 E08
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42114.mkv
+#EXTINF:-1 tvg-id="WandaVision S01 E09" tvg-name="WandaVision S01 E09"  group-title="WANDAVISION",WandaVision S01 E09
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42412.mkv
+#EXTINF:-1 tvg-id="El rey de Zamunda 2 (2021)" tvg-name="El rey de Zamunda 2 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0GwE6T6rHf4qPD8U8tihwVJKUR.jpg" group-title="VFLIX ESTRENOS",El rey de Zamunda 2 (2021)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42442.mkv
+#EXTINF:-1 tvg-id="El diablo entre las piernas (2021)" tvg-name="El diablo entre las piernas (2021)" tvg-logo="http://xdgo.live:8080/images/5af459197a9d16cd9b23cf5507d5efed.jpg" group-title="VFLIX ESTRENOS",El diablo entre las piernas (2021)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42445.mkv
+#EXTINF:-1 tvg-id="Moxie (2021)" tvg-name="Moxie (2021)" tvg-logo="http://xdgo.live:8080/images/454e2d910f8a42d04bd381d52206e768.jpg" group-title="VFLIX ESTRENOS",Moxie (2021)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42450.mkv
+#EXTINF:-1 tvg-id="Raya y el último dragón (2021)" tvg-name="Raya y el último dragón (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lEC7RHYJ7zidupb9TGJdjwiK4L4.jpg" group-title="VFLIX ESTRENOS",Raya y el último dragón (2021)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42451.mkv
+#EXTINF:-1 tvg-id="Centinela (2021)" tvg-name="Centinela (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1beTFaB9b0fQ8swOyVsxSfOorB.jpg" group-title="VFLIX ESTRENOS",Centinela (2021)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42453.mkv
+#EXTINF:-1 tvg-id="Soy Luna: El último concierto (2021)" tvg-name="Soy Luna: El último concierto (2021)" tvg-logo="http://xdgo.live:8080/images/b9a7651f4ce970b6f666b1fa61d0e1c8.jpg" group-title="VFLIX ESTRENOS",Soy Luna: El último concierto (2021)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42454.mkv
+#EXTINF:-1 tvg-id="The Mauritanian (2021)" tvg-name="The Mauritanian (2021)" tvg-logo="http://xdgo.live:8080/images/ecb57e173b323544d9ddb310cf9e9a3f.jpg" group-title="VFLIX ESTRENOS",The Mauritanian (2021)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42457.mkv
+#EXTINF:-1 tvg-id="Death of Me (2020)" tvg-name="Death of Me (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXeoXfMXDi7TuKCO9OmNgB5xFCG.jpg" group-title="VFLIX ESTRENOS",Death of Me (2020)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42443.mkv
+#EXTINF:-1 tvg-id="El agente topo (2020)" tvg-name="El agente topo (2020)" tvg-logo="http://xdgo.live:8080/images/83a5baf9330fb0a599f286da5b95d16f.jpg" group-title="VFLIX ESTRENOS",El agente topo (2020)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42444.mkv
+#EXTINF:-1 tvg-id="Imprisoned (2019)" tvg-name="Imprisoned (2019)" tvg-logo="http://xdgo.live:8080/images/92fa6aba7857eb748f6058f26b3e7b1b.jpg" group-title="VFLIX ESTRENOS",Imprisoned (2019)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42446.mkv
+#EXTINF:-1 tvg-id="Bad Impulse (2019)" tvg-name="Bad Impulse (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAYfDGX9jpvhsSP5Bo0FRcBYksz.jpg" group-title="VFLIX ESTRENOS",Bad Impulse (2019)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42447.mkv
+#EXTINF:-1 tvg-id="A Garota Invisível (2020)" tvg-name="A Garota Invisível (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/msJs7UwmWUd7iql36JoN4Rp0hoK.jpg" group-title="VFLIX ESTRENOS",A Garota Invisível (2020)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42448.mkv
+#EXTINF:-1 tvg-id="Lupe (2019)" tvg-name="Lupe (2019)" tvg-logo="http://xdgo.live:8080/images/922339aae8caa9faee4783accb3f2dc6.jpg" group-title="VFLIX ESTRENOS",Lupe (2019)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42449.mkv
+#EXTINF:-1 tvg-id="Pool Boy Nightmare (2020)" tvg-name="Pool Boy Nightmare (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgF4cf3fb48fcY6ZMACfHGSurZE.jpg" group-title="VFLIX ESTRENOS",Pool Boy Nightmare (2020)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42452.mkv
+#EXTINF:-1 tvg-id="Spell (2018)" tvg-name="Spell (2018)" tvg-logo="http://xdgo.live:8080/images/ead4e94265395a092a03aaa84cdb49ef.jpg" group-title="VFLIX ESTRENOS",Spell (2018)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42455.mkv
+#EXTINF:-1 tvg-id="Henchmen (2018)" tvg-name="Henchmen (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddbcOYQaDbxH5R42DlrK7txVbIG.jpg" group-title="VFLIX ESTRENOS",Henchmen (2018)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42456.mkv
+#EXTINF:-1 tvg-id="The Nest (2020)" tvg-name="The Nest (2020)" tvg-logo="http://xdgo.live:8080/images/704ecdb792f43905603e588fd68bc045.jpg" group-title="VFLIX ESTRENOS",The Nest (2020)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42458.mkv
+#EXTINF:-1 tvg-id="Tom y Jerry (2021)" tvg-name="Tom y Jerry (2021)" tvg-logo="http://xdgo.live:8080/images/6a9f36fc49c2ff51ea9ce7493e2ae179.jpg" group-title="VFLIX ESTRENOS",Tom y Jerry (2021)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42216.mkv
+#EXTINF:-1 tvg-id="Barb and Star Go to Vista Del Mar (2021)" tvg-name="Barb and Star Go to Vista Del Mar (2021)" tvg-logo="http://xdgo.live:8080/images/6ad54e84ae1607f52a9ce6eadaf53ca3.jpg" group-title="VFLIX ESTRENOS",Barb and Star Go to Vista Del Mar (2021)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42206.mkv
+#EXTINF:-1 tvg-id="La Familia Bigfoot (2020)" tvg-name="La Familia Bigfoot (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lluZWERIQDKFbQlzYNFbmy3n0tK.jpg" group-title="VFLIX ESTRENOS",La Familia Bigfoot (2020)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42207.mkv
+#EXTINF:-1 tvg-id="Chick Fight (2021)" tvg-name="Chick Fight (2021)" tvg-logo="http://xdgo.live:8080/images/52d8f148c138be546785f27334f07d00.jpg" group-title="VFLIX ESTRENOS",Chick Fight (2021)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42208.mkv
+#EXTINF:-1 tvg-id="Loco por ella (2021)" tvg-name="Loco por ella (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVcOR5f1bKhqSWWxViOfmOJ7aqc.jpg" group-title="VFLIX ESTRENOS",Loco por ella (2021)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42209.mkv
+#EXTINF:-1 tvg-id="Danyka (2020)" tvg-name="Danyka (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/frpm4pIW5qPRZoCtA9VEJ4QHkdM.jpg" group-title="VFLIX ESTRENOS",Danyka (2020)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42210.mkv
+#EXTINF:-1 tvg-id="Fukushima 50 (2020)" tvg-name="Fukushima 50 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bw7Dc5Vn7mqfBjKsYCC8l5ZNfbG.jpg" group-title="VFLIX ESTRENOS",Fukushima 50 (2020)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42211.mkv
+#EXTINF:-1 tvg-id="The Wrong Fiancé (2021)" tvg-name="The Wrong Fiancé (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4Rem8TZjMIzhlTzfAfSbhQBct5.jpg" group-title="VFLIX ESTRENOS",The Wrong Fiancé (2021)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42212.mkv
+#EXTINF:-1 tvg-id="Rocket Hunter (2020)" tvg-name="Rocket Hunter (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdZ84L4m8XW7s1Zbt7t8kG77GvI.jpg" group-title="VFLIX ESTRENOS",Rocket Hunter (2020)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42213.mkv
+#EXTINF:-1 tvg-id="Sweetness in the Belly (2019)" tvg-name="Sweetness in the Belly (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8jtHRcsEq6MOK9DDb6K7dVOQhl6.jpg" group-title="VFLIX ESTRENOS",Sweetness in the Belly (2019)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42214.mkv
+#EXTINF:-1 tvg-id="Mira la chica del tren" tvg-name="Mira la chica del tren" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rlCg0vlDDMH6eWQtZNnDPR9Nwmq.jpg" group-title="VFLIX ESTRENOS",Mira la chica del tren
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42215.mkv
+#EXTINF:-1 tvg-id="Pelé (2021)" tvg-name="Pelé (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVKAep8V6rrFh0IhABC0bkzjwK5.jpg" group-title="VFLIX ESTRENOS",Pelé (2021)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42062.mkv
+#EXTINF:-1 tvg-id="BIA: Un Mundo al Revés (2021)" tvg-name="BIA: Un Mundo al Revés (2021)" tvg-logo="http://xdgo.live:8080/images/0b972d45dc62c34f684d3722c4e09115.jpg" group-title="VFLIX ESTRENOS",BIA: Un Mundo al Revés (2021)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42049.mkv
+#EXTINF:-1 tvg-id="WWE Elimination Chamber 2021 (2021)" tvg-name="WWE Elimination Chamber 2021 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8sdWLU2KL94IGSPrWSQk0teaRn0.jpg" group-title="VFLIX ESTRENOS",WWE Elimination Chamber 2021 (2021)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42054.mkv
+#EXTINF:-1 tvg-id="I Care a Lot (2021)" tvg-name="I Care a Lot (2021)" tvg-logo="http://xdgo.live:8080/images/e7e137a18ab829b607fb3047f0f60130.jpg" group-title="VFLIX ESTRENOS",I Care a Lot (2021)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42056.mkv
+#EXTINF:-1 tvg-id="Marvel's Behind the Mask (2021)" tvg-name="Marvel's Behind the Mask (2021)" tvg-logo="http://xdgo.live:8080/images/f2e9046263b2a26c1ae1aa71d42cd378.jpg" group-title="VFLIX ESTRENOS",Marvel's Behind the Mask (2021)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42059.mkv
+#EXTINF:-1 tvg-id="Scooby-Doo! The Sword and the Scoob (2021)" tvg-name="Scooby-Doo! The Sword and the Scoob (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjwji8a2Os0Ew3iJyKRlGlQUhXJ.jpg" group-title="VFLIX ESTRENOS",Scooby-Doo! The Sword and the Scoob (2021)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42063.mkv
+#EXTINF:-1 tvg-id="Tentacles (2021)" tvg-name="Tentacles (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DjIEbhBCbPGIYtyrEsZhXF9t77.jpg" group-title="VFLIX ESTRENOS",Tentacles (2021)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42064.mkv
+#EXTINF:-1 tvg-id="Wrong Turn (2021)" tvg-name="Wrong Turn (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4U1SBHmwHkNA0eHZ2n1CuiC1K1g.jpg" group-title="VFLIX ESTRENOS",Wrong Turn (2021)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42065.mkv
+#EXTINF:-1 tvg-id="Becky (2020)" tvg-name="Becky (2020)" tvg-logo="http://xdgo.live:8080/images/02f20ec9fca64e57e0a4b7da08fdfcdd.jpg" group-title="VFLIX ESTRENOS",Becky (2020)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42048.mkv
+#EXTINF:-1 tvg-id="Break (2018)" tvg-name="Break (2018)" tvg-logo="http://xdgo.live:8080/images/956f4694d7d738b566ca91748a195164.jpg" group-title="VFLIX ESTRENOS",Break (2018)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42050.mkv
+#EXTINF:-1 tvg-id="Dark Light (2019)" tvg-name="Dark Light (2019)" tvg-logo="http://xdgo.live:8080/images/afc78015084c4feb001759119b70f8d8.jpg" group-title="VFLIX ESTRENOS",Dark Light (2019)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42052.mkv
+#EXTINF:-1 tvg-id="Mina y el mundo de los sueños (2020)" tvg-name="Mina y el mundo de los sueños (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBI7gSdvCbITFiyIfFVE0gal4JR.jpg" group-title="VFLIX ESTRENOS",Mina y el mundo de los sueños (2020)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42053.mkv
+#EXTINF:-1 tvg-id="Fatale (2020)" tvg-name="Fatale (2020)" tvg-logo="http://xdgo.live:8080/images/6033320609d145268ef8323755f8da3b.jpg" group-title="VFLIX ESTRENOS",Fatale (2020)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42055.mkv
+#EXTINF:-1 tvg-id="Rey de ladrones (2018)" tvg-name="Rey de ladrones (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGtTMpaghQi6zNrJPumO2vJtZT9.jpg" group-title="VFLIX ESTRENOS",Rey de ladrones (2018)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42057.mkv
+#EXTINF:-1 tvg-id="La invocación (2019)" tvg-name="La invocación (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g5hx5kepkzUFm1czj1MZse1klX4.jpg" group-title="VFLIX ESTRENOS",La invocación (2019)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42058.mkv
+#EXTINF:-1 tvg-id="Mi abuelo es un extraterrestre (2019)" tvg-name="Mi abuelo es un extraterrestre (2019)" tvg-logo="http://xdgo.live:8080/images/2cb37acf8f72c0cb70517fc7cbbf1565.jpg" group-title="VFLIX ESTRENOS",Mi abuelo es un extraterrestre (2019)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42060.mkv
+#EXTINF:-1 tvg-id="Monster Hunter (2020)" tvg-name="Monster Hunter (2020)" tvg-logo="http://xdgo.live:8080/images/e4ae13b30ba3d4469355f79ef3fb6066.jpg" group-title="VFLIX ESTRENOS",Monster Hunter (2020)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42061.mkv
+#EXTINF:-1 tvg-id="Fear of Rain (2021)" tvg-name="Fear of Rain (2021)" tvg-logo="http://xdgo.live:8080/images/a039464edc13d82b2b8e5d52a0ac1eaa.jpg" group-title="VFLIX ESTRENOS",Fear of Rain (2021)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/41525.mkv
+#EXTINF:-1 tvg-id="Judas and the Black Messiah (2021)" tvg-name="Judas and the Black Messiah (2021)" tvg-logo="http://xdgo.live:8080/images/7a1e746fe573c594536909c6433cd049.jpg" group-title="VFLIX ESTRENOS",Judas and the Black Messiah (2021)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/41527.mkv
+#EXTINF:-1 tvg-id="Punto rojo (2021)" tvg-name="Punto rojo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWEMxv4vaF4VQsQcOIXJg0NqtsL.jpg" group-title="VFLIX ESTRENOS",Punto rojo (2021)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/41529.mkv
+#EXTINF:-1 tvg-id="Amor al cuadrado (2021)" tvg-name="Amor al cuadrado (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqX1O4PMi2UXuyNVfrps2kq8uFw.jpg" group-title="VFLIX ESTRENOS",Amor al cuadrado (2021)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/41530.mkv
+#EXTINF:-1 tvg-id="El mapa de las pequeñas cosas perfectas (2021)" tvg-name="El mapa de las pequeñas cosas perfectas (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6y3ev0rJFbHA1hU22UPmmfzBjrG.jpg" group-title="VFLIX ESTRENOS",El mapa de las pequeñas cosas perfectas (2021)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/41532.mkv
+#EXTINF:-1 tvg-id="A todos los chicos: Para siempre (2021)" tvg-name="A todos los chicos: Para siempre (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zdkJs9j6yKo9di0kjtctM01fSMv.jpg" group-title="VFLIX ESTRENOS",A todos los chicos: Para siempre (2021)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/41533.mkv
+#EXTINF:-1 tvg-id="¿Qué fue del Sr. Cha? (2021)" tvg-name="¿Qué fue del Sr. Cha? (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSoagGDAy1i8Fpky9JQDyMNWeEJ.jpg" group-title="VFLIX ESTRENOS",¿Qué fue del Sr. Cha? (2021)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/41534.mkv
+#EXTINF:-1 tvg-id="108 Costuras (2019)" tvg-name="108 Costuras (2019)" tvg-logo="http://xdgo.live:8080/images/651cf2bbd5ddac87bb36b7247bc49f88.jpg" group-title="VFLIX ESTRENOS",108 Costuras (2019)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/41522.mkv
+#EXTINF:-1 tvg-id="Abduction (2019)" tvg-name="Abduction (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sDYbxPraTJr6HatPnAJKnp2EteD.jpg" group-title="VFLIX ESTRENOS",Abduction (2019)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/41523.mkv
+#EXTINF:-1 tvg-id="A Valentine's Match (2020)" tvg-name="A Valentine's Match (2020)" tvg-logo="http://xdgo.live:8080/images/be70b583c6054f9659027c7442be94b8.jpg" group-title="VFLIX ESTRENOS",A Valentine's Match (2020)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/41524.mkv
+#EXTINF:-1 tvg-id="Joueurs (2018)" tvg-name="Joueurs (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMfr5wO7Of5YdPvITWZBG0Nq2ZF.jpg" group-title="VFLIX ESTRENOS",Joueurs (2018)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/41526.mkv
+#EXTINF:-1 tvg-id="Narco Soldiers (2019)" tvg-name="Narco Soldiers (2019)" tvg-logo="http://xdgo.live:8080/images/09c778e4a28118e00981493d0ecd4ef2.jpg" group-title="VFLIX ESTRENOS",Narco Soldiers (2019)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/41528.mkv
+#EXTINF:-1 tvg-id="El príncipe olvidado (2020)" tvg-name="El príncipe olvidado (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xVUMCDpn58JwY3zdWFmTZwu37f.jpg" group-title="VFLIX ESTRENOS",El príncipe olvidado (2020)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/41531.mkv
+#EXTINF:-1 tvg-id="Z (2019)" tvg-name="Z (2019)" tvg-logo="http://xdgo.live:8080/images/e64ff45899cce4e925f278e3f567fcb1.jpg" group-title="VFLIX ESTRENOS",Z (2019)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/41535.mkv
 #EXTINF:-1 tvg-id="Colegio de magia y hechicería (2020)" tvg-name="Colegio de magia y hechicería (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/83TGw9qcqywfnjM9dsWG1sSZziQ.jpg" group-title="VFLIX ESTRENOS",Colegio de magia y hechicería (2020)
 http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/41430.mkv
 #EXTINF:-1 tvg-id="Cosmética del enemigo (2020)" tvg-name="Cosmética del enemigo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ksLE8wXhKxJEfrjwJa8XmJAKHZ.jpg" group-title="VFLIX ESTRENOS",Cosmética del enemigo (2020)
@@ -26749,6 +27541,50 @@ http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/40060.mkv
 http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/40061.mkv
 #EXTINF:-1 tvg-id="Subete a mi moto S01 E15" tvg-name="Subete a mi moto S01 E15"  group-title="SERIES DOCUMENTALES",Subete a mi moto S01 E15
 http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/40062.mkv
+#EXTINF:-1 tvg-id="Escena del crimen Desaparicion en el Hotel Cecil S01 E01" tvg-name="Escena del crimen Desaparicion en el Hotel Cecil S01 E01"  group-title="SERIES DOCUMENTALES",Escena del crimen Desaparicion en el Hotel Cecil S01 E01
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41484.mkv
+#EXTINF:-1 tvg-id="Escena del crimen Desaparicion en el Hotel Cecil S01 E02" tvg-name="Escena del crimen Desaparicion en el Hotel Cecil S01 E02"  group-title="SERIES DOCUMENTALES",Escena del crimen Desaparicion en el Hotel Cecil S01 E02
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41485.mkv
+#EXTINF:-1 tvg-id="Escena del crimen Desaparicion en el Hotel Cecil S01 E03" tvg-name="Escena del crimen Desaparicion en el Hotel Cecil S01 E03"  group-title="SERIES DOCUMENTALES",Escena del crimen Desaparicion en el Hotel Cecil S01 E03
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41486.mkv
+#EXTINF:-1 tvg-id="Escena del crimen Desaparicion en el Hotel Cecil S01 E04" tvg-name="Escena del crimen Desaparicion en el Hotel Cecil S01 E04"  group-title="SERIES DOCUMENTALES",Escena del crimen Desaparicion en el Hotel Cecil S01 E04
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41487.mkv
+#EXTINF:-1 tvg-id="El oficio del espia S01 E01" tvg-name="El oficio del espia S01 E01"  group-title="SERIES DOCUMENTALES",El oficio del espia S01 E01
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41636.mkv
+#EXTINF:-1 tvg-id="El oficio del espia S01 E02" tvg-name="El oficio del espia S01 E02"  group-title="SERIES DOCUMENTALES",El oficio del espia S01 E02
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41637.mkv
+#EXTINF:-1 tvg-id="El oficio del espia S01 E03" tvg-name="El oficio del espia S01 E03"  group-title="SERIES DOCUMENTALES",El oficio del espia S01 E03
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41638.mkv
+#EXTINF:-1 tvg-id="El oficio del espia S01 E04" tvg-name="El oficio del espia S01 E04"  group-title="SERIES DOCUMENTALES",El oficio del espia S01 E04
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41639.mkv
+#EXTINF:-1 tvg-id="El oficio del espia S01 E05" tvg-name="El oficio del espia S01 E05"  group-title="SERIES DOCUMENTALES",El oficio del espia S01 E05
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41640.mkv
+#EXTINF:-1 tvg-id="El oficio del espia S01 E06" tvg-name="El oficio del espia S01 E06"  group-title="SERIES DOCUMENTALES",El oficio del espia S01 E06
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41641.mkv
+#EXTINF:-1 tvg-id="El oficio del espia S01 E07" tvg-name="El oficio del espia S01 E07"  group-title="SERIES DOCUMENTALES",El oficio del espia S01 E07
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41642.mkv
+#EXTINF:-1 tvg-id="El oficio del espia S01 E08" tvg-name="El oficio del espia S01 E08"  group-title="SERIES DOCUMENTALES",El oficio del espia S01 E08
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41643.mkv
+#EXTINF:-1 tvg-id="Acosador nocturno A la caza de un asesino en serie S01 E01" tvg-name="Acosador nocturno A la caza de un asesino en serie S01 E01"  group-title="SERIES DOCUMENTALES",Acosador nocturno A la caza de un asesino en serie S01 E01
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41936.mkv
+#EXTINF:-1 tvg-id="Acosador nocturno A la caza de un asesino en serie S01 E02" tvg-name="Acosador nocturno A la caza de un asesino en serie S01 E02"  group-title="SERIES DOCUMENTALES",Acosador nocturno A la caza de un asesino en serie S01 E02
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41937.mkv
+#EXTINF:-1 tvg-id="Acosador nocturno A la caza de un asesino en serie S01 E03" tvg-name="Acosador nocturno A la caza de un asesino en serie S01 E03"  group-title="SERIES DOCUMENTALES",Acosador nocturno A la caza de un asesino en serie S01 E03
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41938.mkv
+#EXTINF:-1 tvg-id="Acosador nocturno A la caza de un asesino en serie S01 E04" tvg-name="Acosador nocturno A la caza de un asesino en serie S01 E04"  group-title="SERIES DOCUMENTALES",Acosador nocturno A la caza de un asesino en serie S01 E04
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41939.mkv
+#EXTINF:-1 tvg-id="Surviving Death S01 E01" tvg-name="Surviving Death S01 E01"  group-title="SERIES DOCUMENTALES",Surviving Death S01 E01
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41970.mkv
+#EXTINF:-1 tvg-id="Surviving Death S01 E02" tvg-name="Surviving Death S01 E02"  group-title="SERIES DOCUMENTALES",Surviving Death S01 E02
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41971.mkv
+#EXTINF:-1 tvg-id="Surviving Death S01 E03" tvg-name="Surviving Death S01 E03"  group-title="SERIES DOCUMENTALES",Surviving Death S01 E03
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41972.mkv
+#EXTINF:-1 tvg-id="Surviving Death S01 E04" tvg-name="Surviving Death S01 E04"  group-title="SERIES DOCUMENTALES",Surviving Death S01 E04
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41973.mkv
+#EXTINF:-1 tvg-id="Surviving Death S01 E05" tvg-name="Surviving Death S01 E05"  group-title="SERIES DOCUMENTALES",Surviving Death S01 E05
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41974.mkv
+#EXTINF:-1 tvg-id="Surviving Death S01 E06" tvg-name="Surviving Death S01 E06"  group-title="SERIES DOCUMENTALES",Surviving Death S01 E06
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41975.mkv
 #EXTINF:-1 tvg-id="Discovery - El Origen del Coronavirus" tvg-name="Discovery - El Origen del Coronavirus"  group-title="VFLIX DOCUMENTALES",Discovery - El Origen del Coronavirus
 http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/25732.mp4
 #EXTINF:-1 tvg-id="History - Pandemia Alerta Mundial" tvg-name="History - Pandemia Alerta Mundial"  group-title="VFLIX DOCUMENTALES",History - Pandemia Alerta Mundial
