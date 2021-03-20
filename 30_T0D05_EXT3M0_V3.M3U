@@ -249,8 +249,6 @@ http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1106
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1131
 #EXTINF:-1 tvg-id="CO CANAL UNO HD" tvg-name="CO CANAL UNO HD" tvg-logo="https://boom82.com/wp-content/uploads/2019/05/imLavL3o.png" group-title="COLOMBIA",CO CANAL UNO HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1108
-#EXTINF:-1 tvg-id="CO CANTINAZO HD" tvg-name="CO CANTINAZO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgnDRdsIHRm-iFx6Cb3zI249NnMgsroACMdNGRzABkWJaTOljN&s" group-title="COLOMBIA",CO CANTINAZO HD
-http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1109
 #EXTINF:-1 tvg-id="CO CARACOL HD" tvg-name="CO CARACOL LQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/2015_Caracol_TV_logo.svg/1024px-2015_Caracol_TV_logo.svg.png" group-title="COLOMBIA",CO CARACOL LQ
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/30290
 #EXTINF:-1 tvg-id="CO CARACOL HQ" tvg-name="CO CARACOL HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/2015_Caracol_TV_logo.svg/1024px-2015_Caracol_TV_logo.svg.png" group-title="COLOMBIA",CO CARACOL HQ
@@ -825,19 +823,13 @@ http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/22126
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/2066
 #EXTINF:-1 tvg-id="IZZI AFIZZIONADOS" tvg-name="IZZI AFIZZIONADOS" tvg-logo="" group-title="DEPORTES INTERNACIONALES",IZZI AFIZZIONADOS
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/30221
-#EXTINF:-1 tvg-id="JUVENTUS TV" tvg-name="JUVENTUS TV" tvg-logo="" group-title="DEPORTES INTERNACIONALES",JUVENTUS TV
-http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/30210
 #EXTINF:-1 tvg-id="LIGA TV HD" tvg-name="LALIGA TV HD" tvg-logo="" group-title="DEPORTES INTERNACIONALES",LALIGA TV HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1999
-#EXTINF:-1 tvg-id="LAZIO STYLE" tvg-name="LAZIO STYLE" tvg-logo="" group-title="DEPORTES INTERNACIONALES",LAZIO STYLE
-http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/30211
 #EXTINF:-1 tvg-id="LIGA CAMPEONES" tvg-name="LIGA CAMPEONES" tvg-logo="" group-title="DEPORTES INTERNACIONALES",LIGA CAMPEONES
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/2000
 #EXTINF:-1 tvg-id="MAVTV" tvg-name="MAVTV" tvg-logo="" group-title="DEPORTES INTERNACIONALES",MAVTV
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/2036
-#EXTINF:-1 tvg-id="MILAN TV" tvg-name="MILAN TV" tvg-logo="" group-title="DEPORTES INTERNACIONALES",MILAN TV
-http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/30207
-#EXTINF:-1 tvg-id="MLB NETWORK FHD" tvg-name="MLB NETWORK" tvg-logo="" group-title="DEPORTES INTERNACIONALES",MLB NETWORK
+#EXTINF:-1 tvg-id="BEIN SPORTS 1" tvg-name="MLB NETWORK" tvg-logo="" group-title="DEPORTES INTERNACIONALES",MLB NETWORK
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/25083
 #EXTINF:-1 tvg-id="MOTO GP" tvg-name="MOTO GP" tvg-logo="" group-title="DEPORTES INTERNACIONALES",MOTO GP
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1996
@@ -993,13 +985,17 @@ http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/30196
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/40046
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="BEIN SPORTS 11" tvg-logo="" group-title="DEPORTES INTERNACIONALES",BEIN SPORTS 11
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/40047
+#EXTINF:-1 tvg-id="PPV|| Soccer (Colombia Primera) CA Junior de Barranquilla vs. Deportivo Pereira 6:30 PM EST ( NTEL)" tvg-name="PPV|| Soccer (Colombia Primera) CA Junior de Barranquilla vs. Deportivo Pereira 6:30 PM EST ( NTEL)"  group-title="EVENTOS PPV",PPV|| Soccer (Colombia Primera) CA Junior de Barranquilla vs. Deportivo Pereira 6:30 PM EST ( NTEL)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43801
+#EXTINF:-1 tvg-id="PPV|| Soccer (Colombia Primera) Once Caldas vs. AmÃ©rica de Cali 9:00 PM EST ( NTEL)" tvg-name="PPV|| Soccer (Colombia Primera) Once Caldas vs. AmÃ©rica de Cali 9:00 PM EST ( NTEL)"  group-title="EVENTOS PPV",PPV|| Soccer (Colombia Primera) Once Caldas vs. AmÃ©rica de Cali 9:00 PM EST ( NTEL)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43812
 #EXTINF:-1 tvg-id="Colombiana (2011)" tvg-name="Colombiana (2011)"  group-title="VFLIX ACCION",Colombiana (2011)
 http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/22733.mp4
 #EXTINF:-1 tvg-id="Alberto Barros - Tributo A La Salsa Colombiana 2" tvg-name="Alberto Barros - Tributo A La Salsa Colombiana 2"  group-title="VFLIX CONCIERTOS",Alberto Barros - Tributo A La Salsa Colombiana 2
 http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/3638.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nunca,233  casi nunca
+#EXTINF:-1 tvg-id="" tvg-name="Nunca,263  casi nunca
 http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/40164.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Padre,403  Soldado
+#EXTINF:-1 tvg-id="" tvg-name="Padre,433  Soldado
 http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/30099.mkv
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="BR WOOHOO HD" group-title="BRASIL",BR WOOHOO HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/5579
@@ -1093,7 +1089,7 @@ http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/5495
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/5494
 #EXTINF:-1 tvg-id="BR FOX SPORTS 2 HD" tvg-name="BR FOX SPORTS 2 HD" group-title="BRASIL",BR FOX SPORTS 2 HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/5491
-#EXTINF:-1 tvg-id="BR FOX LIFE HD" tvg-name="BR FOX LIFE HD" group-title="BRASIL",BR FOX LIFE HD
+#EXTINF:-1 tvg-id="BR FOX LIFE HD" tvg-name="BR STAR LIFE HD" group-title="BRASIL",BR STAR LIFE HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/5488
 #EXTINF:-1 tvg-id="BR FOX HD" tvg-name="BR STAR CHANNEL HD" group-title="BRASIL",BR STAR CHANNEL HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/5487
@@ -1407,7 +1403,7 @@ http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/798
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/795
 #EXTINF:-1 tvg-id="FOX FHD" tvg-name="STAR CHANNEL FHD" tvg-logo="https://hypeauditor.com/uploads/h/4/e/5/5755a06c721f16d05d672876c34d08b3.jpg?p=qMr4CAJJ9ehzOc19teDKllI1Qnn6HTdnUH77H8kIggVt5HfmNEjCkMBvBBSvmBpb0K9toF7Cmf8PlWJ 2FvOvyU3DtVlXE32je20r6sLg1L1V 2F3x9W2qHp0XdO3oIClXmPCW0KKxc8No4jG2AWnq1kjQ 3D 3D" group-title="CINE FHD",STAR CHANNEL FHD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/792
-#EXTINF:-1 tvg-id="FOX LIFE FHD" tvg-name="FOX LIFE FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png?itok=BYCf-fZz" group-title="CINE FHD",FOX LIFE FHD
+#EXTINF:-1 tvg-id="FOX LIFE FHD" tvg-name="STAR LIFE FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png?itok=BYCf-fZz" group-title="CINE FHD",STAR LIFE FHD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/793
 #EXTINF:-1 tvg-id="FOX PREMIUM ACTION FHD" tvg-name="STAR ACTION FHD" tvg-logo="https://foxmas.foxplay.com/img/logo_foxaction.png" group-title="CINE FHD",STAR ACTION FHD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/784
@@ -1565,9 +1561,9 @@ http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/913
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/938
 #EXTINF:-1 tvg-id="FOX HQ" tvg-name="STAR CHANNEL HQ" tvg-logo="https://hypeauditor.com/uploads/h/4/e/5/5755a06c721f16d05d672876c34d08b3.jpg?p=qMr4CAJJ9ehzOc19teDKllI1Qnn6HTdnUH77H8kIggVt5HfmNEjCkMBvBBSvmBpb0K9toF7Cmf8PlWJ 2FvOvyU3DtVlXE32je20r6sLg1L1V 2F3x9W2qHp0XdO3oIClXmPCW0KKxc8No4jG2AWnq1kjQ 3D 3D" group-title="CINE HD",STAR CHANNEL HQ
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/874
-#EXTINF:-1 tvg-id="FOX LIFE HD" tvg-name="FOX LIFE HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png?itok=BYCf-fZz" group-title="CINE HD",FOX LIFE HD
+#EXTINF:-1 tvg-id="FOX LIFE HD" tvg-name="STAR LIFE HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png?itok=BYCf-fZz" group-title="CINE HD",STAR LIFE HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/956
-#EXTINF:-1 tvg-id="FOX LIFE HQ" tvg-name="FOX LIFE HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png?itok=BYCf-fZz" group-title="CINE HD",FOX LIFE HQ
+#EXTINF:-1 tvg-id="FOX LIFE HQ" tvg-name="STAR LIFE HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png?itok=BYCf-fZz" group-title="CINE HD",STAR LIFE HQ
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/871
 #EXTINF:-1 tvg-id="FOX PREMIUM ACTION HD" tvg-name="STAR ACTION HD" tvg-logo="https://foxmas.foxplay.com/img/logo_foxaction.png" group-title="CINE HD",STAR ACTION HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/910
@@ -1659,7 +1655,7 @@ http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/894
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/2389
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO SUBTITULADO HQ" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo.png" group-title="CINE HD",HBO SUBTITULADO HQ
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/2390
-#EXTINF:-1 tvg-id="I-SAT HD" tvg-name="ISAT HD" tvg-logo="https://endorfinacultural.com/wp-content/uploads/2015/06/ISAT-LOGO.png" group-title="CINE HD",ISAT HD
+#EXTINF:-1 tvg-id="SP BEIN SPORTS 1" tvg-name="ISAT HD" tvg-logo="https://endorfinacultural.com/wp-content/uploads/2015/06/ISAT-LOGO.png" group-title="CINE HD",ISAT HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/926
 #EXTINF:-1 tvg-id="I-SAT HQ" tvg-name="ISAT HQ" tvg-logo="https://endorfinacultural.com/wp-content/uploads/2015/06/ISAT-LOGO.png" group-title="CINE HD",ISAT HQ
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/863
@@ -1835,7 +1831,7 @@ http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/28433
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/83
 #EXTINF:-1 tvg-id="ES AMC HD" tvg-name="ES AMC HD" group-title="ESPANA",ES AMC HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/53
-#EXTINF:-1 tvg-id="MX ANTENA 3" tvg-name="ES ANTENA 3 HD" group-title="ESPANA",ES ANTENA 3 HD
+#EXTINF:-1 tvg-id="SP BEIN SPORTS 1" tvg-name="ES ANTENA 3 HD" group-title="ESPANA",ES ANTENA 3 HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/80
 #EXTINF:-1 tvg-id="ES ARAGON TV" tvg-name="ES ARAGON TV" group-title="ESPANA",ES ARAGON TV
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/51
@@ -1857,8 +1853,6 @@ http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/55
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/46
 #EXTINF:-1 tvg-id="ES CANAL COCINA" tvg-name="ES CANAL COCINA" group-title="ESPANA",ES CANAL COCINA
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42
-#EXTINF:-1 tvg-id="ES CANAL DECASA" tvg-name="ES CANAL DECASA" group-title="ESPANA",ES CANAL DECASA
-http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/39
 #EXTINF:-1 tvg-id="GOLF CHANNEL FHD" tvg-name="ES CANAL GOLF FHD" group-title="ESPANA",ES CANAL GOLF FHD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/101
 #EXTINF:-1 tvg-id="ES CANAL ODISEA" tvg-name="ES CANAL ODISEA" group-title="ESPANA",ES CANAL ODISEA
@@ -1895,7 +1889,7 @@ http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/110
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/33
 #EXTINF:-1 tvg-id="ES Fox Channel HD" tvg-name="ES Fox Channel HD" group-title="ESPANA",ES Fox Channel HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/32
-#EXTINF:-1 tvg-id="ES FOX LIFE HD" tvg-name="ES FOX LIFE HD" group-title="ESPANA",ES FOX LIFE HD
+#EXTINF:-1 tvg-id="ES FOX LIFE HD" tvg-name="ES STAR LIFE HD" group-title="ESPANA",ES STAR LIFE HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/31
 #EXTINF:-1 tvg-id="ES FOX NEWS" tvg-name="ES FOX NEWS" group-title="ESPANA",ES FOX NEWS
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/113
@@ -1977,6 +1971,416 @@ http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/57
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/24261
 #EXTINF:-1 tvg-id="UFC FHD MX" tvg-name="PPV UFC" group-title="EVENTOS PPV",PPV UFC
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/23239
+#EXTINF:-1 tvg-id="PPV|| Basketball (NCAA Men) UNC Greensboro at Florida State 12:45 PM EST ( TRU)" tvg-name="PPV|| Basketball (NCAA Men) UNC Greensboro at Florida State 12:45 PM EST ( TRU)"  group-title="EVENTOS PPV",PPV|| Basketball (NCAA Men) UNC Greensboro at Florida State 12:45 PM EST ( TRU)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43771
+#EXTINF:-1 tvg-id="PPV|| Golf (Pro) PGA Honda Classic, Third Round 1:00 PM EST ( Golf)" tvg-name="PPV|| Golf (Pro) PGA Honda Classic, Third Round 1:00 PM EST ( Golf)"  group-title="EVENTOS PPV",PPV|| Golf (Pro) PGA Honda Classic, Third Round 1:00 PM EST ( Golf)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43772
+#EXTINF:-1 tvg-id="PPV|| Softball (NCAA) New Mexico State at Texas 1:00 PM EST ( LHN)" tvg-name="PPV|| Softball (NCAA) New Mexico State at Texas 1:00 PM EST ( LHN)"  group-title="EVENTOS PPV",PPV|| Softball (NCAA) New Mexico State at Texas 1:00 PM EST ( LHN)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43773
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Boston Red Sox at Atlanta Braves 1:05 PM EST ( MLBN)" tvg-name="PPV|| Baseball (MLB) Boston Red Sox at Atlanta Braves 1:05 PM EST ( MLBN)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Boston Red Sox at Atlanta Braves 1:05 PM EST ( MLBN)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43774
+#EXTINF:-1 tvg-id="PPV|| Basketball (NCAA Men) Eastern Washington at Kansas 1:15 PM EST ( TBS)" tvg-name="PPV|| Basketball (NCAA Men) Eastern Washington at Kansas 1:15 PM EST ( TBS)"  group-title="EVENTOS PPV",PPV|| Basketball (NCAA Men) Eastern Washington at Kansas 1:15 PM EST ( TBS)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43775
+#EXTINF:-1 tvg-id="PPV|| Auto Racing NASCAR RaceDay NCWTS Atlanta 1:30 PM EST ( FS1)" tvg-name="PPV|| Auto Racing NASCAR RaceDay NCWTS Atlanta 1:30 PM EST ( FS1)"  group-title="EVENTOS PPV",PPV|| Auto Racing NASCAR RaceDay NCWTS Atlanta 1:30 PM EST ( FS1)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43776
+#EXTINF:-1 tvg-id="PPV|| Basketball (NCAA Men) St. Bonaventure at Louisiana State 1:45 PM EST ( TNT)" tvg-name="PPV|| Basketball (NCAA Men) St. Bonaventure at Louisiana State 1:45 PM EST ( TNT)"  group-title="EVENTOS PPV",PPV|| Basketball (NCAA Men) St. Bonaventure at Louisiana State 1:45 PM EST ( TNT)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43777
+#EXTINF:-1 tvg-id="PPV|| Soccer (Liga MX Femenil) Pumas UNAM vs. LeÃ³n 1:55 PM EST ( TUDN)" tvg-name="PPV|| Soccer (Liga MX Femenil) Pumas UNAM vs. LeÃ³n 1:55 PM EST ( TUDN)"  group-title="EVENTOS PPV",PPV|| Soccer (Liga MX Femenil) Pumas UNAM vs. LeÃ³n 1:55 PM EST ( TUDN)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43778
+#EXTINF:-1 tvg-id="PPV|| Softball (NCAA) Howard at Norfolk State 2:00 PM EST ( ESPNU)" tvg-name="PPV|| Softball (NCAA) Howard at Norfolk State 2:00 PM EST ( ESPNU)"  group-title="EVENTOS PPV",PPV|| Softball (NCAA) Howard at Norfolk State 2:00 PM EST ( ESPNU)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43779
+#EXTINF:-1 tvg-id="PPV|| Soccer (Portugal) Portimonense at FC Porto 2:00 PM EST ( GOL)" tvg-name="PPV|| Soccer (Portugal) Portimonense at FC Porto 2:00 PM EST ( GOL)"  group-title="EVENTOS PPV",PPV|| Soccer (Portugal) Portimonense at FC Porto 2:00 PM EST ( GOL)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43780
+#EXTINF:-1 tvg-id="PPV|| Football (NCAA) Jackson State at Alabama State 3:00 PM EST ( ESPN2)" tvg-name="PPV|| Football (NCAA) Jackson State at Alabama State 3:00 PM EST ( ESPN2)"  group-title="EVENTOS PPV",PPV|| Football (NCAA) Jackson State at Alabama State 3:00 PM EST ( ESPN2)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43782
+#EXTINF:-1 tvg-id="PPV|| Hockey (NHL) Minnesota Wild at Colorado Avalanche 3:00 PM EST ( NHL)" tvg-name="PPV|| Hockey (NHL) Minnesota Wild at Colorado Avalanche 3:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV|| Hockey (NHL) Minnesota Wild at Colorado Avalanche 3:00 PM EST ( NHL)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43783
+#EXTINF:-1 tvg-id="PPV|| Volleyball (NCAA Women) San Diego at Brigham Young 3:00 PM EST ( BYU)" tvg-name="PPV|| Volleyball (NCAA Women) San Diego at Brigham Young 3:00 PM EST ( BYU)"  group-title="EVENTOS PPV",PPV|| Volleyball (NCAA Women) San Diego at Brigham Young 3:00 PM EST ( BYU)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43784
+#EXTINF:-1 tvg-id="PPV|| Boxing Artur Beterbiev vs. Adam Deines 3:00 PM EST ( ESPD)" tvg-name="PPV|| Boxing Artur Beterbiev vs. Adam Deines 3:00 PM EST ( ESPD)"  group-title="EVENTOS PPV",PPV|| Boxing Artur Beterbiev vs. Adam Deines 3:00 PM EST ( ESPD)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43785
+#EXTINF:-1 tvg-id="PPV|| Basketball (NCAA Men) UC Santa Barbara at Creighton 3:30 PM EST ( TRU)" tvg-name="PPV|| Basketball (NCAA Men) UC Santa Barbara at Creighton 3:30 PM EST ( TRU)"  group-title="EVENTOS PPV",PPV|| Basketball (NCAA Men) UC Santa Barbara at Creighton 3:30 PM EST ( TRU)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43786
+#EXTINF:-1 tvg-id="PPV|| Softball (NCAA) New Mexico State at Texas 3:30 PM EST ( LHN)" tvg-name="PPV|| Softball (NCAA) New Mexico State at Texas 3:30 PM EST ( LHN)"  group-title="EVENTOS PPV",PPV|| Softball (NCAA) New Mexico State at Texas 3:30 PM EST ( LHN)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43787
+#EXTINF:-1 tvg-id="PPV|| Softball (NCAA) Texas Southern at Alabama State 4:00 PM EST ( ESPNU)" tvg-name="PPV|| Softball (NCAA) Texas Southern at Alabama State 4:00 PM EST ( ESPNU)"  group-title="EVENTOS PPV",PPV|| Softball (NCAA) Texas Southern at Alabama State 4:00 PM EST ( ESPNU)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43788
+#EXTINF:-1 tvg-id="PPV|| Basketball (NCAA Men) Iona at Alabama 4:00 PM EST ( TBS)" tvg-name="PPV|| Basketball (NCAA Men) Iona at Alabama 4:00 PM EST ( TBS)"  group-title="EVENTOS PPV",PPV|| Basketball (NCAA Men) Iona at Alabama 4:00 PM EST ( TBS)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43789
+#EXTINF:-1 tvg-id="PPV|| Soccer (Argentina Primera) Ferro vs. Deportivo MorÃ³n 4:00 PM EST ( TYC)" tvg-name="PPV|| Soccer (Argentina Primera) Ferro vs. Deportivo MorÃ³n 4:00 PM EST ( TYC)"  group-title="EVENTOS PPV",PPV|| Soccer (Argentina Primera) Ferro vs. Deportivo MorÃ³n 4:00 PM EST ( TYC)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43790
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) LA Dodgers at San Diego Padres 4:10 PM EST ( MLBN)" tvg-name="PPV|| Baseball (MLB) LA Dodgers at San Diego Padres 4:10 PM EST ( MLBN)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) LA Dodgers at San Diego Padres 4:10 PM EST ( MLBN)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43791
+#EXTINF:-1 tvg-id="PPV|| Auto Racing NASCAR RaceDay XFINITY Atlanta 4:30 PM EST ( FS1)" tvg-name="PPV|| Auto Racing NASCAR RaceDay XFINITY Atlanta 4:30 PM EST ( FS1)"  group-title="EVENTOS PPV",PPV|| Auto Racing NASCAR RaceDay XFINITY Atlanta 4:30 PM EST ( FS1)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43792
+#EXTINF:-1 tvg-id="PPV|| Soccer (Portugal) Sporting CP vs. VitÃ³ria SC 4:30 PM EST ( GOL)" tvg-name="PPV|| Soccer (Portugal) Sporting CP vs. VitÃ³ria SC 4:30 PM EST ( GOL)"  group-title="EVENTOS PPV",PPV|| Soccer (Portugal) Sporting CP vs. VitÃ³ria SC 4:30 PM EST ( GOL)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43793
+#EXTINF:-1 tvg-id="PPV|| Basketball (NCAA Men) Mississippi State at St. Louis 5:00 PM EST ( ESPN)" tvg-name="PPV|| Basketball (NCAA Men) Mississippi State at St. Louis 5:00 PM EST ( ESPN)"  group-title="EVENTOS PPV",PPV|| Basketball (NCAA Men) Mississippi State at St. Louis 5:00 PM EST ( ESPN)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43794
+#EXTINF:-1 tvg-id="PPV|| Tennis (Pro) Center Court Monterrey-WTA Semifinals 5:00 PM EST ( TNNS)" tvg-name="PPV|| Tennis (Pro) Center Court Monterrey-WTA Semifinals 5:00 PM EST ( TNNS)"  group-title="EVENTOS PPV",PPV|| Tennis (Pro) Center Court Monterrey-WTA Semifinals 5:00 PM EST ( TNNS)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43795
+#EXTINF:-1 tvg-id="PPV|| Softball (NCAA) Missouri at Georgia 5:30 PM EST ( SEC)" tvg-name="PPV|| Softball (NCAA) Missouri at Georgia 5:30 PM EST ( SEC)"  group-title="EVENTOS PPV",PPV|| Softball (NCAA) Missouri at Georgia 5:30 PM EST ( SEC)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43797
+#EXTINF:-1 tvg-id="PPV|| Horse Racing Louisiana Derby 6:00 PM EST ( NBCS)" tvg-name="PPV|| Horse Racing Louisiana Derby 6:00 PM EST ( NBCS)"  group-title="EVENTOS PPV",PPV|| Horse Racing Louisiana Derby 6:00 PM EST ( NBCS)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43798
+#EXTINF:-1 tvg-id="PPV|| Basketball (NCAA Men) Grand Canyon University at Iowa 6:25 PM EST ( TBS)" tvg-name="PPV|| Basketball (NCAA Men) Grand Canyon University at Iowa 6:25 PM EST ( TBS)"  group-title="EVENTOS PPV",PPV|| Basketball (NCAA Men) Grand Canyon University at Iowa 6:25 PM EST ( TBS)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43799
+#EXTINF:-1 tvg-id="PPV|| Soccer (Liga MX) AtlÃ©tico San Luis vs. Pumas UNAM 6:30 PM EST ( UNIe)" tvg-name="PPV|| Soccer (Liga MX) AtlÃ©tico San Luis vs. Pumas UNAM 6:30 PM EST ( UNIe)"  group-title="EVENTOS PPV",PPV|| Soccer (Liga MX) AtlÃ©tico San Luis vs. Pumas UNAM 6:30 PM EST ( UNIe)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43800
+#EXTINF:-1 tvg-id="PPV|| Wrestling College Wrestling NCAA Division I Championship 7:00 PM EST ( ESPN)" tvg-name="PPV|| Wrestling College Wrestling NCAA Division I Championship 7:00 PM EST ( ESPN)"  group-title="EVENTOS PPV",PPV|| Wrestling College Wrestling NCAA Division I Championship 7:00 PM EST ( ESPN)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43802
+#EXTINF:-1 tvg-id="PPV|| Martial Arts UFC Fight Night Brunson vs. Holland - Prelims 7:00 PM EST ( ESPN2)" tvg-name="PPV|| Martial Arts UFC Fight Night Brunson vs. Holland - Prelims 7:00 PM EST ( ESPN2)"  group-title="EVENTOS PPV",PPV|| Martial Arts UFC Fight Night Brunson vs. Holland - Prelims 7:00 PM EST ( ESPN2)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43803
+#EXTINF:-1 tvg-id="PPV|| Hockey (NHL) Philadelphia Flyers at New York Islanders 7:00 PM EST ( NHL)" tvg-name="PPV|| Hockey (NHL) Philadelphia Flyers at New York Islanders 7:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV|| Hockey (NHL) Philadelphia Flyers at New York Islanders 7:00 PM EST ( NHL)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43804
+#EXTINF:-1 tvg-id="PPV|| Auto Racing IMSA Weathertech Sportscar Championship Mobil 1 Twelve Hours of Sebring Presented by Advance Auto Parts 7:00 PM EST ( NBCS)" tvg-name="PPV|| Auto Racing IMSA Weathertech Sportscar Championship Mobil 1 Twelve Hours of Sebring Presented by Advance Auto Parts 7:00 PM EST ( NBCS)"  group-title="EVENTOS PPV",PPV|| Auto Racing IMSA Weathertech Sportscar Championship Mobil 1 Twelve Hours of Sebring Presented by Advance Auto Parts 7:00 PM EST ( NBCS)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43806
+#EXTINF:-1 tvg-id="PPV|| Basketball (NCAA Men) Ohio at Virginia 7:15 PM EST ( TRU)" tvg-name="PPV|| Basketball (NCAA Men) Ohio at Virginia 7:15 PM EST ( TRU)"  group-title="EVENTOS PPV",PPV|| Basketball (NCAA Men) Ohio at Virginia 7:15 PM EST ( TRU)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43807
+#EXTINF:-1 tvg-id="PPV|| Basketball (NCAA Men) Missouri at Oklahoma 7:25 PM EST ( TNT)" tvg-name="PPV|| Basketball (NCAA Men) Missouri at Oklahoma 7:25 PM EST ( TNT)"  group-title="EVENTOS PPV",PPV|| Basketball (NCAA Men) Missouri at Oklahoma 7:25 PM EST ( TNT)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43808
+#EXTINF:-1 tvg-id="PPV|| Soccer (Ecuador Serie A) Liga de Quito at Barcelona de Guayaquil 7:30 PM EST ( GOL)" tvg-name="PPV|| Soccer (Ecuador Serie A) Liga de Quito at Barcelona de Guayaquil 7:30 PM EST ( GOL)"  group-title="EVENTOS PPV",PPV|| Soccer (Ecuador Serie A) Liga de Quito at Barcelona de Guayaquil 7:30 PM EST ( GOL)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43809
+#EXTINF:-1 tvg-id="PPV|| Basketball (NBA) Golden State Warriors at Memphis Grizzlies 8:00 PM EST ( NBA)" tvg-name="PPV|| Basketball (NBA) Golden State Warriors at Memphis Grizzlies 8:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",PPV|| Basketball (NBA) Golden State Warriors at Memphis Grizzlies 8:00 PM EST ( NBA)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43810
+#EXTINF:-1 tvg-id="PPV|| Soccer (Liga MX) Atlas at Cruz Azul 9:00 PM EST ( UNIe)" tvg-name="PPV|| Soccer (Liga MX) Atlas at Cruz Azul 9:00 PM EST ( UNIe)"  group-title="EVENTOS PPV",PPV|| Soccer (Liga MX) Atlas at Cruz Azul 9:00 PM EST ( UNIe)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43811
+#EXTINF:-1 tvg-id="PPV|| Soccer (Liga MX) Guadalajara at Monterrey 9:00 PM EST ( FS2)" tvg-name="PPV|| Soccer (Liga MX) Guadalajara at Monterrey 9:00 PM EST ( FS2)"  group-title="EVENTOS PPV",PPV|| Soccer (Liga MX) Guadalajara at Monterrey 9:00 PM EST ( FS2)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43813
+#EXTINF:-1 tvg-id="PPV|| Basketball (NCAA Men) Abilene Christian University at Texas 9:50 PM EST ( TRU)" tvg-name="PPV|| Basketball (NCAA Men) Abilene Christian University at Texas 9:50 PM EST ( TRU)"  group-title="EVENTOS PPV",PPV|| Basketball (NCAA Men) Abilene Christian University at Texas 9:50 PM EST ( TRU)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43814
+#EXTINF:-1 tvg-id="PPV|| Basketball (NCAA Men) Virginia Commonwealth at Oregon 9:57 PM EST ( TNT)" tvg-name="PPV|| Basketball (NCAA Men) Virginia Commonwealth at Oregon 9:57 PM EST ( TNT)"  group-title="EVENTOS PPV",PPV|| Basketball (NCAA Men) Virginia Commonwealth at Oregon 9:57 PM EST ( TNT)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43815
+#EXTINF:-1 tvg-id="PPV|| Hockey (NHL) Winnipeg Jets at Edmonton Oilers 10:00 PM EST ( NHL CI)" tvg-name="PPV|| Hockey (NHL) Winnipeg Jets at Edmonton Oilers 10:00 PM EST ( NHL CI)"  group-title="EVENTOS PPV",PPV|| Hockey (NHL) Winnipeg Jets at Edmonton Oilers 10:00 PM EST ( NHL CI)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43816
+#EXTINF:-1 tvg-id="PPV|| Martial Arts UFC Fight Night Brunson vs. Holland 10:00 PM EST ( ESPN)" tvg-name="PPV|| Martial Arts UFC Fight Night Brunson vs. Holland 10:00 PM EST ( ESPN)"  group-title="EVENTOS PPV",PPV|| Martial Arts UFC Fight Night Brunson vs. Holland 10:00 PM EST ( ESPN)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43817
+#EXTINF:-1 tvg-id="PPV|| Football (Australian) North Melbourne Kangaroos at Port Adelaide Power 10:00 PM EST ( FSP)" tvg-name="PPV|| Football (Australian) North Melbourne Kangaroos at Port Adelaide Power 10:00 PM EST ( FSP)"  group-title="EVENTOS PPV",PPV|| Football (Australian) North Melbourne Kangaroos at Port Adelaide Power 10:00 PM EST ( FSP)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43818
+#EXTINF:-1 tvg-id="PPV|| Boxing HÃ©ctor Sosa vs. Mansilla; Estella vs. Botelli 10:30 PM EST ( TYC)" tvg-name="PPV|| Boxing HÃ©ctor Sosa vs. Mansilla; Estella vs. Botelli 10:30 PM EST ( TYC)"  group-title="EVENTOS PPV",PPV|| Boxing HÃ©ctor Sosa vs. Mansilla; Estella vs. Botelli 10:30 PM EST ( TYC)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43819
+#EXTINF:-1 tvg-id="PPV|| Tennis (Pro) Center Court Acapulco-ATP Singles Final 11:00 PM EST ( TNNS)" tvg-name="PPV|| Tennis (Pro) Center Court Acapulco-ATP Singles Final 11:00 PM EST ( TNNS)"  group-title="EVENTOS PPV",PPV|| Tennis (Pro) Center Court Acapulco-ATP Singles Final 11:00 PM EST ( TNNS)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43820
+#EXTINF:-1 tvg-id="PPV|| Martial Arts UFC Fight Night Brunson vs. Holland 11:00 PM EST ( ESPD)" tvg-name="PPV|| Martial Arts UFC Fight Night Brunson vs. Holland 11:00 PM EST ( ESPD)"  group-title="EVENTOS PPV",PPV|| Martial Arts UFC Fight Night Brunson vs. Holland 11:00 PM EST ( ESPD)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43821
+#EXTINF:-1 tvg-id="PPV|| Soccer (Liga MX) Gallos Blancos de QuerÃ©taro at Tijuana 11:06 PM EST ( FS1)" tvg-name="PPV|| Soccer (Liga MX) Gallos Blancos de QuerÃ©taro at Tijuana 11:06 PM EST ( FS1)"  group-title="EVENTOS PPV",PPV|| Soccer (Liga MX) Gallos Blancos de QuerÃ©taro at Tijuana 11:06 PM EST ( FS1)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43822
+#EXTINF:-1 tvg-id="PPV|| Racing (Auto) IMSA 12 Hours of Sebring 10:00am EST (NBCS)" tvg-name="PPV|| Racing (Auto) IMSA 12 Hours of Sebring 10:00am EST (NBCS)"  group-title="EVENTOS PPV",PPV|| Racing (Auto) IMSA 12 Hours of Sebring 10:00am EST (NBCS)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43823
+#EXTINF:-1 tvg-id="PPV|| Soccer (Bundesliga) Bayern Munchen vs. Stuttgart 10:30 am EST (Bundesliga)" tvg-name="PPV|| Soccer (Bundesliga) Bayern Munchen vs. Stuttgart 10:30 am EST (Bundesliga)"  group-title="EVENTOS PPV",PPV|| Soccer (Bundesliga) Bayern Munchen vs. Stuttgart 10:30 am EST (Bundesliga)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43824
+#EXTINF:-1 tvg-id="PPV|| Soccer (Bundesliga) Koln vs. Borussia Dortmund 10:30 am EST (Bundesliga)" tvg-name="PPV|| Soccer (Bundesliga) Koln vs. Borussia Dortmund 10:30 am EST (Bundesliga)"  group-title="EVENTOS PPV",PPV|| Soccer (Bundesliga) Koln vs. Borussia Dortmund 10:30 am EST (Bundesliga)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43825
+#EXTINF:-1 tvg-id="PPV|| Soccer (LaLiga) Celta De Vigo vs. Real Madrid 11:15 am EST (beIN)" tvg-name="PPV|| Soccer (LaLiga) Celta De Vigo vs. Real Madrid 11:15 am EST (beIN)"  group-title="EVENTOS PPV",PPV|| Soccer (LaLiga) Celta De Vigo vs. Real Madrid 11:15 am EST (beIN)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43826
+#EXTINF:-1 tvg-id="PPV|| Soccer (LaLiga) Celta De Vigo vs. Real Madrid 11:15 am EST (BeINn)" tvg-name="PPV|| Soccer (LaLiga) Celta De Vigo vs. Real Madrid 11:15 am EST (BeINn)"  group-title="EVENTOS PPV",PPV|| Soccer (LaLiga) Celta De Vigo vs. Real Madrid 11:15 am EST (BeINn)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43827
+#EXTINF:-1 tvg-id="PPV|| Hockey (NHL) Pittsburgh Penguins at New Jersey Devils 1:00pm EST (MSG PLUS )" tvg-name="PPV|| Hockey (NHL) Pittsburgh Penguins at New Jersey Devils 1:00pm EST (MSG PLUS )"  group-title="EVENTOS PPV",PPV|| Hockey (NHL) Pittsburgh Penguins at New Jersey Devils 1:00pm EST (MSG PLUS )
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43828
+#EXTINF:-1 tvg-id="PPV|| Soccer (SerieA) Spezia vs. Cagliari 1:00 pm EST (SerieA)" tvg-name="PPV|| Soccer (SerieA) Spezia vs. Cagliari 1:00 pm EST (SerieA)"  group-title="EVENTOS PPV",PPV|| Soccer (SerieA) Spezia vs. Cagliari 1:00 pm EST (SerieA)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43829
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Toronto Blue Jays at Philadelphia Phillies 1:05pm EST (NBCSP)" tvg-name="PPV|| Baseball (MLB) Toronto Blue Jays at Philadelphia Phillies 1:05pm EST (NBCSP)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Toronto Blue Jays at Philadelphia Phillies 1:05pm EST (NBCSP)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43830
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Boston Red Sox vs Atlanta Braves 1:05pm EST (FSSO) (MLBN)" tvg-name="PPV|| Baseball (MLB) Boston Red Sox vs Atlanta Braves 1:05pm EST (FSSO) (MLBN)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Boston Red Sox vs Atlanta Braves 1:05pm EST (FSSO) (MLBN)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43831
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Houston Astros vs St. Louis Cardinals 1:05pm EST (FSMW)" tvg-name="PPV|| Baseball (MLB) Houston Astros vs St. Louis Cardinals 1:05pm EST (FSMW)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Houston Astros vs St. Louis Cardinals 1:05pm EST (FSMW)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43832
+#EXTINF:-1 tvg-id="PPV|| Hockey (NHL) Nashville Predators at Florida Panthers 2:00pm EST (FSFL)" tvg-name="PPV|| Hockey (NHL) Nashville Predators at Florida Panthers 2:00pm EST (FSFL)"  group-title="EVENTOS PPV",PPV|| Hockey (NHL) Nashville Predators at Florida Panthers 2:00pm EST (FSFL)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43833
+#EXTINF:-1 tvg-id="PPV|| Hockey (NHL) Minnesota Wild at Colorado Avalanche 3:00pm EST (NHLN)" tvg-name="PPV|| Hockey (NHL) Minnesota Wild at Colorado Avalanche 3:00pm EST (NHLN)"  group-title="EVENTOS PPV",PPV|| Hockey (NHL) Minnesota Wild at Colorado Avalanche 3:00pm EST (NHLN)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43835
+#EXTINF:-1 tvg-id="PPV|| NBA Atlanta Hawks at Los Angeles Lakers 3:30pm EST (SNLA)" tvg-name="PPV|| NBA Atlanta Hawks at Los Angeles Lakers 3:30pm EST (SNLA)" tvg-logo="" group-title="EVENTOS PPV",PPV|| NBA Atlanta Hawks at Los Angeles Lakers 3:30pm EST (SNLA)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43836
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Baseball (MLB) Los Angeles Dodgers vs San Diego Padres 4:10pm EST (MLBN)" tvg-name="PPV|| Baseball (MLB) Baseball (MLB) Los Angeles Dodgers vs San Diego Padres 4:10pm EST (MLBN)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Baseball (MLB) Los Angeles Dodgers vs San Diego Padres 4:10pm EST (MLBN)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43837
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Oakland Athletics vs Los Angeles Angels 4:10pm EST (FSW)" tvg-name="PPV|| Baseball (MLB) Oakland Athletics vs Los Angeles Angels 4:10pm EST (FSW)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Oakland Athletics vs Los Angeles Angels 4:10pm EST (FSW)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43838
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Tampa Bay Rays vs Minnesota Twins 6:05pm EST (FSN)" tvg-name="PPV|| Baseball (MLB) Tampa Bay Rays vs Minnesota Twins 6:05pm EST (FSN)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Tampa Bay Rays vs Minnesota Twins 6:05pm EST (FSN)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43840
+#EXTINF:-1 tvg-id="PPV|| Hockey (NHL) Philadelphia Flyers at New York Islanders 7:00pm EST (NHLN)" tvg-name="PPV|| Hockey (NHL) Philadelphia Flyers at New York Islanders 7:00pm EST (NHLN)"  group-title="EVENTOS PPV",PPV|| Hockey (NHL) Philadelphia Flyers at New York Islanders 7:00pm EST (NHLN)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43841
+#EXTINF:-1 tvg-id="PPV|| Hockey (NHL) New York Rangers at Washington Capitals 7:00pm EST (NBCSWA)" tvg-name="PPV|| Hockey (NHL) New York Rangers at Washington Capitals 7:00pm EST (NBCSWA)"  group-title="EVENTOS PPV",PPV|| Hockey (NHL) New York Rangers at Washington Capitals 7:00pm EST (NBCSWA)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43842
+#EXTINF:-1 tvg-id="PPV|| Hockey (NHL) Columbus Blue Jackets at Carolina Hurricanes 7:00pm EST (FSCR)" tvg-name="PPV|| Hockey (NHL) Columbus Blue Jackets at Carolina Hurricanes 7:00pm EST (FSCR)"  group-title="EVENTOS PPV",PPV|| Hockey (NHL) Columbus Blue Jackets at Carolina Hurricanes 7:00pm EST (FSCR)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43843
+#EXTINF:-1 tvg-id="PPV|| Hockey (NHL) Dallas Stars at Detroit Red Wings 7:00pm EST (FSDT)" tvg-name="PPV|| Hockey (NHL) Dallas Stars at Detroit Red Wings 7:00pm EST (FSDT)"  group-title="EVENTOS PPV",PPV|| Hockey (NHL) Dallas Stars at Detroit Red Wings 7:00pm EST (FSDT)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43844
+#EXTINF:-1 tvg-id="PPV|| Hockey (NHL) Vancouver Canucks at Montreal Canadiens 7:00pm EST (SN1)" tvg-name="PPV|| Hockey (NHL) Vancouver Canucks at Montreal Canadiens 7:00pm EST (SN1)"  group-title="EVENTOS PPV",PPV|| Hockey (NHL) Vancouver Canucks at Montreal Canadiens 7:00pm EST (SN1)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43845
+#EXTINF:-1 tvg-id="PPV|| Hockey (NHL) Calgary Flames at Toronto Maple Leafs 7:00pm EST (SNE)" tvg-name="PPV|| Hockey (NHL) Calgary Flames at Toronto Maple Leafs 7:00pm EST (SNE)"  group-title="EVENTOS PPV",PPV|| Hockey (NHL) Calgary Flames at Toronto Maple Leafs 7:00pm EST (SNE)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43846
+#EXTINF:-1 tvg-id="PPV|| Racing (Auto) IMSA 12 Hours of Sebring 7:00pm EST (NBCS)" tvg-name="PPV|| Racing (Auto) IMSA 12 Hours of Sebring 7:00pm EST (NBCS)"  group-title="EVENTOS PPV",PPV|| Racing (Auto) IMSA 12 Hours of Sebring 7:00pm EST (NBCS)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43847
+#EXTINF:-1 tvg-id="PPV|| Hockey (NHL) Arizona Coyotes at Anaheim Ducks 8:00pm EST (PRIME)" tvg-name="PPV|| Hockey (NHL) Arizona Coyotes at Anaheim Ducks 8:00pm EST (PRIME)"  group-title="EVENTOS PPV",PPV|| Hockey (NHL) Arizona Coyotes at Anaheim Ducks 8:00pm EST (PRIME)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43848
+#EXTINF:-1 tvg-id="PPV|| NBA Golden State Warriors at Memphis Grizzlies 8:00pm EST (NBATV)" tvg-name="PPV|| NBA Golden State Warriors at Memphis Grizzlies 8:00pm EST (NBATV)" tvg-logo="" group-title="EVENTOS PPV",PPV|| NBA Golden State Warriors at Memphis Grizzlies 8:00pm EST (NBATV)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43849
+#EXTINF:-1 tvg-id="PPV|| NBA Sacramento Kings at Philadelphia 76ers 8:00pm EST (NBCSP)" tvg-name="PPV|| NBA Sacramento Kings at Philadelphia 76ers 8:00pm EST (NBCSP)" tvg-logo="" group-title="EVENTOS PPV",PPV|| NBA Sacramento Kings at Philadelphia 76ers 8:00pm EST (NBCSP)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43850
+#EXTINF:-1 tvg-id="PPV|| Hockey (NHL) St. Louis Blues at San Jose Sharks 9:00pm EST (NBCSCA)" tvg-name="PPV|| Hockey (NHL) St. Louis Blues at San Jose Sharks 9:00pm EST (NBCSCA)"  group-title="EVENTOS PPV",PPV|| Hockey (NHL) St. Louis Blues at San Jose Sharks 9:00pm EST (NBCSCA)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43851
+#EXTINF:-1 tvg-id="PPV|| NBA San Antonio Spurs at Milwaukee Bucks 9:00pm EST (FSWI)" tvg-name="PPV|| NBA San Antonio Spurs at Milwaukee Bucks 9:00pm EST (FSWI)" tvg-logo="" group-title="EVENTOS PPV",PPV|| NBA San Antonio Spurs at Milwaukee Bucks 9:00pm EST (FSWI)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43852
+#EXTINF:-1 tvg-id="PPV|| Hockey (NHL) Winnipeg Jets at Edmonton Oilers 10:00pm EST (SN1)" tvg-name="PPV|| Hockey (NHL) Winnipeg Jets at Edmonton Oilers 10:00pm EST (SN1)"  group-title="EVENTOS PPV",PPV|| Hockey (NHL) Winnipeg Jets at Edmonton Oilers 10:00pm EST (SN1)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43853
+#EXTINF:-1 tvg-id="PPV|| NBA Charlotte Hornets at LA Clippers 10:00pm EST (PRIME)" tvg-name="PPV|| NBA Charlotte Hornets at LA Clippers 10:00pm EST (PRIME)" tvg-logo="" group-title="EVENTOS PPV",PPV|| NBA Charlotte Hornets at LA Clippers 10:00pm EST (PRIME)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43854
+#EXTINF:-1 tvg-id="PPV|| MMA Battlefield Fight League 66 9:00pm (HD1)" tvg-name="PPV|| MMA Battlefield Fight League 66 9:00pm (HD1)"  group-title="EVENTOS PPV",PPV|| MMA Battlefield Fight League 66 9:00pm (HD1)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43855
+#EXTINF:-1 tvg-id="PPV|| MMA LFA 102 Souza vs. Johns 9:00pm EST (HD1)" tvg-name="PPV|| MMA LFA 102 Souza vs. Johns 9:00pm EST (HD1)"  group-title="EVENTOS PPV",PPV|| MMA LFA 102 Souza vs. Johns 9:00pm EST (HD1)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43856
+#EXTINF:-1 tvg-id="PPV|| Boxeo Sanchez vs. Gonzalez 12:00am EST (HD1)" tvg-name="PPV|| Boxeo Sanchez vs. Gonzalez 12:00am EST (HD1)"  group-title="EVENTOS PPV",PPV|| Boxeo Sanchez vs. Gonzalez 12:00am EST (HD1)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43857
+#EXTINF:-1 tvg-id="PPV|| Boxing Artur Beterbiev vs. Adam Deines Under 1:00pm EST (HD1)" tvg-name="PPV|| Boxing Artur Beterbiev vs. Adam Deines Under 1:00pm EST (HD1)"  group-title="EVENTOS PPV",PPV|| Boxing Artur Beterbiev vs. Adam Deines Under 1:00pm EST (HD1)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43858
+#EXTINF:-1 tvg-id="PPV|| Boxing Artur Beterbiev vs. Adam Deines Maincard 3:00pm EST (HD2)" tvg-name="PPV|| Boxing Artur Beterbiev vs. Adam Deines Maincard 3:00pm EST (HD2)"  group-title="EVENTOS PPV",PPV|| Boxing Artur Beterbiev vs. Adam Deines Maincard 3:00pm EST (HD2)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43859
+#EXTINF:-1 tvg-id="PPV|| SlapFight Championship The War from Warsaw 2:00pm EST (PPV1)" tvg-name="PPV|| SlapFight Championship The War from Warsaw 2:00pm EST (PPV1)"  group-title="EVENTOS PPV",PPV|| SlapFight Championship The War from Warsaw 2:00pm EST (PPV1)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43860
+#EXTINF:-1 tvg-id="PPV|| MMA Cage Warriors 122 Charriere vs. Vucenic Prelims 2:30pm EST (HD1)" tvg-name="PPV|| MMA Cage Warriors 122 Charriere vs. Vucenic Prelims 2:30pm EST (HD1)"  group-title="EVENTOS PPV",PPV|| MMA Cage Warriors 122 Charriere vs. Vucenic Prelims 2:30pm EST (HD1)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43861
+#EXTINF:-1 tvg-id="PPV|| MMA Cage Warriors 122 Charriere vs. Vucenic Main 4:00pm EST (HD2)" tvg-name="PPV|| MMA Cage Warriors 122 Charriere vs. Vucenic Main 4:00pm EST (HD2)"  group-title="EVENTOS PPV",PPV|| MMA Cage Warriors 122 Charriere vs. Vucenic Main 4:00pm EST (HD2)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43862
+#EXTINF:-1 tvg-id="PPV|| Boxing Okolie vs. Glowacki 3:00pm EST (HD1)" tvg-name="PPV|| Boxing Okolie vs. Glowacki 3:00pm EST (HD1)"  group-title="EVENTOS PPV",PPV|| Boxing Okolie vs. Glowacki 3:00pm EST (HD1)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43863
+#EXTINF:-1 tvg-id="PPV|| Boxing Ortiz Jr. vs. Hooker 9:00pm EST (HD1)" tvg-name="PPV|| Boxing Ortiz Jr. vs. Hooker 9:00pm EST (HD1)"  group-title="EVENTOS PPV",PPV|| Boxing Ortiz Jr. vs. Hooker 9:00pm EST (HD1)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43864
+#EXTINF:-1 tvg-id="PPV|| UFC Fight Night Brunson vs. Holland Prelims 7:00pm EST (HD1)" tvg-name="PPV|| UFC Fight Night Brunson vs. Holland Prelims 7:00pm EST (HD1)"  group-title="EVENTOS PPV",PPV|| UFC Fight Night Brunson vs. Holland Prelims 7:00pm EST (HD1)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43865
+#EXTINF:-1 tvg-id="PPV|| UFC Fight Night Brunson vs. Holland Prelims 7:00pm EST (HD2)" tvg-name="PPV|| UFC Fight Night Brunson vs. Holland Prelims 7:00pm EST (HD2)"  group-title="EVENTOS PPV",PPV|| UFC Fight Night Brunson vs. Holland Prelims 7:00pm EST (HD2)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43866
+#EXTINF:-1 tvg-id="PPV|| UFC Fight Night Brunson vs. Holland Main 10:00pm EST (HD3)" tvg-name="PPV|| UFC Fight Night Brunson vs. Holland Main 10:00pm EST (HD3)"  group-title="EVENTOS PPV",PPV|| UFC Fight Night Brunson vs. Holland Main 10:00pm EST (HD3)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43867
+#EXTINF:-1 tvg-id="PPV|| UFC Fight Night Brunson vs. Holland Main 10:00pm EST (HD4)" tvg-name="PPV|| UFC Fight Night Brunson vs. Holland Main 10:00pm EST (HD4)"  group-title="EVENTOS PPV",PPV|| UFC Fight Night Brunson vs. Holland Main 10:00pm EST (HD4)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43868
+#EXTINF:-1 tvg-id="PPV|| UFC Fight Night Brunson vs. Holland Main 10:00pm EST (HD5)" tvg-name="PPV|| UFC Fight Night Brunson vs. Holland Main 10:00pm EST (HD5)"  group-title="EVENTOS PPV",PPV|| UFC Fight Night Brunson vs. Holland Main 10:00pm EST (HD5)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43869
+#EXTINF:-1 tvg-id="PPV|| UFC Fight Night Brunson vs. Holland Main 10:00pm EST (HD6)" tvg-name="PPV|| UFC Fight Night Brunson vs. Holland Main 10:00pm EST (HD6)"  group-title="EVENTOS PPV",PPV|| UFC Fight Night Brunson vs. Holland Main 10:00pm EST (HD6)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43870
+#EXTINF:-1 tvg-id="PPV|| UFC Fight Night (SD)Brunson vs. Holland Main 10:00pm EST (HD7)" tvg-name="PPV|| UFC Fight Night (SD)Brunson vs. Holland Main 10:00pm EST (HD7)"  group-title="EVENTOS PPV",PPV|| UFC Fight Night (SD)Brunson vs. Holland Main 10:00pm EST (HD7)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43871
+#EXTINF:-1 tvg-id="PPV|| UFC Fight Night:(ESP) Brunson vs. Holland Main 10:00pm EST (HD8)" tvg-name="PPV|| UFC Fight Night:(ESP) Brunson vs. Holland Main 10:00pm EST (HD8)"  group-title="EVENTOS PPV",PPV|| UFC Fight Night:(ESP) Brunson vs. Holland Main 10:00pm EST (HD8)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43872
+#EXTINF:-1 tvg-id="FR 6TER FHD" tvg-name="FR 6TER FHD"  group-title="FRANCIA",FR 6TER FHD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43475
+#EXTINF:-1 tvg-id="FR A LA CARTE 1" tvg-name="FR A LA CARTE 1"  group-title="FRANCIA",FR A LA CARTE 1
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43476
+#EXTINF:-1 tvg-id="FR A la carte 10 HD" tvg-name="FR A la carte 10 HD"  group-title="FRANCIA",FR A la carte 10 HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43477
+#EXTINF:-1 tvg-id="FR A LA CARTE 2" tvg-name="FR A LA CARTE 2"  group-title="FRANCIA",FR A LA CARTE 2
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43478
+#EXTINF:-1 tvg-id="FR A LA CARTE 3" tvg-name="FR A LA CARTE 3"  group-title="FRANCIA",FR A LA CARTE 3
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43479
+#EXTINF:-1 tvg-id="FR A LA CARTE 4" tvg-name="FR A LA CARTE 4"  group-title="FRANCIA",FR A LA CARTE 4
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43480
+#EXTINF:-1 tvg-id="FR A LA CARTE 5" tvg-name="FR A LA CARTE 5"  group-title="FRANCIA",FR A LA CARTE 5
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43481
+#EXTINF:-1 tvg-id="FR A la carte 6 HD" tvg-name="FR A la carte 6 HD"  group-title="FRANCIA",FR A la carte 6 HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43482
+#EXTINF:-1 tvg-id="FR A la Carte 7 HD" tvg-name="FR A la Carte 7 HD"  group-title="FRANCIA",FR A la Carte 7 HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43483
+#EXTINF:-1 tvg-id="FR A la Carte 8 HD" tvg-name="FR A la Carte 8 HD"  group-title="FRANCIA",FR A la Carte 8 HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43484
+#EXTINF:-1 tvg-id="FR A la Carte 9 HD" tvg-name="FR A la Carte 9 HD"  group-title="FRANCIA",FR A la Carte 9 HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43485
+#EXTINF:-1 tvg-id="FR AB1 FHD" tvg-name="FR AB1 FHD"  group-title="FRANCIA",FR AB1 FHD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43487
+#EXTINF:-1 tvg-id="FR AB3 HD" tvg-name="FR AB3 HD"  group-title="FRANCIA",FR AB3 HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43488
+#EXTINF:-1 tvg-id="FR ACTION HD" tvg-name="FR ACTION HD"  group-title="FRANCIA",FR ACTION HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43489
+#EXTINF:-1 tvg-id="FR ARTE HD" tvg-name="FR ARTE HD"  group-title="FRANCIA",FR ARTE HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43491
+#EXTINF:-1 tvg-id="FR BeBlack Africa" tvg-name="FR BeBlack Africa"  group-title="FRANCIA",FR BeBlack Africa
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43492
+#EXTINF:-1 tvg-id="FR BeBlack Classik" tvg-name="FR BeBlack Classik"  group-title="FRANCIA",FR BeBlack Classik
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43494
+#EXTINF:-1 tvg-id="FR BET HD" tvg-name="FR BET HD"  group-title="FRANCIA",FR BET HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43522
+#EXTINF:-1 tvg-id="FR Boomerang FHD" tvg-name="FR Boomerang FHD"  group-title="FRANCIA",FR Boomerang FHD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43527
+#EXTINF:-1 tvg-id="FR BOX OFFICE 1" tvg-name="FR BOX OFFICE 1"  group-title="FRANCIA",FR BOX OFFICE 1
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43539
+#EXTINF:-1 tvg-id="FR BOX OFFICE 3" tvg-name="FR BOX OFFICE 3"  group-title="FRANCIA",FR BOX OFFICE 3
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43541
+#EXTINF:-1 tvg-id="FR BOX OFFICE 4" tvg-name="FR BOX OFFICE 4"  group-title="FRANCIA",FR BOX OFFICE 4
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43542
+#EXTINF:-1 tvg-id="FR BOX OFFICE 7" tvg-name="FR BOX OFFICE 7"  group-title="FRANCIA",FR BOX OFFICE 7
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43544
+#EXTINF:-1 tvg-id="FR BOX OFFICE 8" tvg-name="FR BOX OFFICE 8"  group-title="FRANCIA",FR BOX OFFICE 8
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43545
+#EXTINF:-1 tvg-id="FR BRAVA FHD" tvg-name="FR BRAVA FHD"  group-title="FRANCIA",FR BRAVA FHD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43546
+#EXTINF:-1 tvg-id="FR C NEWS FHD" tvg-name="FR C NEWS FHD"  group-title="FRANCIA",FR C NEWS FHD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43548
+#EXTINF:-1 tvg-id="FR CANAL J HD" tvg-name="FR CANAL J HD"  group-title="FRANCIA",FR CANAL J HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43552
+#EXTINF:-1 tvg-id="FR CANAL PLAY 10" tvg-name="FR CANAL PLAY 10"  group-title="FRANCIA",FR CANAL PLAY 10
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43554
+#EXTINF:-1 tvg-id="FR CANAL PLAY 3" tvg-name="FR CANAL PLAY 3"  group-title="FRANCIA",FR CANAL PLAY 3
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43556
+#EXTINF:-1 tvg-id="FR Canal Play 5" tvg-name="FR Canal Play 5"  group-title="FRANCIA",FR Canal Play 5
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43558
+#EXTINF:-1 tvg-id="FR Canal Play 6" tvg-name="FR Canal Play 6"  group-title="FRANCIA",FR Canal Play 6
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43559
+#EXTINF:-1 tvg-id="FR CANAL PLAY 8" tvg-name="FR CANAL PLAY 8"  group-title="FRANCIA",FR CANAL PLAY 8
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43561
+#EXTINF:-1 tvg-id="FR Canal Play 9" tvg-name="FR Canal Play 9"  group-title="FRANCIA",FR Canal Play 9
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43562
+#EXTINF:-1 tvg-id="FR CANAL PLUS  FHD" tvg-name="FR CANAL PLUS  FHD"  group-title="FRANCIA",FR CANAL PLUS  FHD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43567
+#EXTINF:-1 tvg-id="FR CARTOON NETWORK FHD" tvg-name="FR CARTOON NETWORK FHD"  group-title="FRANCIA",FR CARTOON NETWORK FHD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43571
+#EXTINF:-1 tvg-id="FR CHASSE ET PECHE FHD" tvg-name="FR CHASSE ET PECHE FHD"  group-title="FRANCIA",FR CHASSE ET PECHE FHD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43574
+#EXTINF:-1 tvg-id="FR Cherie 25 HD" tvg-name="FR Cherie 25 HD"  group-title="FRANCIA",FR Cherie 25 HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43575
+#EXTINF:-1 tvg-id="FR CINE PLUS  CLASSIC HD" tvg-name="FR CINE PLUS  CLASSIC HD"  group-title="FRANCIA",FR CINE PLUS  CLASSIC HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43576
+#EXTINF:-1 tvg-id="FR CINE PLUS  CLUB HD" tvg-name="FR CINE PLUS  CLUB HD"  group-title="FRANCIA",FR CINE PLUS  CLUB HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43577
+#EXTINF:-1 tvg-id="FR CINE PLUS  EMOTION HD" tvg-name="FR CINE PLUS  EMOTION HD"  group-title="FRANCIA",FR CINE PLUS  EMOTION HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43578
+#EXTINF:-1 tvg-id="FR CINE PLUS  FAMIZ HD" tvg-name="FR CINE PLUS  FAMIZ HD"  group-title="FRANCIA",FR CINE PLUS  FAMIZ HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43579
+#EXTINF:-1 tvg-id="FR Cine PLUS  FRISSON HD" tvg-name="FR Cine PLUS  FRISSON HD"  group-title="FRANCIA",FR Cine PLUS  FRISSON HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43580
+#EXTINF:-1 tvg-id="FR CINE PLUS  FX HD" tvg-name="FR CINE PLUS  FX HD"  group-title="FRANCIA",FR CINE PLUS  FX HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43581
+#EXTINF:-1 tvg-id="FR CINE PLUS  POLAR FHD" tvg-name="FR CINE PLUS  POLAR FHD"  group-title="FRANCIA",FR CINE PLUS  POLAR FHD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43583
+#EXTINF:-1 tvg-id="FR Cine PLUS  PREMIER HD" tvg-name="FR Cine PLUS  PREMIER HD"  group-title="FRANCIA",FR Cine PLUS  PREMIER HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43584
+#EXTINF:-1 tvg-id="FR Comedie PLUS  HD" tvg-name="FR Comedie PLUS  HD"  group-title="FRANCIA",FR Comedie PLUS  HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43588
+#EXTINF:-1 tvg-id="FR CRIME DISTRICT FHD" tvg-name="FR CRIME DISTRICT FHD"  group-title="FRANCIA",FR CRIME DISTRICT FHD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43589
+#EXTINF:-1 tvg-id="FR CSTAR FHD" tvg-name="FR CSTAR FHD"  group-title="FRANCIA",FR CSTAR FHD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43590
+#EXTINF:-1 tvg-id="FR Discovery FAMILY HD" tvg-name="FR Discovery FAMILY HD"  group-title="FRANCIA",FR Discovery FAMILY HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43593
+#EXTINF:-1 tvg-id="FR Discovery SCIENCE HD" tvg-name="FR Discovery SCIENCE HD"  group-title="FRANCIA",FR Discovery SCIENCE HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43595
+#EXTINF:-1 tvg-id="FR DISNEY CHANNEL  PLUS 1 HD" tvg-name="FR DISNEY CHANNEL  PLUS 1 HD"  group-title="FRANCIA",FR DISNEY CHANNEL  PLUS 1 HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43596
+#EXTINF:-1 tvg-id="FR DISNEY CHANNEL HD" tvg-name="FR DISNEY CHANNEL HD"  group-title="FRANCIA",FR DISNEY CHANNEL HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43597
+#EXTINF:-1 tvg-id="FR DISNEY CINEMA HD" tvg-name="FR DISNEY CINEMA HD" tvg-logo="" group-title="FRANCIA",FR DISNEY CINEMA HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43598
+#EXTINF:-1 tvg-id="FR DISNEY JUNIOR FHD" tvg-name="FR DISNEY JUNIOR FHD"  group-title="FRANCIA",FR DISNEY JUNIOR FHD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43599
+#EXTINF:-1 tvg-id="FR DISNEY XD FHD" tvg-name="FR DISNEY XD FHD"  group-title="FRANCIA",FR DISNEY XD FHD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43600
+#EXTINF:-1 tvg-id="FR euronews HD" tvg-name="FR euronews HD"  group-title="FRANCIA",FR euronews HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43607
+#EXTINF:-1 tvg-id="FR FRANCE 2 FHD" tvg-name="FR FRANCE 2 FHD"  group-title="FRANCIA",FR FRANCE 2 FHD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43615
+#EXTINF:-1 tvg-id="FR FRANCE 24 HD" tvg-name="FR FRANCE 24 HD"  group-title="FRANCIA",FR FRANCE 24 HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43616
+#EXTINF:-1 tvg-id="FR FRANCE 3 FHD" tvg-name="FR FRANCE 3 FHD"  group-title="FRANCIA",FR FRANCE 3 FHD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43617
+#EXTINF:-1 tvg-id="FR FRANCE 4 FHD" tvg-name="FR FRANCE 4 FHD"  group-title="FRANCIA",FR FRANCE 4 FHD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43618
+#EXTINF:-1 tvg-id="FR FRANCE 5 FHD" tvg-name="FR FRANCE 5 FHD"  group-title="FRANCIA",FR FRANCE 5 FHD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43619
+#EXTINF:-1 tvg-id="FR FRANCE INFO HD" tvg-name="FR FRANCE INFO HD"  group-title="FRANCIA",FR FRANCE INFO HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43620
+#EXTINF:-1 tvg-id="FR FRANCOPHONIE 24 HD" tvg-name="FR FRANCOPHONIE 24 HD"  group-title="FRANCIA",FR FRANCOPHONIE 24 HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43622
+#EXTINF:-1 tvg-id="FR GAME ONE HD" tvg-name="FR GAME ONE HD"  group-title="FRANCIA",FR GAME ONE HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43623
+#EXTINF:-1 tvg-id="FR Gulli HD" tvg-name="FR Gulli HD"  group-title="FRANCIA",FR Gulli HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43627
+#EXTINF:-1 tvg-id="FR HISTOIRE HD" tvg-name="FR HISTOIRE HD"  group-title="FRANCIA",FR HISTOIRE HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43629
+#EXTINF:-1 tvg-id="FR i24 NEWS" tvg-name="FR i24 NEWS"  group-title="FRANCIA",FR i24 NEWS
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43631
+#EXTINF:-1 tvg-id="FR Investigation Discovery HD" tvg-name="FR Investigation Discovery HD"  group-title="FRANCIA",FR Investigation Discovery HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43634
+#EXTINF:-1 tvg-id="FR iTELE HD" tvg-name="FR iTELE HD"  group-title="FRANCIA",FR iTELE HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43636
+#EXTINF:-1 tvg-id="FR L EQUIPE 21 HD" tvg-name="FR L EQUIPE 21 HD"  group-title="FRANCIA",FR L EQUIPE 21 HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43640
+#EXTINF:-1 tvg-id="FR LCI FHD" tvg-name="FR LCI FHD"  group-title="FRANCIA",FR LCI FHD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43646
+#EXTINF:-1 tvg-id="FR LCP HD" tvg-name="FR LCP HD"  group-title="FRANCIA",FR LCP HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43647
+#EXTINF:-1 tvg-id="FR M6 FHD" tvg-name="FR M6 FHD"  group-title="FRANCIA",FR M6 FHD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43648
+#EXTINF:-1 tvg-id="FR M6 MUSIC HD" tvg-name="FR M6 MUSIC HD"  group-title="FRANCIA",FR M6 MUSIC HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43649
+#EXTINF:-1 tvg-id="FR Mangas HD" tvg-name="FR Mangas HD"  group-title="FRANCIA",FR Mangas HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43651
+#EXTINF:-1 tvg-id="FR MCM TOP HD" tvg-name="FR MCM TOP HD"  group-title="FRANCIA",FR MCM TOP HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43652
+#EXTINF:-1 tvg-id="FR MTV Dance HD" tvg-name="FR MTV Dance HD"  group-title="FRANCIA",FR MTV Dance HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43654
+#EXTINF:-1 tvg-id="FR MTV HITS HD" tvg-name="FR MTV HITS HD"  group-title="FRANCIA",FR MTV HITS HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43656
+#EXTINF:-1 tvg-id="FR MY CUISINE HD" tvg-name="FR MY CUISINE HD"  group-title="FRANCIA",FR MY CUISINE HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43657
+#EXTINF:-1 tvg-id="FR NET GEO WILD HD" tvg-name="FR NET GEO WILD HD"  group-title="FRANCIA",FR NET GEO WILD HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43659
+#EXTINF:-1 tvg-id="FR NICKELODEON HD" tvg-name="FR NICKELODEON HD"  group-title="FRANCIA",FR NICKELODEON HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43660
+#EXTINF:-1 tvg-id="FR Nickelodeon Junior HD" tvg-name="FR Nickelodeon Junior HD"  group-title="FRANCIA",FR Nickelodeon Junior HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43661
+#EXTINF:-1 tvg-id="FR NRJ 12 FHD" tvg-name="FR NRJ 12 FHD"  group-title="FRANCIA",FR NRJ 12 FHD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43663
+#EXTINF:-1 tvg-id="FR NRJ HITS HD" tvg-name="FR NRJ HITS HD"  group-title="FRANCIA",FR NRJ HITS HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43664
+#EXTINF:-1 tvg-id="FR NT1 HD" tvg-name="FR NT1 HD"  group-title="FRANCIA",FR NT1 HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43666
+#EXTINF:-1 tvg-id="FR OCS CHOC HD" tvg-name="FR OCS CHOC HD"  group-title="FRANCIA",FR OCS CHOC HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43667
+#EXTINF:-1 tvg-id="FR OCS CITY HD" tvg-name="FR OCS CITY HD"  group-title="FRANCIA",FR OCS CITY HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43668
+#EXTINF:-1 tvg-id="FR OCS GEANT HD" tvg-name="FR OCS GEANT HD"  group-title="FRANCIA",FR OCS GEANT HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43669
+#EXTINF:-1 tvg-id="FR OL TV HD" tvg-name="FR OL TV HD"  group-title="FRANCIA",FR OL TV HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43671
+#EXTINF:-1 tvg-id="FR ORANGE CINEMA 6" tvg-name="FR ORANGE CINEMA 6" tvg-logo="" group-title="FRANCIA",FR ORANGE CINEMA 6
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43678
+#EXTINF:-1 tvg-id="FR Orange Cinema ACTION" tvg-name="FR Orange Cinema ACTION"  group-title="FRANCIA",FR Orange Cinema ACTION
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43679
+#EXTINF:-1 tvg-id="FR Orange Cinema COMEDIE" tvg-name="FR Orange Cinema COMEDIE"  group-title="FRANCIA",FR Orange Cinema COMEDIE
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43680
+#EXTINF:-1 tvg-id="FR Orange Cinema HORREUR" tvg-name="FR Orange Cinema HORREUR"  group-title="FRANCIA",FR Orange Cinema HORREUR
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43682
+#EXTINF:-1 tvg-id="FR PARAMOUNT CHANNEL HD" tvg-name="FR PARAMOUNT CHANNEL HD"  group-title="FRANCIA",FR PARAMOUNT CHANNEL HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43683
+#EXTINF:-1 tvg-id="FR Paris Premiere FHD" tvg-name="FR Paris Premiere FHD"  group-title="FRANCIA",FR Paris Premiere FHD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43684
+#EXTINF:-1 tvg-id="FR Piwi PLUS  HD" tvg-name="FR Piwi PLUS  HD"  group-title="FRANCIA",FR Piwi PLUS  HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43685
+#EXTINF:-1 tvg-id="FR PLANETE PLUS  A&E HD" tvg-name="FR PLANETE PLUS  A&E HD"  group-title="FRANCIA",FR PLANETE PLUS  A&E HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43686
+#EXTINF:-1 tvg-id="FR PLANETE PLUS  CI HD" tvg-name="FR PLANETE PLUS  CI HD"  group-title="FRANCIA",FR PLANETE PLUS  CI HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43687
+#EXTINF:-1 tvg-id="FR PLANETE PLUS  HD" tvg-name="FR PLANETE PLUS  HD"  group-title="FRANCIA",FR PLANETE PLUS  HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43688
+#EXTINF:-1 tvg-id="FR RMC DECOUVERTE FHD" tvg-name="FR RMC DECOUVERTE FHD"  group-title="FRANCIA",FR RMC DECOUVERTE FHD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43692
+#EXTINF:-1 tvg-id="FR RMC Story FHD" tvg-name="FR RMC Story FHD"  group-title="FRANCIA",FR RMC Story FHD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43721
+#EXTINF:-1 tvg-id="FR RTL 9 FHD" tvg-name="FR RTL 9 FHD"  group-title="FRANCIA",FR RTL 9 FHD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43723
+#EXTINF:-1 tvg-id="FR RTS1" tvg-name="FR RTS1"  group-title="FRANCIA",FR RTS1
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43725
+#EXTINF:-1 tvg-id="FR SEASON HD" tvg-name="FR SEASON HD"  group-title="FRANCIA",FR SEASON HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43728
+#EXTINF:-1 tvg-id="FR SYFY HD" tvg-name="FR SYFY HD"  group-title="FRANCIA",FR SYFY HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43731
+#EXTINF:-1 tvg-id="FR TCM FRANCE HD" tvg-name="FR TCM FRANCE HD"  group-title="FRANCIA",FR TCM FRANCE HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43733
+#EXTINF:-1 tvg-id="FR TF1 FHD" tvg-name="FR TF1 FHD"  group-title="FRANCIA",FR TF1 FHD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43738
+#EXTINF:-1 tvg-id="FR TF1 Series&Films HD" tvg-name="FR TF1 Series&Films HD"  group-title="FRANCIA",FR TF1 Series&Films HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43741
+#EXTINF:-1 tvg-id="FR TOONAMI FHD" tvg-name="FR TOONAMI FHD"  group-title="FRANCIA",FR TOONAMI FHD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43745
+#EXTINF:-1 tvg-id="FR TOUTE L HISTOIRE HD" tvg-name="FR TOUTE L HISTOIRE HD"  group-title="FRANCIA",FR TOUTE L HISTOIRE HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43746
 #EXTINF:-1 tvg-id="GUA Canal 4" tvg-name="GUA VEA CANAL" group-title="GUATEMALA",GUA VEA CANAL
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/2597
 #EXTINF:-1 tvg-id="GUA CANAL 11" tvg-name="GUA CANAL 11" group-title="GUATEMALA",GUA CANAL 11
@@ -2105,6 +2509,126 @@ http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1041
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1072
 #EXTINF:-1 tvg-id="TOONCAST HQ" tvg-name="TOONCAST HQ" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tooncast_m.png" group-title="INFANTILES",TOONCAST HQ
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/1056
+#EXTINF:-1 tvg-id="IL Baby TV" tvg-name="IL Baby TV"  group-title="ISRAEL",IL Baby TV
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42913
+#EXTINF:-1 tvg-id="IL Channel 11 Kan" tvg-name="IL Channel 11 Kan"  group-title="ISRAEL",IL Channel 11 Kan
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42914
+#EXTINF:-1 tvg-id="IL Channel 12 Keset" tvg-name="IL Channel 12 Keset"  group-title="ISRAEL",IL Channel 12 Keset
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42915
+#EXTINF:-1 tvg-id="IL Channel 13 Reshet" tvg-name="IL Channel 13 Reshet"  group-title="ISRAEL",IL Channel 13 Reshet
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42916
+#EXTINF:-1 tvg-id="IL Channel 9" tvg-name="IL Channel 9"  group-title="ISRAEL",IL Channel 9
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42918
+#EXTINF:-1 tvg-id="IL Discovery Channel" tvg-name="IL Discovery Channel"  group-title="ISRAEL",IL Discovery Channel
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42919
+#EXTINF:-1 tvg-id="IL Disney Jr" tvg-name="IL Disney Jr"  group-title="ISRAEL",IL Disney Jr
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42921
+#EXTINF:-1 tvg-id="IL E!" tvg-name="IL E!"  group-title="ISRAEL",IL E!
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42922
+#EXTINF:-1 tvg-id="IL Ego Total" tvg-name="IL Ego Total"  group-title="ISRAEL",IL Ego Total
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42923
+#EXTINF:-1 tvg-id="IL Food Channel" tvg-name="IL Food Channel"  group-title="ISRAEL",IL Food Channel
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42924
+#EXTINF:-1 tvg-id="IL Good Life" tvg-name="IL Good Life"  group-title="ISRAEL",IL Good Life
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42925
+#EXTINF:-1 tvg-id="IL Health" tvg-name="IL Health"  group-title="ISRAEL",IL Health
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42926
+#EXTINF:-1 tvg-id="IL Home Plus" tvg-name="IL Home Plus"  group-title="ISRAEL",IL Home Plus
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42927
+#EXTINF:-1 tvg-id="IL hop" tvg-name="IL hop"  group-title="ISRAEL",IL hop
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42928
+#EXTINF:-1 tvg-id="IL Hot Action" tvg-name="IL Hot Action"  group-title="ISRAEL",IL Hot Action
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42929
+#EXTINF:-1 tvg-id="IL Hot Bombay" tvg-name="IL Hot Bombay"  group-title="ISRAEL",IL Hot Bombay
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42930
+#EXTINF:-1 tvg-id="IL Hot Drama" tvg-name="IL Hot Drama"  group-title="ISRAEL",IL Hot Drama
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42932
+#EXTINF:-1 tvg-id="IL Hot Fun" tvg-name="IL Hot Fun"  group-title="ISRAEL",IL Hot Fun
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42934
+#EXTINF:-1 tvg-id="IL Hot Gold" tvg-name="IL Hot Gold"  group-title="ISRAEL",IL Hot Gold
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42935
+#EXTINF:-1 tvg-id="IL Hot HBO" tvg-name="IL Hot HBO"  group-title="ISRAEL",IL Hot HBO
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42936
+#EXTINF:-1 tvg-id="IL Hot Kidz" tvg-name="IL Hot Kidz"  group-title="ISRAEL",IL Hot Kidz
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42937
+#EXTINF:-1 tvg-id="IL Hot Zone" tvg-name="IL Hot Zone"  group-title="ISRAEL",IL Hot Zone
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42938
+#EXTINF:-1 tvg-id="IL Hot3" tvg-name="IL Hot3"  group-title="ISRAEL",IL Hot3
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42939
+#EXTINF:-1 tvg-id="IL i24" tvg-name="IL i24"  group-title="ISRAEL",IL i24
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42940
+#EXTINF:-1 tvg-id="IL Junior" tvg-name="IL Junior"  group-title="ISRAEL",IL Junior
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42941
+#EXTINF:-1 tvg-id="IL Luli" tvg-name="IL Luli"  group-title="ISRAEL",IL Luli
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42942
+#EXTINF:-1 tvg-id="IL NatGeo" tvg-name="IL NatGeo"  group-title="ISRAEL",IL NatGeo
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42943
+#EXTINF:-1 tvg-id="IL Nick Jr" tvg-name="IL Nick Jr"  group-title="ISRAEL",IL Nick Jr
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42944
+#EXTINF:-1 tvg-id="IL Nickelodeon" tvg-name="IL Nickelodeon"  group-title="ISRAEL",IL Nickelodeon
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42945
+#EXTINF:-1 tvg-id="IL Sport 1" tvg-name="IL Sport 1"  group-title="ISRAEL",IL Sport 1
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42946
+#EXTINF:-1 tvg-id="IL Sport 2" tvg-name="IL Sport 2"  group-title="ISRAEL",IL Sport 2
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42947
+#EXTINF:-1 tvg-id="IL Sport 3" tvg-name="IL Sport 3"  group-title="ISRAEL",IL Sport 3
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42948
+#EXTINF:-1 tvg-id="IL Sport 4" tvg-name="IL Sport 4"  group-title="ISRAEL",IL Sport 4
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42949
+#EXTINF:-1 tvg-id="IL Sport 5 Gold" tvg-name="IL Sport 5 Gold"  group-title="ISRAEL",IL Sport 5 Gold
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42951
+#EXTINF:-1 tvg-id="IL Sport 5 Live" tvg-name="IL Sport 5 Live"  group-title="ISRAEL",IL Sport 5 Live
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42952
+#EXTINF:-1 tvg-id="IL Sport 5 Stars" tvg-name="IL Sport 5 Stars"  group-title="ISRAEL",IL Sport 5 Stars
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42953
+#EXTINF:-1 tvg-id="IL Sport ONE" tvg-name="IL Sport ONE"  group-title="ISRAEL",IL Sport ONE
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42954
+#EXTINF:-1 tvg-id="IL Sport ONE 2" tvg-name="IL Sport ONE 2"  group-title="ISRAEL",IL Sport ONE 2
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42955
+#EXTINF:-1 tvg-id="IL TeenNick" tvg-name="IL TeenNick"  group-title="ISRAEL",IL TeenNick
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42956
+#EXTINF:-1 tvg-id="IL Travel" tvg-name="IL Travel"  group-title="ISRAEL",IL Travel
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42957
+#EXTINF:-1 tvg-id="IL Viva" tvg-name="IL Viva"  group-title="ISRAEL",IL Viva
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42958
+#EXTINF:-1 tvg-id="IL Viva PLUS " tvg-name="IL Viva PLUS "  group-title="ISRAEL",IL Viva PLUS 
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42959
+#EXTINF:-1 tvg-id="IL Yaldut Israeli" tvg-name="IL Yaldut Israeli"  group-title="ISRAEL",IL Yaldut Israeli
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42960
+#EXTINF:-1 tvg-id="IL Yaldut Israeli" tvg-name="IL Yaldut Israeli"  group-title="ISRAEL",IL Yaldut Israeli
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42961
+#EXTINF:-1 tvg-id="IL Yam Tichoni" tvg-name="IL Yam Tichoni"  group-title="ISRAEL",IL Yam Tichoni
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42962
+#EXTINF:-1 tvg-id="IL Yes 1" tvg-name="IL Yes 1"  group-title="ISRAEL",IL Yes 1
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42963
+#EXTINF:-1 tvg-id="IL Yes Drama" tvg-name="IL Yes Drama"  group-title="ISRAEL",IL Yes Drama
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42969
+#EXTINF:-1 tvg-id="IL ZOOM" tvg-name="IL ZOOM"  group-title="ISRAEL",IL ZOOM
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42970
+#EXTINF:-1 tvg-id="IL Hot Bollywood" tvg-name="IL Hot Bollywood"  group-title="ISRAEL",IL Hot Bollywood
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42971
+#EXTINF:-1 tvg-id="IL Hidabrot" tvg-name="IL Hidabrot"  group-title="ISRAEL",IL Hidabrot
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42972
+#EXTINF:-1 tvg-id="IL Kabal" tvg-name="IL Kabal"  group-title="ISRAEL",IL Kabal
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42973
+#EXTINF:-1 tvg-id="IL Mikan" tvg-name="IL Mikan"  group-title="ISRAEL",IL Mikan
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42976
+#EXTINF:-1 tvg-id="IL Music 24" tvg-name="IL Music 24"  group-title="ISRAEL",IL Music 24
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42977
+#EXTINF:-1 tvg-id="IL YES MOVIES COMEDY" tvg-name="IL YES MOVIES COMEDY"  group-title="ISRAEL",IL YES MOVIES COMEDY
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42981
+#EXTINF:-1 tvg-id="IL YES-Action-HD" tvg-name="IL YES-Action-HD"  group-title="ISRAEL",IL YES-Action-HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42983
+#EXTINF:-1 tvg-id="IL YES-Drama-HD" tvg-name="IL YES-Drama-HD"  group-title="ISRAEL",IL YES-Drama-HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42986
+#EXTINF:-1 tvg-id="IL YES-History-HD" tvg-name="IL YES-History-HD"  group-title="ISRAEL",IL YES-History-HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42990
+#EXTINF:-1 tvg-id="IL YES-Music 24 Israel" tvg-name="IL YES-Music 24 Israel"  group-title="ISRAEL",IL YES-Music 24 Israel
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42992
+#EXTINF:-1 tvg-id="IL YES-Disc.Science" tvg-name="IL YES-Disc.Science"  group-title="ISRAEL",IL YES-Disc.Science
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42994
+#EXTINF:-1 tvg-id="IL Yes-TeenNick" tvg-name="IL Yes-TeenNick"  group-title="ISRAEL",IL Yes-TeenNick
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/42996
 #EXTINF:-1 tvg-id="MX A Plus" tvg-name="MX A Plus" group-title="MEXICO",MX A Plus
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/210
 #EXTINF:-1 tvg-id="MX ADN40 HD" tvg-name="MX ADN40 FHD" group-title="MEXICO",MX ADN40 FHD
@@ -2757,6 +3281,100 @@ http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/17309
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/17328
 #EXTINF:-1 tvg-id="REL TELEBENDICION" tvg-name="REL TELEBENDICION" group-title="RELIGIOSOS",REL TELEBENDICION
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/17307
+#EXTINF:-1 tvg-id="RU 5канал" tvg-name="RU 5канал"  group-title="RUSIA",RU 5канал
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43353
+#EXTINF:-1 tvg-id="RU A1" tvg-name="RU A1"  group-title="RUSIA",RU A1
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43354
+#EXTINF:-1 tvg-id="RU Cartoon Network" tvg-name="RU Cartoon Network"  group-title="RUSIA",RU Cartoon Network
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43355
+#EXTINF:-1 tvg-id="RU Discovery" tvg-name="RU Discovery"  group-title="RUSIA",RU Discovery
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43356
+#EXTINF:-1 tvg-id="RU Eurosport 1" tvg-name="RU Eurosport 1"  group-title="RUSIA",RU Eurosport 1
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43361
+#EXTINF:-1 tvg-id="RU Eurosport 2" tvg-name="RU Eurosport 2"  group-title="RUSIA",RU Eurosport 2
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43362
+#EXTINF:-1 tvg-id="RU MTV Russia" tvg-name="RU MTV Russia"  group-title="RUSIA",RU MTV Russia
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43363
+#EXTINF:-1 tvg-id="RU Nat Geo Wild HD" tvg-name="RU Nat Geo Wild HD"  group-title="RUSIA",RU Nat Geo Wild HD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43364
+#EXTINF:-1 tvg-id="RU National Geo" tvg-name="RU National Geo"  group-title="RUSIA",RU National Geo
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43365
+#EXTINF:-1 tvg-id="RU TV1000 Action" tvg-name="RU TV1000 Action"  group-title="RUSIA",RU TV1000 Action
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43368
+#EXTINF:-1 tvg-id="RU TV1000 Comedy" tvg-name="RU TV1000 Comedy"  group-title="RUSIA",RU TV1000 Comedy
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43369
+#EXTINF:-1 tvg-id="RU TV1000 Megahit" tvg-name="RU TV1000 Megahit"  group-title="RUSIA",RU TV1000 Megahit
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43370
+#EXTINF:-1 tvg-id="RU TV1000 Premium" tvg-name="RU TV1000 Premium"  group-title="RUSIA",RU TV1000 Premium
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43371
+#EXTINF:-1 tvg-id="RU TV1000 русское кино" tvg-name="RU TV1000 русское кино"  group-title="RUSIA",RU TV1000 русское кино
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43372
+#EXTINF:-1 tvg-id="RU VH-1 Classic" tvg-name="RU VH-1 Classic"  group-title="RUSIA",RU VH-1 Classic
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43373
+#EXTINF:-1 tvg-id="RU Viasat Sport" tvg-name="RU Viasat Sport"  group-title="RUSIA",RU Viasat Sport
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43374
+#EXTINF:-1 tvg-id="RU World Fashion" tvg-name="RU World Fashion"  group-title="RUSIA",RU World Fashion
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43375
+#EXTINF:-1 tvg-id="RU Дождь" tvg-name="RU Дождь"  group-title="RUSIA",RU Дождь
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43376
+#EXTINF:-1 tvg-id="RU Дом кино" tvg-name="RU Дом кино"  group-title="RUSIA",RU Дом кино
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43377
+#EXTINF:-1 tvg-id="RU Дом кино премиум" tvg-name="RU Дом кино премиум"  group-title="RUSIA",RU Дом кино премиум
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43378
+#EXTINF:-1 tvg-id="RU Домашние животные" tvg-name="RU Домашние животные"  group-title="RUSIA",RU Домашние животные
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43379
+#EXTINF:-1 tvg-id="RU Еврокино" tvg-name="RU Еврокино"  group-title="RUSIA",RU Еврокино
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43380
+#EXTINF:-1 tvg-id="RU Кинокомедия" tvg-name="RU Кинокомедия"  group-title="RUSIA",RU Кинокомедия
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43381
+#EXTINF:-1 tvg-id="RU Киномикс" tvg-name="RU Киномикс"  group-title="RUSIA",RU Киномикс
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43382
+#EXTINF:-1 tvg-id="RU Кинопоказ HD2" tvg-name="RU Кинопоказ HD2"  group-title="RUSIA",RU Кинопоказ HD2
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43384
+#EXTINF:-1 tvg-id="RU Кинопремьера" tvg-name="RU Кинопремьера"  group-title="RUSIA",RU Кинопремьера
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43385
+#EXTINF:-1 tvg-id="RU Киносвидание" tvg-name="RU Киносвидание"  group-title="RUSIA",RU Киносвидание
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43386
+#EXTINF:-1 tvg-id="RU Киносемья" tvg-name="RU Киносемья"  group-title="RUSIA",RU Киносемья
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43387
+#EXTINF:-1 tvg-id="RU Кинохит" tvg-name="RU Кинохит"  group-title="RUSIA",RU Кинохит
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43388
+#EXTINF:-1 tvg-id="RU Матч Арена" tvg-name="RU Матч Арена"  group-title="RUSIA",RU Матч Арена
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43390
+#EXTINF:-1 tvg-id="RU Матч Игра" tvg-name="RU Матч Игра"  group-title="RUSIA",RU Матч Игра
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43391
+#EXTINF:-1 tvg-id="RU Матч Наш спорт" tvg-name="RU Матч Наш спорт"  group-title="RUSIA",RU Матч Наш спорт
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43392
+#EXTINF:-1 tvg-id="RU Матч Планета" tvg-name="RU Матч Планета"  group-title="RUSIA",RU Матч Планета
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43393
+#EXTINF:-1 tvg-id="RU Матч ТВ" tvg-name="RU Матч ТВ"  group-title="RUSIA",RU Матч ТВ
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43395
+#EXTINF:-1 tvg-id="RU Матч! Боец" tvg-name="RU Матч! Боец"  group-title="RUSIA",RU Матч! Боец
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43399
+#EXTINF:-1 tvg-id="RU Наше новое кино" tvg-name="RU Наше новое кино"  group-title="RUSIA",RU Наше новое кино
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43400
+#EXTINF:-1 tvg-id="RU Охота и рыбалка" tvg-name="RU Охота и рыбалка"  group-title="RUSIA",RU Охота и рыбалка
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43402
+#EXTINF:-1 tvg-id="RU Первый канал" tvg-name="RU Первый канал"  group-title="RUSIA",RU Первый канал
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43404
+#EXTINF:-1 tvg-id="RU Родное кино" tvg-name="RU Родное кино"  group-title="RUSIA",RU Родное кино
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43405
+#EXTINF:-1 tvg-id="RU Россия 1" tvg-name="RU Россия 1"  group-title="RUSIA",RU Россия 1
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43406
+#EXTINF:-1 tvg-id="RU Россия 24" tvg-name="RU Россия 24"  group-title="RUSIA",RU Россия 24
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43407
+#EXTINF:-1 tvg-id="RU Русский бестселлер" tvg-name="RU Русский бестселлер"  group-title="RUSIA",RU Русский бестселлер
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43408
+#EXTINF:-1 tvg-id="RU Русский детектив" tvg-name="RU Русский детектив"  group-title="RUSIA",RU Русский детектив
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43409
+#EXTINF:-1 tvg-id="RU Русский иллюзион" tvg-name="RU Русский иллюзион"  group-title="RUSIA",RU Русский иллюзион
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43410
+#EXTINF:-1 tvg-id="RU Русский роман" tvg-name="RU Русский роман"  group-title="RUSIA",RU Русский роман
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43411
+#EXTINF:-1 tvg-id="RU ТВ 3" tvg-name="RU ТВ 3"  group-title="RUSIA",RU ТВ 3
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43412
+#EXTINF:-1 tvg-id="RU ТНТ 4" tvg-name="RU ТНТ 4"  group-title="RUSIA",RU ТНТ 4
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43414
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="USA 5 StarMax" tvg-logo="" group-title="USA",USA 5 StarMax
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/25632
 #EXTINF:-1 tvg-id="USA A&E HD" tvg-name="USA A&E HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022011/ae_network_logo_0.png?itok=MuJbLsJN" group-title="USA",USA A&E HD
@@ -10429,6 +11047,18 @@ http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/87
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/121
 #EXTINF:-1 tvg-id="ES MoviStar Series Mania HD" tvg-name="ES MoviStar Series Mania HD" group-title="ESPANA",ES MoviStar Series Mania HD
 http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/122
+#EXTINF:-1 tvg-id="PPV|| Auto Racing NASCAR Camping World Truck Series Fr8Auctions 200 2:30 PM EST ( FS1)" tvg-name="PPV|| Auto Racing NASCAR Camping World Truck Series Fr8Auctions 200 2:30 PM EST ( FS1)"  group-title="EVENTOS PPV",PPV|| Auto Racing NASCAR Camping World Truck Series Fr8Auctions 200 2:30 PM EST ( FS1)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43781
+#EXTINF:-1 tvg-id="PPV|| Auto Racing NASCAR Xfinity Series EchoPark 250 5:00 PM EST ( FS1)" tvg-name="PPV|| Auto Racing NASCAR Xfinity Series EchoPark 250 5:00 PM EST ( FS1)"  group-title="EVENTOS PPV",PPV|| Auto Racing NASCAR Xfinity Series EchoPark 250 5:00 PM EST ( FS1)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43796
+#EXTINF:-1 tvg-id="PPV|| Auto Racing NASCAR Xfinity Series Post Race Atlanta 7:00 PM EST ( FS1)" tvg-name="PPV|| Auto Racing NASCAR Xfinity Series Post Race Atlanta 7:00 PM EST ( FS1)"  group-title="EVENTOS PPV",PPV|| Auto Racing NASCAR Xfinity Series Post Race Atlanta 7:00 PM EST ( FS1)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43805
+#EXTINF:-1 tvg-id="PPV|| Racing (Auto) NASCAR Camping World Truck Series Fr8Auctions 200 2:30pm EST (FS1)" tvg-name="PPV|| Racing (Auto) NASCAR Camping World Truck Series Fr8Auctions 200 2:30pm EST (FS1)"  group-title="EVENTOS PPV",PPV|| Racing (Auto) NASCAR Camping World Truck Series Fr8Auctions 200 2:30pm EST (FS1)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43834
+#EXTINF:-1 tvg-id="PPV|| Racing (Auto) NASCAR Xfinity Series EchoPark 250 5:00pm EST (FS1)" tvg-name="PPV|| Racing (Auto) NASCAR Xfinity Series EchoPark 250 5:00pm EST (FS1)"  group-title="EVENTOS PPV",PPV|| Racing (Auto) NASCAR Xfinity Series EchoPark 250 5:00pm EST (FS1)
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43839
+#EXTINF:-1 tvg-id="FR CANAL PLUS  SERIES FHD" tvg-name="FR CANAL PLUS  SERIES FHD"  group-title="FRANCIA",FR CANAL PLUS  SERIES FHD
+http://xdgo.live:8080/30_OscarFernandez_g/dmavAkLTEc/43569
 #EXTINF:-1 tvg-id="Los Visitantes S01 E01" tvg-name="Los Visitantes S01 E01"  group-title="LOS VISITANTES",Los Visitantes S01 E01
 http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41473.mkv
 #EXTINF:-1 tvg-id="Los Visitantes S01 E02" tvg-name="Los Visitantes S01 E02"  group-title="LOS VISITANTES",Los Visitantes S01 E02
@@ -22353,6 +22983,8 @@ http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41729.mkv
 http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41730.mkv
 #EXTINF:-1 tvg-id="Dani Who? S01 E10" tvg-name="Dani Who? S01 E10"  group-title="SERIES FICCION - FANTASIA",Dani Who? S01 E10
 http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41731.mkv
+#EXTINF:-1 tvg-id="Falcon y el Soldado de Invierno S01 E01" tvg-name="Falcon y el Soldado de Invierno S01 E01"  group-title="SERIES FICCION - FANTASIA",Falcon y el Soldado de Invierno S01 E01
+http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42784.mkv
 #EXTINF:-1 tvg-id="Johnny Bravo S01 E01" tvg-name="Johnny Bravo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9Ug39KxbIt1opgXdJY3AJhAlGx.jpg" group-title="SERIES INFANTILES",Johnny Bravo S01 E01
 http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/6923.mp4
 #EXTINF:-1 tvg-id="Johnny Bravo S01 E02" tvg-name="Johnny Bravo S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qLChCIiUhEDZQ5CMsPm6fhMeCwB.jpg" group-title="SERIES INFANTILES",Johnny Bravo S01 E02
@@ -24779,6 +25411,66 @@ http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/41776.mkv
 http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42114.mkv
 #EXTINF:-1 tvg-id="WandaVision S01 E09" tvg-name="WandaVision S01 E09"  group-title="WANDAVISION",WandaVision S01 E09
 http://xdgo.live:8080/series/30_OscarFernandez_g/dmavAkLTEc/42412.mkv
+#EXTINF:-1 tvg-id="La Liga de la Justicia de Zack Snyder (2021)" tvg-name="La Liga de la Justicia de Zack Snyder (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rkuvJnamPl3xW9wKJsIS6qkmOCW.jpg" group-title="VFLIX ESTRENOS",La Liga de la Justicia de Zack Snyder (2021)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42776.mkv
+#EXTINF:-1 tvg-id="SAS: Red Notice (2021)" tvg-name="SAS: Red Notice (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Y9fl8tD1xtyUrOHV2MkCYTpzgi.jpg" group-title="VFLIX ESTRENOS",SAS: Red Notice (2021)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42780.mkv
+#EXTINF:-1 tvg-id="Breach (2020)" tvg-name="Breach (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13B6onhL6FzSN2KaNeQeMML05pS.jpg" group-title="VFLIX ESTRENOS",Breach (2020)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42773.mkv
+#EXTINF:-1 tvg-id="Fractal (2020)" tvg-name="Fractal (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmVMExsOmSeFyTN3esvbTGGMEuf.jpg" group-title="VFLIX ESTRENOS",Fractal (2020)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42774.mkv
+#EXTINF:-1 tvg-id="Instrucciones para la poligamia (2019)" tvg-name="Instrucciones para la poligamia (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2aQZmelEEr2PpexbVgpNvmS5cMu.jpg" group-title="VFLIX ESTRENOS",Instrucciones para la poligamia (2019)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42775.mkv
+#EXTINF:-1 tvg-id="Office Uprising (2018)" tvg-name="Office Uprising (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcRAOCmDcFYivMNM5ink3OMMe0V.jpg" group-title="VFLIX ESTRENOS",Office Uprising (2018)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42777.mkv
+#EXTINF:-1 tvg-id="Operación Varsity Blues: Fraude universitario en EE.UU. (2021)" tvg-name="Operación Varsity Blues: Fraude universitario en EE.UU. (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZJuctnatinO0OpnruGOWaT4Bga.jpg" group-title="VFLIX ESTRENOS",Operación Varsity Blues: Fraude universitario en EE.UU. (2021)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42778.mkv
+#EXTINF:-1 tvg-id="Piola (2020)" tvg-name="Piola (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uzGwhAPyziTSx6vtlRpnIZgEd07.jpg" group-title="VFLIX ESTRENOS",Piola (2020)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42779.mkv
+#EXTINF:-1 tvg-id="Synchronic (2020)" tvg-name="Synchronic (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgm4gdJwb7iSYX0uBsRAZmHQmPm.jpg" group-title="VFLIX ESTRENOS",Synchronic (2020)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42781.mkv
+#EXTINF:-1 tvg-id="El último Vermeer (2019)" tvg-name="El último Vermeer (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wwytM352938TYwtixVUehtb2vzL.jpg" group-title="VFLIX ESTRENOS",El último Vermeer (2019)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42782.mkv
+#EXTINF:-1 tvg-id="Salvaje (2020)" tvg-name="Salvaje (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zmsAZfYMe3m9JkCLrY7dVQrM90P.jpg" group-title="VFLIX ESTRENOS",Salvaje (2020)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42783.mkv
+#EXTINF:-1 tvg-id="Cherry (2021)" tvg-name="Cherry (2021)" tvg-logo="http://xdgo.live:8080/images/5ce330d300762053ed1f5f77aae0cab0.jpg" group-title="VFLIX ESTRENOS",Cherry (2021)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42609.mkv
+#EXTINF:-1 tvg-id="Vidas de papel (2021)" tvg-name="Vidas de papel (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSMjzoaFr1CpNBbdoyArzLkXff7.jpg" group-title="VFLIX ESTRENOS",Vidas de papel (2021)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42610.mkv
+#EXTINF:-1 tvg-id="Guerra de Likes (2021)" tvg-name="Guerra de Likes (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gewQlwxgqo595Pw25lwaPfI4h5D.jpg" group-title="VFLIX ESTRENOS",Guerra de Likes (2021)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42611.mkv
+#EXTINF:-1 tvg-id="El día del Sí (2021)" tvg-name="El día del Sí (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rejrD9ovTHJbfmpLM0mbEliEPV6.jpg" group-title="VFLIX ESTRENOS",El día del Sí (2021)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42612.mkv
+#EXTINF:-1 tvg-id="After: En mil pedazos (2020)" tvg-name="After: En mil pedazos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8nPw22C41EUWXREWmY9iIivMXxm.jpg" group-title="VFLIX ESTRENOS",After: En mil pedazos (2020)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42518.mkv
+#EXTINF:-1 tvg-id="Anna Antinarcóticos (2020)" tvg-name="Anna Antinarcóticos (2020)" tvg-logo="https://m.media-amazon.com/images/I/61caktkqPyL._SS500_.jpg" group-title="VFLIX ESTRENOS",Anna Antinarcóticos (2020)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42519.mkv
+#EXTINF:-1 tvg-id="La rosa de Bombay (2019)" tvg-name="La rosa de Bombay (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwNcowNdKTawjwpV9nR2t2EZrFW.jpg" group-title="VFLIX ESTRENOS",La rosa de Bombay (2019)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42520.mkv
+#EXTINF:-1 tvg-id="Lavaperros (2021)" tvg-name="Lavaperros (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtX6TPhoNACLQOTOZmTxc5r4R67.jpg" group-title="VFLIX ESTRENOS",Lavaperros (2021)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42521.mkv
+#EXTINF:-1 tvg-id="El oficial y el espía (2019)" tvg-name="El oficial y el espía (2019)" tvg-logo="http://xdgo.live:8080/images/274a9cd42ed5c044da8863dab0178bd1.jpg" group-title="VFLIX ESTRENOS",El oficial y el espía (2019)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42522.mkv
+#EXTINF:-1 tvg-id="Rescue Bus 300 (2018)" tvg-name="Rescue Bus 300 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNbQofGOgDAN20OsTyZewp4iibO.jpg" group-title="VFLIX ESTRENOS",Rescue Bus 300 (2018)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42523.mkv
+#EXTINF:-1 tvg-id="Maldición en el tercer piso (2019)" tvg-name="Maldición en el tercer piso (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qeEptluyFULHQLRFnVPKgp8ecLb.jpg" group-title="VFLIX ESTRENOS",Maldición en el tercer piso (2019)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42524.mkv
+#EXTINF:-1 tvg-id="Mortal (2020)" tvg-name="Mortal (2020)" tvg-logo="http://xdgo.live:8080/images/e863ac019944006740cdf45030dc3155.jpg" group-title="VFLIX ESTRENOS",Mortal (2020)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42525.mkv
+#EXTINF:-1 tvg-id="Psycho Granny (2019)" tvg-name="Psycho Granny (2019)" tvg-logo="http://xdgo.live:8080/images/d297d33f053cad0b3c015c2295e39d1e.jpg" group-title="VFLIX ESTRENOS",Psycho Granny (2019)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42526.mkv
+#EXTINF:-1 tvg-id="The Block Island Sound (2020)" tvg-name="The Block Island Sound (2020)" tvg-logo="http://xdgo.live:8080/images/68f8fd649de1a2bb5697cf98c5b42d6f.jpg" group-title="VFLIX ESTRENOS",The Block Island Sound (2020)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42527.mkv
+#EXTINF:-1 tvg-id="Lo que la noche esconde (2020)" tvg-name="Lo que la noche esconde (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Fl4JXDu21b4Qr3wV0TZKLbaH5r.jpg" group-title="VFLIX ESTRENOS",Lo que la noche esconde (2020)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42528.mkv
+#EXTINF:-1 tvg-id="Asesino de modelos (2019)" tvg-name="Asesino de modelos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljtpYhsdzFZXuppMXMWPowQKs54.jpg" group-title="VFLIX ESTRENOS",Asesino de modelos (2019)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42529.mkv
+#EXTINF:-1 tvg-id="Tito Paleto (2020)" tvg-name="Tito Paleto (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lsK7fvFXtCREiiIUF6Kvr5PDAzY.jpg" group-title="VFLIX ESTRENOS",Tito Paleto (2020)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42530.mkv
+#EXTINF:-1 tvg-id="Vicious Fun (2020)" tvg-name="Vicious Fun (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4N5Cw3X9zWvemegcj25qJNGMwnW.jpg" group-title="VFLIX ESTRENOS",Vicious Fun (2020)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42531.mkv
+#EXTINF:-1 tvg-id="Clara y Claire (2019)" tvg-name="Clara y Claire (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGym4gblB9H2hRhfimZuaFZmw9p.jpg" group-title="VFLIX ESTRENOS",Clara y Claire (2019)
+http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42532.mkv
 #EXTINF:-1 tvg-id="El rey de Zamunda 2 (2021)" tvg-name="El rey de Zamunda 2 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0GwE6T6rHf4qPD8U8tihwVJKUR.jpg" group-title="VFLIX ESTRENOS",El rey de Zamunda 2 (2021)
 http://xdgo.live:8080/movie/30_OscarFernandez_g/dmavAkLTEc/42442.mkv
 #EXTINF:-1 tvg-id="El diablo entre las piernas (2021)" tvg-name="El diablo entre las piernas (2021)" tvg-logo="http://xdgo.live:8080/images/5af459197a9d16cd9b23cf5507d5efed.jpg" group-title="VFLIX ESTRENOS",El diablo entre las piernas (2021)
