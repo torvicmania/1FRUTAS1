@@ -963,9 +963,9 @@ http://xdgo.live:8080/37_vAntonioRengijo_g/rTef2TRrQC/40047
 http://xdgo.live:8080/movie/37_vAntonioRengijo_g/rTef2TRrQC/22733.mp4
 #EXTINF:-1 tvg-id="Alberto Barros - Tributo A La Salsa Colombiana 2" tvg-name="Alberto Barros - Tributo A La Salsa Colombiana 2"  group-title="VFLIX CONCIERTOS",Alberto Barros - Tributo A La Salsa Colombiana 2
 http://xdgo.live:8080/movie/37_vAntonioRengijo_g/rTef2TRrQC/3638.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nunca,346  casi nunca
+#EXTINF:-1 tvg-id="" tvg-name="Nunca,361  casi nunca
 http://xdgo.live:8080/movie/37_vAntonioRengijo_g/rTef2TRrQC/40164.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Padre,516  Soldado
+#EXTINF:-1 tvg-id="" tvg-name="Padre,531  Soldado
 http://xdgo.live:8080/movie/37_vAntonioRengijo_g/rTef2TRrQC/30099.mkv
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="BR WOOHOO HD" group-title="BRASIL",BR WOOHOO HD
 http://xdgo.live:8080/37_vAntonioRengijo_g/rTef2TRrQC/5579
@@ -25653,6 +25653,36 @@ http://xdgo.live:8080/series/37_vAntonioRengijo_g/rTef2TRrQC/41776.mkv
 http://xdgo.live:8080/series/37_vAntonioRengijo_g/rTef2TRrQC/42114.mkv
 #EXTINF:-1 tvg-id="WandaVision S01 E09" tvg-name="WandaVision S01 E09"  group-title="WANDAVISION",WandaVision S01 E09
 http://xdgo.live:8080/series/37_vAntonioRengijo_g/rTef2TRrQC/42412.mkv
+#EXTINF:-1 tvg-id="22 contra la Tierra (2021)" tvg-name="22 contra la Tierra (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/32vLDKSzcCMh55zqqaSqqUA8naz.jpg" group-title="VFLIX ESTRENOS",22 contra la Tierra (2021)
+http://xdgo.live:8080/movie/37_vAntonioRengijo_g/rTef2TRrQC/45413.mkv
+#EXTINF:-1 tvg-id="Pasajero oculto (2021)" tvg-name="Pasajero oculto (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tPmRsNX2X3Bz3byvWvGZ27n3vbl.jpg" group-title="VFLIX ESTRENOS",Pasajero oculto (2021)
+http://xdgo.live:8080/movie/37_vAntonioRengijo_g/rTef2TRrQC/45414.mkv
+#EXTINF:-1 tvg-id="Los Mitchell contra las máquinas (2021)" tvg-name="Los Mitchell contra las máquinas (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Lt6cbfnPIj4mAYYwErQtevhv42.jpg" group-title="VFLIX ESTRENOS",Los Mitchell contra las máquinas (2021)
+http://xdgo.live:8080/movie/37_vAntonioRengijo_g/rTef2TRrQC/45417.mkv
+#EXTINF:-1 tvg-id="La apariencia de las cosas (2021)" tvg-name="La apariencia de las cosas (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9tSkNmGt1K5Lgf0L0BTHHYJNz0W.jpg" group-title="VFLIX ESTRENOS",La apariencia de las cosas (2021)
+http://xdgo.live:8080/movie/37_vAntonioRengijo_g/rTef2TRrQC/45418.mkv
+#EXTINF:-1 tvg-id="Sin Remordimientos (2021)" tvg-name="Sin Remordimientos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oRFMWkP33VY1tpPMRqK4oDmZunI.jpg" group-title="VFLIX ESTRENOS",Sin Remordimientos (2021)
+http://xdgo.live:8080/movie/37_vAntonioRengijo_g/rTef2TRrQC/45419.mkv
+#EXTINF:-1 tvg-id="Sin rastro (2020)" tvg-name="Sin rastro (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6yjaKwcH3yEtuvSFPRULu96d1KC.jpg" group-title="VFLIX ESTRENOS",Sin rastro (2020)
+http://xdgo.live:8080/movie/37_vAntonioRengijo_g/rTef2TRrQC/45415.mkv
+#EXTINF:-1 tvg-id="The Informer (2019)" tvg-name="The Informer (2019)" tvg-logo="http://xdgo.live:8080/images/16a0c2da400a17f4a94031e351b3b5ee.jpg" group-title="VFLIX ESTRENOS",The Informer (2019)
+http://xdgo.live:8080/movie/37_vAntonioRengijo_g/rTef2TRrQC/45416.mkv
+#EXTINF:-1 tvg-id="Nunca cierres los ojos (2021)" tvg-name="Nunca cierres los ojos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hGPGRRz6FTIRed1zestdWrV2Iwd.jpg" group-title="VFLIX ESTRENOS",Nunca cierres los ojos (2021)
+http://xdgo.live:8080/movie/37_vAntonioRengijo_g/rTef2TRrQC/45364.mkv
+#EXTINF:-1 tvg-id="The Marksman (El protector) (2021)" tvg-name="The Marksman (El protector) (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncnZa574KFkSRrwPpxbyRoIrteW.jpg" group-title="VFLIX ESTRENOS",The Marksman (El protector) (2021)
+http://xdgo.live:8080/movie/37_vAntonioRengijo_g/rTef2TRrQC/45365.mkv
+#EXTINF:-1 tvg-id="Los Estados Unidos contra Billie Holiday (2021)" tvg-name="Los Estados Unidos contra Billie Holiday (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ErczuRvIF4cd7IJNc04RO1RB5B.jpg" group-title="VFLIX ESTRENOS",Los Estados Unidos contra Billie Holiday (2021)
+http://xdgo.live:8080/movie/37_vAntonioRengijo_g/rTef2TRrQC/45366.mkv
+#EXTINF:-1 tvg-id="Justice Society: World War II (2021)" tvg-name="Justice Society: World War II (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4REOC6CZW8J6FslA4nRvdQXFXR.jpg" group-title="VFLIX ESTRENOS",Justice Society: World War II (2021)
+http://xdgo.live:8080/movie/37_vAntonioRengijo_g/rTef2TRrQC/45369.mkv
+#EXTINF:-1 tvg-id="La Última Nota (2020)" tvg-name="La Última Nota (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8w80VLACr7wz97dlGK8GvNIGbP.jpg" group-title="VFLIX ESTRENOS",La Última Nota (2020)
+http://xdgo.live:8080/movie/37_vAntonioRengijo_g/rTef2TRrQC/45363.mkv
+#EXTINF:-1 tvg-id="Foxter and Max (2019)" tvg-name="Foxter and Max (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCR8VkajlZYhYRbWfeRNM2ICrSF.jpg" group-title="VFLIX ESTRENOS",Foxter and Max (2019)
+http://xdgo.live:8080/movie/37_vAntonioRengijo_g/rTef2TRrQC/45367.mkv
+#EXTINF:-1 tvg-id="Kimetsu no Yaiba: Mugen Ressha-hen (2020)" tvg-name="Kimetsu no Yaiba: Mugen Ressha-hen (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3f4ETSwknZs74lmUYC7ENIMRBMP.jpg" group-title="VFLIX ESTRENOS",Kimetsu no Yaiba: Mugen Ressha-hen (2020)
+http://xdgo.live:8080/movie/37_vAntonioRengijo_g/rTef2TRrQC/45370.mp4
+#EXTINF:-1 tvg-id="Un pueblo y su rey (2018)" tvg-name="Un pueblo y su rey (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2F5YUGShG7ICAcPhr9lgf6EROxb.jpg" group-title="VFLIX ESTRENOS",Un pueblo y su rey (2018)
+http://xdgo.live:8080/movie/37_vAntonioRengijo_g/rTef2TRrQC/45371.mkv
 #EXTINF:-1 tvg-id="Pasajero Inesperado (2021)" tvg-name="Pasajero Inesperado (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yOscLK7KzEPDdi1P8RmevGIjOSp.jpg" group-title="VFLIX ESTRENOS",Pasajero Inesperado (2021)
 http://xdgo.live:8080/movie/37_vAntonioRengijo_g/rTef2TRrQC/45264.mkv
 #EXTINF:-1 tvg-id="Dime cuando tú (2020)" tvg-name="Dime cuando tú (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/19wlQkxB3rg3IvkpptGY1rlMPvf.jpg" group-title="VFLIX ESTRENOS",Dime cuando tú (2020)
@@ -25839,7 +25869,7 @@ http://xdgo.live:8080/movie/37_vAntonioRengijo_g/rTef2TRrQC/42779.mkv
 http://xdgo.live:8080/movie/37_vAntonioRengijo_g/rTef2TRrQC/42781.mkv
 #EXTINF:-1 tvg-id="El último Vermeer (2019)" tvg-name="El último Vermeer (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wwytM352938TYwtixVUehtb2vzL.jpg" group-title="VFLIX ESTRENOS",El último Vermeer (2019)
 http://xdgo.live:8080/movie/37_vAntonioRengijo_g/rTef2TRrQC/42782.mkv
-#EXTINF:-1 tvg-id="Unhinged (2017)" tvg-name="Unhinged (2017)" tvg-logo="http://xdgo.live:8080/images/64064b301e4f6783ba2e9202783821b4.jpg" group-title="VFLIX ESTRENOS",Unhinged (2017)
+#EXTINF:-1 tvg-id="Salvaje (2020)" tvg-name="Salvaje (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zmsAZfYMe3m9JkCLrY7dVQrM90P.jpg" group-title="VFLIX ESTRENOS",Salvaje (2020)
 http://xdgo.live:8080/movie/37_vAntonioRengijo_g/rTef2TRrQC/42783.mkv
 #EXTINF:-1 tvg-id="Cherry (2021)" tvg-name="Cherry (2021)" tvg-logo="http://xdgo.live:8080/images/5ce330d300762053ed1f5f77aae0cab0.jpg" group-title="VFLIX ESTRENOS",Cherry (2021)
 http://xdgo.live:8080/movie/37_vAntonioRengijo_g/rTef2TRrQC/42609.mkv
