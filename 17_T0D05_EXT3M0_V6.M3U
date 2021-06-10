@@ -979,8 +979,6 @@ http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/30196
 http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/40046
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="BEIN SPORTS 11" tvg-logo="" group-title="DEPORTES INTERNACIONALES",BEIN SPORTS 11
 http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/40047
-#EXTINF:-1 tvg-id="Baseball (WBSC) Cuba vs Colombia 7:00 pm EST" tvg-name="Baseball (WBSC) Cuba vs Colombia 7:00 pm EST"  group-title="EVENTOS PPV",Baseball (WBSC) Cuba vs Colombia 7:00 pm EST
-http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/47298
 #EXTINF:-1 tvg-id="Colombiana (2011)" tvg-name="Colombiana (2011)"  group-title="VFLIX ACCION",Colombiana (2011)
 http://xdgo.live:8080/movie/17_VGladyscarrillo_e/3lPCIxF1o2/22733.mp4
 #EXTINF:-1 tvg-id="Alberto Barros - Tributo A La Salsa Colombiana 2" tvg-name="Alberto Barros - Tributo A La Salsa Colombiana 2"  group-title="VFLIX CONCIERTOS",Alberto Barros - Tributo A La Salsa Colombiana 2
@@ -1141,13 +1139,13 @@ http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/5451
 http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/5450
 #EXTINF:-1 tvg-id="CA TCM" tvg-name="CA TCM" group-title="CANADA",CA TCM
 http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/5604
-#EXTINF:-1 tvg-id="CA SPORTSNET_ONE" tvg-name="CA SPORTSNET_ONE" group-title="CANADA",CA SPORTSNET_ONE
+#EXTINF:-1 tvg-id="CA SPORTSNET_ONE" tvg-name="CA SPORTSNET ONE" group-title="CANADA",CA SPORTSNET ONE
 http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/5610
 #EXTINF:-1 tvg-id="CA CablePulse 24" tvg-name="CA CablePulse 24" group-title="CANADA",CA CablePulse 24
 http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/5628
 #EXTINF:-1 tvg-id="CA A&E" tvg-name="CA A&E" group-title="CANADA",CA A&E
 http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/5677
-#EXTINF:-1 tvg-id="CA TSN_1" tvg-name="CA TSN_1" group-title="CANADA",CA TSN_1
+#EXTINF:-1 tvg-id="CA TSN_1" tvg-name="CA TSN 1" group-title="CANADA",CA TSN 1
 http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/5682
 #EXTINF:-1 tvg-id="CA HBO 2" tvg-name="CA HBO 2" group-title="CANADA",CA HBO 2
 http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/5702
@@ -1233,12 +1231,10 @@ http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/5763
 http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/5651
 #EXTINF:-1 tvg-id="CA Disney Channel" tvg-name="CA Disney Channel" group-title="CANADA",CA Disney Channel
 http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/5650
-#EXTINF:-1 tvg-id="CA DISNEY_XD" tvg-name="CA DISNEY_XD" group-title="CANADA",CA DISNEY_XD
+#EXTINF:-1 tvg-id="CA DISNEY_XD" tvg-name="CA DISNEY XD" group-title="CANADA",CA DISNEY XD
 http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/5649
 #EXTINF:-1 tvg-id="CA DIY Network" tvg-name="CA DIY Network" group-title="CANADA",CA DIY Network
 http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/5648
-#EXTINF:-1 tvg-id="CA DTOUR" tvg-name="CA DTOUR" group-title="CANADA",CA DTOUR
-http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/5647
 #EXTINF:-1 tvg-id="CA E! Entertainment Television" tvg-name="CA E! Entertainment Television" group-title="CANADA",CA E! Entertainment Television
 http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/5646
 #EXTINF:-1 tvg-id="CA FAMILY" tvg-name="CA FAMILY" group-title="CANADA",CA FAMILY
@@ -1289,7 +1285,7 @@ http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/5632
 http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/5685
 #EXTINF:-1 tvg-id="CA MUCH_MUSIC" tvg-name="CA MUCH MUSIC" group-title="CANADA",CA MUCH MUSIC
 http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/5631
-#EXTINF:-1 tvg-id="CA NAT_GEO" tvg-name="CA NAT_GEO" group-title="CANADA",CA NAT_GEO
+#EXTINF:-1 tvg-id="CA NAT_GEO" tvg-name="CA NAT GEO" group-title="CANADA",CA NAT GEO
 http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/5630
 #EXTINF:-1 tvg-id="CA NBA_TV" tvg-name="CA NBA TV" tvg-logo="" group-title="CANADA",CA NBA TV
 http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/5629
@@ -1299,7 +1295,7 @@ http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/5591
 http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/5626
 #EXTINF:-1 tvg-id="CA OMNI_1" tvg-name="CA OMNI 1" group-title="CANADA",CA OMNI 1
 http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/5625
-#EXTINF:-1 tvg-id="CA OMNI_2" tvg-name="CA OMNI_2" group-title="CANADA",CA OMNI_2
+#EXTINF:-1 tvg-id="CA OMNI_2" tvg-name="CA OMNI 2" group-title="CANADA",CA OMNI 2
 http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/5624
 #EXTINF:-1 tvg-id="CA OWN" tvg-name="CA OWN" group-title="CANADA",CA OWN
 http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/5623
@@ -1311,11 +1307,11 @@ http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/5790
 http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/5732
 #EXTINF:-1 tvg-id="CA Showcase" tvg-name="CA Showcase" group-title="CANADA",CA Showcase
 http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/5605
-#EXTINF:-1 tvg-id="CA SPORTSNET_360" tvg-name="CA SPORTSNET_360" group-title="CANADA",CA SPORTSNET_360
+#EXTINF:-1 tvg-id="CA SPORTSNET_360" tvg-name="CA SPORTSNET 360" group-title="CANADA",CA SPORTSNET 360
 http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/5612
 #EXTINF:-1 tvg-id="CA SPORTSNET_EAST" tvg-name="CA SPORTSNET EAST" group-title="CANADA",CA SPORTSNET EAST
 http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/5611
-#EXTINF:-1 tvg-id="CA SPORTSNET_ONTARIO" tvg-name="CA SPORTSNET_ONTARIO" group-title="CANADA",CA SPORTSNET_ONTARIO
+#EXTINF:-1 tvg-id="CA SPORTSNET_ONTARIO" tvg-name="CA SPORTSNET ONTARIO" group-title="CANADA",CA SPORTSNET ONTARIO
 http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/5609
 #EXTINF:-1 tvg-id="CA SPORTSNET_PACIFIC" tvg-name="CA SPORTSNET PACIFIC" group-title="CANADA",CA SPORTSNET PACIFIC
 http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/5608
@@ -1335,7 +1331,7 @@ http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/5681
 http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/5680
 #EXTINF:-1 tvg-id="CA TSN_4" tvg-name="CA TSN 4" group-title="CANADA",CA TSN 4
 http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/5679
-#EXTINF:-1 tvg-id="CA TSN_5" tvg-name="CA TSN_5" group-title="CANADA",CA TSN_5
+#EXTINF:-1 tvg-id="CA TSN_5" tvg-name="CA TSN 5" group-title="CANADA",CA TSN 5
 http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/5678
 #EXTINF:-1 tvg-id="CA TV Ontario" tvg-name="CA TV Ontario" group-title="CANADA",CA TV Ontario
 http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/5688
@@ -1351,8 +1347,6 @@ http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/5796
 http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/5590
 #EXTINF:-1 tvg-id="CA WGN" tvg-name="CA WGN" group-title="CANADA",CA WGN
 http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/5798
-#EXTINF:-1 tvg-id="CA VRAK TV (FR)" tvg-name="CA W_NETWORK" group-title="CANADA",CA W_NETWORK
-http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/5589
 #EXTINF:-1 tvg-id="CA Wild TV" tvg-name="CA YES TV" group-title="CANADA",CA YES TV
 http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/5588
 #EXTINF:-1 tvg-id="A&E FHD" tvg-name="A&E FHD" tvg-logo="https://images.istreamplanet.net/w_222.22222222222223,c_limit/dtv-latam-prod/7ccd90e70bdc68ed0f3c8046e75b6e03" group-title="CINE FHD",A&E FHD
@@ -1955,76 +1949,8 @@ http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/58
 http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/57
 #EXTINF:-1 tvg-id="ES ENERGY" tvg-name="ES ENERGY" group-title="ESPANA",ES ENERGY
 http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/24261
-#EXTINF:-1 tvg-id="PPV UFC LFA 109 PLUS 9:00 pm - Friday, June 4th" tvg-name="PPV UFC LFA 109 PLUS 9:00 pm - Friday, June 4th"  group-title="EVENTOS PPV",PPV UFC LFA 109 PLUS 9:00 pm - Friday, June 4th
+#EXTINF:-1 tvg-id="PPV UFC" tvg-name="PPV UFC"  group-title="EVENTOS PPV",PPV UFC
 http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/47231
-#EXTINF:-1 tvg-id="Baseball (WBSC) Nicaragua vs Dominicana 1:00 pm EST" tvg-name="Baseball (WBSC) Nicaragua vs Dominicana 1:00 pm EST"  group-title="EVENTOS PPV",Baseball (WBSC) Nicaragua vs Dominicana 1:00 pm EST
-http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/47295
-#EXTINF:-1 tvg-id="Baseball (WBSC) Canada vs Venezuela 1:00 pm EST" tvg-name="Baseball (WBSC) Canada vs Venezuela 1:00 pm EST"  group-title="EVENTOS PPV",Baseball (WBSC) Canada vs Venezuela 1:00 pm EST
-http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/47296
-#EXTINF:-1 tvg-id="Baseball (WBSC) Puerto Rico vs USA 7:00 pm EST" tvg-name="Baseball (WBSC) Puerto Rico vs USA 7:00 pm EST" tvg-logo="" group-title="EVENTOS PPV",Baseball (WBSC) Puerto Rico vs USA 7:00 pm EST
-http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/47297
-#EXTINF:-1 tvg-id="Racing (Auto) ARCA PLUS Dawn 150 at Mid-Ohio PLUS 6:00pm EST (FS1)" tvg-name="Racing (Auto) ARCA PLUS Dawn 150 at Mid-Ohio PLUS 6:00pm EST (FS1)"  group-title="EVENTOS PPV",Racing (Auto) ARCA PLUS Dawn 150 at Mid-Ohio PLUS 6:00pm EST (FS1)
-http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/47299
-#EXTINF:-1 tvg-id="Wrestling (WWE) Smackdown on FOX 8:00pm EST" tvg-name="Wrestling (WWE) Smackdown on FOX 8:00pm EST"  group-title="EVENTOS PPV",Wrestling (WWE) Smackdown on FOX 8:00pm EST
-http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/47300
-#EXTINF:-1 tvg-id="Wrestling (AEW) All Elite Wrestling Dynamite 10:00pm EST (TNT)" tvg-name="Wrestling (AEW) All Elite Wrestling Dynamite 10:00pm EST (TNT)"  group-title="EVENTOS PPV",Wrestling (AEW) All Elite Wrestling Dynamite 10:00pm EST (TNT)
-http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/47301
-#EXTINF:-1 tvg-id="Hockey (NHL) Montreal Canadiens at Winnipeg Jets 7:30pm EST (USA)" tvg-name="Hockey (NHL) Montreal Canadiens at Winnipeg Jets 7:30pm EST (USA)" tvg-logo="" group-title="EVENTOS PPV",Hockey (NHL) Montreal Canadiens at Winnipeg Jets 7:30pm EST (USA)
-http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/47302
-#EXTINF:-1 tvg-id="Hockey (NHL) Colorado Avalanche at Vegas Golden Knights 10:00pm EST (NBCS)" tvg-name="Hockey (NHL) Colorado Avalanche at Vegas Golden Knights 10:00pm EST (NBCS)"  group-title="EVENTOS PPV",Hockey (NHL) Colorado Avalanche at Vegas Golden Knights 10:00pm EST (NBCS)
-http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/47303
-#EXTINF:-1 tvg-id="Baseball (MLB) Houston Astros at Toronto Blue Jays 7:07pm EST" tvg-name="Baseball (MLB) Houston Astros at Toronto Blue Jays 7:07pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Houston Astros at Toronto Blue Jays 7:07pm EST
-http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/47304
-#EXTINF:-1 tvg-id="Baseball (MLB) Boston Red Sox at New York Yankees 7:05pm EST" tvg-name="Baseball (MLB) Boston Red Sox at New York Yankees 7:05pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Boston Red Sox at New York Yankees 7:05pm EST
-http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/47305
-#EXTINF:-1 tvg-id="Baseball (MLB) Miami Marlins at Pittsburgh Pirates 7:05pm EST" tvg-name="Baseball (MLB) Miami Marlins at Pittsburgh Pirates 7:05pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Miami Marlins at Pittsburgh Pirates 7:05pm EST
-http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/47306
-#EXTINF:-1 tvg-id="Baseball (MLB) Cleveland Indians at Baltimore Orioles 7:05pm EST" tvg-name="Baseball (MLB) Cleveland Indians at Baltimore Orioles 7:05pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Cleveland Indians at Baltimore Orioles 7:05pm EST
-http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/47307
-#EXTINF:-1 tvg-id="Baseball (MLB) Washington Nationals at Philadelphia Phillies 7:05pm EST" tvg-name="Baseball (MLB) Washington Nationals at Philadelphia Phillies 7:05pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Washington Nationals at Philadelphia Phillies 7:05pm EST
-http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/47308
-#EXTINF:-1 tvg-id="Baseball (MLB) Los Angeles Dodgers at Atlanta Braves 7:20pm EST" tvg-name="Baseball (MLB) Los Angeles Dodgers at Atlanta Braves 7:20pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Los Angeles Dodgers at Atlanta Braves 7:20pm EST
-http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/47309
-#EXTINF:-1 tvg-id="Baseball (MLB) Detroit Tigers at Chicago White Sox 8:19pm EST" tvg-name="Baseball (MLB) Detroit Tigers at Chicago White Sox 8:19pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Detroit Tigers at Chicago White Sox 8:19pm EST
-http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/47310
-#EXTINF:-1 tvg-id="Baseball (MLB) Cincinnati Reds at St. Louis Cardinals 8:15pm EST" tvg-name="Baseball (MLB) Cincinnati Reds at St. Louis Cardinals 8:15pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Cincinnati Reds at St. Louis Cardinals 8:15pm EST
-http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/47311
-#EXTINF:-1 tvg-id="Baseball (MLB) Minnesota Twins at Kansas City Royals 8:10pm EST" tvg-name="Baseball (MLB) Minnesota Twins at Kansas City Royals 8:10pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Minnesota Twins at Kansas City Royals 8:10pm EST
-http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/47312
-#EXTINF:-1 tvg-id="Baseball (MLB) Arizona Diamondbacks at Milwaukee Brewers 8:10pm EST" tvg-name="Baseball (MLB) Arizona Diamondbacks at Milwaukee Brewers 8:10pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Arizona Diamondbacks at Milwaukee Brewers 8:10pm EST
-http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/47313
-#EXTINF:-1 tvg-id="Baseball (MLB) Oakland Athletics at Colorado Rockies 8:40pm EST" tvg-name="Baseball (MLB) Oakland Athletics at Colorado Rockies 8:40pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Oakland Athletics at Colorado Rockies 8:40pm EST
-http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/47314
-#EXTINF:-1 tvg-id="Baseball (MLB) Seattle Mariners at Los Angeles Angels 9:38pm EST" tvg-name="Baseball (MLB) Seattle Mariners at Los Angeles Angels 9:38pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Seattle Mariners at Los Angeles Angels 9:38pm EST
-http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/47315
-#EXTINF:-1 tvg-id="Baseball (MLB) Chicago Cubs at San Francisco Giants 9:45pm EST" tvg-name="Baseball (MLB) Chicago Cubs at San Francisco Giants 9:45pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Chicago Cubs at San Francisco Giants 9:45pm EST
-http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/47316
-#EXTINF:-1 tvg-id="Baseball (MLB) New York Mets at San Diego Padres 10:10pm EST" tvg-name="Baseball (MLB) New York Mets at San Diego Padres 10:10pm EST"  group-title="EVENTOS PPV",Baseball (MLB) New York Mets at San Diego Padres 10:10pm EST
-http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/47317
-#EXTINF:-1 tvg-id="Boxing David Lemieux vs David Zagarra 8:00pm EST (HD1)" tvg-name="Boxing David Lemieux vs David Zagarra 8:00pm EST (HD1)"  group-title="EVENTOS PPV",Boxing David Lemieux vs David Zagarra 8:00pm EST (HD1)
-http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/47318
-#EXTINF:-1 tvg-id="MMA LFA 109 McKinney vs. Irizarry 9:00pm EST (HD1)" tvg-name="MMA LFA 109 McKinney vs. Irizarry 9:00pm EST (HD1)"  group-title="EVENTOS PPV",MMA LFA 109 McKinney vs. Irizarry 9:00pm EST (HD1)
-http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/47319
-#EXTINF:-1 tvg-id="Soccer (FRIENDLY) Spain vs. Portugal 1:30 pm EST (ENG)" tvg-name="Soccer (FRIENDLY) Spain vs. Portugal 1:30 pm EST (ENG)"  group-title="EVENTOS PPV",Soccer (FRIENDLY) Spain vs. Portugal 1:30 pm EST (ENG)
-http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/47320
-#EXTINF:-1 tvg-id="Soccer (FRIENDLY) Spain vs. Portugal 1:30 pm EST (ESP)" tvg-name="Soccer (FRIENDLY) Spain vs. Portugal 1:30 pm EST (ESP)"  group-title="EVENTOS PPV",Soccer (FRIENDLY) Spain vs. Portugal 1:30 pm EST (ESP)
-http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/47321
-#EXTINF:-1 tvg-id="Soccer (WCQUALIFIER) Brazil vs. Ecuador 8:30 pm EST (ENG2)" tvg-name="Soccer (WCQUALIFIER) Brazil vs. Ecuador 8:30 pm EST (ENG2)"  group-title="EVENTOS PPV",Soccer (WCQUALIFIER) Brazil vs. Ecuador 8:30 pm EST (ENG2)
-http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/47322
-#EXTINF:-1 tvg-id="Soccer (WCQUALIFIER) Brazil vs. Ecuador 8:30 pm EST (ESP2)" tvg-name="Soccer (WCQUALIFIER) Brazil vs. Ecuador 8:30 pm EST (ESP2)"  group-title="EVENTOS PPV",Soccer (WCQUALIFIER) Brazil vs. Ecuador 8:30 pm EST (ESP2)
-http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/47323
-#EXTINF:-1 tvg-id="Soccer (WCQUALIFIER) Brazil vs. Ecuador 8:30 pm EST (ENG1)" tvg-name="Soccer (WCQUALIFIER) Brazil vs. Ecuador 8:30 pm EST (ENG1)"  group-title="EVENTOS PPV",Soccer (WCQUALIFIER) Brazil vs. Ecuador 8:30 pm EST (ENG1)
-http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/47324
-#EXTINF:-1 tvg-id="Soccer (WCQUALIFIER) Nicaragua vs. Belize 9:00 pm EST (ESP)" tvg-name="Soccer (WCQUALIFIER) Nicaragua vs. Belize 9:00 pm EST (ESP)"  group-title="EVENTOS PPV",Soccer (WCQUALIFIER) Nicaragua vs. Belize 9:00 pm EST (ESP)
-http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/47325
-#EXTINF:-1 tvg-id="Soccer (WCQUALIFIER) Guatemala vs. Saint Vincent And The Grenadines 6:00 pm EST (ESP)" tvg-name="Soccer (WCQUALIFIER) Guatemala vs. Saint Vincent And The Grenadines 6:00 pm EST (ESP)"  group-title="EVENTOS PPV",Soccer (WCQUALIFIER) Guatemala vs. Saint Vincent And The Grenadines 6:00 pm EST (ESP)
-http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/47326
-#EXTINF:-1 tvg-id="Soccer (WCQUALIFIER) Brazil vs. Ecuador 8:30 pm EST (ESP1)" tvg-name="Soccer (WCQUALIFIER) Brazil vs. Ecuador 8:30 pm EST (ESP1)"  group-title="EVENTOS PPV",Soccer (WCQUALIFIER) Brazil vs. Ecuador 8:30 pm EST (ESP1)
-http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/47327
-#EXTINF:-1 tvg-id="Soccer (FRIENDLY) Italy vs. Czech Republic 2:45 pm EST (ENG)" tvg-name="Soccer (FRIENDLY) Italy vs. Czech Republic 2:45 pm EST (ENG)"  group-title="EVENTOS PPV",Soccer (FRIENDLY) Italy vs. Czech Republic 2:45 pm EST (ENG)
-http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/47328
-#EXTINF:-1 tvg-id="Soccer (FRIENDLY) Italy vs. Czech Republic 2:45 pm EST (ESP)" tvg-name="Soccer (FRIENDLY) Italy vs. Czech Republic 2:45 pm EST (ESP)"  group-title="EVENTOS PPV",Soccer (FRIENDLY) Italy vs. Czech Republic 2:45 pm EST (ESP)
-http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/47329
 #EXTINF:-1 tvg-id="GUA Canal 4" tvg-name="GUA VEA CANAL" group-title="GUATEMALA",GUA VEA CANAL
 http://xdgo.live:8080/17_VGladyscarrillo_e/3lPCIxF1o2/2597
 #EXTINF:-1 tvg-id="GUA CANAL 11" tvg-name="GUA CANAL 11" group-title="GUATEMALA",GUA CANAL 11
@@ -5125,7 +5051,7 @@ http://xdgo.live:8080/movie/17_VGladyscarrillo_e/3lPCIxF1o2/23003.avi
 http://xdgo.live:8080/movie/17_VGladyscarrillo_e/3lPCIxF1o2/23004.mkv
 #EXTINF:-1 tvg-id="Pasajeros (2013)" tvg-name="Pasajeros (2013)"  group-title="VFLIX ACCION",Pasajeros (2013)
 http://xdgo.live:8080/movie/17_VGladyscarrillo_e/3lPCIxF1o2/23005.mp4
-#EXTINF:-1 tvg-id="Piratas del mar Caribe (1942)" tvg-name="Piratas del mar Caribe (1942)"  group-title="VFLIX ACCION",Piratas del mar Caribe (1942)
+#EXTINF:-1 tvg-id="Piratas del Caribe En mareas misteriosas (2011)" tvg-name="Piratas del Caribe En mareas misteriosas (2011)"  group-title="VFLIX ACCION",Piratas del Caribe En mareas misteriosas (2011)
 http://xdgo.live:8080/movie/17_VGladyscarrillo_e/3lPCIxF1o2/23006.mkv
 #EXTINF:-1 tvg-id="Plan de escape 3 (2019)" tvg-name="Plan de escape 3 (2019)"  group-title="VFLIX ACCION",Plan de escape 3 (2019)
 http://xdgo.live:8080/movie/17_VGladyscarrillo_e/3lPCIxF1o2/23007.avi
@@ -5431,7 +5357,7 @@ http://xdgo.live:8080/movie/17_VGladyscarrillo_e/3lPCIxF1o2/27870.mp4
 http://xdgo.live:8080/movie/17_VGladyscarrillo_e/3lPCIxF1o2/27871.mp4
 #EXTINF:-1 tvg-id="Mi gran amigo Joe (1998)" tvg-name="Mi gran amigo Joe (1998)"  group-title="VFLIX AVENTURA",Mi gran amigo Joe (1998)
 http://xdgo.live:8080/movie/17_VGladyscarrillo_e/3lPCIxF1o2/27872.mp4
-#EXTINF:-1 tvg-id="Piratas del mar Caribe (1942)" tvg-name="Piratas del mar Caribe (1942)"  group-title="VFLIX AVENTURA",Piratas del mar Caribe (1942)
+#EXTINF:-1 tvg-id="Piratas del Caribe El cofre del hombre muerto (2006)" tvg-name="Piratas del Caribe El cofre del hombre muerto (2006)"  group-title="VFLIX AVENTURA",Piratas del Caribe El cofre del hombre muerto (2006)
 http://xdgo.live:8080/movie/17_VGladyscarrillo_e/3lPCIxF1o2/27873.mkv
 #EXTINF:-1 tvg-id="El Mago de Oz (1985)" tvg-name="El Mago de Oz (1985)"  group-title="VFLIX AVENTURA",El Mago de Oz (1985)
 http://xdgo.live:8080/movie/17_VGladyscarrillo_e/3lPCIxF1o2/27874.mkv
@@ -5441,7 +5367,7 @@ http://xdgo.live:8080/movie/17_VGladyscarrillo_e/3lPCIxF1o2/27875.mkv
 http://xdgo.live:8080/movie/17_VGladyscarrillo_e/3lPCIxF1o2/27876.mp4
 #EXTINF:-1 tvg-id="Animales fantasticos y donde encontrarlos (2016)" tvg-name="Animales fantasticos y donde encontrarlos (2016)"  group-title="VFLIX AVENTURA",Animales fantasticos y donde encontrarlos (2016)
 http://xdgo.live:8080/movie/17_VGladyscarrillo_e/3lPCIxF1o2/27877.mp4
-#EXTINF:-1 tvg-id="Piratas del mar Caribe (1942)" tvg-name="Piratas del mar Caribe (1942)"  group-title="VFLIX AVENTURA",Piratas del mar Caribe (1942)
+#EXTINF:-1 tvg-id="Piratas del Caribe. La maldicion de la Perla Negra (2003)" tvg-name="Piratas del Caribe. La maldicion de la Perla Negra (2003)"  group-title="VFLIX AVENTURA",Piratas del Caribe. La maldicion de la Perla Negra (2003)
 http://xdgo.live:8080/movie/17_VGladyscarrillo_e/3lPCIxF1o2/27878.mkv
 #EXTINF:-1 tvg-id="Van Helsing (2004)" tvg-name="Van Helsing (2004)"  group-title="VFLIX AVENTURA",Van Helsing (2004)
 http://xdgo.live:8080/movie/17_VGladyscarrillo_e/3lPCIxF1o2/27879.mp4
@@ -5517,7 +5443,7 @@ http://xdgo.live:8080/movie/17_VGladyscarrillo_e/3lPCIxF1o2/27913.mp4
 http://xdgo.live:8080/movie/17_VGladyscarrillo_e/3lPCIxF1o2/27914.mp4
 #EXTINF:-1 tvg-id="El corredor del laberinto (2014)" tvg-name="El corredor del laberinto (2014)"  group-title="VFLIX AVENTURA",El corredor del laberinto (2014)
 http://xdgo.live:8080/movie/17_VGladyscarrillo_e/3lPCIxF1o2/27915.mkv
-#EXTINF:-1 tvg-id="Piratas del mar Caribe (1942)" tvg-name="Piratas del mar Caribe (1942)"  group-title="VFLIX AVENTURA",Piratas del mar Caribe (1942)
+#EXTINF:-1 tvg-id="Piratas del Caribe La venganza de Salazar (2017)" tvg-name="Piratas del Caribe La venganza de Salazar (2017)"  group-title="VFLIX AVENTURA",Piratas del Caribe La venganza de Salazar (2017)
 http://xdgo.live:8080/movie/17_VGladyscarrillo_e/3lPCIxF1o2/27916.mkv
 #EXTINF:-1 tvg-id="Arma joven (1988)" tvg-name="Arma joven (1988)"  group-title="VFLIX AVENTURA",Arma joven (1988)
 http://xdgo.live:8080/movie/17_VGladyscarrillo_e/3lPCIxF1o2/27917.mp4
@@ -5557,7 +5483,7 @@ http://xdgo.live:8080/movie/17_VGladyscarrillo_e/3lPCIxF1o2/27934.mp4
 http://xdgo.live:8080/movie/17_VGladyscarrillo_e/3lPCIxF1o2/27936.mkv
 #EXTINF:-1 tvg-id="El nino que pudo ser rey (2019)" tvg-name="El nino que pudo ser rey (2019)"  group-title="VFLIX AVENTURA",El nino que pudo ser rey (2019)
 http://xdgo.live:8080/movie/17_VGladyscarrillo_e/3lPCIxF1o2/27937.mkv
-#EXTINF:-1 tvg-id="Piratas del mar Caribe (1942)" tvg-name="Piratas del mar Caribe (1942)"  group-title="VFLIX AVENTURA",Piratas del mar Caribe (1942)
+#EXTINF:-1 tvg-id="Piratas del Caribe En mareas misteriosas (2011)" tvg-name="Piratas del Caribe En mareas misteriosas (2011)"  group-title="VFLIX AVENTURA",Piratas del Caribe En mareas misteriosas (2011)
 http://xdgo.live:8080/movie/17_VGladyscarrillo_e/3lPCIxF1o2/27938.mkv
 #EXTINF:-1 tvg-id="La Leyenda del Rey Mono El Regreso del Heroe (2015)" tvg-name="La Leyenda del Rey Mono El Regreso del Heroe (2015)"  group-title="VFLIX AVENTURA",La Leyenda del Rey Mono El Regreso del Heroe (2015)
 http://xdgo.live:8080/movie/17_VGladyscarrillo_e/3lPCIxF1o2/27939.mp4
@@ -5781,7 +5707,7 @@ http://xdgo.live:8080/movie/17_VGladyscarrillo_e/3lPCIxF1o2/28054.mp4
 http://xdgo.live:8080/movie/17_VGladyscarrillo_e/3lPCIxF1o2/28055.mp4
 #EXTINF:-1 tvg-id="Braven (El Lenador) (2018)" tvg-name="Braven (El Lenador) (2018)"  group-title="VFLIX AVENTURA",Braven (El Lenador) (2018)
 http://xdgo.live:8080/movie/17_VGladyscarrillo_e/3lPCIxF1o2/28056.mp4
-#EXTINF:-1 tvg-id="Piratas del mar Caribe (1942)" tvg-name="Piratas del mar Caribe (1942)"  group-title="VFLIX AVENTURA",Piratas del mar Caribe (1942)
+#EXTINF:-1 tvg-id="Piratas del Caribe En el fin del mundo (2007)" tvg-name="Piratas del Caribe En el fin del mundo (2007)"  group-title="VFLIX AVENTURA",Piratas del Caribe En el fin del mundo (2007)
 http://xdgo.live:8080/movie/17_VGladyscarrillo_e/3lPCIxF1o2/28057.mkv
 #EXTINF:-1 tvg-id="Mia y el leon blanco (2018)" tvg-name="Mia y el leon blanco (2018)"  group-title="VFLIX AVENTURA",Mia y el leon blanco (2018)
 http://xdgo.live:8080/movie/17_VGladyscarrillo_e/3lPCIxF1o2/28058.mkv
@@ -13339,6 +13265,8 @@ http://xdgo.live:8080/series/17_VGladyscarrillo_e/3lPCIxF1o2/44636.mkv
 http://xdgo.live:8080/series/17_VGladyscarrillo_e/3lPCIxF1o2/45112.mkv
 #EXTINF:-1 tvg-id="Falcon y el Soldado del Invierno S01 E06" tvg-name="Falcon y el Soldado del Invierno S01 E06"  group-title="FALCON Y EL SOLDADO DE INVIERNO",Falcon y el Soldado del Invierno S01 E06
 http://xdgo.live:8080/series/17_VGladyscarrillo_e/3lPCIxF1o2/45172.mkv
+#EXTINF:-1 tvg-id="Loki S01 E01" tvg-name="Loki S01 E01"  group-title="LOKI",Loki S01 E01
+http://xdgo.live:8080/series/17_VGladyscarrillo_e/3lPCIxF1o2/47576.mp4
 #EXTINF:-1 tvg-id="Los Visitantes S01 E01" tvg-name="Los Visitantes S01 E01"  group-title="LOS VISITANTES",Los Visitantes S01 E01
 http://xdgo.live:8080/series/17_VGladyscarrillo_e/3lPCIxF1o2/41473.mkv
 #EXTINF:-1 tvg-id="Los Visitantes S01 E02" tvg-name="Los Visitantes S01 E02"  group-title="LOS VISITANTES",Los Visitantes S01 E02
