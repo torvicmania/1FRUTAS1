@@ -347,6 +347,8 @@ http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/1784
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/1786
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 1 FHD" tvg-name="DIRECTV SPORTS 1 FHD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 FHD
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/1785
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 AR HD" tvg-name="DIRECTV SPORTS 1 AR HD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 AR HD
+http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/47911
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 1 CL HQ" tvg-name="DIRECTV SPORTS 1 CL HQ" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 CL HQ
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/45883
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 1 HD" tvg-name="DIRECTV SPORTS 1 CL HQ op2" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 CL HQ op2
@@ -419,6 +421,8 @@ http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/29594
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/30425
 #EXTINF:-1 tvg-id="ESPN SUR HD" tvg-name="ESPN SUR HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN SUR HD
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/1858
+#EXTINF:-1 tvg-id="ESPN SUR HD op2" tvg-name="ESPN SUR HD op2" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN SUR HD op2
+http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/47915
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="ESPN SUR FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN SUR FHD
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/1861
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="ESPN MX HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN MX HQ
@@ -427,6 +431,8 @@ http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/1797
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/1799
 #EXTINF:-1 tvg-id="ESPN MX FHD" tvg-name="ESPN MX FHD" tvg-logo="" group-title="DEPORTES",ESPN MX FHD
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/30428
+#EXTINF:-1 tvg-id="ESPN LATINOAMERICA HD" tvg-name="ESPN LATINOAMERICA HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN LATINOAMERICA HD
+http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/47916
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="ESPN 2 CL HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 2 CL HQ
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/30295
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="ESPN 2 CL HQ op2" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 2 CL HQ op2
@@ -457,6 +463,8 @@ http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/1859
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/1862
 #EXTINF:-1 tvg-id="ESPN 2 NORTE HD" tvg-name="ESPN 2 NORTE HD" tvg-logo="" group-title="DEPORTES",ESPN 2 NORTE HD
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/30426
+#EXTINF:-1 tvg-id="ESPN 2 LATINOAMERICA HD" tvg-name="ESPN 2 LATINOAMERICA HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 2 LATINOAMERICA HD
+http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/47917
 #EXTINF:-1 tvg-id="ESPN 3 CL HD" tvg-name="ESPN 3 CL HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 3 CL HD
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/46196
 #EXTINF:-1 tvg-id="ESPN 3 SUR HD" tvg-name="ESPN 3 PE FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 3 PE FHD
@@ -507,6 +515,8 @@ http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/30427
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/1777
 #EXTINF:-1 tvg-id="FOX SPORTS 1 AR HD" tvg-name="FOX SPORTS 1 AR HD" tvg-logo="" group-title="DEPORTES",FOX SPORTS 1 AR HD
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/30424
+#EXTINF:-1 tvg-id="FOX SPORTS 1 AR HD op2" tvg-name="FOX SPORTS 1 AR HD op2" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 1 AR HD op2
+http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/47912
 #EXTINF:-1 tvg-id="FOX SPORTS 1 AR FHD" tvg-name="FOX SPORTS 1 AR FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 1 AR FHD
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/1779
 #EXTINF:-1 tvg-id="FOX SPORTS 1 AR FHD op2" tvg-name="FOX SPORTS 1 AR FHD op2" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 1 AR FHD op2
@@ -539,6 +549,8 @@ http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/1768
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/1776
 #EXTINF:-1 tvg-id="FOX SPORTS 2 AR HD" tvg-name="FOX SPORTS 2 AR HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 2 AR HD
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/1782
+#EXTINF:-1 tvg-id="FOX SPORTS 2 AR HD op2" tvg-name="FOX SPORTS 2 AR HD op2" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 2 AR HD op2
+http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/47913
 #EXTINF:-1 tvg-id="FOX SPORTS 2 AR FHD" tvg-name="FOX SPORTS 2 AR FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 2 AR FHD
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/1778
 #EXTINF:-1 tvg-id="FOX SPORTS 2 CO HD" tvg-name="FOX SPORTS 2 PE FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 2 PE FHD
@@ -547,6 +559,8 @@ http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/41771
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/1775
 #EXTINF:-1 tvg-id="FOX SPORTS 3 AR HD" tvg-name="FOX SPORTS 3 AR HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 3 AR HD
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/1781
+#EXTINF:-1 tvg-id="FOX SPORTS 3 AR HD op2" tvg-name="FOX SPORTS 3 AR HD op2" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 3 AR HD op2
+http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/47914
 #EXTINF:-1 tvg-id="FOX SPORTS 3 CL HD" tvg-name="FOX SPORTS 3 CL HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 3 CL HD
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/46198
 #EXTINF:-1 tvg-id="FOX SPORTS 3 MX HQ" tvg-name="FOX SPORTS 3 MX HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 3 MX HQ
@@ -979,8 +993,6 @@ http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/30196
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/40046
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="BEIN SPORTS 11" tvg-logo="" group-title="DEPORTES INTERNACIONALES",BEIN SPORTS 11
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/40047
-#EXTINF:-1 tvg-id="Baseball (WBSC) Cuba vs Colombia 7:00 pm EST" tvg-name="Baseball (WBSC) Cuba vs Colombia 7:00 pm EST"  group-title="EVENTOS PPV",Baseball (WBSC) Cuba vs Colombia 7:00 pm EST
-http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/47298
 #EXTINF:-1 tvg-id="Colombiana (2011)" tvg-name="Colombiana (2011)"  group-title="VFLIX ACCION",Colombiana (2011)
 http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/22733.mp4
 #EXTINF:-1 tvg-id="Alberto Barros - Tributo A La Salsa Colombiana 2" tvg-name="Alberto Barros - Tributo A La Salsa Colombiana 2"  group-title="VFLIX CONCIERTOS",Alberto Barros - Tributo A La Salsa Colombiana 2
@@ -1141,13 +1153,13 @@ http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/5451
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/5450
 #EXTINF:-1 tvg-id="CA TCM" tvg-name="CA TCM" group-title="CANADA",CA TCM
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/5604
-#EXTINF:-1 tvg-id="CA SPORTSNET_ONE" tvg-name="CA SPORTSNET_ONE" group-title="CANADA",CA SPORTSNET_ONE
+#EXTINF:-1 tvg-id="CA SPORTSNET_ONE" tvg-name="CA SPORTSNET ONE" group-title="CANADA",CA SPORTSNET ONE
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/5610
 #EXTINF:-1 tvg-id="CA CablePulse 24" tvg-name="CA CablePulse 24" group-title="CANADA",CA CablePulse 24
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/5628
 #EXTINF:-1 tvg-id="CA A&E" tvg-name="CA A&E" group-title="CANADA",CA A&E
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/5677
-#EXTINF:-1 tvg-id="CA TSN_1" tvg-name="CA TSN_1" group-title="CANADA",CA TSN_1
+#EXTINF:-1 tvg-id="CA TSN_1" tvg-name="CA TSN 1" group-title="CANADA",CA TSN 1
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/5682
 #EXTINF:-1 tvg-id="CA HBO 2" tvg-name="CA HBO 2" group-title="CANADA",CA HBO 2
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/5702
@@ -1233,12 +1245,10 @@ http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/5763
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/5651
 #EXTINF:-1 tvg-id="CA Disney Channel" tvg-name="CA Disney Channel" group-title="CANADA",CA Disney Channel
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/5650
-#EXTINF:-1 tvg-id="CA DISNEY_XD" tvg-name="CA DISNEY_XD" group-title="CANADA",CA DISNEY_XD
+#EXTINF:-1 tvg-id="CA DISNEY_XD" tvg-name="CA DISNEY XD" group-title="CANADA",CA DISNEY XD
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/5649
 #EXTINF:-1 tvg-id="CA DIY Network" tvg-name="CA DIY Network" group-title="CANADA",CA DIY Network
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/5648
-#EXTINF:-1 tvg-id="CA DTOUR" tvg-name="CA DTOUR" group-title="CANADA",CA DTOUR
-http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/5647
 #EXTINF:-1 tvg-id="CA E! Entertainment Television" tvg-name="CA E! Entertainment Television" group-title="CANADA",CA E! Entertainment Television
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/5646
 #EXTINF:-1 tvg-id="CA FAMILY" tvg-name="CA FAMILY" group-title="CANADA",CA FAMILY
@@ -1289,7 +1299,7 @@ http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/5632
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/5685
 #EXTINF:-1 tvg-id="CA MUCH_MUSIC" tvg-name="CA MUCH MUSIC" group-title="CANADA",CA MUCH MUSIC
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/5631
-#EXTINF:-1 tvg-id="CA NAT_GEO" tvg-name="CA NAT_GEO" group-title="CANADA",CA NAT_GEO
+#EXTINF:-1 tvg-id="CA NAT_GEO" tvg-name="CA NAT GEO" group-title="CANADA",CA NAT GEO
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/5630
 #EXTINF:-1 tvg-id="CA NBA_TV" tvg-name="CA NBA TV" tvg-logo="" group-title="CANADA",CA NBA TV
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/5629
@@ -1299,7 +1309,7 @@ http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/5591
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/5626
 #EXTINF:-1 tvg-id="CA OMNI_1" tvg-name="CA OMNI 1" group-title="CANADA",CA OMNI 1
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/5625
-#EXTINF:-1 tvg-id="CA OMNI_2" tvg-name="CA OMNI_2" group-title="CANADA",CA OMNI_2
+#EXTINF:-1 tvg-id="CA OMNI_2" tvg-name="CA OMNI 2" group-title="CANADA",CA OMNI 2
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/5624
 #EXTINF:-1 tvg-id="CA OWN" tvg-name="CA OWN" group-title="CANADA",CA OWN
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/5623
@@ -1311,11 +1321,11 @@ http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/5790
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/5732
 #EXTINF:-1 tvg-id="CA Showcase" tvg-name="CA Showcase" group-title="CANADA",CA Showcase
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/5605
-#EXTINF:-1 tvg-id="CA SPORTSNET_360" tvg-name="CA SPORTSNET_360" group-title="CANADA",CA SPORTSNET_360
+#EXTINF:-1 tvg-id="CA SPORTSNET_360" tvg-name="CA SPORTSNET 360" group-title="CANADA",CA SPORTSNET 360
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/5612
 #EXTINF:-1 tvg-id="CA SPORTSNET_EAST" tvg-name="CA SPORTSNET EAST" group-title="CANADA",CA SPORTSNET EAST
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/5611
-#EXTINF:-1 tvg-id="CA SPORTSNET_ONTARIO" tvg-name="CA SPORTSNET_ONTARIO" group-title="CANADA",CA SPORTSNET_ONTARIO
+#EXTINF:-1 tvg-id="CA SPORTSNET_ONTARIO" tvg-name="CA SPORTSNET ONTARIO" group-title="CANADA",CA SPORTSNET ONTARIO
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/5609
 #EXTINF:-1 tvg-id="CA SPORTSNET_PACIFIC" tvg-name="CA SPORTSNET PACIFIC" group-title="CANADA",CA SPORTSNET PACIFIC
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/5608
@@ -1335,7 +1345,7 @@ http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/5681
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/5680
 #EXTINF:-1 tvg-id="CA TSN_4" tvg-name="CA TSN 4" group-title="CANADA",CA TSN 4
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/5679
-#EXTINF:-1 tvg-id="CA TSN_5" tvg-name="CA TSN_5" group-title="CANADA",CA TSN_5
+#EXTINF:-1 tvg-id="CA TSN_5" tvg-name="CA TSN 5" group-title="CANADA",CA TSN 5
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/5678
 #EXTINF:-1 tvg-id="CA TV Ontario" tvg-name="CA TV Ontario" group-title="CANADA",CA TV Ontario
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/5688
@@ -1351,8 +1361,6 @@ http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/5796
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/5590
 #EXTINF:-1 tvg-id="CA WGN" tvg-name="CA WGN" group-title="CANADA",CA WGN
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/5798
-#EXTINF:-1 tvg-id="CA VRAK TV (FR)" tvg-name="CA W_NETWORK" group-title="CANADA",CA W_NETWORK
-http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/5589
 #EXTINF:-1 tvg-id="CA Wild TV" tvg-name="CA YES TV" group-title="CANADA",CA YES TV
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/5588
 #EXTINF:-1 tvg-id="A&E FHD" tvg-name="A&E FHD" tvg-logo="https://images.istreamplanet.net/w_222.22222222222223,c_limit/dtv-latam-prod/7ccd90e70bdc68ed0f3c8046e75b6e03" group-title="CINE FHD",A&E FHD
@@ -1955,76 +1963,8 @@ http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/58
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/57
 #EXTINF:-1 tvg-id="ES ENERGY" tvg-name="ES ENERGY" group-title="ESPANA",ES ENERGY
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/24261
-#EXTINF:-1 tvg-id="PPV UFC LFA 109 PLUS 9:00 pm - Friday, June 4th" tvg-name="PPV UFC LFA 109 PLUS 9:00 pm - Friday, June 4th"  group-title="EVENTOS PPV",PPV UFC LFA 109 PLUS 9:00 pm - Friday, June 4th
+#EXTINF:-1 tvg-id="PPV UFC" tvg-name="PPV UFC"  group-title="EVENTOS PPV",PPV UFC
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/47231
-#EXTINF:-1 tvg-id="Baseball (WBSC) Nicaragua vs Dominicana 1:00 pm EST" tvg-name="Baseball (WBSC) Nicaragua vs Dominicana 1:00 pm EST"  group-title="EVENTOS PPV",Baseball (WBSC) Nicaragua vs Dominicana 1:00 pm EST
-http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/47295
-#EXTINF:-1 tvg-id="Baseball (WBSC) Canada vs Venezuela 1:00 pm EST" tvg-name="Baseball (WBSC) Canada vs Venezuela 1:00 pm EST"  group-title="EVENTOS PPV",Baseball (WBSC) Canada vs Venezuela 1:00 pm EST
-http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/47296
-#EXTINF:-1 tvg-id="Baseball (WBSC) Puerto Rico vs USA 7:00 pm EST" tvg-name="Baseball (WBSC) Puerto Rico vs USA 7:00 pm EST" tvg-logo="" group-title="EVENTOS PPV",Baseball (WBSC) Puerto Rico vs USA 7:00 pm EST
-http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/47297
-#EXTINF:-1 tvg-id="Racing (Auto) ARCA PLUS Dawn 150 at Mid-Ohio PLUS 6:00pm EST (FS1)" tvg-name="Racing (Auto) ARCA PLUS Dawn 150 at Mid-Ohio PLUS 6:00pm EST (FS1)"  group-title="EVENTOS PPV",Racing (Auto) ARCA PLUS Dawn 150 at Mid-Ohio PLUS 6:00pm EST (FS1)
-http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/47299
-#EXTINF:-1 tvg-id="Wrestling (WWE) Smackdown on FOX 8:00pm EST" tvg-name="Wrestling (WWE) Smackdown on FOX 8:00pm EST"  group-title="EVENTOS PPV",Wrestling (WWE) Smackdown on FOX 8:00pm EST
-http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/47300
-#EXTINF:-1 tvg-id="Wrestling (AEW) All Elite Wrestling Dynamite 10:00pm EST (TNT)" tvg-name="Wrestling (AEW) All Elite Wrestling Dynamite 10:00pm EST (TNT)"  group-title="EVENTOS PPV",Wrestling (AEW) All Elite Wrestling Dynamite 10:00pm EST (TNT)
-http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/47301
-#EXTINF:-1 tvg-id="Hockey (NHL) Montreal Canadiens at Winnipeg Jets 7:30pm EST (USA)" tvg-name="Hockey (NHL) Montreal Canadiens at Winnipeg Jets 7:30pm EST (USA)" tvg-logo="" group-title="EVENTOS PPV",Hockey (NHL) Montreal Canadiens at Winnipeg Jets 7:30pm EST (USA)
-http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/47302
-#EXTINF:-1 tvg-id="Hockey (NHL) Colorado Avalanche at Vegas Golden Knights 10:00pm EST (NBCS)" tvg-name="Hockey (NHL) Colorado Avalanche at Vegas Golden Knights 10:00pm EST (NBCS)"  group-title="EVENTOS PPV",Hockey (NHL) Colorado Avalanche at Vegas Golden Knights 10:00pm EST (NBCS)
-http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/47303
-#EXTINF:-1 tvg-id="Baseball (MLB) Houston Astros at Toronto Blue Jays 7:07pm EST" tvg-name="Baseball (MLB) Houston Astros at Toronto Blue Jays 7:07pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Houston Astros at Toronto Blue Jays 7:07pm EST
-http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/47304
-#EXTINF:-1 tvg-id="Baseball (MLB) Boston Red Sox at New York Yankees 7:05pm EST" tvg-name="Baseball (MLB) Boston Red Sox at New York Yankees 7:05pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Boston Red Sox at New York Yankees 7:05pm EST
-http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/47305
-#EXTINF:-1 tvg-id="Baseball (MLB) Miami Marlins at Pittsburgh Pirates 7:05pm EST" tvg-name="Baseball (MLB) Miami Marlins at Pittsburgh Pirates 7:05pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Miami Marlins at Pittsburgh Pirates 7:05pm EST
-http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/47306
-#EXTINF:-1 tvg-id="Baseball (MLB) Cleveland Indians at Baltimore Orioles 7:05pm EST" tvg-name="Baseball (MLB) Cleveland Indians at Baltimore Orioles 7:05pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Cleveland Indians at Baltimore Orioles 7:05pm EST
-http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/47307
-#EXTINF:-1 tvg-id="Baseball (MLB) Washington Nationals at Philadelphia Phillies 7:05pm EST" tvg-name="Baseball (MLB) Washington Nationals at Philadelphia Phillies 7:05pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Washington Nationals at Philadelphia Phillies 7:05pm EST
-http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/47308
-#EXTINF:-1 tvg-id="Baseball (MLB) Los Angeles Dodgers at Atlanta Braves 7:20pm EST" tvg-name="Baseball (MLB) Los Angeles Dodgers at Atlanta Braves 7:20pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Los Angeles Dodgers at Atlanta Braves 7:20pm EST
-http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/47309
-#EXTINF:-1 tvg-id="Baseball (MLB) Detroit Tigers at Chicago White Sox 8:19pm EST" tvg-name="Baseball (MLB) Detroit Tigers at Chicago White Sox 8:19pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Detroit Tigers at Chicago White Sox 8:19pm EST
-http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/47310
-#EXTINF:-1 tvg-id="Baseball (MLB) Cincinnati Reds at St. Louis Cardinals 8:15pm EST" tvg-name="Baseball (MLB) Cincinnati Reds at St. Louis Cardinals 8:15pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Cincinnati Reds at St. Louis Cardinals 8:15pm EST
-http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/47311
-#EXTINF:-1 tvg-id="Baseball (MLB) Minnesota Twins at Kansas City Royals 8:10pm EST" tvg-name="Baseball (MLB) Minnesota Twins at Kansas City Royals 8:10pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Minnesota Twins at Kansas City Royals 8:10pm EST
-http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/47312
-#EXTINF:-1 tvg-id="Baseball (MLB) Arizona Diamondbacks at Milwaukee Brewers 8:10pm EST" tvg-name="Baseball (MLB) Arizona Diamondbacks at Milwaukee Brewers 8:10pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Arizona Diamondbacks at Milwaukee Brewers 8:10pm EST
-http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/47313
-#EXTINF:-1 tvg-id="Baseball (MLB) Oakland Athletics at Colorado Rockies 8:40pm EST" tvg-name="Baseball (MLB) Oakland Athletics at Colorado Rockies 8:40pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Oakland Athletics at Colorado Rockies 8:40pm EST
-http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/47314
-#EXTINF:-1 tvg-id="Baseball (MLB) Seattle Mariners at Los Angeles Angels 9:38pm EST" tvg-name="Baseball (MLB) Seattle Mariners at Los Angeles Angels 9:38pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Seattle Mariners at Los Angeles Angels 9:38pm EST
-http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/47315
-#EXTINF:-1 tvg-id="Baseball (MLB) Chicago Cubs at San Francisco Giants 9:45pm EST" tvg-name="Baseball (MLB) Chicago Cubs at San Francisco Giants 9:45pm EST"  group-title="EVENTOS PPV",Baseball (MLB) Chicago Cubs at San Francisco Giants 9:45pm EST
-http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/47316
-#EXTINF:-1 tvg-id="Baseball (MLB) New York Mets at San Diego Padres 10:10pm EST" tvg-name="Baseball (MLB) New York Mets at San Diego Padres 10:10pm EST"  group-title="EVENTOS PPV",Baseball (MLB) New York Mets at San Diego Padres 10:10pm EST
-http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/47317
-#EXTINF:-1 tvg-id="Boxing David Lemieux vs David Zagarra 8:00pm EST (HD1)" tvg-name="Boxing David Lemieux vs David Zagarra 8:00pm EST (HD1)"  group-title="EVENTOS PPV",Boxing David Lemieux vs David Zagarra 8:00pm EST (HD1)
-http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/47318
-#EXTINF:-1 tvg-id="MMA LFA 109 McKinney vs. Irizarry 9:00pm EST (HD1)" tvg-name="MMA LFA 109 McKinney vs. Irizarry 9:00pm EST (HD1)"  group-title="EVENTOS PPV",MMA LFA 109 McKinney vs. Irizarry 9:00pm EST (HD1)
-http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/47319
-#EXTINF:-1 tvg-id="Soccer (FRIENDLY) Spain vs. Portugal 1:30 pm EST (ENG)" tvg-name="Soccer (FRIENDLY) Spain vs. Portugal 1:30 pm EST (ENG)"  group-title="EVENTOS PPV",Soccer (FRIENDLY) Spain vs. Portugal 1:30 pm EST (ENG)
-http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/47320
-#EXTINF:-1 tvg-id="Soccer (FRIENDLY) Spain vs. Portugal 1:30 pm EST (ESP)" tvg-name="Soccer (FRIENDLY) Spain vs. Portugal 1:30 pm EST (ESP)"  group-title="EVENTOS PPV",Soccer (FRIENDLY) Spain vs. Portugal 1:30 pm EST (ESP)
-http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/47321
-#EXTINF:-1 tvg-id="Soccer (WCQUALIFIER) Brazil vs. Ecuador 8:30 pm EST (ENG2)" tvg-name="Soccer (WCQUALIFIER) Brazil vs. Ecuador 8:30 pm EST (ENG2)"  group-title="EVENTOS PPV",Soccer (WCQUALIFIER) Brazil vs. Ecuador 8:30 pm EST (ENG2)
-http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/47322
-#EXTINF:-1 tvg-id="Soccer (WCQUALIFIER) Brazil vs. Ecuador 8:30 pm EST (ESP2)" tvg-name="Soccer (WCQUALIFIER) Brazil vs. Ecuador 8:30 pm EST (ESP2)"  group-title="EVENTOS PPV",Soccer (WCQUALIFIER) Brazil vs. Ecuador 8:30 pm EST (ESP2)
-http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/47323
-#EXTINF:-1 tvg-id="Soccer (WCQUALIFIER) Brazil vs. Ecuador 8:30 pm EST (ENG1)" tvg-name="Soccer (WCQUALIFIER) Brazil vs. Ecuador 8:30 pm EST (ENG1)"  group-title="EVENTOS PPV",Soccer (WCQUALIFIER) Brazil vs. Ecuador 8:30 pm EST (ENG1)
-http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/47324
-#EXTINF:-1 tvg-id="Soccer (WCQUALIFIER) Nicaragua vs. Belize 9:00 pm EST (ESP)" tvg-name="Soccer (WCQUALIFIER) Nicaragua vs. Belize 9:00 pm EST (ESP)"  group-title="EVENTOS PPV",Soccer (WCQUALIFIER) Nicaragua vs. Belize 9:00 pm EST (ESP)
-http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/47325
-#EXTINF:-1 tvg-id="Soccer (WCQUALIFIER) Guatemala vs. Saint Vincent And The Grenadines 6:00 pm EST (ESP)" tvg-name="Soccer (WCQUALIFIER) Guatemala vs. Saint Vincent And The Grenadines 6:00 pm EST (ESP)"  group-title="EVENTOS PPV",Soccer (WCQUALIFIER) Guatemala vs. Saint Vincent And The Grenadines 6:00 pm EST (ESP)
-http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/47326
-#EXTINF:-1 tvg-id="Soccer (WCQUALIFIER) Brazil vs. Ecuador 8:30 pm EST (ESP1)" tvg-name="Soccer (WCQUALIFIER) Brazil vs. Ecuador 8:30 pm EST (ESP1)"  group-title="EVENTOS PPV",Soccer (WCQUALIFIER) Brazil vs. Ecuador 8:30 pm EST (ESP1)
-http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/47327
-#EXTINF:-1 tvg-id="Soccer (FRIENDLY) Italy vs. Czech Republic 2:45 pm EST (ENG)" tvg-name="Soccer (FRIENDLY) Italy vs. Czech Republic 2:45 pm EST (ENG)"  group-title="EVENTOS PPV",Soccer (FRIENDLY) Italy vs. Czech Republic 2:45 pm EST (ENG)
-http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/47328
-#EXTINF:-1 tvg-id="Soccer (FRIENDLY) Italy vs. Czech Republic 2:45 pm EST (ESP)" tvg-name="Soccer (FRIENDLY) Italy vs. Czech Republic 2:45 pm EST (ESP)"  group-title="EVENTOS PPV",Soccer (FRIENDLY) Italy vs. Czech Republic 2:45 pm EST (ESP)
-http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/47329
 #EXTINF:-1 tvg-id="GUA Canal 4" tvg-name="GUA VEA CANAL" group-title="GUATEMALA",GUA VEA CANAL
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/2597
 #EXTINF:-1 tvg-id="GUA CANAL 11" tvg-name="GUA CANAL 11" group-title="GUATEMALA",GUA CANAL 11
@@ -2403,7 +2343,7 @@ http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/22207
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/173
 #EXTINF:-1 tvg-id="MX SEC Network HD" tvg-name="MX SEC Network HD" group-title="MEXICO",MX SEC Network HD
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/172
-#EXTINF:-1 tvg-id="MX Televisa Pueblo HD" tvg-name="MX Televisa Pueblo HD" group-title="MEXICO",MX Televisa Pueblo HD
+#EXTINF:-1 tvg-id="MX Televisa Pueblo HD" tvg-name="MX Televisa Puebla HD" group-title="MEXICO",MX Televisa Puebla HD
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/169
 #EXTINF:-1 tvg-id="MX TLR" tvg-name="MX TLR" group-title="MEXICO",MX TLR
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/167
@@ -5125,7 +5065,7 @@ http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/23003.avi
 http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/23004.mkv
 #EXTINF:-1 tvg-id="Pasajeros (2013)" tvg-name="Pasajeros (2013)"  group-title="VFLIX ACCION",Pasajeros (2013)
 http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/23005.mp4
-#EXTINF:-1 tvg-id="Piratas del mar Caribe (1942)" tvg-name="Piratas del mar Caribe (1942)"  group-title="VFLIX ACCION",Piratas del mar Caribe (1942)
+#EXTINF:-1 tvg-id="Piratas del Caribe En mareas misteriosas (2011)" tvg-name="Piratas del Caribe En mareas misteriosas (2011)"  group-title="VFLIX ACCION",Piratas del Caribe En mareas misteriosas (2011)
 http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/23006.mkv
 #EXTINF:-1 tvg-id="Plan de escape 3 (2019)" tvg-name="Plan de escape 3 (2019)"  group-title="VFLIX ACCION",Plan de escape 3 (2019)
 http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/23007.avi
@@ -5431,7 +5371,7 @@ http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/27870.mp4
 http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/27871.mp4
 #EXTINF:-1 tvg-id="Mi gran amigo Joe (1998)" tvg-name="Mi gran amigo Joe (1998)"  group-title="VFLIX AVENTURA",Mi gran amigo Joe (1998)
 http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/27872.mp4
-#EXTINF:-1 tvg-id="Piratas del mar Caribe (1942)" tvg-name="Piratas del mar Caribe (1942)"  group-title="VFLIX AVENTURA",Piratas del mar Caribe (1942)
+#EXTINF:-1 tvg-id="Piratas del Caribe El cofre del hombre muerto (2006)" tvg-name="Piratas del Caribe El cofre del hombre muerto (2006)"  group-title="VFLIX AVENTURA",Piratas del Caribe El cofre del hombre muerto (2006)
 http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/27873.mkv
 #EXTINF:-1 tvg-id="El Mago de Oz (1985)" tvg-name="El Mago de Oz (1985)"  group-title="VFLIX AVENTURA",El Mago de Oz (1985)
 http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/27874.mkv
@@ -5441,7 +5381,7 @@ http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/27875.mkv
 http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/27876.mp4
 #EXTINF:-1 tvg-id="Animales fantasticos y donde encontrarlos (2016)" tvg-name="Animales fantasticos y donde encontrarlos (2016)"  group-title="VFLIX AVENTURA",Animales fantasticos y donde encontrarlos (2016)
 http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/27877.mp4
-#EXTINF:-1 tvg-id="Piratas del mar Caribe (1942)" tvg-name="Piratas del mar Caribe (1942)"  group-title="VFLIX AVENTURA",Piratas del mar Caribe (1942)
+#EXTINF:-1 tvg-id="Piratas del Caribe. La maldicion de la Perla Negra (2003)" tvg-name="Piratas del Caribe. La maldicion de la Perla Negra (2003)"  group-title="VFLIX AVENTURA",Piratas del Caribe. La maldicion de la Perla Negra (2003)
 http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/27878.mkv
 #EXTINF:-1 tvg-id="Van Helsing (2004)" tvg-name="Van Helsing (2004)"  group-title="VFLIX AVENTURA",Van Helsing (2004)
 http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/27879.mp4
@@ -5517,7 +5457,7 @@ http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/27913.mp4
 http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/27914.mp4
 #EXTINF:-1 tvg-id="El corredor del laberinto (2014)" tvg-name="El corredor del laberinto (2014)"  group-title="VFLIX AVENTURA",El corredor del laberinto (2014)
 http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/27915.mkv
-#EXTINF:-1 tvg-id="Piratas del mar Caribe (1942)" tvg-name="Piratas del mar Caribe (1942)"  group-title="VFLIX AVENTURA",Piratas del mar Caribe (1942)
+#EXTINF:-1 tvg-id="Piratas del Caribe La venganza de Salazar (2017)" tvg-name="Piratas del Caribe La venganza de Salazar (2017)"  group-title="VFLIX AVENTURA",Piratas del Caribe La venganza de Salazar (2017)
 http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/27916.mkv
 #EXTINF:-1 tvg-id="Arma joven (1988)" tvg-name="Arma joven (1988)"  group-title="VFLIX AVENTURA",Arma joven (1988)
 http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/27917.mp4
@@ -5557,7 +5497,7 @@ http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/27934.mp4
 http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/27936.mkv
 #EXTINF:-1 tvg-id="El nino que pudo ser rey (2019)" tvg-name="El nino que pudo ser rey (2019)"  group-title="VFLIX AVENTURA",El nino que pudo ser rey (2019)
 http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/27937.mkv
-#EXTINF:-1 tvg-id="Piratas del mar Caribe (1942)" tvg-name="Piratas del mar Caribe (1942)"  group-title="VFLIX AVENTURA",Piratas del mar Caribe (1942)
+#EXTINF:-1 tvg-id="Piratas del Caribe En mareas misteriosas (2011)" tvg-name="Piratas del Caribe En mareas misteriosas (2011)"  group-title="VFLIX AVENTURA",Piratas del Caribe En mareas misteriosas (2011)
 http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/27938.mkv
 #EXTINF:-1 tvg-id="La Leyenda del Rey Mono El Regreso del Heroe (2015)" tvg-name="La Leyenda del Rey Mono El Regreso del Heroe (2015)"  group-title="VFLIX AVENTURA",La Leyenda del Rey Mono El Regreso del Heroe (2015)
 http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/27939.mp4
@@ -5781,7 +5721,7 @@ http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/28054.mp4
 http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/28055.mp4
 #EXTINF:-1 tvg-id="Braven (El Lenador) (2018)" tvg-name="Braven (El Lenador) (2018)"  group-title="VFLIX AVENTURA",Braven (El Lenador) (2018)
 http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/28056.mp4
-#EXTINF:-1 tvg-id="Piratas del mar Caribe (1942)" tvg-name="Piratas del mar Caribe (1942)"  group-title="VFLIX AVENTURA",Piratas del mar Caribe (1942)
+#EXTINF:-1 tvg-id="Piratas del Caribe En el fin del mundo (2007)" tvg-name="Piratas del Caribe En el fin del mundo (2007)"  group-title="VFLIX AVENTURA",Piratas del Caribe En el fin del mundo (2007)
 http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/28057.mkv
 #EXTINF:-1 tvg-id="Mia y el leon blanco (2018)" tvg-name="Mia y el leon blanco (2018)"  group-title="VFLIX AVENTURA",Mia y el leon blanco (2018)
 http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/28058.mkv
@@ -6691,6 +6631,8 @@ http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/22647.avi
 http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/22648.mkv
 #EXTINF:-1 tvg-id="Zombieland Mata y remata - 2019" tvg-name="Zombieland Mata y remata - 2019"  group-title="VFLIX CIENCIA FICCION",Zombieland Mata y remata - 2019
 http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/22649.mkv
+#EXTINF:-1 tvg-id="Destinos opuestos (1991)" tvg-name="Destinos opuestos (1991)"  group-title="VFLIX COMEDIA",Destinos opuestos (1991)
+http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/47789.mkv
 #EXTINF:-1 tvg-id="Austin Powers La espia que me achucho (1999)" tvg-name="Austin Powers La espia que me achucho (1999)"  group-title="VFLIX COMEDIA",Austin Powers La espia que me achucho (1999)
 http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/44185.mkv
 #EXTINF:-1 tvg-id="Austin Powers en Miembro de Oro (2002)" tvg-name="Austin Powers en Miembro de Oro (2002)"  group-title="VFLIX COMEDIA",Austin Powers en Miembro de Oro (2002)
@@ -8501,6 +8443,8 @@ http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/3662.mkv
 http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/3663.mkv
 #EXTINF:-1 tvg-id="Soda Stereo Gira Me Veras Volver" tvg-name="Soda Stereo Gira Me Veras Volver"  group-title="VFLIX CONCIERTOS",Soda Stereo Gira Me Veras Volver
 http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/3665.mkv
+#EXTINF:-1 tvg-id="Big Eyes (2014)" tvg-name="Big Eyes (2014)"  group-title="VFLIX DRAMA CRIMEN",Big Eyes (2014)
+http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/47790.mkv
 #EXTINF:-1 tvg-id="Ilusiones mortales (2021)" tvg-name="Ilusiones mortales (2021)"  group-title="VFLIX DRAMA CRIMEN",Ilusiones mortales (2021)
 http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/43957.mkv
 #EXTINF:-1 tvg-id="Valan - Az angyalok völgye (2019)" tvg-name="Valan - Az angyalok völgye (2019)"  group-title="VFLIX DRAMA CRIMEN",Valan - Az angyalok völgye (2019)
@@ -10339,11 +10283,11 @@ http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/21876.mkv
 http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/21877.mkv
 #EXTINF:-1 tvg-id="Alicia en el pais de las maravillas (1976)" tvg-name="Alicia en el pais de las maravillas (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VFLIX INFANTILES",Alicia en el pais de las maravillas (1976)
 http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/21878.mkv
-#EXTINF:-1 tvg-id="Alvin y las ardillas (2007)" tvg-name="Alvin y las ardillas (2007)" tvg-logo="http://xdgo.live:8080/images/a00684f7232d572496dd3a2d0ecdafd2.jpg" group-title="VFLIX INFANTILES",Alvin y las ardillas (2007)
+#EXTINF:-1 tvg-id="Alvin y las ardillas (2007)" tvg-name="Alvin y las ardillas (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xpInKihOnJZ9QePD5letvwDV9W8.jpg" group-title="VFLIX INFANTILES",Alvin y las ardillas (2007)
 http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/21879.mkv
-#EXTINF:-1 tvg-id="Alvin y las ardillas (2007)" tvg-name="Alvin y las ardillas (2007)" tvg-logo="http://xdgo.live:8080/images/a00684f7232d572496dd3a2d0ecdafd2.jpg" group-title="VFLIX INFANTILES",Alvin y las ardillas (2007)
+#EXTINF:-1 tvg-id="Alvin y las ardillas 2 (2009)" tvg-name="Alvin y las ardillas 2 (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/75sX4HjS8zC8PDLs9YzE1sORcbx.jpg" group-title="VFLIX INFANTILES",Alvin y las ardillas 2 (2009)
 http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/21880.mkv
-#EXTINF:-1 tvg-id="Alvin y las ardillas (2007)" tvg-name="Alvin y las ardillas (2007)" tvg-logo="http://xdgo.live:8080/images/a00684f7232d572496dd3a2d0ecdafd2.jpg" group-title="VFLIX INFANTILES",Alvin y las ardillas (2007)
+#EXTINF:-1 tvg-id="Alvin y las ardillas 3 (2011)" tvg-name="Alvin y las ardillas 3 (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lg6mc7D7QFB24rKoyQIeCa6En43.jpg" group-title="VFLIX INFANTILES",Alvin y las ardillas 3 (2011)
 http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/21881.mkv
 #EXTINF:-1 tvg-id="Angry Birds La pelicula (2016)" tvg-name="Angry Birds La pelicula (2016)" tvg-logo="http://xdgo.live:8080/images/654b233b5c00245349feda2b442b387e.jpg" group-title="VFLIX INFANTILES",Angry Birds La pelicula (2016)
 http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/21882.mkv
@@ -13339,6 +13283,10 @@ http://xdgo.live:8080/series/29_jerazo_g/Z5AAQydjfW/44636.mkv
 http://xdgo.live:8080/series/29_jerazo_g/Z5AAQydjfW/45112.mkv
 #EXTINF:-1 tvg-id="Falcon y el Soldado del Invierno S01 E06" tvg-name="Falcon y el Soldado del Invierno S01 E06"  group-title="FALCON Y EL SOLDADO DE INVIERNO",Falcon y el Soldado del Invierno S01 E06
 http://xdgo.live:8080/series/29_jerazo_g/Z5AAQydjfW/45172.mkv
+#EXTINF:-1 tvg-id="Loki S01 E01" tvg-name="Loki S01 E01"  group-title="LOKI",Loki S01 E01
+http://xdgo.live:8080/series/29_jerazo_g/Z5AAQydjfW/47576.mp4
+#EXTINF:-1 tvg-id="Loki S01 E02" tvg-name="Loki S01 E02"  group-title="LOKI",Loki S01 E02
+http://xdgo.live:8080/series/29_jerazo_g/Z5AAQydjfW/47963.mkv
 #EXTINF:-1 tvg-id="Los Visitantes S01 E01" tvg-name="Los Visitantes S01 E01"  group-title="LOS VISITANTES",Los Visitantes S01 E01
 http://xdgo.live:8080/series/29_jerazo_g/Z5AAQydjfW/41473.mkv
 #EXTINF:-1 tvg-id="Los Visitantes S01 E02" tvg-name="Los Visitantes S01 E02"  group-title="LOS VISITANTES",Los Visitantes S01 E02
@@ -13349,6 +13297,26 @@ http://xdgo.live:8080/series/29_jerazo_g/Z5AAQydjfW/41475.mkv
 http://xdgo.live:8080/series/29_jerazo_g/Z5AAQydjfW/41476.mkv
 #EXTINF:-1 tvg-id="Los Visitantes S01 E05" tvg-name="Los Visitantes S01 E05"  group-title="LOS VISITANTES",Los Visitantes S01 E05
 http://xdgo.live:8080/series/29_jerazo_g/Z5AAQydjfW/41477.mkv
+#EXTINF:-1 tvg-id="Lupin S01 E01" tvg-name="Lupin S01 E01"  group-title="LUPIN",Lupin S01 E01
+http://xdgo.live:8080/series/29_jerazo_g/Z5AAQydjfW/41965.mkv
+#EXTINF:-1 tvg-id="Lupin S01 E02" tvg-name="Lupin S01 E02"  group-title="LUPIN",Lupin S01 E02
+http://xdgo.live:8080/series/29_jerazo_g/Z5AAQydjfW/41966.mkv
+#EXTINF:-1 tvg-id="Lupin S01 E03" tvg-name="Lupin S01 E03"  group-title="LUPIN",Lupin S01 E03
+http://xdgo.live:8080/series/29_jerazo_g/Z5AAQydjfW/41967.mkv
+#EXTINF:-1 tvg-id="Lupin S01 E04" tvg-name="Lupin S01 E04"  group-title="LUPIN",Lupin S01 E04
+http://xdgo.live:8080/series/29_jerazo_g/Z5AAQydjfW/41968.mkv
+#EXTINF:-1 tvg-id="Lupin S01 E05" tvg-name="Lupin S01 E05"  group-title="LUPIN",Lupin S01 E05
+http://xdgo.live:8080/series/29_jerazo_g/Z5AAQydjfW/41969.mkv
+#EXTINF:-1 tvg-id="Lupin S02 E01" tvg-name="Lupin S02 E01"  group-title="LUPIN",Lupin S02 E01
+http://xdgo.live:8080/series/29_jerazo_g/Z5AAQydjfW/47688.mkv
+#EXTINF:-1 tvg-id="Lupin S02 E02" tvg-name="Lupin S02 E02"  group-title="LUPIN",Lupin S02 E02
+http://xdgo.live:8080/series/29_jerazo_g/Z5AAQydjfW/47689.mkv
+#EXTINF:-1 tvg-id="Lupin S02 E03" tvg-name="Lupin S02 E03"  group-title="LUPIN",Lupin S02 E03
+http://xdgo.live:8080/series/29_jerazo_g/Z5AAQydjfW/47690.mkv
+#EXTINF:-1 tvg-id="Lupin S02 E04" tvg-name="Lupin S02 E04"  group-title="LUPIN",Lupin S02 E04
+http://xdgo.live:8080/series/29_jerazo_g/Z5AAQydjfW/47691.mkv
+#EXTINF:-1 tvg-id="Lupin S02 E05" tvg-name="Lupin S02 E05"  group-title="LUPIN",Lupin S02 E05
+http://xdgo.live:8080/series/29_jerazo_g/Z5AAQydjfW/47692.mkv
 #EXTINF:-1 tvg-id="A3 SERIES FHD" tvg-name="MX A3 Series HD" group-title="MEXICO",MX A3 Series HD
 http://xdgo.live:8080/29_jerazo_g/Z5AAQydjfW/209
 #EXTINF:-1 tvg-id="Homeland S01 E01" tvg-name="Homeland S01 E01"  group-title="SERIES ACCION",Homeland S01 E01
@@ -21851,16 +21819,6 @@ http://xdgo.live:8080/series/29_jerazo_g/Z5AAQydjfW/41946.mkv
 http://xdgo.live:8080/series/29_jerazo_g/Z5AAQydjfW/41948.mkv
 #EXTINF:-1 tvg-id="Gangs of London S01 E09" tvg-name="Gangs of London S01 E09"  group-title="SERIES DRAMA",Gangs of London S01 E09
 http://xdgo.live:8080/series/29_jerazo_g/Z5AAQydjfW/41947.mkv
-#EXTINF:-1 tvg-id="Lupin S01 E01" tvg-name="Lupin S01 E01"  group-title="SERIES DRAMA",Lupin S01 E01
-http://xdgo.live:8080/series/29_jerazo_g/Z5AAQydjfW/41965.mkv
-#EXTINF:-1 tvg-id="Lupin S01 E02" tvg-name="Lupin S01 E02"  group-title="SERIES DRAMA",Lupin S01 E02
-http://xdgo.live:8080/series/29_jerazo_g/Z5AAQydjfW/41966.mkv
-#EXTINF:-1 tvg-id="Lupin S01 E03" tvg-name="Lupin S01 E03"  group-title="SERIES DRAMA",Lupin S01 E03
-http://xdgo.live:8080/series/29_jerazo_g/Z5AAQydjfW/41967.mkv
-#EXTINF:-1 tvg-id="Lupin S01 E04" tvg-name="Lupin S01 E04"  group-title="SERIES DRAMA",Lupin S01 E04
-http://xdgo.live:8080/series/29_jerazo_g/Z5AAQydjfW/41968.mkv
-#EXTINF:-1 tvg-id="Lupin S01 E05" tvg-name="Lupin S01 E05"  group-title="SERIES DRAMA",Lupin S01 E05
-http://xdgo.live:8080/series/29_jerazo_g/Z5AAQydjfW/41969.mkv
 #EXTINF:-1 tvg-id="Power Book II Ghost S01 E01" tvg-name="Power Book II Ghost S01 E01"  group-title="SERIES DRAMA",Power Book II Ghost S01 E01
 http://xdgo.live:8080/series/29_jerazo_g/Z5AAQydjfW/42002.mkv
 #EXTINF:-1 tvg-id="Power Book II Ghost S01 E02" tvg-name="Power Book II Ghost S01 E02"  group-title="SERIES DRAMA",Power Book II Ghost S01 E02
@@ -22417,6 +22375,22 @@ http://xdgo.live:8080/series/29_jerazo_g/Z5AAQydjfW/44875.mkv
 http://xdgo.live:8080/series/29_jerazo_g/Z5AAQydjfW/44876.mkv
 #EXTINF:-1 tvg-id="¿Quien mato a Sara? S01 E10" tvg-name="¿Quien mato a Sara? S01 E10"  group-title="SERIES DRAMA",¿Quien mato a Sara? S01 E10
 http://xdgo.live:8080/series/29_jerazo_g/Z5AAQydjfW/44877.mkv
+#EXTINF:-1 tvg-id="¿Quien mato a Sara? S02 E01" tvg-name="¿Quien mato a Sara? S02 E01"  group-title="SERIES DRAMA",¿Quien mato a Sara? S02 E01
+http://xdgo.live:8080/series/29_jerazo_g/Z5AAQydjfW/47680.mkv
+#EXTINF:-1 tvg-id="¿Quien mato a Sara? S02 E02" tvg-name="¿Quien mato a Sara? S02 E02"  group-title="SERIES DRAMA",¿Quien mato a Sara? S02 E02
+http://xdgo.live:8080/series/29_jerazo_g/Z5AAQydjfW/47681.mkv
+#EXTINF:-1 tvg-id="¿Quien mato a Sara? S02 E03" tvg-name="¿Quien mato a Sara? S02 E03"  group-title="SERIES DRAMA",¿Quien mato a Sara? S02 E03
+http://xdgo.live:8080/series/29_jerazo_g/Z5AAQydjfW/47682.mkv
+#EXTINF:-1 tvg-id="¿Quien mato a Sara? S02 E04" tvg-name="¿Quien mato a Sara? S02 E04"  group-title="SERIES DRAMA",¿Quien mato a Sara? S02 E04
+http://xdgo.live:8080/series/29_jerazo_g/Z5AAQydjfW/47683.mkv
+#EXTINF:-1 tvg-id="¿Quien mato a Sara? S02 E05" tvg-name="¿Quien mato a Sara? S02 E05"  group-title="SERIES DRAMA",¿Quien mato a Sara? S02 E05
+http://xdgo.live:8080/series/29_jerazo_g/Z5AAQydjfW/47684.mkv
+#EXTINF:-1 tvg-id="¿Quien mato a Sara? S02 E06" tvg-name="¿Quien mato a Sara? S02 E06"  group-title="SERIES DRAMA",¿Quien mato a Sara? S02 E06
+http://xdgo.live:8080/series/29_jerazo_g/Z5AAQydjfW/47685.mkv
+#EXTINF:-1 tvg-id="¿Quien mato a Sara? S02 E07" tvg-name="¿Quien mato a Sara? S02 E07"  group-title="SERIES DRAMA",¿Quien mato a Sara? S02 E07
+http://xdgo.live:8080/series/29_jerazo_g/Z5AAQydjfW/47686.mkv
+#EXTINF:-1 tvg-id="¿Quien mato a Sara? S02 E08" tvg-name="¿Quien mato a Sara? S02 E08"  group-title="SERIES DRAMA",¿Quien mato a Sara? S02 E08
+http://xdgo.live:8080/series/29_jerazo_g/Z5AAQydjfW/47687.mkv
 #EXTINF:-1 tvg-id="Prodigal Son S01 E01" tvg-name="Prodigal Son S01 E01"  group-title="SERIES DRAMA",Prodigal Son S01 E01
 http://xdgo.live:8080/series/29_jerazo_g/Z5AAQydjfW/44888.mkv
 #EXTINF:-1 tvg-id="Prodigal Son S01 E02" tvg-name="Prodigal Son S01 E02"  group-title="SERIES DRAMA",Prodigal Son S01 E02
@@ -28497,7 +28471,53 @@ http://xdgo.live:8080/series/29_jerazo_g/Z5AAQydjfW/41776.mkv
 http://xdgo.live:8080/series/29_jerazo_g/Z5AAQydjfW/42114.mkv
 #EXTINF:-1 tvg-id="WandaVision S01 E09" tvg-name="WandaVision S01 E09"  group-title="WANDAVISION",WandaVision S01 E09
 http://xdgo.live:8080/series/29_jerazo_g/Z5AAQydjfW/42412.mkv
-#EXTINF:-1 tvg-id="Expediente Warren: Obligado por el demonio (2021)" tvg-name="Expediente Warren: Obligado por el demonio (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmHryQX8LP1s3OEGtDpSaV7uraE.jpg" group-title="VFLIX ESTRENOS",Expediente Warren: Obligado por el demonio (2021)
+#EXTINF:-1 tvg-id="Especies en Peligro de Extincion (2021)" tvg-name="Especies en Peligro de Extincion (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccsSqbpEqr2KK9eMvoeF8ERFCd5.jpg" group-title="VFLIX ESTRENOS",Especies en Peligro de Extincion (2021)
+http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/47673.mkv
+#EXTINF:-1 tvg-id="Juanes: Origen (2021)" tvg-name="Juanes: Origen (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNaC3Iv7HKPFQw10Cp13pqRukCX.jpg" group-title="VFLIX ESTRENOS",Juanes: Origen (2021)
+http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/47674.mkv
+#EXTINF:-1 tvg-id="Juega Conmigo (2021)" tvg-name="Juega Conmigo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iM5kNvZzcMSmWv7CFTxnTu5zfoa.jpg" group-title="VFLIX ESTRENOS",Juega Conmigo (2021)
+http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/47675.mkv
+#EXTINF:-1 tvg-id="Día de redención (2021)" tvg-name="Día de redención (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1Tk1LUwS3nRlugiXnag6Bu1ToG.jpg" group-title="VFLIX ESTRENOS",Día de redención (2021)
+http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/47676.mkv
+#EXTINF:-1 tvg-id="La skater (2021)" tvg-name="La skater (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVyKzuaqtciRypdxi3bycqNSa27.jpg" group-title="VFLIX ESTRENOS",La skater (2021)
+http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/47677.mkv
+#EXTINF:-1 tvg-id="The Djinn (2021)" tvg-name="The Djinn (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/thin7heIyFZp86hNNlPfyNINGNy.jpg" group-title="VFLIX ESTRENOS",The Djinn (2021)
+http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/47678.mkv
+#EXTINF:-1 tvg-id="El dragón de los deseos (2021)" tvg-name="El dragón de los deseos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnPf6hzANL6pVQTxUlsNYSuhT5l.jpg" group-title="VFLIX ESTRENOS",El dragón de los deseos (2021)
+http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/47679.mkv
+#EXTINF:-1 tvg-id="Disomnia (2021)" tvg-name="Disomnia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r8kmQ1lBmeC5oLztNKQUBB6xh8i.jpg" group-title="VFLIX ESTRENOS",Disomnia (2021)
+http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/47657.mkv
+#EXTINF:-1 tvg-id="Los límites de nuestro planeta: Una mirada científica (2021)" tvg-name="Los límites de nuestro planeta: Una mirada científica (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kRs7kdlw06DVkxOVidWloqZ3HCw.jpg" group-title="VFLIX ESTRENOS",Los límites de nuestro planeta: Una mirada científica (2021)
+http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/47658.mkv
+#EXTINF:-1 tvg-id="Crisis (2021)" tvg-name="Crisis (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ao4JajLcPITivfstlzENge3MPkq.jpg" group-title="VFLIX ESTRENOS",Crisis (2021)
+http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/47659.mkv
+#EXTINF:-1 tvg-id="Dancing Queens (2021)" tvg-name="Dancing Queens (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xq2pkQZV5Yt1METvy5S0QjmCpsn.jpg" group-title="VFLIX ESTRENOS",Dancing Queens (2021)
+http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/47660.mkv
+#EXTINF:-1 tvg-id="French Exit (2021)" tvg-name="French Exit (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQ8STa7n95a2IjxTDFcOPiI8FhP.jpg" group-title="VFLIX ESTRENOS",French Exit (2021)
+http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/47661.mkv
+#EXTINF:-1 tvg-id="Infinite (2021)" tvg-name="Infinite (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niw2AKHz6XmwiRMLWaoyAOAti0G.jpg" group-title="VFLIX ESTRENOS",Infinite (2021)
+http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/47662.mkv
+#EXTINF:-1 tvg-id="En El Barrio (2021)" tvg-name="En El Barrio (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nMeMxDRxQN9JlvAadduPDdkpxjh.jpg" group-title="VFLIX ESTRENOS",En El Barrio (2021)
+http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/47663.mkv
+#EXTINF:-1 tvg-id="Nosotros de nuevo (2021)" tvg-name="Nosotros de nuevo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvYuHbO3YQ74pam3uieWzXj3ZXr.jpg" group-title="VFLIX ESTRENOS",Nosotros de nuevo (2021)
+http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/47664.mkv
+#EXTINF:-1 tvg-id="Matar a Santa (2020)" tvg-name="Matar a Santa (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w85cLr1btxfTExmch6L1vKMH0ti.jpg" group-title="VFLIX ESTRENOS",Matar a Santa (2020)
+http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/47665.mkv
+#EXTINF:-1 tvg-id="Possessor Uncut (2020)" tvg-name="Possessor Uncut (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLQlUUSlI669r1bgQ7AlnjcrrvC.jpg" group-title="VFLIX ESTRENOS",Possessor Uncut (2020)
+http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/47666.mkv
+#EXTINF:-1 tvg-id="Psycho Goreman (2021)" tvg-name="Psycho Goreman (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/foQnDv051kQ7satMQkbkPsUxzkD.jpg" group-title="VFLIX ESTRENOS",Psycho Goreman (2021)
+http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/47667.mkv
+#EXTINF:-1 tvg-id="Dulce y amargo (2021)" tvg-name="Dulce y amargo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rq7H7KIWBFwQ0kv72pQoSuhaUlr.jpg" group-title="VFLIX ESTRENOS",Dulce y amargo (2021)
+http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/47668.mkv
+#EXTINF:-1 tvg-id="Flashback (2021)" tvg-name="Flashback (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nc7szo7ChOknEk8qCkABJyNgl5y.jpg" group-title="VFLIX ESTRENOS",Flashback (2021)
+http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/47669.mkv
+#EXTINF:-1 tvg-id="Los Kandasamy: El viaje (2021)" tvg-name="Los Kandasamy: El viaje (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1tpuwM9fZFcMNkkGU0WwqPAEaFz.jpg" group-title="VFLIX ESTRENOS",Los Kandasamy: El viaje (2021)
+http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/47670.mkv
+#EXTINF:-1 tvg-id="Voyagers (2021)" tvg-name="Voyagers (2021)" tvg-logo="http://xdgo.live:8080/images/0c99bc95ac4af0159aa3e0b76558773b.jpg" group-title="VFLIX ESTRENOS",Voyagers (2021)
+http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/47671.mkv
+#EXTINF:-1 tvg-id="Xtremo (2021)" tvg-name="Xtremo (2021)" tvg-logo="http://xdgo.live:8080/images/19274b7566454e44e2b4bafce3d04c6a.jpg" group-title="VFLIX ESTRENOS",Xtremo (2021)
+http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/47672.mkv
+#EXTINF:-1 tvg-id="El Conjuro 3 | Expediente Warren: Obligado por el demonio (2021)" tvg-name="El Conjuro 3 | Expediente Warren: Obligado por el demonio (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmHryQX8LP1s3OEGtDpSaV7uraE.jpg" group-title="VFLIX ESTRENOS",El Conjuro 3 | Expediente Warren: Obligado por el demonio (2021)
 http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/47343.mkv
 #EXTINF:-1 tvg-id="Music (2021)" tvg-name="Music (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzDXq7ofNkvIovB6Vb8KZpjqkK0.jpg" group-title="VFLIX ESTRENOS",Music (2021)
 http://xdgo.live:8080/movie/29_jerazo_g/Z5AAQydjfW/47336.mkv
