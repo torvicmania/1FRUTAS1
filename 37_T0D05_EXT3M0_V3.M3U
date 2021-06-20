@@ -5203,6 +5203,8 @@ http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/23072.mp4
 http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/23073.avi
 #EXTINF:-1 tvg-id="¿Quien soy yo? (1970)" tvg-name="¿Quien soy yo? (1970)"  group-title="VFLIX ACCION",¿Quien soy yo? (1970)
 http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/23074.mp4
+#EXTINF:-1 tvg-id="El lago azul (1980)" tvg-name="El lago azul (1980)"  group-title="VFLIX AVENTURA",El lago azul (1980)
+http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/48093.mkv
 #EXTINF:-1 tvg-id="Mi abuelo es un extraterrestre (2019)" tvg-name="Mi abuelo es un extraterrestre (2019)"  group-title="VFLIX AVENTURA",Mi abuelo es un extraterrestre (2019)
 http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/42060.mkv
 #EXTINF:-1 tvg-id="Vanguard (2020)" tvg-name="Vanguard (2020)"  group-title="VFLIX AVENTURA",Vanguard (2020)
@@ -5799,6 +5801,8 @@ http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/28093.mkv
 http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/28094.mp4
 #EXTINF:-1 tvg-id="El desafio (2015)" tvg-name="El desafio (2015)"  group-title="VFLIX AVENTURA",El desafio (2015)
 http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/28095.mkv
+#EXTINF:-1 tvg-id="Moonwalker (1988)" tvg-name="Moonwalker (1988)"  group-title="VFLIX CIENCIA FICCION",Moonwalker (1988)
+http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/48094.mkv
 #EXTINF:-1 tvg-id="Desafio total (2012)" tvg-name="Desafio total (2012)"  group-title="VFLIX CIENCIA FICCION",Desafio total (2012)
 http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/44183.mkv
 #EXTINF:-1 tvg-id="Desafio total (1990)" tvg-name="Desafio total (1990)"  group-title="VFLIX CIENCIA FICCION",Desafio total (1990)
@@ -8443,6 +8447,10 @@ http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/3662.mkv
 http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/3663.mkv
 #EXTINF:-1 tvg-id="Soda Stereo Gira Me Veras Volver" tvg-name="Soda Stereo Gira Me Veras Volver"  group-title="VFLIX CONCIERTOS",Soda Stereo Gira Me Veras Volver
 http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/3665.mkv
+#EXTINF:-1 tvg-id="Jugando con la muerte (1997)" tvg-name="Jugando con la muerte (1997)"  group-title="VFLIX DRAMA CRIMEN",Jugando con la muerte (1997)
+http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/48095.mkv
+#EXTINF:-1 tvg-id="La casa de los espiritus (1993)" tvg-name="La casa de los espiritus (1993)"  group-title="VFLIX DRAMA CRIMEN",La casa de los espiritus (1993)
+http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/48096.mkv
 #EXTINF:-1 tvg-id="Big Eyes (2014)" tvg-name="Big Eyes (2014)"  group-title="VFLIX DRAMA CRIMEN",Big Eyes (2014)
 http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/47790.mkv
 #EXTINF:-1 tvg-id="Ilusiones mortales (2021)" tvg-name="Ilusiones mortales (2021)"  group-title="VFLIX DRAMA CRIMEN",Ilusiones mortales (2021)
@@ -10721,6 +10729,12 @@ http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/22098.mp4
 http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/22099.mp4
 #EXTINF:-1 tvg-id="Zootropolis (2016)" tvg-name="Zootropolis (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i3WnZpJkQYXXbSGplEGmyoyeskM.jpg" group-title="VFLIX INFANTILES",Zootropolis (2016)
 http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/22100.mkv
+#EXTINF:-1 tvg-id="Wallace y Gromit La maldicion de las verduras (2005)" tvg-name="Wallace y Gromit La maldicion de las verduras (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7p4KL3yuXRvQgr9w9wpjqJpMNu5.jpg" group-title="VFLIX INFANTILES",Wallace y Gromit La maldicion de las verduras (2005)
+http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/48092.mkv
+#EXTINF:-1 tvg-id="La oveja Shaun La pelicula (2015)" tvg-name="La oveja Shaun La pelicula (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlAKsbhOTw91dlAqpj1T4PCDJIk.jpg" group-title="VFLIX INFANTILES",La oveja Shaun La pelicula (2015)
+http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/48091.mkv
+#EXTINF:-1 tvg-id="La oveja Shaun, la pelicula Granjaguedon (2019)" tvg-name="La oveja Shaun, la pelicula Granjaguedon (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZMSXJGwlL14JJRwDYkXEWmOnEC.jpg" group-title="VFLIX INFANTILES",La oveja Shaun, la pelicula Granjaguedon (2019)
+http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/48090.mkv
 #EXTINF:-1 tvg-id="My Hero Academia el despertar de los heroes (2019)" tvg-name="My Hero Academia el despertar de los heroes (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vH5stD5pTogbZVXadIKQyMSKzTt.jpg" group-title="VFLIX INFANTILES",My Hero Academia el despertar de los heroes (2019)
 http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/43960.mkv
 #EXTINF:-1 tvg-id="La rosa de Bombay (2019)" tvg-name="La rosa de Bombay (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwNcowNdKTawjwpV9nR2t2EZrFW.jpg" group-title="VFLIX INFANTILES",La rosa de Bombay (2019)
@@ -28471,6 +28485,50 @@ http://xdgo.live:8080/series/37_vAntonioR_b/rTef2TRrQC/41776.mkv
 http://xdgo.live:8080/series/37_vAntonioR_b/rTef2TRrQC/42114.mkv
 #EXTINF:-1 tvg-id="WandaVision S01 E09" tvg-name="WandaVision S01 E09"  group-title="WANDAVISION",WandaVision S01 E09
 http://xdgo.live:8080/series/37_vAntonioR_b/rTef2TRrQC/42412.mkv
+#EXTINF:-1 tvg-id="Bob Esponja Cangrejo En Cuarentena Especial" tvg-name="Bob Esponja Cangrejo En Cuarentena Especial" tvg-logo="https://1.bp.blogspot.com/-E8xOwpCup5w/YHdr4YKc1oI/AAAAAAABO4o/0Q6gxEmjmyU8tGUivX2KOAXabXXjZiziACLcBGAsYHQ/s429/Bob%2BEsponja%2BCangrejo%2Ben%2BCuarentena%2B2021.jpg" group-title="VFLIX ESTRENOS",Bob Esponja Cangrejo En Cuarentena Especial
+http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/48089.mkv
+#EXTINF:-1 tvg-id="Luca (2021)" tvg-name="Luca (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eSQvGZPUpDk9oCfi2R6NKzqPAV5.jpg" group-title="VFLIX ESTRENOS",Luca (2021)
+http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/48085.mkv
+#EXTINF:-1 tvg-id="Un lugar tranquilo 2 (2021)" tvg-name="Un lugar tranquilo 2 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95m7s0jg0UHP3bIuwZkA12fxTl9.jpg" group-title="VFLIX ESTRENOS",Un lugar tranquilo 2 (2021)
+http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/47964.mkv
+#EXTINF:-1 tvg-id="Barbie y Chelsea el cumpleaños perdido (2021)" tvg-name="Barbie y Chelsea el cumpleaños perdido (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fuV4ybeV2PRd4WjTsEYqxkcIpMy.jpg" group-title="VFLIX ESTRENOS",Barbie y Chelsea el cumpleaños perdido (2021)
+http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/47965.mkv
+#EXTINF:-1 tvg-id="Censor (2021)" tvg-name="Censor (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ZE3YdU6dNrs8NgSNUv0LnoCr6c.jpg" group-title="VFLIX ESTRENOS",Censor (2021)
+http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/47966.mkv
+#EXTINF:-1 tvg-id="Confinados (2021)" tvg-name="Confinados (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ltK2lPoF4ULwMysKASYTy4fCRWp.jpg" group-title="VFLIX ESTRENOS",Confinados (2021)
+http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/47967.mkv
+#EXTINF:-1 tvg-id="Pensamiento crítico (2020)" tvg-name="Pensamiento crítico (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cu5UeDWeqFJRwCIzX6lVQRCCmUT.jpg" group-title="VFLIX ESTRENOS",Pensamiento crítico (2020)
+http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/47968.mkv
+#EXTINF:-1 tvg-id="Cálculo Mortal (2020)" tvg-name="Cálculo Mortal (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rIHwHM3m0O8escRlRyDoCEaAY7Z.jpg" group-title="VFLIX ESTRENOS",Cálculo Mortal (2020)
+http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/47969.mkv
+#EXTINF:-1 tvg-id="Death Saved My Life (2021)" tvg-name="Death Saved My Life (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2S4AMsZG7PZmSLgDhPCKk5VakT.jpg" group-title="VFLIX ESTRENOS",Death Saved My Life (2021)
+http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/47970.mkv
+#EXTINF:-1 tvg-id="Entre nosotras (2020)" tvg-name="Entre nosotras (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jLZrgKnFy7xVIdjYf2BqR6W4jqd.jpg" group-title="VFLIX ESTRENOS",Entre nosotras (2020)
+http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/47972.mkv
+#EXTINF:-1 tvg-id="Ser padre (2021)" tvg-name="Ser padre (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pR2fzm82fl0giommpo310LBOMbV.jpg" group-title="VFLIX ESTRENOS",Ser padre (2021)
+http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/47973.mkv
+#EXTINF:-1 tvg-id="Un mundo complicado (2021)" tvg-name="Un mundo complicado (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lsHLyMrVRUX2nV6tsZIdK8TcTnh.jpg" group-title="VFLIX ESTRENOS",Un mundo complicado (2021)
+http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/47974.mkv
+#EXTINF:-1 tvg-id="El fotógrafo de Minamata (2020)" tvg-name="El fotógrafo de Minamata (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/osmpFmDbFUkkBeFWb5ZahAmur3P.jpg" group-title="VFLIX ESTRENOS",El fotógrafo de Minamata (2020)
+http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/47975.mkv
+#EXTINF:-1 tvg-id="Rogue Hostage (2021)" tvg-name="Rogue Hostage (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePYagdzUwKpzTP73n9CD3D1MFn.jpg" group-title="VFLIX ESTRENOS",Rogue Hostage (2021)
+http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/47976.mkv
+#EXTINF:-1 tvg-id="Samurái X: El fin (2021)" tvg-name="Samurái X: El fin (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oS4jWkkS9A6FTLcHQb7Z6FVr9tH.jpg" group-title="VFLIX ESTRENOS",Samurái X: El fin (2021)
+http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/47977.mkv
+#EXTINF:-1 tvg-id="Seguridad (2021)" tvg-name="Seguridad (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tuMcn12Us09pmAOuVEHXmFRivjF.jpg" group-title="VFLIX ESTRENOS",Seguridad (2021)
+http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/47978.mkv
+#EXTINF:-1 tvg-id="Patines de Plata (2020)" tvg-name="Patines de Plata (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6tI89oI7FfddMif0S4YoBpBhRRh.jpg" group-title="VFLIX ESTRENOS",Patines de Plata (2020)
+http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/47979.mkv
+#EXTINF:-1 tvg-id="Supernova (2021)" tvg-name="Supernova (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5n8Qb5Vm01s8UdqI6Brf0J4j6W.jpg" group-title="VFLIX ESTRENOS",Supernova (2021)
+http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/47980.mkv
+#EXTINF:-1 tvg-id="The Evil Twin (2021)" tvg-name="The Evil Twin (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiUdO4gEIA07y6RSQKRWShJcUrh.jpg" group-title="VFLIX ESTRENOS",The Evil Twin (2021)
+http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/47981.mkv
+#EXTINF:-1 tvg-id="The Little Prince(ss) (2021)" tvg-name="The Little Prince(ss) (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4O65UNeSnWqRcuTUFcy75PluCzz.jpg" group-title="VFLIX ESTRENOS",The Little Prince(ss) (2021)
+http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/47982.mkv
+#EXTINF:-1 tvg-id="The Misfits (2021)" tvg-name="The Misfits (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPOyYnCkRbWAEem85N3VFpQODf5.jpg" group-title="VFLIX ESTRENOS",The Misfits (2021)
+http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/47983.mkv
+#EXTINF:-1 tvg-id="Uuups! 2 La aventura continúa (2020)" tvg-name="Uuups! 2 La aventura continúa (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2jQmEgV7Xdz8oaC8o1iGubMfyT.jpg" group-title="VFLIX ESTRENOS",Uuups! 2 La aventura continúa (2020)
+http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/47984.mkv
 #EXTINF:-1 tvg-id="Especies en Peligro de Extincion (2021)" tvg-name="Especies en Peligro de Extincion (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccsSqbpEqr2KK9eMvoeF8ERFCd5.jpg" group-title="VFLIX ESTRENOS",Especies en Peligro de Extincion (2021)
 http://xdgo.live:8080/movie/37_vAntonioR_b/rTef2TRrQC/47673.mkv
 #EXTINF:-1 tvg-id="Juanes: Origen (2021)" tvg-name="Juanes: Origen (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNaC3Iv7HKPFQw10Cp13pqRukCX.jpg" group-title="VFLIX ESTRENOS",Juanes: Origen (2021)
