@@ -339,6 +339,12 @@ http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/40736
 http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/1839
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="CDO PREMIUM HD" tvg-logo="https://lisa.zapping.live/uploads/canales/color/cdo.jpg" group-title="DEPORTES",CDO PREMIUM HD
 http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/1840
+#EXTINF:-1 tvg-id="TIGO SPORTS COSTA RICA HD" tvg-name="CLARO SPORTS HQ" tvg-logo="https://www.elimparcial.com/__export/1554579865733/sites/elimparcial/img/2018/04/06/1838753-N.JPG_1359985867.jpg" group-title="DEPORTES",CLARO SPORTS HQ
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/2351
+#EXTINF:-1 tvg-id="TIGO SPORTS COSTA RICA HD" tvg-name="CLARO SPORTS HD" tvg-logo="https://www.elimparcial.com/__export/1554579865733/sites/elimparcial/img/2018/04/06/1838753-N.JPG_1359985867.jpg" group-title="DEPORTES",CLARO SPORTS HD
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/2352
+#EXTINF:-1 tvg-id="TIGO SPORTS COSTA RICA HD" tvg-name="CLARO SPORTS FHD" tvg-logo="https://www.elimparcial.com/__export/1554579865733/sites/elimparcial/img/2018/04/06/1838753-N.JPG_1359985867.jpg" group-title="DEPORTES",CLARO SPORTS FHD
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/2353
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="COMBATE HD" tvg-logo="http://s2.glbimg.com/nWiPzL7WGQSduafJ9Z0jLcO7-Og=/200x0/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/f/k/PGAPBBQeGWVAMkqdUQsw/logo-combate.png" group-title="DEPORTES",COMBATE HD
 http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/2330
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 1 HQ" tvg-name="DIRECTV SPORTS 1 HQ" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 HQ
@@ -1965,6 +1971,162 @@ http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/57
 http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/24261
 #EXTINF:-1 tvg-id="PPV UFC" tvg-name="PPV UFC"  group-title="EVENTOS PPV",PPV UFC
 http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/47231
+#EXTINF:-1 tvg-id="DIRECTV SPORTS PPV 1" tvg-name="DIRECTV SPORTS PPV 1"  group-title="EVENTOS PPV",DIRECTV SPORTS PPV 1
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51077
+#EXTINF:-1 tvg-id="DIRECTV SPORTS PPV 2" tvg-name="DIRECTV SPORTS PPV 2"  group-title="EVENTOS PPV",DIRECTV SPORTS PPV 2
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51078
+#EXTINF:-1 tvg-id="PPV|| Juegos Olimpicos de Tokyo 2020 ( TELe)" tvg-name="PPV|| Juegos Olimpicos de Tokyo 2020 ( TELe)"  group-title="EVENTOS PPV",PPV|| Juegos Olimpicos de Tokyo 2020 ( TELe)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51531
+#EXTINF:-1 tvg-id="PPV|| Olympics 2020 Tokyo Olympics ( NBCS)" tvg-name="PPV|| Olympics 2020 Tokyo Olympics ( NBCS)"  group-title="EVENTOS PPV",PPV|| Olympics 2020 Tokyo Olympics ( NBCS)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51532
+#EXTINF:-1 tvg-id="PPV|| Olympics Softball Italy vs. Australia 2:00 AM EST ( NBCS)" tvg-name="PPV|| Olympics Softball Italy vs. Australia 2:00 AM EST ( NBCS)"  group-title="EVENTOS PPV",PPV|| Olympics Softball Italy vs. Australia 2:00 AM EST ( NBCS)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51533
+#EXTINF:-1 tvg-id="PPV|| Olympicos Futbol masculino 3:00 AM EST ( TELe)" tvg-name="PPV|| Olympicos Futbol masculino 3:00 AM EST ( TELe)"  group-title="EVENTOS PPV",PPV|| Olympicos Futbol masculino 3:00 AM EST ( TELe)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51534
+#EXTINF:-1 tvg-id="PPV|| Olympics Futbol masculino 3:00 AM EST ( UVSO)" tvg-name="PPV|| Olympics Futbol masculino 3:00 AM EST ( UVSO)"  group-title="EVENTOS PPV",PPV|| Olympics Futbol masculino 3:00 AM EST ( UVSO)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51535
+#EXTINF:-1 tvg-id="PPV|| Olympics Men's Soccer Egypt vs. Spain 3:30 AM EST ( OLYC)" tvg-name="PPV|| Olympics Men's Soccer Egypt vs. Spain 3:30 AM EST ( OLYC)"  group-title="EVENTOS PPV",PPV|| Olympics Men's Soccer Egypt vs. Spain 3:30 AM EST ( OLYC)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51536
+#EXTINF:-1 tvg-id="PPV|| Olympics Men's Soccer New Zealand vs. South Korea 4:00 AM EST ( NBCS)" tvg-name="PPV|| Olympics Men's Soccer New Zealand vs. South Korea 4:00 AM EST ( NBCS)"  group-title="EVENTOS PPV",PPV|| Olympics Men's Soccer New Zealand vs. South Korea 4:00 AM EST ( NBCS)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51537
+#EXTINF:-1 tvg-id="PPV|| Olympics Men's Soccer Mexico vs. Francia 4:00 AM EST ( TUDN)" tvg-name="PPV|| Olympics Men's Soccer Mexico vs. Francia 4:00 AM EST ( TUDN)"  group-title="EVENTOS PPV",PPV|| Olympics Men's Soccer Mexico vs. Francia 4:00 AM EST ( TUDN)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51538
+#EXTINF:-1 tvg-id="PPV|| Olympics Men's Soccer Mexico vs. France 4:00 AM EST ( USA)" tvg-name="PPV|| Olympics Men's Soccer Mexico vs. France 4:00 AM EST ( USA)" tvg-logo="" group-title="EVENTOS PPV",PPV|| Olympics Men's Soccer Mexico vs. France 4:00 AM EST ( USA)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51539
+#EXTINF:-1 tvg-id="PPV|| Golf (Pro) 2021 Evian Championship First Round 5:00 AM EST ( Golf)" tvg-name="PPV|| Golf (Pro) 2021 Evian Championship First Round 5:00 AM EST ( Golf)"  group-title="EVENTOS PPV",PPV|| Golf (Pro) 2021 Evian Championship First Round 5:00 AM EST ( Golf)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51540
+#EXTINF:-1 tvg-id="PPV|| Olympics Men's Soccer Cote d'Ivoire vs. Saudi Arabia 5:30 AM EST ( OLYC)" tvg-name="PPV|| Olympics Men's Soccer Cote d'Ivoire vs. Saudi Arabia 5:30 AM EST ( OLYC)"  group-title="EVENTOS PPV",PPV|| Olympics Men's Soccer Cote d'Ivoire vs. Saudi Arabia 5:30 AM EST ( OLYC)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51541
+#EXTINF:-1 tvg-id="PPV|| Tennis (Pro) Gdynia-WTA Early Rounds 6:00 AM EST ( TNNS)" tvg-name="PPV|| Tennis (Pro) Gdynia-WTA Early Rounds 6:00 AM EST ( TNNS)"  group-title="EVENTOS PPV",PPV|| Tennis (Pro) Gdynia-WTA Early Rounds 6:00 AM EST ( TNNS)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51542
+#EXTINF:-1 tvg-id="PPV|| Olympics Futbol masculino Argentina vs. Australia 6:00 AM EST ( TYC)" tvg-name="PPV|| Olympics Futbol masculino Argentina vs. Australia 6:00 AM EST ( TYC)"  group-title="EVENTOS PPV",PPV|| Olympics Futbol masculino Argentina vs. Australia 6:00 AM EST ( TYC)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51543
+#EXTINF:-1 tvg-id="PPV|| Olympics Men's Soccer Argentina vs. Australia 6:30 AM EST ( OLYC)" tvg-name="PPV|| Olympics Men's Soccer Argentina vs. Australia 6:30 AM EST ( OLYC)"  group-title="EVENTOS PPV",PPV|| Olympics Men's Soccer Argentina vs. Australia 6:30 AM EST ( OLYC)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51544
+#EXTINF:-1 tvg-id="PPV|| Golf (Pro) 2021 Senior Open Championship First Round 7:00 AM EST ( Golf)" tvg-name="PPV|| Golf (Pro) 2021 Senior Open Championship First Round 7:00 AM EST ( Golf)"  group-title="EVENTOS PPV",PPV|| Golf (Pro) 2021 Senior Open Championship First Round 7:00 AM EST ( Golf)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51545
+#EXTINF:-1 tvg-id="PPV|| Olympics Men's Soccer Japan vs. South Africa 7:00 AM EST ( NBCS)" tvg-name="PPV|| Olympics Men's Soccer Japan vs. South Africa 7:00 AM EST ( NBCS)"  group-title="EVENTOS PPV",PPV|| Olympics Men's Soccer Japan vs. South Africa 7:00 AM EST ( NBCS)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51546
+#EXTINF:-1 tvg-id="PPV|| Olympics Men's Soccer Brazil vs. Germany 7:30 AM EST ( USA)" tvg-name="PPV|| Olympics Men's Soccer Brazil vs. Germany 7:30 AM EST ( USA)" tvg-logo="" group-title="EVENTOS PPV",PPV|| Olympics Men's Soccer Brazil vs. Germany 7:30 AM EST ( USA)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51547
+#EXTINF:-1 tvg-id="PPV|| Olympics Futbol masculino Brasil vs. Alemania 8:30 AM EST ( TYC)" tvg-name="PPV|| Olympics Futbol masculino Brasil vs. Alemania 8:30 AM EST ( TYC)"  group-title="EVENTOS PPV",PPV|| Olympics Futbol masculino Brasil vs. Alemania 8:30 AM EST ( TYC)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51548
+#EXTINF:-1 tvg-id="PPV|| Olympics Futbol masculino Honduras vs. Rumania 9:00 AM EST ( UVSO)" tvg-name="PPV|| Olympics Futbol masculino Honduras vs. Rumania 9:00 AM EST ( UVSO)"  group-title="EVENTOS PPV",PPV|| Olympics Futbol masculino Honduras vs. Rumania 9:00 AM EST ( UVSO)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51549
+#EXTINF:-1 tvg-id="PPV|| Golf (Pro) 2021 Senior Open Championship First Round 11:30 AM EST ( Golf)" tvg-name="PPV|| Golf (Pro) 2021 Senior Open Championship First Round 11:30 AM EST ( Golf)"  group-title="EVENTOS PPV",PPV|| Golf (Pro) 2021 Senior Open Championship First Round 11:30 AM EST ( Golf)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51550
+#EXTINF:-1 tvg-id="PPV|| Horse Racing Saratoga Live 1:00 PM EST ( FS2)" tvg-name="PPV|| Horse Racing Saratoga Live 1:00 PM EST ( FS2)"  group-title="EVENTOS PPV",PPV|| Horse Racing Saratoga Live 1:00 PM EST ( FS2)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51551
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Texas Rangers at Detroit Tigers 1:10 PM EST ( MLBN)" tvg-name="PPV|| Baseball (MLB) Texas Rangers at Detroit Tigers 1:10 PM EST ( MLBN)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Texas Rangers at Detroit Tigers 1:10 PM EST ( MLBN)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51552
+#EXTINF:-1 tvg-id="PPV|| Golf (Pro) PGA 3M Open First Round 2:30 PM EST ( Golf)" tvg-name="PPV|| Golf (Pro) PGA 3M Open First Round 2:30 PM EST ( Golf)"  group-title="EVENTOS PPV",PPV|| Golf (Pro) PGA 3M Open First Round 2:30 PM EST ( Golf)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51553
+#EXTINF:-1 tvg-id="PPV|| Tennis (Pro) ATP Mifel Open, Quarterfinals 7:00 PM EST ( TNNS)" tvg-name="PPV|| Tennis (Pro) ATP Mifel Open, Quarterfinals 7:00 PM EST ( TNNS)"  group-title="EVENTOS PPV",PPV|| Tennis (Pro) ATP Mifel Open, Quarterfinals 7:00 PM EST ( TNNS)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51554
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Atlanta Braves at Philadelphia Phillies 7:05 PM EST ( MLB)" tvg-name="PPV|| Baseball (MLB) Atlanta Braves at Philadelphia Phillies 7:05 PM EST ( MLB)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Atlanta Braves at Philadelphia Phillies 7:05 PM EST ( MLB)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51555
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) New York Yankees at Boston Red Sox 7:10 PM EST ( MLB)" tvg-name="PPV|| Baseball (MLB) New York Yankees at Boston Red Sox 7:10 PM EST ( MLB)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) New York Yankees at Boston Red Sox 7:10 PM EST ( MLB)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51556
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Tampa Bay Rays at Cleveland Indians 7:10 PM EST ( MLB)" tvg-name="PPV|| Baseball (MLB) Tampa Bay Rays at Cleveland Indians 7:10 PM EST ( MLB)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Tampa Bay Rays at Cleveland Indians 7:10 PM EST ( MLB)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51557
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) San Diego Padres at Miami Marlins 7:10 PM EST ( MLB)" tvg-name="PPV|| Baseball (MLB) San Diego Padres at Miami Marlins 7:10 PM EST ( MLB)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) San Diego Padres at Miami Marlins 7:10 PM EST ( MLB)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51558
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Chicago Cubs at St. Louis Cardinals 7:15 PM EST ( MLBa)" tvg-name="PPV|| Baseball (MLB) Chicago Cubs at St. Louis Cardinals 7:15 PM EST ( MLBa)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Chicago Cubs at St. Louis Cardinals 7:15 PM EST ( MLBa)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51559
+#EXTINF:-1 tvg-id="PPV|| Olympics Remo y Tiro con arco 7:15 PM EST ( TYC)" tvg-name="PPV|| Olympics Remo y Tiro con arco 7:15 PM EST ( TYC)"  group-title="EVENTOS PPV",PPV|| Olympics Remo y Tiro con arco 7:15 PM EST ( TYC)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51560
+#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Philadelphia Union at Orlando City SC 7:30 PM EST ( ESPN)" tvg-name="PPV|| Soccer (MLS) Philadelphia Union at Orlando City SC 7:30 PM EST ( ESPN)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Philadelphia Union at Orlando City SC 7:30 PM EST ( ESPN)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51561
+#EXTINF:-1 tvg-id="PPV|| Olympics Rowing 7:30 PM EST ( NBCS)" tvg-name="PPV|| Olympics Rowing 7:30 PM EST ( NBCS)"  group-title="EVENTOS PPV",PPV|| Olympics Rowing 7:30 PM EST ( NBCS)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51562
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) LA Angels at Minnesota Twins 8:10 PM EST ( MLB)" tvg-name="PPV|| Baseball (MLB) LA Angels at Minnesota Twins 8:10 PM EST ( MLB)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) LA Angels at Minnesota Twins 8:10 PM EST ( MLB)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51563
+#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Seattle Sounders FC at Austin FC 9:30 PM EST ( ESPN)" tvg-name="PPV|| Soccer (MLS) Seattle Sounders FC at Austin FC 9:30 PM EST ( ESPN)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Seattle Sounders FC at Austin FC 9:30 PM EST ( ESPN)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51564
+#EXTINF:-1 tvg-id="PPV|| Soccer (LigaMX) Queretaro vs America 10:00 PM EST ( Az7)" tvg-name="PPV|| Soccer (LigaMX) Queretaro vs America 10:00 PM EST ( Az7)"  group-title="EVENTOS PPV",PPV|| Soccer (LigaMX) Queretaro vs America 10:00 PM EST ( Az7)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51565
+#EXTINF:-1 tvg-id="PPV|| Soccer (LigaMX) Queretaro vs America 10:00 PM EST ( C5)" tvg-name="PPV|| Soccer (LigaMX) Queretaro vs America 10:00 PM EST ( C5)"  group-title="EVENTOS PPV",PPV|| Soccer (LigaMX) Queretaro vs America 10:00 PM EST ( C5)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51566
+#EXTINF:-1 tvg-id="PPV|| Soccer (Liga MX) Club America at Gallos Blancos de Queretaro 10:00 PM EST ( UMas)" tvg-name="PPV|| Soccer (Liga MX) Club America at Gallos Blancos de Queretaro 10:00 PM EST ( UMas)"  group-title="EVENTOS PPV",PPV|| Soccer (Liga MX) Club America at Gallos Blancos de Queretaro 10:00 PM EST ( UMas)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51567
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Oakland Athletics at Seattle Mariners 10:10 PM EST ( MLB)" tvg-name="PPV|| Baseball (MLB) Oakland Athletics at Seattle Mariners 10:10 PM EST ( MLB)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Oakland Athletics at Seattle Mariners 10:10 PM EST ( MLB)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51568
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) San Francisco Giants at LA Dodgers 10:10 PM EST ( MLB)" tvg-name="PPV|| Baseball (MLB) San Francisco Giants at LA Dodgers 10:10 PM EST ( MLB)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) San Francisco Giants at LA Dodgers 10:10 PM EST ( MLB)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51569
+#EXTINF:-1 tvg-id="PPV|| Olympics Softball Japan vs. Mexico 11:00pm EST (NBCS)" tvg-name="PPV|| Olympics Softball Japan vs. Mexico 11:00pm EST (NBCS)"  group-title="EVENTOS PPV",PPV|| Olympics Softball Japan vs. Mexico 11:00pm EST (NBCS)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51570
+#EXTINF:-1 tvg-id="PPV|| Olympics Softball Italy vs. Australia 2:00am EST PLUS (NBCS)" tvg-name="PPV|| Olympics Softball Italy vs. Australia 2:00am EST PLUS (NBCS)"  group-title="EVENTOS PPV",PPV|| Olympics Softball Italy vs. Australia 2:00am EST PLUS (NBCS)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51571
+#EXTINF:-1 tvg-id="PPV|| Olympics Multi-Sport Coverage (OLY)" tvg-name="PPV|| Olympics Multi-Sport Coverage (OLY)"  group-title="EVENTOS PPV",PPV|| Olympics Multi-Sport Coverage (OLY)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51572
+#EXTINF:-1 tvg-id="PPV|| Tennis (PRO) Swiss Open 4:30am EST (TNNS)" tvg-name="PPV|| Tennis (PRO) Swiss Open 4:30am EST (TNNS)"  group-title="EVENTOS PPV",PPV|| Tennis (PRO) Swiss Open 4:30am EST (TNNS)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51573
+#EXTINF:-1 tvg-id="PPV|| Golf (PRO) LPGA Amundi Evian Championship 5:00am EST (GOLF)" tvg-name="PPV|| Golf (PRO) LPGA Amundi Evian Championship 5:00am EST (GOLF)"  group-title="EVENTOS PPV",PPV|| Golf (PRO) LPGA Amundi Evian Championship 5:00am EST (GOLF)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51574
+#EXTINF:-1 tvg-id="PPV|| Golf (PRO) The Senior Open 7:00am EST (GOLF)" tvg-name="PPV|| Golf (PRO) The Senior Open 7:00am EST (GOLF)"  group-title="EVENTOS PPV",PPV|| Golf (PRO) The Senior Open 7:00am EST (GOLF)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51575
+#EXTINF:-1 tvg-id="PPV|| Darts (Betfred) World Matchplay-QuarterFinals 2:00pm EST" tvg-name="PPV|| Darts (Betfred) World Matchplay-QuarterFinals 2:00pm EST"  group-title="EVENTOS PPV",PPV|| Darts (Betfred) World Matchplay-QuarterFinals 2:00pm EST
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51576
+#EXTINF:-1 tvg-id="PPV|| Golf (PRO) PGA Tour 3M Open 2:30pm EST (GOLF)" tvg-name="PPV|| Golf (PRO) PGA Tour 3M Open 2:30pm EST (GOLF)"  group-title="EVENTOS PPV",PPV|| Golf (PRO) PGA Tour 3M Open 2:30pm EST (GOLF)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51577
+#EXTINF:-1 tvg-id="PPV|| Olympics Rowing Heats Single-Double & More 7:30pm EST PLUS (NBCS)" tvg-name="PPV|| Olympics Rowing Heats Single-Double & More 7:30pm EST PLUS (NBCS)"  group-title="EVENTOS PPV",PPV|| Olympics Rowing Heats Single-Double & More 7:30pm EST PLUS (NBCS)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51578
+#EXTINF:-1 tvg-id="PPV|| Wrestling TNA Impact 8:00pm EST (AXS)" tvg-name="PPV|| Wrestling TNA Impact 8:00pm EST (AXS)"  group-title="EVENTOS PPV",PPV|| Wrestling TNA Impact 8:00pm EST (AXS)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51579
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) San Francisco Giants at Los Angeles Dodgers 10:10pm EST" tvg-name="PPV|| Baseball (MLB) San Francisco Giants at Los Angeles Dodgers 10:10pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) San Francisco Giants at Los Angeles Dodgers 10:10pm EST
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51580
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) L.A. Dodgers vs. San Francisco Giants 10:10 pm EST (MLBN)" tvg-name="PPV|| Baseball (MLB) L.A. Dodgers vs. San Francisco Giants 10:10 pm EST (MLBN)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) L.A. Dodgers vs. San Francisco Giants 10:10 pm EST (MLBN)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51581
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) L.A. Dodgers vs. San Francisco Giants 10:10 pm EST (SNLA)" tvg-name="PPV|| Baseball (MLB) L.A. Dodgers vs. San Francisco Giants 10:10 pm EST (SNLA)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) L.A. Dodgers vs. San Francisco Giants 10:10 pm EST (SNLA)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51582
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) L.A. Dodgers vs. San Francisco Giants 10:10 pm EST (AWAY)" tvg-name="PPV|| Baseball (MLB) L.A. Dodgers vs. San Francisco Giants 10:10 pm EST (AWAY)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) L.A. Dodgers vs. San Francisco Giants 10:10 pm EST (AWAY)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51583
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Texas Rangers at Detroit Tigers 1:10pm EST" tvg-name="PPV|| Baseball (MLB) Texas Rangers at Detroit Tigers 1:10pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Texas Rangers at Detroit Tigers 1:10pm EST
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51584
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) New York Yankees at Boston Red Sox 7:10pm EST" tvg-name="PPV|| Baseball (MLB) New York Yankees at Boston Red Sox 7:10pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) New York Yankees at Boston Red Sox 7:10pm EST
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51585
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Atlanta Braves at Philadelphia Phillies 7:05pm EST" tvg-name="PPV|| Baseball (MLB) Atlanta Braves at Philadelphia Phillies 7:05pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Atlanta Braves at Philadelphia Phillies 7:05pm EST
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51586
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Tampa Bay Rays at Cleveland Indians 7:10pm EST" tvg-name="PPV|| Baseball (MLB) Tampa Bay Rays at Cleveland Indians 7:10pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Tampa Bay Rays at Cleveland Indians 7:10pm EST
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51587
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) San Diego Padres at Miami Marlins 7:10pm EST" tvg-name="PPV|| Baseball (MLB) San Diego Padres at Miami Marlins 7:10pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) San Diego Padres at Miami Marlins 7:10pm EST
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51588
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Chicago Cubs at St. Louis Cardinals 7:15pm EST" tvg-name="PPV|| Baseball (MLB) Chicago Cubs at St. Louis Cardinals 7:15pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Chicago Cubs at St. Louis Cardinals 7:15pm EST
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51589
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Los Angeles Angels at Minnesota Twins 8:10pm EST" tvg-name="PPV|| Baseball (MLB) Los Angeles Angels at Minnesota Twins 8:10pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Los Angeles Angels at Minnesota Twins 8:10pm EST
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51590
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) San Francisco Giants at Los Angeles Dodgers 10:10pm EST" tvg-name="PPV|| Baseball (MLB) San Francisco Giants at Los Angeles Dodgers 10:10pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) San Francisco Giants at Los Angeles Dodgers 10:10pm EST
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51591
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Oakland Athletics at Seattle Mariners 10:10pm EST" tvg-name="PPV|| Baseball (MLB) Oakland Athletics at Seattle Mariners 10:10pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Oakland Athletics at Seattle Mariners 10:10pm EST
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51592
+#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Orlando City SC vs. Philadelphia Union 7:40 pm EST (MLS)" tvg-name="PPV|| Soccer (MLS) Orlando City SC vs. Philadelphia Union 7:40 pm EST (MLS)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Orlando City SC vs. Philadelphia Union 7:40 pm EST (MLS)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51593
+#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Austin vs. Seattle Sounders FC 9:40 pm EST (MLS)" tvg-name="PPV|| Soccer (MLS) Austin vs. Seattle Sounders FC 9:40 pm EST (MLS)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Austin vs. Seattle Sounders FC 9:40 pm EST (MLS)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51594
+#EXTINF:-1 tvg-id="PPV|| Soccer (U23) Honduras U23 vs. Romania U23 7:00 am EST (U23)" tvg-name="PPV|| Soccer (U23) Honduras U23 vs. Romania U23 7:00 am EST (U23)"  group-title="EVENTOS PPV",PPV|| Soccer (U23) Honduras U23 vs. Romania U23 7:00 am EST (U23)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51595
+#EXTINF:-1 tvg-id="PPV|| Soccer (U23) Brazil U23 vs. Germany U23 7:30 am EST (U23)" tvg-name="PPV|| Soccer (U23) Brazil U23 vs. Germany U23 7:30 am EST (U23)"  group-title="EVENTOS PPV",PPV|| Soccer (U23) Brazil U23 vs. Germany U23 7:30 am EST (U23)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51596
+#EXTINF:-1 tvg-id="PPV|| Soccer (LigaMX) Queretaro vs. America 10:00 pm EST (LigaMX)" tvg-name="PPV|| Soccer (LigaMX) Queretaro vs. America 10:00 pm EST (LigaMX)"  group-title="EVENTOS PPV",PPV|| Soccer (LigaMX) Queretaro vs. America 10:00 pm EST (LigaMX)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51597
+#EXTINF:-1 tvg-id="PPV|| Soccer (FRIENDLY) Sevilla vs. Las Palmas 1:00 pm EST (FRIENDLY)" tvg-name="PPV|| Soccer (FRIENDLY) Sevilla vs. Las Palmas 1:00 pm EST (FRIENDLY)"  group-title="EVENTOS PPV",PPV|| Soccer (FRIENDLY) Sevilla vs. Las Palmas 1:00 pm EST (FRIENDLY)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51598
+#EXTINF:-1 tvg-id="PPV|| Soccer (FRIENDLY) Villarreal vs. Olympique Lyonnais 3:00 pm EST (FRIENDLY)" tvg-name="PPV|| Soccer (FRIENDLY) Villarreal vs. Olympique Lyonnais 3:00 pm EST (FRIENDLY)"  group-title="EVENTOS PPV",PPV|| Soccer (FRIENDLY) Villarreal vs. Olympique Lyonnais 3:00 pm EST (FRIENDLY)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51599
+#EXTINF:-1 tvg-id="PPV|| Soccer (Copa Libertadores) Internacional vs. Olimpia 8:30 pm EST (beINn)" tvg-name="PPV|| Soccer (Copa Libertadores) Internacional vs. Olimpia 8:30 pm EST (beINn)"  group-title="EVENTOS PPV",PPV|| Soccer (Copa Libertadores) Internacional vs. Olimpia 8:30 pm EST (beINn)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51600
+#EXTINF:-1 tvg-id="PPV|| Soccer (U23) Egypt U23 vs. Spain U23 3:30 am EST (U23)" tvg-name="PPV|| Soccer (U23) Egypt U23 vs. Spain U23 3:30 am EST (U23)"  group-title="EVENTOS PPV",PPV|| Soccer (U23) Egypt U23 vs. Spain U23 3:30 am EST (U23)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51601
+#EXTINF:-1 tvg-id="PPV|| Soccer (U23) New Zealand U23 vs. Korea Republic U23 4:00 am EST (U23)" tvg-name="PPV|| Soccer (U23) New Zealand U23 vs. Korea Republic U23 4:00 am EST (U23)"  group-title="EVENTOS PPV",PPV|| Soccer (U23) New Zealand U23 vs. Korea Republic U23 4:00 am EST (U23)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51602
+#EXTINF:-1 tvg-id="PPV|| Soccer (U23) Mexico U23 vs. France U23 4:00 am EST (U23)" tvg-name="PPV|| Soccer (U23) Mexico U23 vs. France U23 4:00 am EST (U23)"  group-title="EVENTOS PPV",PPV|| Soccer (U23) Mexico U23 vs. France U23 4:00 am EST (U23)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51603
+#EXTINF:-1 tvg-id="PPV|| Soccer (U23) Argentina U23 vs. Australia U23 6:30 am EST (U23)" tvg-name="PPV|| Soccer (U23) Argentina U23 vs. Australia U23 6:30 am EST (U23)"  group-title="EVENTOS PPV",PPV|| Soccer (U23) Argentina U23 vs. Australia U23 6:30 am EST (U23)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51604
+#EXTINF:-1 tvg-id="PPV|| Soccer (U23) Cote DIvoire U23 vs. Saudi Arabia U23 4:30 am EST (U23)" tvg-name="PPV|| Soccer (U23) Cote DIvoire U23 vs. Saudi Arabia U23 4:30 am EST (U23)"  group-title="EVENTOS PPV",PPV|| Soccer (U23) Cote DIvoire U23 vs. Saudi Arabia U23 4:30 am EST (U23)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51605
+#EXTINF:-1 tvg-id="PPV|| Soccer (U23) Japan U23 vs. South Africa U23 7:00 am EST (U23)" tvg-name="PPV|| Soccer (U23) Japan U23 vs. South Africa U23 7:00 am EST (U23)"  group-title="EVENTOS PPV",PPV|| Soccer (U23) Japan U23 vs. South Africa U23 7:00 am EST (U23)
+http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/51606
 #EXTINF:-1 tvg-id="GUA Canal 4" tvg-name="GUA VEA CANAL" group-title="GUATEMALA",GUA VEA CANAL
 http://xdgo.live:8080/19_saragoza_g/GNwTZ5dp58/2597
 #EXTINF:-1 tvg-id="GUA CANAL 11" tvg-name="GUA CANAL 11" group-title="GUATEMALA",GUA CANAL 11
@@ -13831,6 +13993,50 @@ http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/11351.mp4
 http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/11352.mp4
 #EXTINF:-1 tvg-id="Hakan, el protector S01 E10" tvg-name="Hakan, el protector S01 E10"  group-title="SERIES ACCION",Hakan, el protector S01 E10
 http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/11353.mp4
+#EXTINF:-1 tvg-id="Hakan, el protector S02 E01" tvg-name="Hakan, el protector S02 E01"  group-title="SERIES ACCION",Hakan, el protector S02 E01
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51490.mkv
+#EXTINF:-1 tvg-id="Hakan, el protector S02 E02" tvg-name="Hakan, el protector S02 E02"  group-title="SERIES ACCION",Hakan, el protector S02 E02
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51491.mkv
+#EXTINF:-1 tvg-id="Hakan, el protector S02 E03" tvg-name="Hakan, el protector S02 E03"  group-title="SERIES ACCION",Hakan, el protector S02 E03
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51492.mkv
+#EXTINF:-1 tvg-id="Hakan, el protector S02 E04" tvg-name="Hakan, el protector S02 E04"  group-title="SERIES ACCION",Hakan, el protector S02 E04
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51493.mkv
+#EXTINF:-1 tvg-id="Hakan, el protector S02 E05" tvg-name="Hakan, el protector S02 E05"  group-title="SERIES ACCION",Hakan, el protector S02 E05
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51494.mkv
+#EXTINF:-1 tvg-id="Hakan, el protector S02 E06" tvg-name="Hakan, el protector S02 E06"  group-title="SERIES ACCION",Hakan, el protector S02 E06
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51495.mkv
+#EXTINF:-1 tvg-id="Hakan, el protector S02 E07" tvg-name="Hakan, el protector S02 E07"  group-title="SERIES ACCION",Hakan, el protector S02 E07
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51496.mkv
+#EXTINF:-1 tvg-id="Hakan, el protector S02 E08" tvg-name="Hakan, el protector S02 E08"  group-title="SERIES ACCION",Hakan, el protector S02 E08
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51497.mkv
+#EXTINF:-1 tvg-id="Hakan, el protector S03 E01" tvg-name="Hakan, el protector S03 E01"  group-title="SERIES ACCION",Hakan, el protector S03 E01
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51498.mkv
+#EXTINF:-1 tvg-id="Hakan, el protector S03 E02" tvg-name="Hakan, el protector S03 E02"  group-title="SERIES ACCION",Hakan, el protector S03 E02
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51499.mkv
+#EXTINF:-1 tvg-id="Hakan, el protector S03 E03" tvg-name="Hakan, el protector S03 E03"  group-title="SERIES ACCION",Hakan, el protector S03 E03
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51500.mkv
+#EXTINF:-1 tvg-id="Hakan, el protector S03 E04" tvg-name="Hakan, el protector S03 E04"  group-title="SERIES ACCION",Hakan, el protector S03 E04
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51501.mkv
+#EXTINF:-1 tvg-id="Hakan, el protector S03 E05" tvg-name="Hakan, el protector S03 E05"  group-title="SERIES ACCION",Hakan, el protector S03 E05
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51502.mkv
+#EXTINF:-1 tvg-id="Hakan, el protector S03 E06" tvg-name="Hakan, el protector S03 E06"  group-title="SERIES ACCION",Hakan, el protector S03 E06
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51503.mkv
+#EXTINF:-1 tvg-id="Hakan, el protector S03 E07" tvg-name="Hakan, el protector S03 E07"  group-title="SERIES ACCION",Hakan, el protector S03 E07
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51504.mkv
+#EXTINF:-1 tvg-id="Hakan, el protector S04 E01" tvg-name="Hakan, el protector S04 E01"  group-title="SERIES ACCION",Hakan, el protector S04 E01
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51505.mkv
+#EXTINF:-1 tvg-id="Hakan, el protector S04 E02" tvg-name="Hakan, el protector S04 E02"  group-title="SERIES ACCION",Hakan, el protector S04 E02
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51506.mkv
+#EXTINF:-1 tvg-id="Hakan, el protector S04 E03" tvg-name="Hakan, el protector S04 E03"  group-title="SERIES ACCION",Hakan, el protector S04 E03
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51507.mkv
+#EXTINF:-1 tvg-id="Hakan, el protector S04 E04" tvg-name="Hakan, el protector S04 E04"  group-title="SERIES ACCION",Hakan, el protector S04 E04
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51508.mkv
+#EXTINF:-1 tvg-id="Hakan, el protector S04 E05" tvg-name="Hakan, el protector S04 E05"  group-title="SERIES ACCION",Hakan, el protector S04 E05
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51509.mkv
+#EXTINF:-1 tvg-id="Hakan, el protector S04 E06" tvg-name="Hakan, el protector S04 E06"  group-title="SERIES ACCION",Hakan, el protector S04 E06
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51510.mkv
+#EXTINF:-1 tvg-id="Hakan, el protector S04 E07" tvg-name="Hakan, el protector S04 E07"  group-title="SERIES ACCION",Hakan, el protector S04 E07
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51511.mkv
 #EXTINF:-1 tvg-id="Marvel - The Punisher S01 E01" tvg-name="Marvel - The Punisher S01 E01"  group-title="SERIES ACCION",Marvel - The Punisher S01 E01
 http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/11354.mp4
 #EXTINF:-1 tvg-id="Marvel - The Punisher S01 E02" tvg-name="Marvel - The Punisher S01 E02"  group-title="SERIES ACCION",Marvel - The Punisher S01 E02
@@ -17683,6 +17889,20 @@ http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/29049.mp4
 http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/29050.mp4
 #EXTINF:-1 tvg-id="De viaje con los Derbez S01 E09" tvg-name="De viaje con los Derbez S01 E09"  group-title="SERIES COMEDIA",De viaje con los Derbez S01 E09
 http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/29051.mp4
+#EXTINF:-1 tvg-id="De viaje con los Derbez S02 E01" tvg-name="De viaje con los Derbez S02 E01"  group-title="SERIES COMEDIA",De viaje con los Derbez S02 E01
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51415.mkv
+#EXTINF:-1 tvg-id="De viaje con los Derbez S02 E02" tvg-name="De viaje con los Derbez S02 E02"  group-title="SERIES COMEDIA",De viaje con los Derbez S02 E02
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51416.mkv
+#EXTINF:-1 tvg-id="De viaje con los Derbez S02 E03" tvg-name="De viaje con los Derbez S02 E03"  group-title="SERIES COMEDIA",De viaje con los Derbez S02 E03
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51417.mkv
+#EXTINF:-1 tvg-id="De viaje con los Derbez S02 E04" tvg-name="De viaje con los Derbez S02 E04"  group-title="SERIES COMEDIA",De viaje con los Derbez S02 E04
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51418.mkv
+#EXTINF:-1 tvg-id="De viaje con los Derbez S02 E05" tvg-name="De viaje con los Derbez S02 E05"  group-title="SERIES COMEDIA",De viaje con los Derbez S02 E05
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51419.mkv
+#EXTINF:-1 tvg-id="De viaje con los Derbez S02 E06" tvg-name="De viaje con los Derbez S02 E06"  group-title="SERIES COMEDIA",De viaje con los Derbez S02 E06
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51420.mkv
+#EXTINF:-1 tvg-id="De viaje con los Derbez S02 E07" tvg-name="De viaje con los Derbez S02 E07"  group-title="SERIES COMEDIA",De viaje con los Derbez S02 E07
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51421.mkv
 #EXTINF:-1 tvg-id="Como sobrevivir soltero S01 E01" tvg-name="Como sobrevivir soltero S01 E01"  group-title="SERIES COMEDIA",Como sobrevivir soltero S01 E01
 http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/30028.mkv
 #EXTINF:-1 tvg-id="Como sobrevivir soltero S01 E02" tvg-name="Como sobrevivir soltero S01 E02"  group-title="SERIES COMEDIA",Como sobrevivir soltero S01 E02
@@ -18238,49 +18458,113 @@ http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/8631.mkv
 #EXTINF:-1 tvg-id="Monzon S01 E03" tvg-name="Monzon S01 E03"  group-title="SERIES DRAMA",Monzon S01 E03
 http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/8632.mkv
 #EXTINF:-1 tvg-id="New Amsterdam S01 E01" tvg-name="New Amsterdam S01 E01"  group-title="SERIES DRAMA",New Amsterdam S01 E01
-http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/8644.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E02" tvg-name="New Amsterdam S01 E02"  group-title="SERIES DRAMA",New Amsterdam S01 E02
-http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/8654.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E03" tvg-name="New Amsterdam S01 E03"  group-title="SERIES DRAMA",New Amsterdam S01 E03
-http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/8653.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E04" tvg-name="New Amsterdam S01 E04"  group-title="SERIES DRAMA",New Amsterdam S01 E04
-http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/8652.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E05" tvg-name="New Amsterdam S01 E05"  group-title="SERIES DRAMA",New Amsterdam S01 E05
-http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/8651.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E06" tvg-name="New Amsterdam S01 E06"  group-title="SERIES DRAMA",New Amsterdam S01 E06
-http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/8650.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E07" tvg-name="New Amsterdam S01 E07"  group-title="SERIES DRAMA",New Amsterdam S01 E07
-http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/8649.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E08" tvg-name="New Amsterdam S01 E08"  group-title="SERIES DRAMA",New Amsterdam S01 E08
-http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/8648.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E09" tvg-name="New Amsterdam S01 E09"  group-title="SERIES DRAMA",New Amsterdam S01 E09
 http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/8647.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E02" tvg-name="New Amsterdam S01 E02"  group-title="SERIES DRAMA",New Amsterdam S01 E02
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/8633.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E03" tvg-name="New Amsterdam S01 E03"  group-title="SERIES DRAMA",New Amsterdam S01 E03
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/8654.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E04" tvg-name="New Amsterdam S01 E04"  group-title="SERIES DRAMA",New Amsterdam S01 E04
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/8653.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E05" tvg-name="New Amsterdam S01 E05"  group-title="SERIES DRAMA",New Amsterdam S01 E05
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/8652.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E06" tvg-name="New Amsterdam S01 E06"  group-title="SERIES DRAMA",New Amsterdam S01 E06
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/8651.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E07" tvg-name="New Amsterdam S01 E07"  group-title="SERIES DRAMA",New Amsterdam S01 E07
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/8650.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E08" tvg-name="New Amsterdam S01 E08"  group-title="SERIES DRAMA",New Amsterdam S01 E08
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/8649.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E09" tvg-name="New Amsterdam S01 E09"  group-title="SERIES DRAMA",New Amsterdam S01 E09
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/8648.mkv
 #EXTINF:-1 tvg-id="New Amsterdam S01 E10" tvg-name="New Amsterdam S01 E10"  group-title="SERIES DRAMA",New Amsterdam S01 E10
 http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/8646.mkv
 #EXTINF:-1 tvg-id="New Amsterdam S01 E11" tvg-name="New Amsterdam S01 E11"  group-title="SERIES DRAMA",New Amsterdam S01 E11
 http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/8645.mkv
 #EXTINF:-1 tvg-id="New Amsterdam S01 E12" tvg-name="New Amsterdam S01 E12"  group-title="SERIES DRAMA",New Amsterdam S01 E12
-http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/8633.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E13" tvg-name="New Amsterdam S01 E13"  group-title="SERIES DRAMA",New Amsterdam S01 E13
-http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/8643.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E14" tvg-name="New Amsterdam S01 E14"  group-title="SERIES DRAMA",New Amsterdam S01 E14
-http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/8642.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E15" tvg-name="New Amsterdam S01 E15"  group-title="SERIES DRAMA",New Amsterdam S01 E15
-http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/8641.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E16" tvg-name="New Amsterdam S01 E16"  group-title="SERIES DRAMA",New Amsterdam S01 E16
-http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/8640.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E17" tvg-name="New Amsterdam S01 E17"  group-title="SERIES DRAMA",New Amsterdam S01 E17
-http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/8639.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E18" tvg-name="New Amsterdam S01 E18"  group-title="SERIES DRAMA",New Amsterdam S01 E18
-http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/8638.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E19" tvg-name="New Amsterdam S01 E19"  group-title="SERIES DRAMA",New Amsterdam S01 E19
 http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/8637.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E20" tvg-name="New Amsterdam S01 E20"  group-title="SERIES DRAMA",New Amsterdam S01 E20
-http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/8636.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E21" tvg-name="New Amsterdam S01 E21"  group-title="SERIES DRAMA",New Amsterdam S01 E21
-http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/8635.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E22" tvg-name="New Amsterdam S01 E22"  group-title="SERIES DRAMA",New Amsterdam S01 E22
+#EXTINF:-1 tvg-id="New Amsterdam S01 E13" tvg-name="New Amsterdam S01 E13"  group-title="SERIES DRAMA",New Amsterdam S01 E13
 http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/8634.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E14" tvg-name="New Amsterdam S01 E14"  group-title="SERIES DRAMA",New Amsterdam S01 E14
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/8635.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E15" tvg-name="New Amsterdam S01 E15"  group-title="SERIES DRAMA",New Amsterdam S01 E15
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/8636.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E16" tvg-name="New Amsterdam S01 E16"  group-title="SERIES DRAMA",New Amsterdam S01 E16
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/8644.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E17" tvg-name="New Amsterdam S01 E17"  group-title="SERIES DRAMA",New Amsterdam S01 E17
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/8638.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E18" tvg-name="New Amsterdam S01 E18"  group-title="SERIES DRAMA",New Amsterdam S01 E18
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/8639.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E19" tvg-name="New Amsterdam S01 E19"  group-title="SERIES DRAMA",New Amsterdam S01 E19
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/8640.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E20" tvg-name="New Amsterdam S01 E20"  group-title="SERIES DRAMA",New Amsterdam S01 E20
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/8641.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E21" tvg-name="New Amsterdam S01 E21"  group-title="SERIES DRAMA",New Amsterdam S01 E21
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/8642.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E22" tvg-name="New Amsterdam S01 E22"  group-title="SERIES DRAMA",New Amsterdam S01 E22
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/8643.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S02 E01" tvg-name="New Amsterdam S02 E01"  group-title="SERIES DRAMA",New Amsterdam S02 E01
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51458.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S02 E02" tvg-name="New Amsterdam S02 E02"  group-title="SERIES DRAMA",New Amsterdam S02 E02
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51459.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S02 E03" tvg-name="New Amsterdam S02 E03"  group-title="SERIES DRAMA",New Amsterdam S02 E03
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51460.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S02 E04" tvg-name="New Amsterdam S02 E04"  group-title="SERIES DRAMA",New Amsterdam S02 E04
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51461.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S02 E05" tvg-name="New Amsterdam S02 E05"  group-title="SERIES DRAMA",New Amsterdam S02 E05
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51462.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S02 E06" tvg-name="New Amsterdam S02 E06"  group-title="SERIES DRAMA",New Amsterdam S02 E06
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51463.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S02 E07" tvg-name="New Amsterdam S02 E07"  group-title="SERIES DRAMA",New Amsterdam S02 E07
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51464.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S02 E08" tvg-name="New Amsterdam S02 E08"  group-title="SERIES DRAMA",New Amsterdam S02 E08
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51465.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S02 E09" tvg-name="New Amsterdam S02 E09"  group-title="SERIES DRAMA",New Amsterdam S02 E09
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51466.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S02 E10" tvg-name="New Amsterdam S02 E10"  group-title="SERIES DRAMA",New Amsterdam S02 E10
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51467.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S02 E11" tvg-name="New Amsterdam S02 E11"  group-title="SERIES DRAMA",New Amsterdam S02 E11
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51468.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S02 E12" tvg-name="New Amsterdam S02 E12"  group-title="SERIES DRAMA",New Amsterdam S02 E12
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51469.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S02 E13" tvg-name="New Amsterdam S02 E13"  group-title="SERIES DRAMA",New Amsterdam S02 E13
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51470.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S02 E14" tvg-name="New Amsterdam S02 E14"  group-title="SERIES DRAMA",New Amsterdam S02 E14
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51471.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S02 E15" tvg-name="New Amsterdam S02 E15"  group-title="SERIES DRAMA",New Amsterdam S02 E15
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51472.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S02 E16" tvg-name="New Amsterdam S02 E16"  group-title="SERIES DRAMA",New Amsterdam S02 E16
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51473.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S02 E17" tvg-name="New Amsterdam S02 E17"  group-title="SERIES DRAMA",New Amsterdam S02 E17
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51474.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S02 E18" tvg-name="New Amsterdam S02 E18"  group-title="SERIES DRAMA",New Amsterdam S02 E18
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51475.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S03 E01" tvg-name="New Amsterdam S03 E01"  group-title="SERIES DRAMA",New Amsterdam S03 E01
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51485.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S03 E02" tvg-name="New Amsterdam S03 E02"  group-title="SERIES DRAMA",New Amsterdam S03 E02
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51486.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S03 E03" tvg-name="New Amsterdam S03 E03"  group-title="SERIES DRAMA",New Amsterdam S03 E03
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51487.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S03 E04" tvg-name="New Amsterdam S03 E04"  group-title="SERIES DRAMA",New Amsterdam S03 E04
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51477.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S03 E05" tvg-name="New Amsterdam S03 E05"  group-title="SERIES DRAMA",New Amsterdam S03 E05
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51476.mp4
+#EXTINF:-1 tvg-id="New Amsterdam S03 E06" tvg-name="New Amsterdam S03 E06"  group-title="SERIES DRAMA",New Amsterdam S03 E06
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51478.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S03 E07" tvg-name="New Amsterdam S03 E07"  group-title="SERIES DRAMA",New Amsterdam S03 E07
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51479.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S03 E08" tvg-name="New Amsterdam S03 E08"  group-title="SERIES DRAMA",New Amsterdam S03 E08
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51488.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S03 E09" tvg-name="New Amsterdam S03 E09"  group-title="SERIES DRAMA",New Amsterdam S03 E09
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51489.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S03 E10" tvg-name="New Amsterdam S03 E10"  group-title="SERIES DRAMA",New Amsterdam S03 E10
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51480.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S03 E11" tvg-name="New Amsterdam S03 E11"  group-title="SERIES DRAMA",New Amsterdam S03 E11
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51481.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S03 E12" tvg-name="New Amsterdam S03 E12"  group-title="SERIES DRAMA",New Amsterdam S03 E12
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51482.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S03 E13" tvg-name="New Amsterdam S03 E13"  group-title="SERIES DRAMA",New Amsterdam S03 E13
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51483.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S03 E14" tvg-name="New Amsterdam S03 E14"  group-title="SERIES DRAMA",New Amsterdam S03 E14
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51484.mkv
 #EXTINF:-1 tvg-id="Nicky Jam El Ganador S01 E01" tvg-name="Nicky Jam El Ganador S01 E01"  group-title="SERIES DRAMA",Nicky Jam El Ganador S01 E01
 http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/8655.mp4
 #EXTINF:-1 tvg-id="Nicky Jam El Ganador S01 E02" tvg-name="Nicky Jam El Ganador S01 E02"  group-title="SERIES DRAMA",Nicky Jam El Ganador S01 E02
@@ -19191,6 +19475,78 @@ http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/12304.avi
 http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/12305.avi
 #EXTINF:-1 tvg-id="Chicago Fire S07 E09" tvg-name="Chicago Fire S07 E09"  group-title="SERIES DRAMA",Chicago Fire S07 E09
 http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/12306.avi
+#EXTINF:-1 tvg-id="Chicago Fire S08 E01" tvg-name="Chicago Fire S08 E01"  group-title="SERIES DRAMA",Chicago Fire S08 E01
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51254.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S08 E02" tvg-name="Chicago Fire S08 E02"  group-title="SERIES DRAMA",Chicago Fire S08 E02
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51255.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S08 E03" tvg-name="Chicago Fire S08 E03"  group-title="SERIES DRAMA",Chicago Fire S08 E03
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51256.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S08 E04" tvg-name="Chicago Fire S08 E04"  group-title="SERIES DRAMA",Chicago Fire S08 E04
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51257.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S08 E05" tvg-name="Chicago Fire S08 E05"  group-title="SERIES DRAMA",Chicago Fire S08 E05
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51258.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S08 E06" tvg-name="Chicago Fire S08 E06"  group-title="SERIES DRAMA",Chicago Fire S08 E06
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51259.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S08 E07" tvg-name="Chicago Fire S08 E07"  group-title="SERIES DRAMA",Chicago Fire S08 E07
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51260.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S08 E08" tvg-name="Chicago Fire S08 E08"  group-title="SERIES DRAMA",Chicago Fire S08 E08
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51261.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S08 E09" tvg-name="Chicago Fire S08 E09"  group-title="SERIES DRAMA",Chicago Fire S08 E09
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51262.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S08 E10" tvg-name="Chicago Fire S08 E10"  group-title="SERIES DRAMA",Chicago Fire S08 E10
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51263.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S08 E11" tvg-name="Chicago Fire S08 E11"  group-title="SERIES DRAMA",Chicago Fire S08 E11
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51264.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S08 E12" tvg-name="Chicago Fire S08 E12"  group-title="SERIES DRAMA",Chicago Fire S08 E12
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51265.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S08 E13" tvg-name="Chicago Fire S08 E13"  group-title="SERIES DRAMA",Chicago Fire S08 E13
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51266.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S08 E14" tvg-name="Chicago Fire S08 E14"  group-title="SERIES DRAMA",Chicago Fire S08 E14
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51267.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S08 E15" tvg-name="Chicago Fire S08 E15"  group-title="SERIES DRAMA",Chicago Fire S08 E15
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51268.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S08 E16" tvg-name="Chicago Fire S08 E16"  group-title="SERIES DRAMA",Chicago Fire S08 E16
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51269.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S08 E17" tvg-name="Chicago Fire S08 E17"  group-title="SERIES DRAMA",Chicago Fire S08 E17
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51270.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S08 E18" tvg-name="Chicago Fire S08 E18"  group-title="SERIES DRAMA",Chicago Fire S08 E18
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51271.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S08 E19" tvg-name="Chicago Fire S08 E19"  group-title="SERIES DRAMA",Chicago Fire S08 E19
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51272.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S08 E20" tvg-name="Chicago Fire S08 E20"  group-title="SERIES DRAMA",Chicago Fire S08 E20
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51273.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S09 E01" tvg-name="Chicago Fire S09 E01"  group-title="SERIES DRAMA",Chicago Fire S09 E01
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51274.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S09 E02" tvg-name="Chicago Fire S09 E02"  group-title="SERIES DRAMA",Chicago Fire S09 E02
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51275.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S09 E03" tvg-name="Chicago Fire S09 E03"  group-title="SERIES DRAMA",Chicago Fire S09 E03
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51276.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S09 E04" tvg-name="Chicago Fire S09 E04"  group-title="SERIES DRAMA",Chicago Fire S09 E04
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51277.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S09 E05" tvg-name="Chicago Fire S09 E05"  group-title="SERIES DRAMA",Chicago Fire S09 E05
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51278.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S09 E06" tvg-name="Chicago Fire S09 E06"  group-title="SERIES DRAMA",Chicago Fire S09 E06
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51279.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S09 E07" tvg-name="Chicago Fire S09 E07"  group-title="SERIES DRAMA",Chicago Fire S09 E07
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51280.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S09 E08" tvg-name="Chicago Fire S09 E08"  group-title="SERIES DRAMA",Chicago Fire S09 E08
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51281.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S09 E09" tvg-name="Chicago Fire S09 E09"  group-title="SERIES DRAMA",Chicago Fire S09 E09
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51282.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S09 E10" tvg-name="Chicago Fire S09 E10"  group-title="SERIES DRAMA",Chicago Fire S09 E10
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51283.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S09 E11" tvg-name="Chicago Fire S09 E11"  group-title="SERIES DRAMA",Chicago Fire S09 E11
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51284.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S09 E12" tvg-name="Chicago Fire S09 E12"  group-title="SERIES DRAMA",Chicago Fire S09 E12
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51285.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S09 E13" tvg-name="Chicago Fire S09 E13"  group-title="SERIES DRAMA",Chicago Fire S09 E13
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51286.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S09 E14" tvg-name="Chicago Fire S09 E14"  group-title="SERIES DRAMA",Chicago Fire S09 E14
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51287.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S09 E15" tvg-name="Chicago Fire S09 E15"  group-title="SERIES DRAMA",Chicago Fire S09 E15
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51288.mkv
+#EXTINF:-1 tvg-id="Chicago Fire S09 E16" tvg-name="Chicago Fire S09 E16"  group-title="SERIES DRAMA",Chicago Fire S09 E16
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51289.mkv
 #EXTINF:-1 tvg-id="Historia de un crimen Colosio S01 E01" tvg-name="Historia de un crimen Colosio S01 E01"  group-title="SERIES DRAMA",Historia de un crimen Colosio S01 E01
 http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/12343.mkv
 #EXTINF:-1 tvg-id="Historia de un crimen Colosio S01 E02" tvg-name="Historia de un crimen Colosio S01 E02"  group-title="SERIES DRAMA",Historia de un crimen Colosio S01 E02
@@ -19351,6 +19707,16 @@ http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/13484.mkv
 http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/13485.mkv
 #EXTINF:-1 tvg-id="El marginal S03 E03" tvg-name="El marginal S03 E03"  group-title="SERIES DRAMA",El marginal S03 E03
 http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/13486.mkv
+#EXTINF:-1 tvg-id="El marginal S03 E04" tvg-name="El marginal S03 E04"  group-title="SERIES DRAMA",El marginal S03 E04
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51401.mkv
+#EXTINF:-1 tvg-id="El marginal S03 E05" tvg-name="El marginal S03 E05"  group-title="SERIES DRAMA",El marginal S03 E05
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51397.mkv
+#EXTINF:-1 tvg-id="El marginal S03 E06" tvg-name="El marginal S03 E06"  group-title="SERIES DRAMA",El marginal S03 E06
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51398.mkv
+#EXTINF:-1 tvg-id="El marginal S03 E07" tvg-name="El marginal S03 E07"  group-title="SERIES DRAMA",El marginal S03 E07
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51399.mkv
+#EXTINF:-1 tvg-id="El marginal S03 E08" tvg-name="El marginal S03 E08"  group-title="SERIES DRAMA",El marginal S03 E08
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51400.mkv
 #EXTINF:-1 tvg-id="El Tigre Veron S01 E01" tvg-name="El Tigre Veron S01 E01"  group-title="SERIES DRAMA",El Tigre Veron S01 E01
 http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/14178.mkv
 #EXTINF:-1 tvg-id="El Tigre Veron S01 E02" tvg-name="El Tigre Veron S01 E02"  group-title="SERIES DRAMA",El Tigre Veron S01 E02
@@ -22586,44 +22952,70 @@ http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/47686.mkv
 #EXTINF:-1 tvg-id="¿Quien mato a Sara? S02 E08" tvg-name="¿Quien mato a Sara? S02 E08"  group-title="SERIES DRAMA",¿Quien mato a Sara? S02 E08
 http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/47687.mkv
 #EXTINF:-1 tvg-id="Prodigal Son S01 E01" tvg-name="Prodigal Son S01 E01"  group-title="SERIES DRAMA",Prodigal Son S01 E01
-http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/44888.mkv
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51402.mkv
 #EXTINF:-1 tvg-id="Prodigal Son S01 E02" tvg-name="Prodigal Son S01 E02"  group-title="SERIES DRAMA",Prodigal Son S01 E02
-http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/44889.mkv
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/44888.mkv
 #EXTINF:-1 tvg-id="Prodigal Son S01 E03" tvg-name="Prodigal Son S01 E03"  group-title="SERIES DRAMA",Prodigal Son S01 E03
-http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/44890.mkv
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/44889.mkv
 #EXTINF:-1 tvg-id="Prodigal Son S01 E04" tvg-name="Prodigal Son S01 E04"  group-title="SERIES DRAMA",Prodigal Son S01 E04
-http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/44891.mkv
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51403.mkv
 #EXTINF:-1 tvg-id="Prodigal Son S01 E05" tvg-name="Prodigal Son S01 E05"  group-title="SERIES DRAMA",Prodigal Son S01 E05
-http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/44892.mkv
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/44890.mkv
 #EXTINF:-1 tvg-id="Prodigal Son S01 E06" tvg-name="Prodigal Son S01 E06"  group-title="SERIES DRAMA",Prodigal Son S01 E06
-http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/44893.mkv
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51411.mkv
 #EXTINF:-1 tvg-id="Prodigal Son S01 E07" tvg-name="Prodigal Son S01 E07"  group-title="SERIES DRAMA",Prodigal Son S01 E07
-http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/44894.mkv
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51404.mkv
 #EXTINF:-1 tvg-id="Prodigal Son S01 E08" tvg-name="Prodigal Son S01 E08"  group-title="SERIES DRAMA",Prodigal Son S01 E08
-http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/44895.mkv
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/44891.mkv
 #EXTINF:-1 tvg-id="Prodigal Son S01 E09" tvg-name="Prodigal Son S01 E09"  group-title="SERIES DRAMA",Prodigal Son S01 E09
-http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/44896.mkv
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51405.mkv
 #EXTINF:-1 tvg-id="Prodigal Son S01 E10" tvg-name="Prodigal Son S01 E10"  group-title="SERIES DRAMA",Prodigal Son S01 E10
-http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/44897.mkv
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/44892.mkv
 #EXTINF:-1 tvg-id="Prodigal Son S01 E11" tvg-name="Prodigal Son S01 E11"  group-title="SERIES DRAMA",Prodigal Son S01 E11
-http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/44898.mkv
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51412.mkv
 #EXTINF:-1 tvg-id="Prodigal Son S01 E12" tvg-name="Prodigal Son S01 E12"  group-title="SERIES DRAMA",Prodigal Son S01 E12
-http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/44899.mkv
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/44893.mkv
 #EXTINF:-1 tvg-id="Prodigal Son S01 E13" tvg-name="Prodigal Son S01 E13"  group-title="SERIES DRAMA",Prodigal Son S01 E13
-http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/44900.mkv
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51406.mkv
 #EXTINF:-1 tvg-id="Prodigal Son S01 E14" tvg-name="Prodigal Son S01 E14"  group-title="SERIES DRAMA",Prodigal Son S01 E14
-http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/44901.mkv
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/44894.mkv
 #EXTINF:-1 tvg-id="Prodigal Son S01 E15" tvg-name="Prodigal Son S01 E15"  group-title="SERIES DRAMA",Prodigal Son S01 E15
-http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/44902.mkv
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51407.mkv
 #EXTINF:-1 tvg-id="Prodigal Son S01 E16" tvg-name="Prodigal Son S01 E16"  group-title="SERIES DRAMA",Prodigal Son S01 E16
-http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/44903.mkv
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/44895.mkv
 #EXTINF:-1 tvg-id="Prodigal Son S01 E17" tvg-name="Prodigal Son S01 E17"  group-title="SERIES DRAMA",Prodigal Son S01 E17
-http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/44904.mkv
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51413.mkv
 #EXTINF:-1 tvg-id="Prodigal Son S01 E18" tvg-name="Prodigal Son S01 E18"  group-title="SERIES DRAMA",Prodigal Son S01 E18
-http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/44905.mkv
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/44896.mkv
 #EXTINF:-1 tvg-id="Prodigal Son S01 E19" tvg-name="Prodigal Son S01 E19"  group-title="SERIES DRAMA",Prodigal Son S01 E19
-http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/44906.mkv
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/44897.mkv
 #EXTINF:-1 tvg-id="Prodigal Son S01 E20" tvg-name="Prodigal Son S01 E20"  group-title="SERIES DRAMA",Prodigal Son S01 E20
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51408.mkv
+#EXTINF:-1 tvg-id="Prodigal Son S01 E21" tvg-name="Prodigal Son S01 E21"  group-title="SERIES DRAMA",Prodigal Son S01 E21
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/44898.mkv
+#EXTINF:-1 tvg-id="Prodigal Son S01 E22" tvg-name="Prodigal Son S01 E22"  group-title="SERIES DRAMA",Prodigal Son S01 E22
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51409.mkv
+#EXTINF:-1 tvg-id="Prodigal Son S01 E23" tvg-name="Prodigal Son S01 E23"  group-title="SERIES DRAMA",Prodigal Son S01 E23
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51414.mkv
+#EXTINF:-1 tvg-id="Prodigal Son S01 E24" tvg-name="Prodigal Son S01 E24"  group-title="SERIES DRAMA",Prodigal Son S01 E24
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/44899.mkv
+#EXTINF:-1 tvg-id="Prodigal Son S01 E25" tvg-name="Prodigal Son S01 E25"  group-title="SERIES DRAMA",Prodigal Son S01 E25
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51410.mkv
+#EXTINF:-1 tvg-id="Prodigal Son S01 E26" tvg-name="Prodigal Son S01 E26"  group-title="SERIES DRAMA",Prodigal Son S01 E26
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/44900.mkv
+#EXTINF:-1 tvg-id="Prodigal Son S01 E27" tvg-name="Prodigal Son S01 E27"  group-title="SERIES DRAMA",Prodigal Son S01 E27
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/44901.mkv
+#EXTINF:-1 tvg-id="Prodigal Son S01 E28" tvg-name="Prodigal Son S01 E28"  group-title="SERIES DRAMA",Prodigal Son S01 E28
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/44902.mkv
+#EXTINF:-1 tvg-id="Prodigal Son S01 E29" tvg-name="Prodigal Son S01 E29"  group-title="SERIES DRAMA",Prodigal Son S01 E29
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/44903.mkv
+#EXTINF:-1 tvg-id="Prodigal Son S01 E30" tvg-name="Prodigal Son S01 E30"  group-title="SERIES DRAMA",Prodigal Son S01 E30
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/44904.mkv
+#EXTINF:-1 tvg-id="Prodigal Son S01 E31" tvg-name="Prodigal Son S01 E31"  group-title="SERIES DRAMA",Prodigal Son S01 E31
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/44905.mkv
+#EXTINF:-1 tvg-id="Prodigal Son S01 E32" tvg-name="Prodigal Son S01 E32"  group-title="SERIES DRAMA",Prodigal Son S01 E32
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/44906.mkv
+#EXTINF:-1 tvg-id="Prodigal Son S01 E33" tvg-name="Prodigal Son S01 E33"  group-title="SERIES DRAMA",Prodigal Son S01 E33
 http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/44907.mkv
 #EXTINF:-1 tvg-id="Dinero facil S01 E01" tvg-name="Dinero facil S01 E01"  group-title="SERIES DRAMA",Dinero facil S01 E01
 http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/44932.mkv
@@ -24499,6 +24891,44 @@ http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/16483.mkv
 http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/16484.mkv
 #EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S01 E07" tvg-name="El escritor fantasma (Ghostwriter) S01 E07"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S01 E07
 http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/16485.mkv
+#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S01 E08" tvg-name="El escritor fantasma (Ghostwriter) S01 E08"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S01 E08
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51512.mkv
+#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S01 E09" tvg-name="El escritor fantasma (Ghostwriter) S01 E09"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S01 E09
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51513.mkv
+#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S01 E10" tvg-name="El escritor fantasma (Ghostwriter) S01 E10"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S01 E10
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51514.mkv
+#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S01 E11" tvg-name="El escritor fantasma (Ghostwriter) S01 E11"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S01 E11
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51515.mkv
+#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S01 E12" tvg-name="El escritor fantasma (Ghostwriter) S01 E12"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S01 E12
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51516.mkv
+#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S01 E13" tvg-name="El escritor fantasma (Ghostwriter) S01 E13"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S01 E13
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51517.mkv
+#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S02 E01" tvg-name="El escritor fantasma (Ghostwriter) S02 E01"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S02 E01
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51518.mkv
+#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S02 E02" tvg-name="El escritor fantasma (Ghostwriter) S02 E02"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S02 E02
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51519.mkv
+#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S02 E03" tvg-name="El escritor fantasma (Ghostwriter) S02 E03"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S02 E03
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51520.mkv
+#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S02 E04" tvg-name="El escritor fantasma (Ghostwriter) S02 E04"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S02 E04
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51521.mkv
+#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S02 E05" tvg-name="El escritor fantasma (Ghostwriter) S02 E05"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S02 E05
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51522.mkv
+#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S02 E06" tvg-name="El escritor fantasma (Ghostwriter) S02 E06"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S02 E06
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51523.mkv
+#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S02 E07" tvg-name="El escritor fantasma (Ghostwriter) S02 E07"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S02 E07
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51524.mkv
+#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S02 E08" tvg-name="El escritor fantasma (Ghostwriter) S02 E08"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S02 E08
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51525.mkv
+#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S02 E09" tvg-name="El escritor fantasma (Ghostwriter) S02 E09"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S02 E09
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51526.mkv
+#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S02 E10" tvg-name="El escritor fantasma (Ghostwriter) S02 E10"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S02 E10
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51527.mkv
+#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S02 E11" tvg-name="El escritor fantasma (Ghostwriter) S02 E11"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S02 E11
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51528.mkv
+#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S02 E12" tvg-name="El escritor fantasma (Ghostwriter) S02 E12"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S02 E12
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51529.mkv
+#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S02 E13" tvg-name="El escritor fantasma (Ghostwriter) S02 E13"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S02 E13
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51530.mkv
 #EXTINF:-1 tvg-id="Carnival Row S01 E01" tvg-name="Carnival Row S01 E01"  group-title="SERIES FICCION - FANTASIA",Carnival Row S01 E01
 http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/19460.mkv
 #EXTINF:-1 tvg-id="Carnival Row S01 E02" tvg-name="Carnival Row S01 E02"  group-title="SERIES FICCION - FANTASIA",Carnival Row S01 E02
@@ -27147,6 +27577,78 @@ http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/20541.mkv
 http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/20542.mkv
 #EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S01 E13" tvg-name="El bebe jefazo Vuelta al curro S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3FkAPqaH658yafCEEhBSZ3Abr7v.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S01 E13
 http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/20543.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S02 E01" tvg-name="El bebe jefazo Vuelta al curro S02 E01" tvg-logo="http://xdgo.live:8080/images/3b5aeffedaf6dabe4680f827fc6d8bdf.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S02 E01
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51422.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S02 E02" tvg-name="El bebe jefazo Vuelta al curro S02 E02" tvg-logo="http://xdgo.live:8080/images/a42a582f160cbda8a412dfe1280bee52.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S02 E02
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51423.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S02 E03" tvg-name="El bebe jefazo Vuelta al curro S02 E03" tvg-logo="http://xdgo.live:8080/images/c51257b159438c83ea30708db18a7033.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S02 E03
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51424.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S02 E04" tvg-name="El bebe jefazo Vuelta al curro S02 E04" tvg-logo="http://xdgo.live:8080/images/d9ea2c42e33addc7f5aa235e7015bfb5.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S02 E04
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51425.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S02 E05" tvg-name="El bebe jefazo Vuelta al curro S02 E05" tvg-logo="http://xdgo.live:8080/images/3b10f3bcd44081ba5214e7a8f3d37398.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S02 E05
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51426.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S02 E06" tvg-name="El bebe jefazo Vuelta al curro S02 E06" tvg-logo="http://xdgo.live:8080/images/0b5da6766f6dbc7c2a83e03d4f0348f9.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S02 E06
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51427.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S02 E07" tvg-name="El bebe jefazo Vuelta al curro S02 E07" tvg-logo="http://xdgo.live:8080/images/ed8b75758bcab65401d8faccca80f2f6.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S02 E07
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51428.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S02 E08" tvg-name="El bebe jefazo Vuelta al curro S02 E08" tvg-logo="http://xdgo.live:8080/images/a3ab4925f721fd2c047fb099472ce483.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S02 E08
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51429.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S02 E09" tvg-name="El bebe jefazo Vuelta al curro S02 E09" tvg-logo="http://xdgo.live:8080/images/96b05023d582751ebf9481c24225cd23.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S02 E09
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51430.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S02 E10" tvg-name="El bebe jefazo Vuelta al curro S02 E10" tvg-logo="http://xdgo.live:8080/images/3037a6804a5ae66eb1ef993fe8dd766a.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S02 E10
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51431.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S02 E11" tvg-name="El bebe jefazo Vuelta al curro S02 E11" tvg-logo="http://xdgo.live:8080/images/6e59ee640d37ccbbba32cab69e621ca7.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S02 E11
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51432.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S02 E12" tvg-name="El bebe jefazo Vuelta al curro S02 E12" tvg-logo="http://xdgo.live:8080/images/2087805f6c4f183ac02d19843a89c645.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S02 E12
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51433.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S02 E13" tvg-name="El bebe jefazo Vuelta al curro S02 E13" tvg-logo="http://xdgo.live:8080/images/8e164454f132dcb4a7ec784af4f863be.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S02 E13
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51434.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S03 E01" tvg-name="El bebe jefazo Vuelta al curro S03 E01" tvg-logo="http://xdgo.live:8080/images/50a1d1ad92b98ddb86a470f0dd837376.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S03 E01
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51435.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S03 E02" tvg-name="El bebe jefazo Vuelta al curro S03 E02" tvg-logo="http://xdgo.live:8080/images/330ab10eace3d4349fbf3864ea607bf8.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S03 E02
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51436.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S03 E03" tvg-name="El bebe jefazo Vuelta al curro S03 E03" tvg-logo="http://xdgo.live:8080/images/12a1e371c8235439595c8796c2b945fb.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S03 E03
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51437.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S03 E04" tvg-name="El bebe jefazo Vuelta al curro S03 E04" tvg-logo="http://xdgo.live:8080/images/e90444485c29ea4cb92a6d3e29d81647.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S03 E04
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51438.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S03 E05" tvg-name="El bebe jefazo Vuelta al curro S03 E05" tvg-logo="http://xdgo.live:8080/images/795843c316b8e2b6756349db5cdcd60e.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S03 E05
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51439.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S03 E06" tvg-name="El bebe jefazo Vuelta al curro S03 E06" tvg-logo="http://xdgo.live:8080/images/90e792f82f223f435defd7e79e849b71.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S03 E06
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51440.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S03 E07" tvg-name="El bebe jefazo Vuelta al curro S03 E07" tvg-logo="http://xdgo.live:8080/images/ae1f373c35ec8374514fb3391206e238.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S03 E07
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51441.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S03 E08" tvg-name="El bebe jefazo Vuelta al curro S03 E08" tvg-logo="http://xdgo.live:8080/images/75acca24039a21148a9daa1c5189f8e2.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S03 E08
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51442.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S03 E09" tvg-name="El bebe jefazo Vuelta al curro S03 E09" tvg-logo="http://xdgo.live:8080/images/f2c8101be30f71f9be74cc5eaa6a7656.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S03 E09
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51443.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S03 E10" tvg-name="El bebe jefazo Vuelta al curro S03 E10" tvg-logo="http://xdgo.live:8080/images/eba253297f628fc3dff0f3144bc19b69.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S03 E10
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51444.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S03 E11" tvg-name="El bebe jefazo Vuelta al curro S03 E11" tvg-logo="http://xdgo.live:8080/images/d53639dbe9d6881fa38fd790d519b032.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S03 E11
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51445.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S04 E01" tvg-name="El bebe jefazo Vuelta al curro S04 E01" tvg-logo="http://xdgo.live:8080/images/86170f597d3baf1f2bb8ab0f9db2df8f.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S04 E01
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51446.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S04 E02" tvg-name="El bebe jefazo Vuelta al curro S04 E02" tvg-logo="http://xdgo.live:8080/images/ba78d003e4a799260b64dd7ec549faf2.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S04 E02
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51447.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S04 E03" tvg-name="El bebe jefazo Vuelta al curro S04 E03" tvg-logo="http://xdgo.live:8080/images/50e154e00faf3542282343c14262ea23.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S04 E03
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51448.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S04 E04" tvg-name="El bebe jefazo Vuelta al curro S04 E04" tvg-logo="http://xdgo.live:8080/images/46482f06b1e97e4b4b40fd93111c862f.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S04 E04
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51449.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S04 E05" tvg-name="El bebe jefazo Vuelta al curro S04 E05" tvg-logo="http://xdgo.live:8080/images/8fa8cb57b5baeb3b326ed87d3d38ed02.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S04 E05
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51450.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S04 E06" tvg-name="El bebe jefazo Vuelta al curro S04 E06" tvg-logo="http://xdgo.live:8080/images/3e6efd90ed3cb08844cfdb3eeb10a535.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S04 E06
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51451.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S04 E07" tvg-name="El bebe jefazo Vuelta al curro S04 E07" tvg-logo="http://xdgo.live:8080/images/6640a4e1a968445efd41c520d58e4eec.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S04 E07
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51452.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S04 E08" tvg-name="El bebe jefazo Vuelta al curro S04 E08" tvg-logo="http://xdgo.live:8080/images/21285888427602de7da779496dfde88d.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S04 E08
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51453.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S04 E09" tvg-name="El bebe jefazo Vuelta al curro S04 E09" tvg-logo="http://xdgo.live:8080/images/10d5cf3877810030f27df828a32a1851.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S04 E09
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51454.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S04 E10" tvg-name="El bebe jefazo Vuelta al curro S04 E10" tvg-logo="http://xdgo.live:8080/images/5d384c81d924e348942627ee7f092ff0.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S04 E10
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51455.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S04 E11" tvg-name="El bebe jefazo Vuelta al curro S04 E11" tvg-logo="http://xdgo.live:8080/images/940d4a6d842b23454641e874f236f23d.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S04 E11
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51456.mkv
+#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S04 E12" tvg-name="El bebe jefazo Vuelta al curro S04 E12" tvg-logo="http://xdgo.live:8080/images/c9c8ed1f52dc28860f46f54aca869346.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S04 E12
+http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/51457.mkv
 #EXTINF:-1 tvg-id="Los Picapiedra S01 E01" tvg-name="Los Picapiedra S01 E01" tvg-logo="http://xdgo.live:8080/images/802f56af1ab121f9344cb963ef5a384b.jpg" group-title="SERIES INFANTILES",Los Picapiedra S01 E01
 http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/20544.avi
 #EXTINF:-1 tvg-id="Los Picapiedra S01 E02" tvg-name="Los Picapiedra S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKqY1scWpBiWbQuDq3zKLteauNF.jpg" group-title="SERIES INFANTILES",Los Picapiedra S01 E02
@@ -28083,10 +28585,32 @@ http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/41776.mkv
 http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/42114.mkv
 #EXTINF:-1 tvg-id="WandaVision S01 E09" tvg-name="WandaVision S01 E09"  group-title="WANDAVISION",WandaVision S01 E09
 http://xdgo.live:8080/series/19_saragoza_g/GNwTZ5dp58/42412.mkv
+#EXTINF:-1 tvg-id="El traficante (2021)" tvg-name="El traficante (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VKxWwVew6oCyYJVPN8RHtWg98r.jpg" group-title="VFLIX ESTRENOS",El traficante (2021)
+http://xdgo.live:8080/movie/19_saragoza_g/GNwTZ5dp58/51608.mkv
+#EXTINF:-1 tvg-id="Morir en un tiroteo (2021)" tvg-name="Morir en un tiroteo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/byXLJZq5vfveYdAWaC4uMtojsWj.jpg" group-title="VFLIX ESTRENOS",Morir en un tiroteo (2021)
+http://xdgo.live:8080/movie/19_saragoza_g/GNwTZ5dp58/51609.mkv
+#EXTINF:-1 tvg-id="El exorcismo de Carmen Farías (2021)" tvg-name="El exorcismo de Carmen Farías (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wjtOLYF87BuXQeznkuSUcgNQ12U.jpg" group-title="VFLIX ESTRENOS",El exorcismo de Carmen Farías (2021)
+http://xdgo.live:8080/movie/19_saragoza_g/GNwTZ5dp58/51610.mkv
+#EXTINF:-1 tvg-id="Gintama: The Final (2021)" tvg-name="Gintama: The Final (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikTmjGDSXWlPRsNZ3AvnBR3Pry8.jpg" group-title="VFLIX ESTRENOS",Gintama: The Final (2021)
+http://xdgo.live:8080/movie/19_saragoza_g/GNwTZ5dp58/51611.mkv
+#EXTINF:-1 tvg-id="Tiburón blanco (2021)" tvg-name="Tiburón blanco (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1qKnA83dtRaocubZx353j8qQje.jpg" group-title="VFLIX ESTRENOS",Tiburón blanco (2021)
+http://xdgo.live:8080/movie/19_saragoza_g/GNwTZ5dp58/51612.mkv
+#EXTINF:-1 tvg-id="Midnight in the Switchgrass (2021)" tvg-name="Midnight in the Switchgrass (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1OTSuh2HNcTRfme8caU8DjgJ39K.jpg" group-title="VFLIX ESTRENOS",Midnight in the Switchgrass (2021)
+http://xdgo.live:8080/movie/19_saragoza_g/GNwTZ5dp58/51613.mkv
+#EXTINF:-1 tvg-id="La Purga: Infinita (2021)" tvg-name="La Purga: Infinita (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2t07ky5WFRiI0bXLRIQCjalNkj.jpg" group-title="VFLIX ESTRENOS",La Purga: Infinita (2021)
+http://xdgo.live:8080/movie/19_saragoza_g/GNwTZ5dp58/51615.mkv
+#EXTINF:-1 tvg-id="Y al séptimo día (2021)" tvg-name="Y al séptimo día (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtt2dfMdmlCcgaJZkPPQsIY5oR6.jpg" group-title="VFLIX ESTRENOS",Y al séptimo día (2021)
+http://xdgo.live:8080/movie/19_saragoza_g/GNwTZ5dp58/51616.mkv
+#EXTINF:-1 tvg-id="Trollhunters: El despertar de los titanes (2021)" tvg-name="Trollhunters: El despertar de los titanes (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvUNFeTz0Sssb210wSiIiHRjA4W.jpg" group-title="VFLIX ESTRENOS",Trollhunters: El despertar de los titanes (2021)
+http://xdgo.live:8080/movie/19_saragoza_g/GNwTZ5dp58/51617.mkv
+#EXTINF:-1 tvg-id="Cider no You ni Kotoba ga Wakiagaru (2021)" tvg-name="Cider no You ni Kotoba ga Wakiagaru (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioj55UtUAJgryvGim67w9B3NhA6.jpg" group-title="VFLIX ESTRENOS",Cider no You ni Kotoba ga Wakiagaru (2021)
+http://xdgo.live:8080/movie/19_saragoza_g/GNwTZ5dp58/51618.mkv
+#EXTINF:-1 tvg-id="Inmune (2020)" tvg-name="Inmune (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9pKj3Awn5SThyHRkpprwHpRbe9Q.jpg" group-title="VFLIX ESTRENOS",Inmune (2020)
+http://xdgo.live:8080/movie/19_saragoza_g/GNwTZ5dp58/51614.mkv
+#EXTINF:-1 tvg-id="La Otra Cara de La Guerra (2019)" tvg-name="La Otra Cara de La Guerra (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVLXwfawIYdGhwU6IJ2soO0gdLC.jpg" group-title="VFLIX ESTRENOS",La Otra Cara de La Guerra (2019)
+http://xdgo.live:8080/movie/19_saragoza_g/GNwTZ5dp58/51607.mkv
 #EXTINF:-1 tvg-id="Pig (2021)" tvg-name="Pig (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFgybTip4QOWa8Jd9zIDCrmW3xO.jpg" group-title="VFLIX ESTRENOS",Pig (2021)
 http://xdgo.live:8080/movie/19_saragoza_g/GNwTZ5dp58/50028.mkv
-#EXTINF:-1 tvg-id="La Purga: Infinita (2021)" tvg-name="La Purga: Infinita (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yvawJviOjb2nUFvHGXcCpGVTqy.jpg" group-title="VFLIX ESTRENOS",La Purga: Infinita (2021)
-http://xdgo.live:8080/movie/19_saragoza_g/GNwTZ5dp58/50029.mkv
 #EXTINF:-1 tvg-id="Despierta la furia (2021)" tvg-name="Despierta la furia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/emM894kjspdQsHyTAF7sjRNlbTr.jpg" group-title="VFLIX ESTRENOS",Despierta la furia (2021)
 http://xdgo.live:8080/movie/19_saragoza_g/GNwTZ5dp58/50030.mkv
 #EXTINF:-1 tvg-id="Space Jam 2: Una nueva era (2021)" tvg-name="Space Jam 2: Una nueva era (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHDF2320SbWDTP1FMZ8LgEIHew2.jpg" group-title="VFLIX ESTRENOS",Space Jam 2: Una nueva era (2021)
@@ -28141,6 +28665,8 @@ http://xdgo.live:8080/movie/19_saragoza_g/GNwTZ5dp58/49518.mkv
 http://xdgo.live:8080/movie/19_saragoza_g/GNwTZ5dp58/49519.mkv
 #EXTINF:-1 tvg-id="Seve (2021)" tvg-name="Seve (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnbmx93GzJeb2Q2KlbrszvwtYlT.jpg" group-title="VFLIX ESTRENOS",Seve (2021)
 http://xdgo.live:8080/movie/19_saragoza_g/GNwTZ5dp58/49520.mkv
+#EXTINF:-1 tvg-id="Los Simpson: La buena el malo y Loki (2021)" tvg-name="Los Simpson: La buena el malo y Loki (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u10ZfFwbCMB4UrFy7OlHq08fBRr.jpg" group-title="VFLIX ESTRENOS",Los Simpson: La buena el malo y Loki (2021)
+http://xdgo.live:8080/movie/19_saragoza_g/GNwTZ5dp58/49521.mkv
 #EXTINF:-1 tvg-id="El hombre agua (2020)" tvg-name="El hombre agua (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/krupbFlSTnnKIjpRryrg2CTdeIL.jpg" group-title="VFLIX ESTRENOS",El hombre agua (2020)
 http://xdgo.live:8080/movie/19_saragoza_g/GNwTZ5dp58/49522.mkv
 #EXTINF:-1 tvg-id="La magia de la Isla (2021)" tvg-name="La magia de la Isla (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZaXFQkLsyty136SBJJ2PKuTKEb.jpg" group-title="VFLIX ESTRENOS",La magia de la Isla (2021)
