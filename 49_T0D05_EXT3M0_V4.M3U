@@ -225,6 +225,8 @@ http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/41046
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/30266
 #EXTINF:-1 tvg-id="24 Horas Prime Accion" tvg-name="UNIVERSO RAPIDOS Y FURIOSOS" group-title="24/7",UNIVERSO RAPIDOS Y FURIOSOS
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/41048
+#EXTINF:-1 tvg-id="UNIVERSO MOVIES TARANTINO" tvg-name="UNIVERSO SCARY MOVIE" group-title="24/7",UNIVERSO SCARY MOVIE
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/23950
 #EXTINF:-1 tvg-id="24 Horas Casado con Hijos" tvg-name="UNIVERSO STAR WARS" group-title="24/7",UNIVERSO STAR WARS
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/41218
 #EXTINF:-1 tvg-id="24 Horas Prime Accion" tvg-name="UNIVERSO X-MEN" group-title="24/7",UNIVERSO X-MEN
@@ -283,10 +285,6 @@ http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/1123
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/24478
 #EXTINF:-1 tvg-id="CO RCN NUESTRA TELE HD" tvg-name="CO RCN INTERNACIONAL HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/7104/brand.gif?itok=a-dvuqrh" group-title="COLOMBIA",CO RCN INTERNACIONAL HQ
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/40087
-#EXTINF:-1 tvg-id="CO RCN INTERNACIONAL HD" tvg-name="CO RCN INTERNACIONAL HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/7104/brand.gif?itok=a-dvuqrh" group-title="COLOMBIA",CO RCN INTERNACIONAL HD
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51909
-#EXTINF:-1 tvg-id="CO RCN INTERNACIONAL FHD" tvg-name="CO RCN INTERNACIONAL FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/7104/brand.gif?itok=a-dvuqrh" group-title="COLOMBIA",CO RCN INTERNACIONAL FHD
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51908
 #EXTINF:-1 tvg-id="CO SENAL COLOMBIA HD" tvg-name="CO SENAL COLOMBIA HD" tvg-logo="https://seeklogo.com/images/S/senal-colombia-logo-B158E46E46-seeklogo.com.gif" group-title="COLOMBIA",CO SENAL COLOMBIA HD
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/1124
 #EXTINF:-1 tvg-id="CO TELEANTOQUIA HD" tvg-name="CO TELEANTOQUIA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKBRY4kxOcRpLSq25LHRafULa_CHBq4qsbm2pdaxrRaYGr95Hw&s" group-title="COLOMBIA",CO TELEANTOQUIA HD
@@ -341,12 +339,6 @@ http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/40736
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/1839
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="CDO PREMIUM HD" tvg-logo="https://lisa.zapping.live/uploads/canales/color/cdo.jpg" group-title="DEPORTES",CDO PREMIUM HD
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/1840
-#EXTINF:-1 tvg-id="TIGO SPORTS COSTA RICA HD" tvg-name="CLARO SPORTS HQ" tvg-logo="https://www.elimparcial.com/__export/1554579865733/sites/elimparcial/img/2018/04/06/1838753-N.JPG_1359985867.jpg" group-title="DEPORTES",CLARO SPORTS HQ
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/2351
-#EXTINF:-1 tvg-id="TIGO SPORTS COSTA RICA HD" tvg-name="CLARO SPORTS HD" tvg-logo="https://www.elimparcial.com/__export/1554579865733/sites/elimparcial/img/2018/04/06/1838753-N.JPG_1359985867.jpg" group-title="DEPORTES",CLARO SPORTS HD
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/2352
-#EXTINF:-1 tvg-id="TIGO SPORTS COSTA RICA HD" tvg-name="CLARO SPORTS FHD" tvg-logo="https://www.elimparcial.com/__export/1554579865733/sites/elimparcial/img/2018/04/06/1838753-N.JPG_1359985867.jpg" group-title="DEPORTES",CLARO SPORTS FHD
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/2353
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="COMBATE HD" tvg-logo="http://s2.glbimg.com/nWiPzL7WGQSduafJ9Z0jLcO7-Og=/200x0/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/f/k/PGAPBBQeGWVAMkqdUQsw/logo-combate.png" group-title="DEPORTES",COMBATE HD
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/2330
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 1 HQ" tvg-name="DIRECTV SPORTS 1 HQ" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 HQ
@@ -997,6 +989,8 @@ http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/30191
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/2049
 #EXTINF:-1 tvg-id="YES NETWORK" tvg-name="YES NETWORK" tvg-logo="" group-title="DEPORTES INTERNACIONALES",YES NETWORK
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/30196
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="BEIN SPORTS 12" tvg-logo="" group-title="DEPORTES INTERNACIONALES",BEIN SPORTS 12
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/40046
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="BEIN SPORTS 11" tvg-logo="" group-title="DEPORTES INTERNACIONALES",BEIN SPORTS 11
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/40047
 #EXTINF:-1 tvg-id="Colombiana (2011)" tvg-name="Colombiana (2011)"  group-title="VFLIX ACCION",Colombiana (2011)
@@ -1971,120 +1965,232 @@ http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/57
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/24261
 #EXTINF:-1 tvg-id="PPV UFC" tvg-name="PPV UFC"  group-title="EVENTOS PPV",PPV UFC
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/47231
-#EXTINF:-1 tvg-id="DIRECTV SPORTS PPV 1" tvg-name="DIRECTV SPORTS PPV 1"  group-title="EVENTOS PPV",DIRECTV SPORTS PPV 1
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51077
-#EXTINF:-1 tvg-id="DIRECTV SPORTS PPV 2" tvg-name="DIRECTV SPORTS PPV 2"  group-title="EVENTOS PPV",DIRECTV SPORTS PPV 2
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51078
-#EXTINF:-1 tvg-id="CLARO SPORTS PPV 1 HQ (Juegos Olimpicos)" tvg-name="CLARO SPORTS PPV 1 HQ (Juegos Olimpicos)"  group-title="EVENTOS PPV",CLARO SPORTS PPV 1 HQ (Juegos Olimpicos)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51680
-#EXTINF:-1 tvg-id="CLARO SPORTS PPV 1 HD (Juegos Olimpicos)" tvg-name="CLARO SPORTS PPV 1 HD (Juegos Olimpicos)"  group-title="EVENTOS PPV",CLARO SPORTS PPV 1 HD (Juegos Olimpicos)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51904
-#EXTINF:-1 tvg-id="CLARO SPORTS PPV 1 FHD (Juegos Olimpicos)" tvg-name="CLARO SPORTS PPV 1 FHD (Juegos Olimpicos)"  group-title="EVENTOS PPV",CLARO SPORTS PPV 1 FHD (Juegos Olimpicos)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51684
-#EXTINF:-1 tvg-id="CLARO SPORTS PPV 2 HQ (Juegos Olimpicos)" tvg-name="CLARO SPORTS PPV 2 HQ (Juegos Olimpicos)"  group-title="EVENTOS PPV",CLARO SPORTS PPV 2 HQ (Juegos Olimpicos)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51681
-#EXTINF:-1 tvg-id="CLARO SPORTS PPV 2 HD (Juegos Olimpicos)" tvg-name="CLARO SPORTS PPV 2 HD (Juegos Olimpicos)"  group-title="EVENTOS PPV",CLARO SPORTS PPV 2 HD (Juegos Olimpicos)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51905
-#EXTINF:-1 tvg-id="CLARO SPORTS PPV 2 FHD (Juegos Olimpicos)" tvg-name="CLARO SPORTS PPV 2 FHD (Juegos Olimpicos)"  group-title="EVENTOS PPV",CLARO SPORTS PPV 2 FHD (Juegos Olimpicos)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51685
-#EXTINF:-1 tvg-id="CLARO SPORTS PPV 3 HQ (Juegos Olimpicos)" tvg-name="CLARO SPORTS PPV 3 HQ (Juegos Olimpicos)"  group-title="EVENTOS PPV",CLARO SPORTS PPV 3 HQ (Juegos Olimpicos)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51682
-#EXTINF:-1 tvg-id="CLARO SPORTS PPV 3 HD (Juegos Olimpicos)" tvg-name="CLARO SPORTS PPV 3 HD (Juegos Olimpicos)"  group-title="EVENTOS PPV",CLARO SPORTS PPV 3 HD (Juegos Olimpicos)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51906
-#EXTINF:-1 tvg-id="CLARO SPORTS PPV 3 FHD (Juegos Olimpicos)" tvg-name="CLARO SPORTS PPV 3 FHD (Juegos Olimpicos)"  group-title="EVENTOS PPV",CLARO SPORTS PPV 3 FHD (Juegos Olimpicos)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51686
-#EXTINF:-1 tvg-id="CLARO SPORTS PPV 4 HQ (Juegos Olimpicos)" tvg-name="CLARO SPORTS PPV 4 HQ (Juegos Olimpicos)"  group-title="EVENTOS PPV",CLARO SPORTS PPV 4 HQ (Juegos Olimpicos)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51683
-#EXTINF:-1 tvg-id="CLARO SPORTS PPV 4 HD (Juegos Olimpicos)" tvg-name="CLARO SPORTS PPV 4 HD (Juegos Olimpicos)"  group-title="EVENTOS PPV",CLARO SPORTS PPV 4 HD (Juegos Olimpicos)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51907
-#EXTINF:-1 tvg-id="CLARO SPORTS PPV 4 FHD (Juegos Olimpicos)" tvg-name="CLARO SPORTS PPV 4 FHD (Juegos Olimpicos)"  group-title="EVENTOS PPV",CLARO SPORTS PPV 4 FHD (Juegos Olimpicos)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51687
-#EXTINF:-1 tvg-id="PPV|| Olympicos Gimnasia artistica 1:00 PM EST ( TELe)" tvg-name="PPV|| Olympicos Gimnasia artistica 1:00 PM EST ( TELe)"  group-title="EVENTOS PPV",PPV|| Olympicos Gimnasia artistica 1:00 PM EST ( TELe)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51910
-#EXTINF:-1 tvg-id="PPV|| Tennis (Pro) Atlanta-ATP Early Rounds 1:30 PM EST ( TNNS)" tvg-name="PPV|| Tennis (Pro) Atlanta-ATP Early Rounds 1:30 PM EST ( TNNS)"  group-title="EVENTOS PPV",PPV|| Tennis (Pro) Atlanta-ATP Early Rounds 1:30 PM EST ( TNNS)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51911
-#EXTINF:-1 tvg-id="PPV|| Olympics Boxing PLUS 4:15 PM EST ( USA)" tvg-name="PPV|| Olympics Boxing PLUS 4:15 PM EST ( USA)" tvg-logo="" group-title="EVENTOS PPV",PPV|| Olympics Boxing PLUS 4:15 PM EST ( USA)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51912
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Atlanta Braves at New York Mets 5:10 PM EST ( MLBN)" tvg-name="PPV|| Baseball (MLB) Atlanta Braves at New York Mets 5:10 PM EST ( MLBN)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Atlanta Braves at New York Mets 5:10 PM EST ( MLBN)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51913
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Washington Nationals at Philadelphia Phillies 7:05 PM EST ( MLB)" tvg-name="PPV|| Baseball (MLB) Washington Nationals at Philadelphia Phillies 7:05 PM EST ( MLB)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Washington Nationals at Philadelphia Phillies 7:05 PM EST ( MLB)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51914
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Toronto Blue Jays at Boston Red Sox 7:10 PM EST ( PPV)" tvg-name="PPV|| Baseball (MLB) Toronto Blue Jays at Boston Red Sox 7:10 PM EST ( PPV)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Toronto Blue Jays at Boston Red Sox 7:10 PM EST ( PPV)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51915
-#EXTINF:-1 tvg-id="PPV|| Soccer (LigaMXF) Leon vs UANL Tigres 8:00 PM EST ( ESPDR)" tvg-name="PPV|| Soccer (LigaMXF) Leon vs UANL Tigres 8:00 PM EST ( ESPDR)"  group-title="EVENTOS PPV",PPV|| Soccer (LigaMXF) Leon vs UANL Tigres 8:00 PM EST ( ESPDR)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51916
-#EXTINF:-1 tvg-id="PPV|| Wrestling WWE Monday Night RAW 8:00 PM EST ( USA)" tvg-name="PPV|| Wrestling WWE Monday Night RAW 8:00 PM EST ( USA)" tvg-logo="" group-title="EVENTOS PPV",PPV|| Wrestling WWE Monday Night RAW 8:00 PM EST ( USA)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51917
-#EXTINF:-1 tvg-id="PPV|| Olympics Beach Volleyball 8:00 PM EST ( CNBC)" tvg-name="PPV|| Olympics Beach Volleyball 8:00 PM EST ( CNBC)"  group-title="EVENTOS PPV",PPV|| Olympics Beach Volleyball 8:00 PM EST ( CNBC)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51918
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Cincinnati Reds at Chicago Cubs 8:05 PM EST ( MLB)" tvg-name="PPV|| Baseball (MLB) Cincinnati Reds at Chicago Cubs 8:05 PM EST ( MLB)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Cincinnati Reds at Chicago Cubs 8:05 PM EST ( MLB)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51919
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Chicago White Sox at Kansas City Royals 8:10 PM EST ( MLB)" tvg-name="PPV|| Baseball (MLB) Chicago White Sox at Kansas City Royals 8:10 PM EST ( MLB)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Chicago White Sox at Kansas City Royals 8:10 PM EST ( MLB)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51920
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Detroit Tigers at Minnesota Twins 8:10 PM EST ( MLB)" tvg-name="PPV|| Baseball (MLB) Detroit Tigers at Minnesota Twins 8:10 PM EST ( MLB)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Detroit Tigers at Minnesota Twins 8:10 PM EST ( MLB)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51921
-#EXTINF:-1 tvg-id="PPV|| Olympics Men's Water Polo U.S. vs. South Africa 9:00 PM EST ( CNBC)" tvg-name="PPV|| Olympics Men's Water Polo U.S. vs. South Africa 9:00 PM EST ( CNBC)"  group-title="EVENTOS PPV",PPV|| Olympics Men's Water Polo U.S. vs. South Africa 9:00 PM EST ( CNBC)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51922
-#EXTINF:-1 tvg-id="PPV|| Soccer (Liga MX) Mazatlan FC at Cruz Azul 9:00 PM EST ( TUDN)" tvg-name="PPV|| Soccer (Liga MX) Mazatlan FC at Cruz Azul 9:00 PM EST ( TUDN)"  group-title="EVENTOS PPV",PPV|| Soccer (Liga MX) Mazatlan FC at Cruz Azul 9:00 PM EST ( TUDN)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51923
-#EXTINF:-1 tvg-id="PPV|| Soccer (LigaMXF) Tijuana vs. Toluca 9:30 PM EST ( ESPDR)" tvg-name="PPV|| Soccer (LigaMXF) Tijuana vs. Toluca 9:30 PM EST ( ESPDR)"  group-title="EVENTOS PPV",PPV|| Soccer (LigaMXF) Tijuana vs. Toluca 9:30 PM EST ( ESPDR)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51924
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Colorado Rockies at LA Angels 9:38 PM EST ( MLB)" tvg-name="PPV|| Baseball (MLB) Colorado Rockies at LA Angels 9:38 PM EST ( MLB)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Colorado Rockies at LA Angels 9:38 PM EST ( MLB)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51925
-#EXTINF:-1 tvg-id="PPV|| Olympics Tennis 10:00 PM EST ( OLYC)" tvg-name="PPV|| Olympics Tennis 10:00 PM EST ( OLYC)"  group-title="EVENTOS PPV",PPV|| Olympics Tennis 10:00 PM EST ( OLYC)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51926
-#EXTINF:-1 tvg-id="PPV|| Olympics Rugby 10:10 PM EST ( CNBC)" tvg-name="PPV|| Olympics Rugby 10:10 PM EST ( CNBC)"  group-title="EVENTOS PPV",PPV|| Olympics Rugby 10:10 PM EST ( CNBC)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51927
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Houston Astros at Seattle Mariners 10:10 PM EST ( MLB)" tvg-name="PPV|| Baseball (MLB) Houston Astros at Seattle Mariners 10:10 PM EST ( MLB)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Houston Astros at Seattle Mariners 10:10 PM EST ( MLB)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51928
-#EXTINF:-1 tvg-id="PPV|| Olympics Beach Volleyball 11:00 PM EST ( USA)" tvg-name="PPV|| Olympics Beach Volleyball 11:00 PM EST ( USA)" tvg-logo="" group-title="EVENTOS PPV",PPV|| Olympics Beach Volleyball 11:00 PM EST ( USA)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51929
-#EXTINF:-1 tvg-id="PPV|| Olympics Fencing, Rowing 11:00 PM EST ( CNBC)" tvg-name="PPV|| Olympics Fencing, Rowing 11:00 PM EST ( CNBC)"  group-title="EVENTOS PPV",PPV|| Olympics Fencing, Rowing 11:00 PM EST ( CNBC)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51930
-#EXTINF:-1 tvg-id="PPV|| Olympics Multi-Sport Coverage (OLYC)" tvg-name="PPV|| Olympics Multi-Sport Coverage (OLYC)"  group-title="EVENTOS PPV",PPV|| Olympics Multi-Sport Coverage (OLYC)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51931
-#EXTINF:-1 tvg-id="PPV|| Tokyo Olympics Multi-Sport Coverage (CNBC)" tvg-name="PPV|| Tokyo Olympics Multi-Sport Coverage (CNBC)"  group-title="EVENTOS PPV",PPV|| Tokyo Olympics Multi-Sport Coverage (CNBC)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51932
-#EXTINF:-1 tvg-id="PPV|| Tokyo Olympics Multi-Sport Coverage (NBCS)" tvg-name="PPV|| Tokyo Olympics Multi-Sport Coverage (NBCS)"  group-title="EVENTOS PPV",PPV|| Tokyo Olympics Multi-Sport Coverage (NBCS)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51933
-#EXTINF:-1 tvg-id="PPV|| Tokyo Olympics Multi-Sport Coverage (NBC)" tvg-name="PPV|| Tokyo Olympics Multi-Sport Coverage (NBC)"  group-title="EVENTOS PPV",PPV|| Tokyo Olympics Multi-Sport Coverage (NBC)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51934
-#EXTINF:-1 tvg-id="PPV|| Tokyo Olympics Multi-Sport Coverage (USA)" tvg-name="PPV|| Tokyo Olympics Multi-Sport Coverage (USA)" tvg-logo="" group-title="EVENTOS PPV",PPV|| Tokyo Olympics Multi-Sport Coverage (USA)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51935
-#EXTINF:-1 tvg-id="PPV|| Tennis (PRO) Atlanta Open 5:00am EST (TNNS)" tvg-name="PPV|| Tennis (PRO) Atlanta Open 5:00am EST (TNNS)"  group-title="EVENTOS PPV",PPV|| Tennis (PRO) Atlanta Open 5:00am EST (TNNS)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51936
-#EXTINF:-1 tvg-id="PPV|| Wrestling (WWE) Monday Night RAW 8:00pm EST (USA)" tvg-name="PPV|| Wrestling (WWE) Monday Night RAW 8:00pm EST (USA)" tvg-logo="" group-title="EVENTOS PPV",PPV|| Wrestling (WWE) Monday Night RAW 8:00pm EST (USA)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51937
-#EXTINF:-1 tvg-id="PPV|| Bull Riding (PBR) Last Cowboy Standing Tour 10:00pm EST (CBSSN)" tvg-name="PPV|| Bull Riding (PBR) Last Cowboy Standing Tour 10:00pm EST (CBSSN)"  group-title="EVENTOS PPV",PPV|| Bull Riding (PBR) Last Cowboy Standing Tour 10:00pm EST (CBSSN)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51938
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Atlanta Braves at New York Mets (Game 1) 5:10pm EST" tvg-name="PPV|| Baseball (MLB) Atlanta Braves at New York Mets (Game 1) 5:10pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Atlanta Braves at New York Mets (Game 1) 5:10pm EST
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51939
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Toronto Blue Jays at Boston Red Sox 7:10pm EST" tvg-name="PPV|| Baseball (MLB) Toronto Blue Jays at Boston Red Sox 7:10pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Toronto Blue Jays at Boston Red Sox 7:10pm EST
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51940
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Washington Nationals at Philadelphia Phillies 7:05pm EST" tvg-name="PPV|| Baseball (MLB) Washington Nationals at Philadelphia Phillies 7:05pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Washington Nationals at Philadelphia Phillies 7:05pm EST
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51941
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Chicago White Sox at Kansas City Royals 8:10pm EST" tvg-name="PPV|| Baseball (MLB) Chicago White Sox at Kansas City Royals 8:10pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Chicago White Sox at Kansas City Royals 8:10pm EST
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51942
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Atlanta Braves at New York Mets (Game 2) 8:10pm EST" tvg-name="PPV|| Baseball (MLB) Atlanta Braves at New York Mets (Game 2) 8:10pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Atlanta Braves at New York Mets (Game 2) 8:10pm EST
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51943
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Cincinnati Reds at Chicago Cubs 8:05pm EST" tvg-name="PPV|| Baseball (MLB) Cincinnati Reds at Chicago Cubs 8:05pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Cincinnati Reds at Chicago Cubs 8:05pm EST
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51944
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Detroit Tigers at Minnesota Twins 8:10pm EST" tvg-name="PPV|| Baseball (MLB) Detroit Tigers at Minnesota Twins 8:10pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Detroit Tigers at Minnesota Twins 8:10pm EST
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51945
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Colorado Rockies at Los Angeles Angels 9:38pm EST" tvg-name="PPV|| Baseball (MLB) Colorado Rockies at Los Angeles Angels 9:38pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Colorado Rockies at Los Angeles Angels 9:38pm EST
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51946
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Houston Astros at Seattle Mariners 10:10pm EST" tvg-name="PPV|| Baseball (MLB) Houston Astros at Seattle Mariners 10:10pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Houston Astros at Seattle Mariners 10:10pm EST
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51947
-#EXTINF:-1 tvg-id="PPV|| Baseball (TUES) San Francisco Giants vs. L.A. Dodgers 9:45 pm EST (MLBN)" tvg-name="PPV|| Baseball (TUES) San Francisco Giants vs. L.A. Dodgers 9:45 pm EST (MLBN)"  group-title="EVENTOS PPV",PPV|| Baseball (TUES) San Francisco Giants vs. L.A. Dodgers 9:45 pm EST (MLBN)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51948
-#EXTINF:-1 tvg-id="PPV|| Baseball (TUES) San Francisco Giants vs. L.A. Dodgers 9:45 pm EST (SNLA)" tvg-name="PPV|| Baseball (TUES) San Francisco Giants vs. L.A. Dodgers 9:45 pm EST (SNLA)"  group-title="EVENTOS PPV",PPV|| Baseball (TUES) San Francisco Giants vs. L.A. Dodgers 9:45 pm EST (SNLA)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51949
-#EXTINF:-1 tvg-id="PPV|| Baseball (TUES) San Francisco Giants vs. L.A. Dodgers 9:45 pm EST (HOME)" tvg-name="PPV|| Baseball (TUES) San Francisco Giants vs. L.A. Dodgers 9:45 pm EST (HOME)"  group-title="EVENTOS PPV",PPV|| Baseball (TUES) San Francisco Giants vs. L.A. Dodgers 9:45 pm EST (HOME)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51950
-#EXTINF:-1 tvg-id="PPV|| Soccer (FRIENDLY) Villarreal vs. Dynamo Kyiv 10:30 am EST (FRIENDLY)" tvg-name="PPV|| Soccer (FRIENDLY) Villarreal vs. Dynamo Kyiv 10:30 am EST (FRIENDLY)"  group-title="EVENTOS PPV",PPV|| Soccer (FRIENDLY) Villarreal vs. Dynamo Kyiv 10:30 am EST (FRIENDLY)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51951
-#EXTINF:-1 tvg-id="PPV|| Soccer (LigaMX) Cruz Azul vs. Mazatlan 9:00 pm EST (LigaMX)" tvg-name="PPV|| Soccer (LigaMX) Cruz Azul vs. Mazatlan 9:00 pm EST (LigaMX)"  group-title="EVENTOS PPV",PPV|| Soccer (LigaMX) Cruz Azul vs. Mazatlan 9:00 pm EST (LigaMX)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51952
+#EXTINF:-1 tvg-id="PPV|| Soccer (Liga MXF) Pumas UNAM vs. Necaxa 12:55 PM EST ( TUDN)" tvg-name="PPV|| Soccer (Liga MXF) Pumas UNAM vs. Necaxa 12:55 PM EST ( TUDN)"  group-title="EVENTOS PPV",PPV|| Soccer (Liga MXF) Pumas UNAM vs. Necaxa 12:55 PM EST ( TUDN)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49913
+#EXTINF:-1 tvg-id="PPV|| Tennis (Pro) ATP Hall of Fame Open Semifinals 1:00 PM EST ( TNNS)" tvg-name="PPV|| Tennis (Pro) ATP Hall of Fame Open Semifinals 1:00 PM EST ( TNNS)"  group-title="EVENTOS PPV",PPV|| Tennis (Pro) ATP Hall of Fame Open Semifinals 1:00 PM EST ( TNNS)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49914
+#EXTINF:-1 tvg-id="PPV|| Golf (Pro) U.S. Girls' Junior Championship Match 1:00 PM EST ( Golf)" tvg-name="PPV|| Golf (Pro) U.S. Girls' Junior Championship Match 1:00 PM EST ( Golf)"  group-title="EVENTOS PPV",PPV|| Golf (Pro) U.S. Girls' Junior Championship Match 1:00 PM EST ( Golf)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49915
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Texas Rangers at Toronto Blue Jays 3:07 PM EST ( MLBN)" tvg-name="PPV|| Baseball (MLB) Texas Rangers at Toronto Blue Jays 3:07 PM EST ( MLBN)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Texas Rangers at Toronto Blue Jays 3:07 PM EST ( MLBN)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49916
+#EXTINF:-1 tvg-id="PPV|| Golf (Pro) PGA Barbasol Championship Third Round 4:00 PM EST ( Golf)" tvg-name="PPV|| Golf (Pro) PGA Barbasol Championship Third Round 4:00 PM EST ( Golf)"  group-title="EVENTOS PPV",PPV|| Golf (Pro) PGA Barbasol Championship Third Round 4:00 PM EST ( Golf)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49917
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Cleveland Indians at Oakland Athletics 4:07 PM EST ( FS1)" tvg-name="PPV|| Baseball (MLB) Cleveland Indians at Oakland Athletics 4:07 PM EST ( FS1)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Cleveland Indians at Oakland Athletics 4:07 PM EST ( FS1)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49918
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Chicago Cubs at Arizona Diamondbacks 4:10 PM EST ( MLB)" tvg-name="PPV|| Baseball (MLB) Chicago Cubs at Arizona Diamondbacks 4:10 PM EST ( MLB)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Chicago Cubs at Arizona Diamondbacks 4:10 PM EST ( MLB)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49919
+#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) New England Revolution at Atlanta United FC 5:00 PM EST ( ESPN)" tvg-name="PPV|| Soccer (MLS) New England Revolution at Atlanta United FC 5:00 PM EST ( ESPN)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) New England Revolution at Atlanta United FC 5:00 PM EST ( ESPN)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49920
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Miami Marlins at Philadelphia Phillies 6:05 PM EST ( MLB)" tvg-name="PPV|| Baseball (MLB) Miami Marlins at Philadelphia Phillies 6:05 PM EST ( MLB)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Miami Marlins at Philadelphia Phillies 6:05 PM EST ( MLB)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49921
+#EXTINF:-1 tvg-id="PPV|| Martial Arts UFC Fight Night Makhachev vs. Moises - Prelims 7:00 PM EST ( ESPN)" tvg-name="PPV|| Martial Arts UFC Fight Night Makhachev vs. Moises - Prelims 7:00 PM EST ( ESPN)"  group-title="EVENTOS PPV",PPV|| Martial Arts UFC Fight Night Makhachev vs. Moises - Prelims 7:00 PM EST ( ESPN)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49922
+#EXTINF:-1 tvg-id="PPV|| Martial Arts UFC Fight Night Makhachev vs. Moises, preliminares 7:00 PM EST ( ESPDR)" tvg-name="PPV|| Martial Arts UFC Fight Night Makhachev vs. Moises, preliminares 7:00 PM EST ( ESPDR)"  group-title="EVENTOS PPV",PPV|| Martial Arts UFC Fight Night Makhachev vs. Moises, preliminares 7:00 PM EST ( ESPDR)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49923
+#EXTINF:-1 tvg-id="PPV|| Golf (Pro) PGA Barbasol Championship First Round 5:00 PM EST ( Golf)" tvg-name="PPV|| Golf (Pro) PGA Barbasol Championship First Round 5:00 PM EST ( Golf)"  group-title="EVENTOS PPV",PPV|| Golf (Pro) PGA Barbasol Championship First Round 5:00 PM EST ( Golf)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49924
+#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Inter Miami CF at New York Red Bulls 7:00 PM EST ( MLS)" tvg-name="PPV|| Soccer (MLS) Inter Miami CF at New York Red Bulls 7:00 PM EST ( MLS)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Inter Miami CF at New York Red Bulls 7:00 PM EST ( MLS)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49925
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) New York Mets at Pittsburgh Pirates 7:05 PM EST ( PPV)" tvg-name="PPV|| Baseball (MLB) New York Mets at Pittsburgh Pirates 7:05 PM EST ( PPV)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) New York Mets at Pittsburgh Pirates 7:05 PM EST ( PPV)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49926
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) San Diego Padres at Washington Nationals 7:05 PM EST ( MLB)" tvg-name="PPV|| Baseball (MLB) San Diego Padres at Washington Nationals 7:05 PM EST ( MLB)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) San Diego Padres at Washington Nationals 7:05 PM EST ( MLB)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49927
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Baltimore Orioles at Kansas City Royals 7:10 PM EST ( MLB)" tvg-name="PPV|| Baseball (MLB) Baltimore Orioles at Kansas City Royals 7:10 PM EST ( MLB)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Baltimore Orioles at Kansas City Royals 7:10 PM EST ( MLB)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49928
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Milwaukee Brewers at Cincinnati Reds 7:10 PM EST ( MLB)" tvg-name="PPV|| Baseball (MLB) Milwaukee Brewers at Cincinnati Reds 7:10 PM EST ( MLB)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Milwaukee Brewers at Cincinnati Reds 7:10 PM EST ( MLB)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49929
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Boston Red Sox at New York Yankees 7:15 PM EST ( FOXD)" tvg-name="PPV|| Baseball (MLB) Boston Red Sox at New York Yankees 7:15 PM EST ( FOXD)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Boston Red Sox at New York Yankees 7:15 PM EST ( FOXD)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49930
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Houston Astros at Chicago White Sox 7:15 PM EST ( MLB)" tvg-name="PPV|| Baseball (MLB) Houston Astros at Chicago White Sox 7:15 PM EST ( MLB)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Houston Astros at Chicago White Sox 7:15 PM EST ( MLB)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49931
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) San Francisco Giants at St. Louis Cardinals 7:15 PM EST ( MLB)" tvg-name="PPV|| Baseball (MLB) San Francisco Giants at St. Louis Cardinals 7:15 PM EST ( MLB)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) San Francisco Giants at St. Louis Cardinals 7:15 PM EST ( MLB)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49932
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Tampa Bay Rays at Atlanta Braves 7:20 PM EST ( MLB)" tvg-name="PPV|| Baseball (MLB) Tampa Bay Rays at Atlanta Braves 7:20 PM EST ( MLB)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Tampa Bay Rays at Atlanta Braves 7:20 PM EST ( MLB)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49933
+#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) D.C. United at Philadelphia Union 7:30 PM EST ( MLS)" tvg-name="PPV|| Soccer (MLS) D.C. United at Philadelphia Union 7:30 PM EST ( MLS)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) D.C. United at Philadelphia Union 7:30 PM EST ( MLS)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49934
+#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Orlando City SC at Toronto FC 7:30 PM EST ( MLS)" tvg-name="PPV|| Soccer (MLS) Orlando City SC at Toronto FC 7:30 PM EST ( MLS)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Orlando City SC at Toronto FC 7:30 PM EST ( MLS)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49935
+#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) New York City FC at Columbus Crew SC 7:30 PM EST ( MLS)" tvg-name="PPV|| Soccer (MLS) New York City FC at Columbus Crew SC 7:30 PM EST ( MLS)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) New York City FC at Columbus Crew SC 7:30 PM EST ( MLS)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49936
+#EXTINF:-1 tvg-id="PPV|| Wrestling IMPACT Slammiversary 2021 8:00 PM EST ( PPV)" tvg-name="PPV|| Wrestling IMPACT Slammiversary 2021 8:00 PM EST ( PPV)"  group-title="EVENTOS PPV",PPV|| Wrestling IMPACT Slammiversary 2021 8:00 PM EST ( PPV)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49937
+#EXTINF:-1 tvg-id="PPV|| Horse Racing Meadowlands Pace 8:00 PM EST ( FS2)" tvg-name="PPV|| Horse Racing Meadowlands Pace 8:00 PM EST ( FS2)"  group-title="EVENTOS PPV",PPV|| Horse Racing Meadowlands Pace 8:00 PM EST ( FS2)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49938
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) LA Dodgers at Colorado Rockies 8:10 PM EST ( MLB)" tvg-name="PPV|| Baseball (MLB) LA Dodgers at Colorado Rockies 8:10 PM EST ( MLB)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) LA Dodgers at Colorado Rockies 8:10 PM EST ( MLB)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49939
+#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Chicago Fire at Nashville SC 8:30 PM EST ( MLS)" tvg-name="PPV|| Soccer (MLS) Chicago Fire at Nashville SC 8:30 PM EST ( MLS)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Chicago Fire at Nashville SC 8:30 PM EST ( MLS)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49940
+#EXTINF:-1 tvg-id="PPV|| Boxing Jermell Charlo vs. Brian Carlos CastaÃ±o 9:00 PM EST ( TYC)" tvg-name="PPV|| Boxing Jermell Charlo vs. Brian Carlos CastaÃ±o 9:00 PM EST ( TYC)"  group-title="EVENTOS PPV",PPV|| Boxing Jermell Charlo vs. Brian Carlos CastaÃ±o 9:00 PM EST ( TYC)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49941
+#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) San Jose Earthquakes at Colorado Rapids 9:00 PM EST ( MLS)" tvg-name="PPV|| Soccer (MLS) San Jose Earthquakes at Colorado Rapids 9:00 PM EST ( MLS)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) San Jose Earthquakes at Colorado Rapids 9:00 PM EST ( MLS)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49942
+#EXTINF:-1 tvg-id="PPV|| Boxing Jermell Charlo vs. Brian Carlos CastaÃ±o 9:00 PM EST ( SHOe)" tvg-name="PPV|| Boxing Jermell Charlo vs. Brian Carlos CastaÃ±o 9:00 PM EST ( SHOe)"  group-title="EVENTOS PPV",PPV|| Boxing Jermell Charlo vs. Brian Carlos CastaÃ±o 9:00 PM EST ( SHOe)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49943
+#EXTINF:-1 tvg-id="PPV|| Boxing Jermell Charlo vs. Brian Carlos CastaÃ±o 9:00 PM EST ( SHOw)" tvg-name="PPV|| Boxing Jermell Charlo vs. Brian Carlos CastaÃ±o 9:00 PM EST ( SHOw)"  group-title="EVENTOS PPV",PPV|| Boxing Jermell Charlo vs. Brian Carlos CastaÃ±o 9:00 PM EST ( SHOw)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49944
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Seattle Mariners at LA Angels 9:07 PM EST ( MLBN)" tvg-name="PPV|| Baseball (MLB) Seattle Mariners at LA Angels 9:07 PM EST ( MLBN)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Seattle Mariners at LA Angels 9:07 PM EST ( MLBN)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49945
+#EXTINF:-1 tvg-id="PPV|| Martial Arts UFC Fight Night Makhachev vs. Moises 10:00 PM EST ( ESPN)" tvg-name="PPV|| Martial Arts UFC Fight Night Makhachev vs. Moises 10:00 PM EST ( ESPN)"  group-title="EVENTOS PPV",PPV|| Martial Arts UFC Fight Night Makhachev vs. Moises 10:00 PM EST ( ESPN)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49946
+#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Los Angeles Galaxy at Vancouver Whitecaps FC 10:00 PM EST ( MLS)" tvg-name="PPV|| Soccer (MLS) Los Angeles Galaxy at Vancouver Whitecaps FC 10:00 PM EST ( MLS)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Los Angeles Galaxy at Vancouver Whitecaps FC 10:00 PM EST ( MLS)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49947
+#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Real Salt Lake at Los Angeles FC 10:30 PM EST ( MLS)" tvg-name="PPV|| Soccer (MLS) Real Salt Lake at Los Angeles FC 10:30 PM EST ( MLS)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Real Salt Lake at Los Angeles FC 10:30 PM EST ( MLS)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49948
+#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) FC Dallas at Portland Timbers 10:30 PM EST ( MLS)" tvg-name="PPV|| Soccer (MLS) FC Dallas at Portland Timbers 10:30 PM EST ( MLS)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) FC Dallas at Portland Timbers 10:30 PM EST ( MLS)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49949
+#EXTINF:-1 tvg-id="PPV|| Football (Australian) North Melbourne Kangaroos at Essendon Bombers 11:00 PM EST ( FSP)" tvg-name="PPV|| Football (Australian) North Melbourne Kangaroos at Essendon Bombers 11:00 PM EST ( FSP)"  group-title="EVENTOS PPV",PPV|| Football (Australian) North Melbourne Kangaroos at Essendon Bombers 11:00 PM EST ( FSP)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49950
+#EXTINF:-1 tvg-id="PPV|| Martial Arts UFC Fight Night Makhachev vs. Moises 11:30 PM EST ( ESPDR)" tvg-name="PPV|| Martial Arts UFC Fight Night Makhachev vs. Moises 11:30 PM EST ( ESPDR)"  group-title="EVENTOS PPV",PPV|| Martial Arts UFC Fight Night Makhachev vs. Moises 11:30 PM EST ( ESPDR)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49951
+#EXTINF:-1 tvg-id="PPV|| Horse Racing Saratoga Live 1:00 PM EST ( FS2)" tvg-name="PPV|| Horse Racing Saratoga Live 1:00 PM EST ( FS2)"  group-title="EVENTOS PPV",PPV|| Horse Racing Saratoga Live 1:00 PM EST ( FS2)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49952
+#EXTINF:-1 tvg-id="PPV|| Soccer (CopaOro) Guadalupe vs Jamaica 6:30 PM EST ( Az7)" tvg-name="PPV|| Soccer (CopaOro) Guadalupe vs Jamaica 6:30 PM EST ( Az7)"  group-title="EVENTOS PPV",PPV|| Soccer (CopaOro) Guadalupe vs Jamaica 6:30 PM EST ( Az7)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49953
+#EXTINF:-1 tvg-id="PPV|| Soccer (CopaOro) Surinam vs Costa Rica 8:30 PM EST ( C5)" tvg-name="PPV|| Soccer (CopaOro) Surinam vs Costa Rica 8:30 PM EST ( C5)"  group-title="EVENTOS PPV",PPV|| Soccer (CopaOro) Surinam vs Costa Rica 8:30 PM EST ( C5)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49954
+#EXTINF:-1 tvg-id="PPV|| Tennis (PRO) Hall of Fame Open 4:30am EST (TNNS)" tvg-name="PPV|| Tennis (PRO) Hall of Fame Open 4:30am EST (TNNS)"  group-title="EVENTOS PPV",PPV|| Tennis (PRO) Hall of Fame Open 4:30am EST (TNNS)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49955
+#EXTINF:-1 tvg-id="PPV|| Golf (PRO) 2021 Open Championship 6:00am EST (GOLF)" tvg-name="PPV|| Golf (PRO) 2021 Open Championship 6:00am EST (GOLF)"  group-title="EVENTOS PPV",PPV|| Golf (PRO) 2021 Open Championship 6:00am EST (GOLF)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49956
+#EXTINF:-1 tvg-id="PPV|| Racing (Auto) F1 British GP 6:55am EST (ESPN2)" tvg-name="PPV|| Racing (Auto) F1 British GP 6:55am EST (ESPN2)"  group-title="EVENTOS PPV",PPV|| Racing (Auto) F1 British GP 6:55am EST (ESPN2)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49957
+#EXTINF:-1 tvg-id="PPV|| Cycling (UCI) Tour de France Stage 18 7:30am EST (NBCS)" tvg-name="PPV|| Cycling (UCI) Tour de France Stage 18 7:30am EST (NBCS)"  group-title="EVENTOS PPV",PPV|| Cycling (UCI) Tour de France Stage 18 7:30am EST (NBCS)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49958
+#EXTINF:-1 tvg-id="PPV|| Extreme Sports X Games 2021 1:00pm EST (ABC)" tvg-name="PPV|| Extreme Sports X Games 2021 1:00pm EST (ABC)"  group-title="EVENTOS PPV",PPV|| Extreme Sports X Games 2021 1:00pm EST (ABC)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49959
+#EXTINF:-1 tvg-id="PPV|| Basketball (BIG3) Week-2 2:00pm EST (CBS)" tvg-name="PPV|| Basketball (BIG3) Week-2 2:00pm EST (CBS)"  group-title="EVENTOS PPV",PPV|| Basketball (BIG3) Week-2 2:00pm EST (CBS)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49961
+#EXTINF:-1 tvg-id="PPV|| Calgary Stampede Rodeo - Day #9 3:30pm EST (SNE)" tvg-name="PPV|| Calgary Stampede Rodeo - Day #9 3:30pm EST (SNE)"  group-title="EVENTOS PPV",PPV|| Calgary Stampede Rodeo - Day #9 3:30pm EST (SNE)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49963
+#EXTINF:-1 tvg-id="PPV|| Golf (PRO) PGA Tour Barbasol Championship 4:00pm EST (GOLF)" tvg-name="PPV|| Golf (PRO) PGA Tour Barbasol Championship 4:00pm EST (GOLF)"  group-title="EVENTOS PPV",PPV|| Golf (PRO) PGA Tour Barbasol Championship 4:00pm EST (GOLF)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49964
+#EXTINF:-1 tvg-id="PPV|| Golf (PRO) LPGA Tour Dow Great Lakes Bay Invitational 4:00pm EST (CBS)" tvg-name="PPV|| Golf (PRO) LPGA Tour Dow Great Lakes Bay Invitational 4:00pm EST (CBS)"  group-title="EVENTOS PPV",PPV|| Golf (PRO) LPGA Tour Dow Great Lakes Bay Invitational 4:00pm EST (CBS)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49965
+#EXTINF:-1 tvg-id="PPV|| Basketball (NBA) Milwaukee Bucks at Phoenix Suns 9:00pm EST (ABC)" tvg-name="PPV|| Basketball (NBA) Milwaukee Bucks at Phoenix Suns 9:00pm EST (ABC)" tvg-logo="" group-title="EVENTOS PPV",PPV|| Basketball (NBA) Milwaukee Bucks at Phoenix Suns 9:00pm EST (ABC)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49966
+#EXTINF:-1 tvg-id="PPV|| Basketball (NBA) Milwaukee Bucks at Phoenix Suns 9:00pm EST (TSN1)" tvg-name="PPV|| Basketball (NBA) Milwaukee Bucks at Phoenix Suns 9:00pm EST (TSN1)" tvg-logo="" group-title="EVENTOS PPV",PPV|| Basketball (NBA) Milwaukee Bucks at Phoenix Suns 9:00pm EST (TSN1)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49967
+#EXTINF:-1 tvg-id="PPV|| Basketball (NBA) Milwaukee Bucks at Phoenix Suns 9:00pm EST (ABConESPN3)" tvg-name="PPV|| Basketball (NBA) Milwaukee Bucks at Phoenix Suns 9:00pm EST (ABConESPN3)" tvg-logo="" group-title="EVENTOS PPV",PPV|| Basketball (NBA) Milwaukee Bucks at Phoenix Suns 9:00pm EST (ABConESPN3)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49968
+#EXTINF:-1 tvg-id="PPV|| Basketball (NBA) Milwaukee Bucks at Phoenix Suns 9:00pm EST (ESPD)" tvg-name="PPV|| Basketball (NBA) Milwaukee Bucks at Phoenix Suns 9:00pm EST (ESPD)" tvg-logo="" group-title="EVENTOS PPV",PPV|| Basketball (NBA) Milwaukee Bucks at Phoenix Suns 9:00pm EST (ESPD)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49969
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Chicago Cubs at Arizona Diamondbacks 9:40pm EST" tvg-name="PPV|| Baseball (MLB) Chicago Cubs at Arizona Diamondbacks 9:40pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Chicago Cubs at Arizona Diamondbacks 9:40pm EST
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49970
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Minnesota Twins at Detroit Tigers (Game 1) 1:10pm EST" tvg-name="PPV|| Baseball (MLB) Minnesota Twins at Detroit Tigers (Game 1) 1:10pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Minnesota Twins at Detroit Tigers (Game 1) 1:10pm EST
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49971
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Texas Rangers at Toronto Blue Jays 3:07pm EST" tvg-name="PPV|| Baseball (MLB) Texas Rangers at Toronto Blue Jays 3:07pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Texas Rangers at Toronto Blue Jays 3:07pm EST
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49972
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Cleveland Indians at Oakland Athletics 4:07pm EST" tvg-name="PPV|| Baseball (MLB) Cleveland Indians at Oakland Athletics 4:07pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Cleveland Indians at Oakland Athletics 4:07pm EST
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49973
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Chicago Cubs at Arizona Diamondbacks 4:10pm EST" tvg-name="PPV|| Baseball (MLB) Chicago Cubs at Arizona Diamondbacks 4:10pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Chicago Cubs at Arizona Diamondbacks 4:10pm EST
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49974
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Minnesota Twins at Detroit Tigers (Game 2) 6:10pm EST" tvg-name="PPV|| Baseball (MLB) Minnesota Twins at Detroit Tigers (Game 2) 6:10pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Minnesota Twins at Detroit Tigers (Game 2) 6:10pm EST
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49975
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Miami Marlins at Philadelphia Phillies 6:05pm EST" tvg-name="PPV|| Baseball (MLB) Miami Marlins at Philadelphia Phillies 6:05pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Miami Marlins at Philadelphia Phillies 6:05pm EST
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49976
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) San Diego Padres at Washington Nationals 7:05pm EST" tvg-name="PPV|| Baseball (MLB) San Diego Padres at Washington Nationals 7:05pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) San Diego Padres at Washington Nationals 7:05pm EST
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49977
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) New York Mets at Pittsburgh Pirates 7:05pm EST" tvg-name="PPV|| Baseball (MLB) New York Mets at Pittsburgh Pirates 7:05pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) New York Mets at Pittsburgh Pirates 7:05pm EST
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49978
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Baltimore Orioles at Kansas City Royals 7:10pm EST" tvg-name="PPV|| Baseball (MLB) Baltimore Orioles at Kansas City Royals 7:10pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Baltimore Orioles at Kansas City Royals 7:10pm EST
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49979
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Milwaukee Brewers at Cincinnati Reds 7:10pm EST" tvg-name="PPV|| Baseball (MLB) Milwaukee Brewers at Cincinnati Reds 7:10pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Milwaukee Brewers at Cincinnati Reds 7:10pm EST
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49980
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Houston Astros at Chicago White Sox 7:15pm EST" tvg-name="PPV|| Baseball (MLB) Houston Astros at Chicago White Sox 7:15pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Houston Astros at Chicago White Sox 7:15pm EST
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49981
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Boston Red Sox at New York Yankees 7:15pm EST" tvg-name="PPV|| Baseball (MLB) Boston Red Sox at New York Yankees 7:15pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Boston Red Sox at New York Yankees 7:15pm EST
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49982
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Tampa Bay Rays at Atlanta Braves 7:20pm EST" tvg-name="PPV|| Baseball (MLB) Tampa Bay Rays at Atlanta Braves 7:20pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Tampa Bay Rays at Atlanta Braves 7:20pm EST
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49983
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) San Francisco Giants at St. Louis Cardinals 7:15pm EST" tvg-name="PPV|| Baseball (MLB) San Francisco Giants at St. Louis Cardinals 7:15pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) San Francisco Giants at St. Louis Cardinals 7:15pm EST
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49984
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Los Angeles Dodgers at Colorado Rockies 8:10pm EST" tvg-name="PPV|| Baseball (MLB) Los Angeles Dodgers at Colorado Rockies 8:10pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Los Angeles Dodgers at Colorado Rockies 8:10pm EST
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49985
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Colorado Rockies vs. L.A. Dodgers 8:10 pm EST (MLBN)" tvg-name="PPV|| Baseball (MLB) Colorado Rockies vs. L.A. Dodgers 8:10 pm EST (MLBN)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Colorado Rockies vs. L.A. Dodgers 8:10 pm EST (MLBN)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49986
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Colorado Rockies vs. L.A. Dodgers 8:10 pm EST (SNLA)" tvg-name="PPV|| Baseball (MLB) Colorado Rockies vs. L.A. Dodgers 8:10 pm EST (SNLA)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Colorado Rockies vs. L.A. Dodgers 8:10 pm EST (SNLA)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49987
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Colorado Rockies vs. L.A. Dodgers 8:10 pm EST (HOME)" tvg-name="PPV|| Baseball (MLB) Colorado Rockies vs. L.A. Dodgers 8:10 pm EST (HOME)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Colorado Rockies vs. L.A. Dodgers 8:10 pm EST (HOME)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49988
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Seattle Mariners at Los Angeles Angels 9:07pm EST" tvg-name="PPV|| Baseball (MLB) Seattle Mariners at Los Angeles Angels 9:07pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Seattle Mariners at Los Angeles Angels 9:07pm EST
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49989
+#EXTINF:-1 tvg-id="PPV|| Bellator 262 Velasquez vs. Kielholtz Main 9:00pm EST (HD2)" tvg-name="PPV|| Bellator 262 Velasquez vs. Kielholtz Main 9:00pm EST (HD2)"  group-title="EVENTOS PPV",PPV|| Bellator 262 Velasquez vs. Kielholtz Main 9:00pm EST (HD2)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49990
+#EXTINF:-1 tvg-id="PPV|| Bellator 262 Velasquez vs. Kielholtz Main 9:00pm EST (HD3)" tvg-name="PPV|| Bellator 262 Velasquez vs. Kielholtz Main 9:00pm EST (HD3)"  group-title="EVENTOS PPV",PPV|| Bellator 262 Velasquez vs. Kielholtz Main 9:00pm EST (HD3)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49991
+#EXTINF:-1 tvg-id="PPV|| MMA LFA 111 De Sa vs. Bonfim 9:00pm EST (HD1)" tvg-name="PPV|| MMA LFA 111 De Sa vs. Bonfim 9:00pm EST (HD1)"  group-title="EVENTOS PPV",PPV|| MMA LFA 111 De Sa vs. Bonfim 9:00pm EST (HD1)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49992
+#EXTINF:-1 tvg-id="PPV|| Boxing Juarez vs. Fernandez 9:00pm EST (HD1)(ESP)" tvg-name="PPV|| Boxing Juarez vs. Fernandez 9:00pm EST (HD1)(ESP)"  group-title="EVENTOS PPV",PPV|| Boxing Juarez vs. Fernandez 9:00pm EST (HD1)(ESP)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49993
+#EXTINF:-1 tvg-id="PPV|| MMA Levy vs Marroquin 12:00am EST (HD1)" tvg-name="PPV|| MMA Levy vs Marroquin 12:00am EST (HD1)"  group-title="EVENTOS PPV",PPV|| MMA Levy vs Marroquin 12:00am EST (HD1)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49994
+#EXTINF:-1 tvg-id="PPV|| PPV Impact Wrestling Slammiversary 2021 8:00pm EST (PPV1)" tvg-name="PPV|| PPV Impact Wrestling Slammiversary 2021 8:00pm EST (PPV1)"  group-title="EVENTOS PPV",PPV|| PPV Impact Wrestling Slammiversary 2021 8:00pm EST (PPV1)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49995
+#EXTINF:-1 tvg-id="PPV|| PPV Impact Wrestling Slammiversary 2021 8:00pm EST (PPV2)" tvg-name="PPV|| PPV Impact Wrestling Slammiversary 2021 8:00pm EST (PPV2)"  group-title="EVENTOS PPV",PPV|| PPV Impact Wrestling Slammiversary 2021 8:00pm EST (PPV2)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49996
+#EXTINF:-1 tvg-id="PPV|| MMA Ring Of Combat 73 8:00pm EST (HD1)" tvg-name="PPV|| MMA Ring Of Combat 73 8:00pm EST (HD1)"  group-title="EVENTOS PPV",PPV|| MMA Ring Of Combat 73 8:00pm EST (HD1)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49997
+#EXTINF:-1 tvg-id="PPV|| Boxing Charlo vs. Castano 9:00pm EST (HD1)" tvg-name="PPV|| Boxing Charlo vs. Castano 9:00pm EST (HD1)"  group-title="EVENTOS PPV",PPV|| Boxing Charlo vs. Castano 9:00pm EST (HD1)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49998
+#EXTINF:-1 tvg-id="PPV|| Boxing Charlo vs. Castano 9:00pm EST (HD2)" tvg-name="PPV|| Boxing Charlo vs. Castano 9:00pm EST (HD2)"  group-title="EVENTOS PPV",PPV|| Boxing Charlo vs. Castano 9:00pm EST (HD2)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49999
+#EXTINF:-1 tvg-id="PPV|| Boxing Charlo vs. Castano 9:00pm EST (HD3)(ESP)" tvg-name="PPV|| Boxing Charlo vs. Castano 9:00pm EST (HD3)(ESP)"  group-title="EVENTOS PPV",PPV|| Boxing Charlo vs. Castano 9:00pm EST (HD3)(ESP)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/50000
+#EXTINF:-1 tvg-id="PPV|| UFC Fight Night Makhachev vs. Moises PRELIMS 7:00pm EST (HD1)" tvg-name="PPV|| UFC Fight Night Makhachev vs. Moises PRELIMS 7:00pm EST (HD1)"  group-title="EVENTOS PPV",PPV|| UFC Fight Night Makhachev vs. Moises PRELIMS 7:00pm EST (HD1)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/50001
+#EXTINF:-1 tvg-id="PPV|| UFC Fight Night Makhachev vs. Moises PRELIMS 7:00pm EST (HD2)" tvg-name="PPV|| UFC Fight Night Makhachev vs. Moises PRELIMS 7:00pm EST (HD2)"  group-title="EVENTOS PPV",PPV|| UFC Fight Night Makhachev vs. Moises PRELIMS 7:00pm EST (HD2)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/50002
+#EXTINF:-1 tvg-id="PPV|| UFC Fight Night Makhachev vs. Moises MAIN 10:00pm EST (HD1)" tvg-name="PPV|| UFC Fight Night Makhachev vs. Moises MAIN 10:00pm EST (HD1)"  group-title="EVENTOS PPV",PPV|| UFC Fight Night Makhachev vs. Moises MAIN 10:00pm EST (HD1)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/50003
+#EXTINF:-1 tvg-id="PPV|| UFC Fight Night Makhachev vs. Moises MAIN 10:00pm EST (HD2)" tvg-name="PPV|| UFC Fight Night Makhachev vs. Moises MAIN 10:00pm EST (HD2)"  group-title="EVENTOS PPV",PPV|| UFC Fight Night Makhachev vs. Moises MAIN 10:00pm EST (HD2)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/50004
+#EXTINF:-1 tvg-id="PPV|| UFC Fight Night Makhachev vs. Moises MAIN 10:00pm EST (HD3)" tvg-name="PPV|| UFC Fight Night Makhachev vs. Moises MAIN 10:00pm EST (HD3)"  group-title="EVENTOS PPV",PPV|| UFC Fight Night Makhachev vs. Moises MAIN 10:00pm EST (HD3)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/50005
+#EXTINF:-1 tvg-id="PPV|| UFC Fight Night Makhachev vs. Moises MAIN 10:00pm EST (HD4)" tvg-name="PPV|| UFC Fight Night Makhachev vs. Moises MAIN 10:00pm EST (HD4)"  group-title="EVENTOS PPV",PPV|| UFC Fight Night Makhachev vs. Moises MAIN 10:00pm EST (HD4)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/50006
+#EXTINF:-1 tvg-id="PPV|| UFC Fight Night Makhachev vs. Moises MAIN 10:00pm EST (SD5)" tvg-name="PPV|| UFC Fight Night Makhachev vs. Moises MAIN 10:00pm EST (SD5)"  group-title="EVENTOS PPV",PPV|| UFC Fight Night Makhachev vs. Moises MAIN 10:00pm EST (SD5)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/50007
+#EXTINF:-1 tvg-id="PPV|| UFC Fight Night Makhachev vs. Moises MAIN 10:00pm EST (HD6)(ESP)" tvg-name="PPV|| UFC Fight Night Makhachev vs. Moises MAIN 10:00pm EST (HD6)(ESP)"  group-title="EVENTOS PPV",PPV|| UFC Fight Night Makhachev vs. Moises MAIN 10:00pm EST (HD6)(ESP)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/50008
+#EXTINF:-1 tvg-id="PPV|| Soccer (GoldCup) Grenada vs. Qatar 7:30 pm EST (ENG)" tvg-name="PPV|| Soccer (GoldCup) Grenada vs. Qatar 7:30 pm EST (ENG)"  group-title="EVENTOS PPV",PPV|| Soccer (GoldCup) Grenada vs. Qatar 7:30 pm EST (ENG)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/50009
+#EXTINF:-1 tvg-id="PPV|| Soccer (GoldCup) Grenada vs. Qatar 7:30 pm EST (ESP)" tvg-name="PPV|| Soccer (GoldCup) Grenada vs. Qatar 7:30 pm EST (ESP)"  group-title="EVENTOS PPV",PPV|| Soccer (GoldCup) Grenada vs. Qatar 7:30 pm EST (ESP)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/50010
+#EXTINF:-1 tvg-id="PPV|| Soccer (GoldCup) Panama vs. Honduras 9:30 pm EST (ENG)" tvg-name="PPV|| Soccer (GoldCup) Panama vs. Honduras 9:30 pm EST (ENG)"  group-title="EVENTOS PPV",PPV|| Soccer (GoldCup) Panama vs. Honduras 9:30 pm EST (ENG)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/50011
+#EXTINF:-1 tvg-id="PPV|| Soccer (GoldCup) Panama vs. Honduras 9:30 pm EST (ESP)" tvg-name="PPV|| Soccer (GoldCup) Panama vs. Honduras 9:30 pm EST (ESP)"  group-title="EVENTOS PPV",PPV|| Soccer (GoldCup) Panama vs. Honduras 9:30 pm EST (ESP)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/50012
+#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Atlanta United vs. New England 5:00 pm EST (ENG)" tvg-name="PPV|| Soccer (MLS) Atlanta United vs. New England 5:00 pm EST (ENG)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Atlanta United vs. New England 5:00 pm EST (ENG)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/50013
+#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Atlanta United vs. New England 5:00 pm EST (ESP)" tvg-name="PPV|| Soccer (MLS) Atlanta United vs. New England 5:00 pm EST (ESP)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Atlanta United vs. New England 5:00 pm EST (ESP)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/50014
+#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) New York RB vs. Inter Miami 7:00 pm EST (MLS)" tvg-name="PPV|| Soccer (MLS) New York RB vs. Inter Miami 7:00 pm EST (MLS)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) New York RB vs. Inter Miami 7:00 pm EST (MLS)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/50015
+#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Columbus Crew vs. New York City 7:30 pm EST (MLS)" tvg-name="PPV|| Soccer (MLS) Columbus Crew vs. New York City 7:30 pm EST (MLS)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Columbus Crew vs. New York City 7:30 pm EST (MLS)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/50016
+#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Philadelphia Union vs. DC United 7:30 pm EST (MLS)" tvg-name="PPV|| Soccer (MLS) Philadelphia Union vs. DC United 7:30 pm EST (MLS)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Philadelphia Union vs. DC United 7:30 pm EST (MLS)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/50017
+#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Toronto FC vs. Orlando City SC 7:30 pm EST (MLS)" tvg-name="PPV|| Soccer (MLS) Toronto FC vs. Orlando City SC 7:30 pm EST (MLS)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Toronto FC vs. Orlando City SC 7:30 pm EST (MLS)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/50018
+#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) CF Montreal vs. Cincinnati 7:30 pm EST (MLS)" tvg-name="PPV|| Soccer (MLS) CF Montreal vs. Cincinnati 7:30 pm EST (MLS)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) CF Montreal vs. Cincinnati 7:30 pm EST (MLS)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/50019
+#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Sporting KC vs. Austin 8:30 pm EST (MLS)" tvg-name="PPV|| Soccer (MLS) Sporting KC vs. Austin 8:30 pm EST (MLS)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Sporting KC vs. Austin 8:30 pm EST (MLS)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/50020
+#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Nashville SC vs. Chicago Fire 8:30 pm EST (MLS)" tvg-name="PPV|| Soccer (MLS) Nashville SC vs. Chicago Fire 8:30 pm EST (MLS)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Nashville SC vs. Chicago Fire 8:30 pm EST (MLS)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/50021
+#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Colorado Rapids vs. SJ Earthquakes 9:00 pm EST (MLS)" tvg-name="PPV|| Soccer (MLS) Colorado Rapids vs. SJ Earthquakes 9:00 pm EST (MLS)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Colorado Rapids vs. SJ Earthquakes 9:00 pm EST (MLS)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/50022
+#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Vancouver Whitecaps vs. LA Galaxy 10:00 pm EST (ENG)" tvg-name="PPV|| Soccer (MLS) Vancouver Whitecaps vs. LA Galaxy 10:00 pm EST (ENG)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Vancouver Whitecaps vs. LA Galaxy 10:00 pm EST (ENG)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/50023
+#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Vancouver Whitecaps vs. LA Galaxy 10:00 pm EST (ESP)" tvg-name="PPV|| Soccer (MLS) Vancouver Whitecaps vs. LA Galaxy 10:00 pm EST (ESP)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Vancouver Whitecaps vs. LA Galaxy 10:00 pm EST (ESP)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/50024
+#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Los Angeles FC vs. Real Salt Lake 10:30 pm EST (ENG)" tvg-name="PPV|| Soccer (MLS) Los Angeles FC vs. Real Salt Lake 10:30 pm EST (ENG)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Los Angeles FC vs. Real Salt Lake 10:30 pm EST (ENG)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/50025
+#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Los Angeles FC vs. Real Salt Lake 10:30 pm EST (ESP)" tvg-name="PPV|| Soccer (MLS) Los Angeles FC vs. Real Salt Lake 10:30 pm EST (ESP)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Los Angeles FC vs. Real Salt Lake 10:30 pm EST (ESP)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/50026
+#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Portland Timbers vs. Dallas 10:30 pm EST (MLS)" tvg-name="PPV|| Soccer (MLS) Portland Timbers vs. Dallas 10:30 pm EST (MLS)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Portland Timbers vs. Dallas 10:30 pm EST (MLS)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/50027
 #EXTINF:-1 tvg-id="GUA Canal 4" tvg-name="GUA VEA CANAL" group-title="GUATEMALA",GUA VEA CANAL
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/2597
 #EXTINF:-1 tvg-id="GUA CANAL 11" tvg-name="GUA CANAL 11" group-title="GUATEMALA",GUA CANAL 11
@@ -2227,6 +2333,8 @@ http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/42918
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/42919
 #EXTINF:-1 tvg-id="IL Disney Jr" tvg-name="IL Disney Jr"  group-title="ISRAEL",IL Disney Jr
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/42921
+#EXTINF:-1 tvg-id="IL E!" tvg-name="IL E!"  group-title="ISRAEL",IL E!
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/42922
 #EXTINF:-1 tvg-id="IL Ego Total" tvg-name="IL Ego Total"  group-title="ISRAEL",IL Ego Total
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/42923
 #EXTINF:-1 tvg-id="IL Food Channel" tvg-name="IL Food Channel"  group-title="ISRAEL",IL Food Channel
@@ -2249,6 +2357,8 @@ http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/42934
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/42935
 #EXTINF:-1 tvg-id="IL Hot HBO" tvg-name="IL Hot HBO"  group-title="ISRAEL",IL Hot HBO
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/42936
+#EXTINF:-1 tvg-id="IL Hot Kidz" tvg-name="IL Hot Kidz"  group-title="ISRAEL",IL Hot Kidz
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/42937
 #EXTINF:-1 tvg-id="IL Hot Zone" tvg-name="IL Hot Zone"  group-title="ISRAEL",IL Hot Zone
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/42938
 #EXTINF:-1 tvg-id="IL Hot3" tvg-name="IL Hot3"  group-title="ISRAEL",IL Hot3
@@ -2259,8 +2369,12 @@ http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/42940
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/42941
 #EXTINF:-1 tvg-id="IL Luli" tvg-name="IL Luli"  group-title="ISRAEL",IL Luli
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/42942
+#EXTINF:-1 tvg-id="IL NatGeo" tvg-name="IL NatGeo"  group-title="ISRAEL",IL NatGeo
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/42943
 #EXTINF:-1 tvg-id="IL Nick Jr" tvg-name="IL Nick Jr"  group-title="ISRAEL",IL Nick Jr
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/42944
+#EXTINF:-1 tvg-id="IL Nickelodeon" tvg-name="IL Nickelodeon"  group-title="ISRAEL",IL Nickelodeon
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/42945
 #EXTINF:-1 tvg-id="IL Sport 1" tvg-name="IL Sport 1"  group-title="ISRAEL",IL Sport 1
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/42946
 #EXTINF:-1 tvg-id="IL Sport 2" tvg-name="IL Sport 2"  group-title="ISRAEL",IL Sport 2
@@ -2269,6 +2383,8 @@ http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/42947
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/42948
 #EXTINF:-1 tvg-id="IL Sport 4" tvg-name="IL Sport 4"  group-title="ISRAEL",IL Sport 4
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/42949
+#EXTINF:-1 tvg-id="IL Sport 5 Gold" tvg-name="IL Sport 5 Gold"  group-title="ISRAEL",IL Sport 5 Gold
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/42951
 #EXTINF:-1 tvg-id="IL Sport 5 Live" tvg-name="IL Sport 5 Live"  group-title="ISRAEL",IL Sport 5 Live
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/42952
 #EXTINF:-1 tvg-id="IL Sport 5 Stars" tvg-name="IL Sport 5 Stars"  group-title="ISRAEL",IL Sport 5 Stars
@@ -2285,10 +2401,14 @@ http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/42958
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/42959
 #EXTINF:-1 tvg-id="IL Yaldut Israeli" tvg-name="IL Yaldut Israeli"  group-title="ISRAEL",IL Yaldut Israeli
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/42960
+#EXTINF:-1 tvg-id="IL Yaldut Israeli" tvg-name="IL Yaldut Israeli"  group-title="ISRAEL",IL Yaldut Israeli
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/42961
 #EXTINF:-1 tvg-id="IL ZOOM" tvg-name="IL ZOOM"  group-title="ISRAEL",IL ZOOM
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/42970
 #EXTINF:-1 tvg-id="IL Hot Bollywood" tvg-name="IL Hot Bollywood"  group-title="ISRAEL",IL Hot Bollywood
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/42971
+#EXTINF:-1 tvg-id="IL Hidabrot" tvg-name="IL Hidabrot"  group-title="ISRAEL",IL Hidabrot
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/42972
 #EXTINF:-1 tvg-id="IL Kabal" tvg-name="IL Kabal"  group-title="ISRAEL",IL Kabal
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/42973
 #EXTINF:-1 tvg-id="IL Mikan" tvg-name="IL Mikan"  group-title="ISRAEL",IL Mikan
@@ -3631,6 +3751,8 @@ http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/355
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/354
 #EXTINF:-1 tvg-id="Telemundo Fresno" tvg-name="Telemundo Fresno" tvg-logo="" group-title="USA LATINO",Telemundo Fresno
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/353
+#EXTINF:-1 tvg-id="Telemundo Harlingen" tvg-name="Telemundo Harlingen" tvg-logo="" group-title="USA LATINO",Telemundo Harlingen
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/352
 #EXTINF:-1 tvg-id="Telemundo Houston" tvg-name="Telemundo Houston" tvg-logo="" group-title="USA LATINO",Telemundo Houston
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/351
 #EXTINF:-1 tvg-id="Telemundo HD" tvg-name="Telemundo Internacional" tvg-logo="" group-title="USA LATINO",Telemundo Internacional
@@ -5875,6 +5997,8 @@ http://xdgo.live:8080/movie/49_vAngelapaisa_c/Ppv9GFEHxD/28003.mp4
 http://xdgo.live:8080/movie/49_vAngelapaisa_c/Ppv9GFEHxD/28004.mp4
 #EXTINF:-1 tvg-id="El laberinto del fauno (2006)" tvg-name="El laberinto del fauno (2006)"  group-title="VFLIX AVENTURA",El laberinto del fauno (2006)
 http://xdgo.live:8080/movie/49_vAngelapaisa_c/Ppv9GFEHxD/28005.mp4
+#EXTINF:-1 tvg-id="El secreto de los hermanos Grimm (2005)" tvg-name="El secreto de los hermanos Grimm (2005)"  group-title="VFLIX AVENTURA",El secreto de los hermanos Grimm (2005)
+http://xdgo.live:8080/movie/49_vAngelapaisa_c/Ppv9GFEHxD/28006.mp4
 #EXTINF:-1 tvg-id="La quinta ola (2016)" tvg-name="La quinta ola (2016)"  group-title="VFLIX AVENTURA",La quinta ola (2016)
 http://xdgo.live:8080/movie/49_vAngelapaisa_c/Ppv9GFEHxD/28007.avi
 #EXTINF:-1 tvg-id="Cazadores de sombras Ciudad de hueso (2013)" tvg-name="Cazadores de sombras Ciudad de hueso (2013)"  group-title="VFLIX AVENTURA",Cazadores de sombras Ciudad de hueso (2013)
@@ -13529,6 +13653,10 @@ http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/87
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/121
 #EXTINF:-1 tvg-id="ES MoviStar Series Mania HD" tvg-name="ES MoviStar Series Mania HD" group-title="ESPANA",ES MoviStar Series Mania HD
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/122
+#EXTINF:-1 tvg-id="PPV|| Racing (Auto) NHRA Camping World Drag Racing Series 2:00pm EST (FS1)" tvg-name="PPV|| Racing (Auto) NHRA Camping World Drag Racing Series 2:00pm EST (FS1)"  group-title="EVENTOS PPV",PPV|| Racing (Auto) NHRA Camping World Drag Racing Series 2:00pm EST (FS1)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49960
+#EXTINF:-1 tvg-id="PPV|| Racing (Auto) NASCAR Xfinity Series Ambetter Get Vaccinated 200 3:00pm EST (NBCS)" tvg-name="PPV|| Racing (Auto) NASCAR Xfinity Series Ambetter Get Vaccinated 200 3:00pm EST (NBCS)"  group-title="EVENTOS PPV",PPV|| Racing (Auto) NASCAR Xfinity Series Ambetter Get Vaccinated 200 3:00pm EST (NBCS)
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/49962
 #EXTINF:-1 tvg-id="Falcon y el Soldado del Invierno S01 E01" tvg-name="Falcon y el Soldado del Invierno S01 E01"  group-title="FALCON Y EL SOLDADO DE INVIERNO",Falcon y el Soldado del Invierno S01 E01
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/42784.mkv
 #EXTINF:-1 tvg-id="Falcon y el Soldado del Invierno S01 E02" tvg-name="Falcon y el Soldado del Invierno S01 E02"  group-title="FALCON Y EL SOLDADO DE INVIERNO",Falcon y el Soldado del Invierno S01 E02
@@ -13935,50 +14063,6 @@ http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/11351.mp4
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/11352.mp4
 #EXTINF:-1 tvg-id="Hakan, el protector S01 E10" tvg-name="Hakan, el protector S01 E10"  group-title="SERIES ACCION",Hakan, el protector S01 E10
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/11353.mp4
-#EXTINF:-1 tvg-id="Hakan, el protector S02 E01" tvg-name="Hakan, el protector S02 E01"  group-title="SERIES ACCION",Hakan, el protector S02 E01
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51490.mkv
-#EXTINF:-1 tvg-id="Hakan, el protector S02 E02" tvg-name="Hakan, el protector S02 E02"  group-title="SERIES ACCION",Hakan, el protector S02 E02
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51491.mkv
-#EXTINF:-1 tvg-id="Hakan, el protector S02 E03" tvg-name="Hakan, el protector S02 E03"  group-title="SERIES ACCION",Hakan, el protector S02 E03
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51492.mkv
-#EXTINF:-1 tvg-id="Hakan, el protector S02 E04" tvg-name="Hakan, el protector S02 E04"  group-title="SERIES ACCION",Hakan, el protector S02 E04
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51493.mkv
-#EXTINF:-1 tvg-id="Hakan, el protector S02 E05" tvg-name="Hakan, el protector S02 E05"  group-title="SERIES ACCION",Hakan, el protector S02 E05
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51494.mkv
-#EXTINF:-1 tvg-id="Hakan, el protector S02 E06" tvg-name="Hakan, el protector S02 E06"  group-title="SERIES ACCION",Hakan, el protector S02 E06
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51495.mkv
-#EXTINF:-1 tvg-id="Hakan, el protector S02 E07" tvg-name="Hakan, el protector S02 E07"  group-title="SERIES ACCION",Hakan, el protector S02 E07
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51496.mkv
-#EXTINF:-1 tvg-id="Hakan, el protector S02 E08" tvg-name="Hakan, el protector S02 E08"  group-title="SERIES ACCION",Hakan, el protector S02 E08
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51497.mkv
-#EXTINF:-1 tvg-id="Hakan, el protector S03 E01" tvg-name="Hakan, el protector S03 E01"  group-title="SERIES ACCION",Hakan, el protector S03 E01
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51498.mkv
-#EXTINF:-1 tvg-id="Hakan, el protector S03 E02" tvg-name="Hakan, el protector S03 E02"  group-title="SERIES ACCION",Hakan, el protector S03 E02
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51499.mkv
-#EXTINF:-1 tvg-id="Hakan, el protector S03 E03" tvg-name="Hakan, el protector S03 E03"  group-title="SERIES ACCION",Hakan, el protector S03 E03
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51500.mkv
-#EXTINF:-1 tvg-id="Hakan, el protector S03 E04" tvg-name="Hakan, el protector S03 E04"  group-title="SERIES ACCION",Hakan, el protector S03 E04
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51501.mkv
-#EXTINF:-1 tvg-id="Hakan, el protector S03 E05" tvg-name="Hakan, el protector S03 E05"  group-title="SERIES ACCION",Hakan, el protector S03 E05
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51502.mkv
-#EXTINF:-1 tvg-id="Hakan, el protector S03 E06" tvg-name="Hakan, el protector S03 E06"  group-title="SERIES ACCION",Hakan, el protector S03 E06
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51503.mkv
-#EXTINF:-1 tvg-id="Hakan, el protector S03 E07" tvg-name="Hakan, el protector S03 E07"  group-title="SERIES ACCION",Hakan, el protector S03 E07
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51504.mkv
-#EXTINF:-1 tvg-id="Hakan, el protector S04 E01" tvg-name="Hakan, el protector S04 E01"  group-title="SERIES ACCION",Hakan, el protector S04 E01
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51505.mkv
-#EXTINF:-1 tvg-id="Hakan, el protector S04 E02" tvg-name="Hakan, el protector S04 E02"  group-title="SERIES ACCION",Hakan, el protector S04 E02
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51506.mkv
-#EXTINF:-1 tvg-id="Hakan, el protector S04 E03" tvg-name="Hakan, el protector S04 E03"  group-title="SERIES ACCION",Hakan, el protector S04 E03
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51507.mkv
-#EXTINF:-1 tvg-id="Hakan, el protector S04 E04" tvg-name="Hakan, el protector S04 E04"  group-title="SERIES ACCION",Hakan, el protector S04 E04
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51508.mkv
-#EXTINF:-1 tvg-id="Hakan, el protector S04 E05" tvg-name="Hakan, el protector S04 E05"  group-title="SERIES ACCION",Hakan, el protector S04 E05
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51509.mkv
-#EXTINF:-1 tvg-id="Hakan, el protector S04 E06" tvg-name="Hakan, el protector S04 E06"  group-title="SERIES ACCION",Hakan, el protector S04 E06
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51510.mkv
-#EXTINF:-1 tvg-id="Hakan, el protector S04 E07" tvg-name="Hakan, el protector S04 E07"  group-title="SERIES ACCION",Hakan, el protector S04 E07
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51511.mkv
 #EXTINF:-1 tvg-id="Marvel - The Punisher S01 E01" tvg-name="Marvel - The Punisher S01 E01"  group-title="SERIES ACCION",Marvel - The Punisher S01 E01
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/11354.mp4
 #EXTINF:-1 tvg-id="Marvel - The Punisher S01 E02" tvg-name="Marvel - The Punisher S01 E02"  group-title="SERIES ACCION",Marvel - The Punisher S01 E02
@@ -17831,20 +17915,6 @@ http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29049.mp4
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29050.mp4
 #EXTINF:-1 tvg-id="De viaje con los Derbez S01 E09" tvg-name="De viaje con los Derbez S01 E09"  group-title="SERIES COMEDIA",De viaje con los Derbez S01 E09
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29051.mp4
-#EXTINF:-1 tvg-id="De viaje con los Derbez S02 E01" tvg-name="De viaje con los Derbez S02 E01"  group-title="SERIES COMEDIA",De viaje con los Derbez S02 E01
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51415.mkv
-#EXTINF:-1 tvg-id="De viaje con los Derbez S02 E02" tvg-name="De viaje con los Derbez S02 E02"  group-title="SERIES COMEDIA",De viaje con los Derbez S02 E02
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51416.mkv
-#EXTINF:-1 tvg-id="De viaje con los Derbez S02 E03" tvg-name="De viaje con los Derbez S02 E03"  group-title="SERIES COMEDIA",De viaje con los Derbez S02 E03
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51417.mkv
-#EXTINF:-1 tvg-id="De viaje con los Derbez S02 E04" tvg-name="De viaje con los Derbez S02 E04"  group-title="SERIES COMEDIA",De viaje con los Derbez S02 E04
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51418.mkv
-#EXTINF:-1 tvg-id="De viaje con los Derbez S02 E05" tvg-name="De viaje con los Derbez S02 E05"  group-title="SERIES COMEDIA",De viaje con los Derbez S02 E05
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51419.mkv
-#EXTINF:-1 tvg-id="De viaje con los Derbez S02 E06" tvg-name="De viaje con los Derbez S02 E06"  group-title="SERIES COMEDIA",De viaje con los Derbez S02 E06
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51420.mkv
-#EXTINF:-1 tvg-id="De viaje con los Derbez S02 E07" tvg-name="De viaje con los Derbez S02 E07"  group-title="SERIES COMEDIA",De viaje con los Derbez S02 E07
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51421.mkv
 #EXTINF:-1 tvg-id="Como sobrevivir soltero S01 E01" tvg-name="Como sobrevivir soltero S01 E01"  group-title="SERIES COMEDIA",Como sobrevivir soltero S01 E01
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/30028.mkv
 #EXTINF:-1 tvg-id="Como sobrevivir soltero S01 E02" tvg-name="Como sobrevivir soltero S01 E02"  group-title="SERIES COMEDIA",Como sobrevivir soltero S01 E02
@@ -18400,113 +18470,49 @@ http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/8631.mkv
 #EXTINF:-1 tvg-id="Monzon S01 E03" tvg-name="Monzon S01 E03"  group-title="SERIES DRAMA",Monzon S01 E03
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/8632.mkv
 #EXTINF:-1 tvg-id="New Amsterdam S01 E01" tvg-name="New Amsterdam S01 E01"  group-title="SERIES DRAMA",New Amsterdam S01 E01
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/8647.mkv
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/8644.mkv
 #EXTINF:-1 tvg-id="New Amsterdam S01 E02" tvg-name="New Amsterdam S01 E02"  group-title="SERIES DRAMA",New Amsterdam S01 E02
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/8633.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E03" tvg-name="New Amsterdam S01 E03"  group-title="SERIES DRAMA",New Amsterdam S01 E03
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/8654.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E04" tvg-name="New Amsterdam S01 E04"  group-title="SERIES DRAMA",New Amsterdam S01 E04
+#EXTINF:-1 tvg-id="New Amsterdam S01 E03" tvg-name="New Amsterdam S01 E03"  group-title="SERIES DRAMA",New Amsterdam S01 E03
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/8653.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E05" tvg-name="New Amsterdam S01 E05"  group-title="SERIES DRAMA",New Amsterdam S01 E05
+#EXTINF:-1 tvg-id="New Amsterdam S01 E04" tvg-name="New Amsterdam S01 E04"  group-title="SERIES DRAMA",New Amsterdam S01 E04
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/8652.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E06" tvg-name="New Amsterdam S01 E06"  group-title="SERIES DRAMA",New Amsterdam S01 E06
+#EXTINF:-1 tvg-id="New Amsterdam S01 E05" tvg-name="New Amsterdam S01 E05"  group-title="SERIES DRAMA",New Amsterdam S01 E05
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/8651.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E07" tvg-name="New Amsterdam S01 E07"  group-title="SERIES DRAMA",New Amsterdam S01 E07
+#EXTINF:-1 tvg-id="New Amsterdam S01 E06" tvg-name="New Amsterdam S01 E06"  group-title="SERIES DRAMA",New Amsterdam S01 E06
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/8650.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E08" tvg-name="New Amsterdam S01 E08"  group-title="SERIES DRAMA",New Amsterdam S01 E08
+#EXTINF:-1 tvg-id="New Amsterdam S01 E07" tvg-name="New Amsterdam S01 E07"  group-title="SERIES DRAMA",New Amsterdam S01 E07
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/8649.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E09" tvg-name="New Amsterdam S01 E09"  group-title="SERIES DRAMA",New Amsterdam S01 E09
+#EXTINF:-1 tvg-id="New Amsterdam S01 E08" tvg-name="New Amsterdam S01 E08"  group-title="SERIES DRAMA",New Amsterdam S01 E08
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/8648.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E09" tvg-name="New Amsterdam S01 E09"  group-title="SERIES DRAMA",New Amsterdam S01 E09
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/8647.mkv
 #EXTINF:-1 tvg-id="New Amsterdam S01 E10" tvg-name="New Amsterdam S01 E10"  group-title="SERIES DRAMA",New Amsterdam S01 E10
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/8646.mkv
 #EXTINF:-1 tvg-id="New Amsterdam S01 E11" tvg-name="New Amsterdam S01 E11"  group-title="SERIES DRAMA",New Amsterdam S01 E11
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/8645.mkv
 #EXTINF:-1 tvg-id="New Amsterdam S01 E12" tvg-name="New Amsterdam S01 E12"  group-title="SERIES DRAMA",New Amsterdam S01 E12
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/8637.mkv
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/8633.mkv
 #EXTINF:-1 tvg-id="New Amsterdam S01 E13" tvg-name="New Amsterdam S01 E13"  group-title="SERIES DRAMA",New Amsterdam S01 E13
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/8634.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E14" tvg-name="New Amsterdam S01 E14"  group-title="SERIES DRAMA",New Amsterdam S01 E14
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/8635.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E15" tvg-name="New Amsterdam S01 E15"  group-title="SERIES DRAMA",New Amsterdam S01 E15
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/8636.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E16" tvg-name="New Amsterdam S01 E16"  group-title="SERIES DRAMA",New Amsterdam S01 E16
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/8644.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E17" tvg-name="New Amsterdam S01 E17"  group-title="SERIES DRAMA",New Amsterdam S01 E17
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/8638.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E18" tvg-name="New Amsterdam S01 E18"  group-title="SERIES DRAMA",New Amsterdam S01 E18
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/8639.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E19" tvg-name="New Amsterdam S01 E19"  group-title="SERIES DRAMA",New Amsterdam S01 E19
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/8640.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E20" tvg-name="New Amsterdam S01 E20"  group-title="SERIES DRAMA",New Amsterdam S01 E20
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/8641.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E21" tvg-name="New Amsterdam S01 E21"  group-title="SERIES DRAMA",New Amsterdam S01 E21
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/8642.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S01 E22" tvg-name="New Amsterdam S01 E22"  group-title="SERIES DRAMA",New Amsterdam S01 E22
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/8643.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S02 E01" tvg-name="New Amsterdam S02 E01"  group-title="SERIES DRAMA",New Amsterdam S02 E01
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51458.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S02 E02" tvg-name="New Amsterdam S02 E02"  group-title="SERIES DRAMA",New Amsterdam S02 E02
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51459.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S02 E03" tvg-name="New Amsterdam S02 E03"  group-title="SERIES DRAMA",New Amsterdam S02 E03
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51460.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S02 E04" tvg-name="New Amsterdam S02 E04"  group-title="SERIES DRAMA",New Amsterdam S02 E04
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51461.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S02 E05" tvg-name="New Amsterdam S02 E05"  group-title="SERIES DRAMA",New Amsterdam S02 E05
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51462.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S02 E06" tvg-name="New Amsterdam S02 E06"  group-title="SERIES DRAMA",New Amsterdam S02 E06
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51463.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S02 E07" tvg-name="New Amsterdam S02 E07"  group-title="SERIES DRAMA",New Amsterdam S02 E07
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51464.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S02 E08" tvg-name="New Amsterdam S02 E08"  group-title="SERIES DRAMA",New Amsterdam S02 E08
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51465.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S02 E09" tvg-name="New Amsterdam S02 E09"  group-title="SERIES DRAMA",New Amsterdam S02 E09
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51466.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S02 E10" tvg-name="New Amsterdam S02 E10"  group-title="SERIES DRAMA",New Amsterdam S02 E10
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51467.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S02 E11" tvg-name="New Amsterdam S02 E11"  group-title="SERIES DRAMA",New Amsterdam S02 E11
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51468.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S02 E12" tvg-name="New Amsterdam S02 E12"  group-title="SERIES DRAMA",New Amsterdam S02 E12
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51469.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S02 E13" tvg-name="New Amsterdam S02 E13"  group-title="SERIES DRAMA",New Amsterdam S02 E13
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51470.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S02 E14" tvg-name="New Amsterdam S02 E14"  group-title="SERIES DRAMA",New Amsterdam S02 E14
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51471.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S02 E15" tvg-name="New Amsterdam S02 E15"  group-title="SERIES DRAMA",New Amsterdam S02 E15
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51472.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S02 E16" tvg-name="New Amsterdam S02 E16"  group-title="SERIES DRAMA",New Amsterdam S02 E16
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51473.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S02 E17" tvg-name="New Amsterdam S02 E17"  group-title="SERIES DRAMA",New Amsterdam S02 E17
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51474.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S02 E18" tvg-name="New Amsterdam S02 E18"  group-title="SERIES DRAMA",New Amsterdam S02 E18
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51475.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S03 E01" tvg-name="New Amsterdam S03 E01"  group-title="SERIES DRAMA",New Amsterdam S03 E01
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51485.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S03 E02" tvg-name="New Amsterdam S03 E02"  group-title="SERIES DRAMA",New Amsterdam S03 E02
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51486.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S03 E03" tvg-name="New Amsterdam S03 E03"  group-title="SERIES DRAMA",New Amsterdam S03 E03
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51487.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S03 E04" tvg-name="New Amsterdam S03 E04"  group-title="SERIES DRAMA",New Amsterdam S03 E04
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51477.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S03 E05" tvg-name="New Amsterdam S03 E05"  group-title="SERIES DRAMA",New Amsterdam S03 E05
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51476.mp4
-#EXTINF:-1 tvg-id="New Amsterdam S03 E06" tvg-name="New Amsterdam S03 E06"  group-title="SERIES DRAMA",New Amsterdam S03 E06
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51478.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S03 E07" tvg-name="New Amsterdam S03 E07"  group-title="SERIES DRAMA",New Amsterdam S03 E07
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51479.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S03 E08" tvg-name="New Amsterdam S03 E08"  group-title="SERIES DRAMA",New Amsterdam S03 E08
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51488.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S03 E09" tvg-name="New Amsterdam S03 E09"  group-title="SERIES DRAMA",New Amsterdam S03 E09
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51489.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S03 E10" tvg-name="New Amsterdam S03 E10"  group-title="SERIES DRAMA",New Amsterdam S03 E10
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51480.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S03 E11" tvg-name="New Amsterdam S03 E11"  group-title="SERIES DRAMA",New Amsterdam S03 E11
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51481.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S03 E12" tvg-name="New Amsterdam S03 E12"  group-title="SERIES DRAMA",New Amsterdam S03 E12
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51482.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S03 E13" tvg-name="New Amsterdam S03 E13"  group-title="SERIES DRAMA",New Amsterdam S03 E13
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51483.mkv
-#EXTINF:-1 tvg-id="New Amsterdam S03 E14" tvg-name="New Amsterdam S03 E14"  group-title="SERIES DRAMA",New Amsterdam S03 E14
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51484.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E14" tvg-name="New Amsterdam S01 E14"  group-title="SERIES DRAMA",New Amsterdam S01 E14
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/8642.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E15" tvg-name="New Amsterdam S01 E15"  group-title="SERIES DRAMA",New Amsterdam S01 E15
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/8641.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E16" tvg-name="New Amsterdam S01 E16"  group-title="SERIES DRAMA",New Amsterdam S01 E16
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/8640.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E17" tvg-name="New Amsterdam S01 E17"  group-title="SERIES DRAMA",New Amsterdam S01 E17
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/8639.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E18" tvg-name="New Amsterdam S01 E18"  group-title="SERIES DRAMA",New Amsterdam S01 E18
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/8638.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E19" tvg-name="New Amsterdam S01 E19"  group-title="SERIES DRAMA",New Amsterdam S01 E19
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/8637.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E20" tvg-name="New Amsterdam S01 E20"  group-title="SERIES DRAMA",New Amsterdam S01 E20
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/8636.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E21" tvg-name="New Amsterdam S01 E21"  group-title="SERIES DRAMA",New Amsterdam S01 E21
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/8635.mkv
+#EXTINF:-1 tvg-id="New Amsterdam S01 E22" tvg-name="New Amsterdam S01 E22"  group-title="SERIES DRAMA",New Amsterdam S01 E22
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/8634.mkv
 #EXTINF:-1 tvg-id="Nicky Jam El Ganador S01 E01" tvg-name="Nicky Jam El Ganador S01 E01"  group-title="SERIES DRAMA",Nicky Jam El Ganador S01 E01
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/8655.mp4
 #EXTINF:-1 tvg-id="Nicky Jam El Ganador S01 E02" tvg-name="Nicky Jam El Ganador S01 E02"  group-title="SERIES DRAMA",Nicky Jam El Ganador S01 E02
@@ -19417,78 +19423,6 @@ http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/12304.avi
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/12305.avi
 #EXTINF:-1 tvg-id="Chicago Fire S07 E09" tvg-name="Chicago Fire S07 E09"  group-title="SERIES DRAMA",Chicago Fire S07 E09
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/12306.avi
-#EXTINF:-1 tvg-id="Chicago Fire S08 E01" tvg-name="Chicago Fire S08 E01"  group-title="SERIES DRAMA",Chicago Fire S08 E01
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51254.mkv
-#EXTINF:-1 tvg-id="Chicago Fire S08 E02" tvg-name="Chicago Fire S08 E02"  group-title="SERIES DRAMA",Chicago Fire S08 E02
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51255.mkv
-#EXTINF:-1 tvg-id="Chicago Fire S08 E03" tvg-name="Chicago Fire S08 E03"  group-title="SERIES DRAMA",Chicago Fire S08 E03
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51256.mkv
-#EXTINF:-1 tvg-id="Chicago Fire S08 E04" tvg-name="Chicago Fire S08 E04"  group-title="SERIES DRAMA",Chicago Fire S08 E04
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51257.mkv
-#EXTINF:-1 tvg-id="Chicago Fire S08 E05" tvg-name="Chicago Fire S08 E05"  group-title="SERIES DRAMA",Chicago Fire S08 E05
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51258.mkv
-#EXTINF:-1 tvg-id="Chicago Fire S08 E06" tvg-name="Chicago Fire S08 E06"  group-title="SERIES DRAMA",Chicago Fire S08 E06
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51259.mkv
-#EXTINF:-1 tvg-id="Chicago Fire S08 E07" tvg-name="Chicago Fire S08 E07"  group-title="SERIES DRAMA",Chicago Fire S08 E07
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51260.mkv
-#EXTINF:-1 tvg-id="Chicago Fire S08 E08" tvg-name="Chicago Fire S08 E08"  group-title="SERIES DRAMA",Chicago Fire S08 E08
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51261.mkv
-#EXTINF:-1 tvg-id="Chicago Fire S08 E09" tvg-name="Chicago Fire S08 E09"  group-title="SERIES DRAMA",Chicago Fire S08 E09
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51262.mkv
-#EXTINF:-1 tvg-id="Chicago Fire S08 E10" tvg-name="Chicago Fire S08 E10"  group-title="SERIES DRAMA",Chicago Fire S08 E10
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51263.mkv
-#EXTINF:-1 tvg-id="Chicago Fire S08 E11" tvg-name="Chicago Fire S08 E11"  group-title="SERIES DRAMA",Chicago Fire S08 E11
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51264.mkv
-#EXTINF:-1 tvg-id="Chicago Fire S08 E12" tvg-name="Chicago Fire S08 E12"  group-title="SERIES DRAMA",Chicago Fire S08 E12
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51265.mkv
-#EXTINF:-1 tvg-id="Chicago Fire S08 E13" tvg-name="Chicago Fire S08 E13"  group-title="SERIES DRAMA",Chicago Fire S08 E13
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51266.mkv
-#EXTINF:-1 tvg-id="Chicago Fire S08 E14" tvg-name="Chicago Fire S08 E14"  group-title="SERIES DRAMA",Chicago Fire S08 E14
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51267.mkv
-#EXTINF:-1 tvg-id="Chicago Fire S08 E15" tvg-name="Chicago Fire S08 E15"  group-title="SERIES DRAMA",Chicago Fire S08 E15
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51268.mkv
-#EXTINF:-1 tvg-id="Chicago Fire S08 E16" tvg-name="Chicago Fire S08 E16"  group-title="SERIES DRAMA",Chicago Fire S08 E16
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51269.mkv
-#EXTINF:-1 tvg-id="Chicago Fire S08 E17" tvg-name="Chicago Fire S08 E17"  group-title="SERIES DRAMA",Chicago Fire S08 E17
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51270.mkv
-#EXTINF:-1 tvg-id="Chicago Fire S08 E18" tvg-name="Chicago Fire S08 E18"  group-title="SERIES DRAMA",Chicago Fire S08 E18
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51271.mkv
-#EXTINF:-1 tvg-id="Chicago Fire S08 E19" tvg-name="Chicago Fire S08 E19"  group-title="SERIES DRAMA",Chicago Fire S08 E19
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51272.mkv
-#EXTINF:-1 tvg-id="Chicago Fire S08 E20" tvg-name="Chicago Fire S08 E20"  group-title="SERIES DRAMA",Chicago Fire S08 E20
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51273.mkv
-#EXTINF:-1 tvg-id="Chicago Fire S09 E01" tvg-name="Chicago Fire S09 E01"  group-title="SERIES DRAMA",Chicago Fire S09 E01
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51274.mkv
-#EXTINF:-1 tvg-id="Chicago Fire S09 E02" tvg-name="Chicago Fire S09 E02"  group-title="SERIES DRAMA",Chicago Fire S09 E02
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51275.mkv
-#EXTINF:-1 tvg-id="Chicago Fire S09 E03" tvg-name="Chicago Fire S09 E03"  group-title="SERIES DRAMA",Chicago Fire S09 E03
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51276.mkv
-#EXTINF:-1 tvg-id="Chicago Fire S09 E04" tvg-name="Chicago Fire S09 E04"  group-title="SERIES DRAMA",Chicago Fire S09 E04
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51277.mkv
-#EXTINF:-1 tvg-id="Chicago Fire S09 E05" tvg-name="Chicago Fire S09 E05"  group-title="SERIES DRAMA",Chicago Fire S09 E05
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51278.mkv
-#EXTINF:-1 tvg-id="Chicago Fire S09 E06" tvg-name="Chicago Fire S09 E06"  group-title="SERIES DRAMA",Chicago Fire S09 E06
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51279.mkv
-#EXTINF:-1 tvg-id="Chicago Fire S09 E07" tvg-name="Chicago Fire S09 E07"  group-title="SERIES DRAMA",Chicago Fire S09 E07
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51280.mkv
-#EXTINF:-1 tvg-id="Chicago Fire S09 E08" tvg-name="Chicago Fire S09 E08"  group-title="SERIES DRAMA",Chicago Fire S09 E08
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51281.mkv
-#EXTINF:-1 tvg-id="Chicago Fire S09 E09" tvg-name="Chicago Fire S09 E09"  group-title="SERIES DRAMA",Chicago Fire S09 E09
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51282.mkv
-#EXTINF:-1 tvg-id="Chicago Fire S09 E10" tvg-name="Chicago Fire S09 E10"  group-title="SERIES DRAMA",Chicago Fire S09 E10
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51283.mkv
-#EXTINF:-1 tvg-id="Chicago Fire S09 E11" tvg-name="Chicago Fire S09 E11"  group-title="SERIES DRAMA",Chicago Fire S09 E11
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51284.mkv
-#EXTINF:-1 tvg-id="Chicago Fire S09 E12" tvg-name="Chicago Fire S09 E12"  group-title="SERIES DRAMA",Chicago Fire S09 E12
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51285.mkv
-#EXTINF:-1 tvg-id="Chicago Fire S09 E13" tvg-name="Chicago Fire S09 E13"  group-title="SERIES DRAMA",Chicago Fire S09 E13
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51286.mkv
-#EXTINF:-1 tvg-id="Chicago Fire S09 E14" tvg-name="Chicago Fire S09 E14"  group-title="SERIES DRAMA",Chicago Fire S09 E14
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51287.mkv
-#EXTINF:-1 tvg-id="Chicago Fire S09 E15" tvg-name="Chicago Fire S09 E15"  group-title="SERIES DRAMA",Chicago Fire S09 E15
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51288.mkv
-#EXTINF:-1 tvg-id="Chicago Fire S09 E16" tvg-name="Chicago Fire S09 E16"  group-title="SERIES DRAMA",Chicago Fire S09 E16
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51289.mkv
 #EXTINF:-1 tvg-id="Historia de un crimen Colosio S01 E01" tvg-name="Historia de un crimen Colosio S01 E01"  group-title="SERIES DRAMA",Historia de un crimen Colosio S01 E01
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/12343.mkv
 #EXTINF:-1 tvg-id="Historia de un crimen Colosio S01 E02" tvg-name="Historia de un crimen Colosio S01 E02"  group-title="SERIES DRAMA",Historia de un crimen Colosio S01 E02
@@ -19649,16 +19583,6 @@ http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/13484.mkv
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/13485.mkv
 #EXTINF:-1 tvg-id="El marginal S03 E03" tvg-name="El marginal S03 E03"  group-title="SERIES DRAMA",El marginal S03 E03
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/13486.mkv
-#EXTINF:-1 tvg-id="El marginal S03 E04" tvg-name="El marginal S03 E04"  group-title="SERIES DRAMA",El marginal S03 E04
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51401.mkv
-#EXTINF:-1 tvg-id="El marginal S03 E05" tvg-name="El marginal S03 E05"  group-title="SERIES DRAMA",El marginal S03 E05
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51397.mkv
-#EXTINF:-1 tvg-id="El marginal S03 E06" tvg-name="El marginal S03 E06"  group-title="SERIES DRAMA",El marginal S03 E06
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51398.mkv
-#EXTINF:-1 tvg-id="El marginal S03 E07" tvg-name="El marginal S03 E07"  group-title="SERIES DRAMA",El marginal S03 E07
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51399.mkv
-#EXTINF:-1 tvg-id="El marginal S03 E08" tvg-name="El marginal S03 E08"  group-title="SERIES DRAMA",El marginal S03 E08
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51400.mkv
 #EXTINF:-1 tvg-id="El Tigre Veron S01 E01" tvg-name="El Tigre Veron S01 E01"  group-title="SERIES DRAMA",El Tigre Veron S01 E01
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/14178.mkv
 #EXTINF:-1 tvg-id="El Tigre Veron S01 E02" tvg-name="El Tigre Veron S01 E02"  group-title="SERIES DRAMA",El Tigre Veron S01 E02
@@ -22894,70 +22818,44 @@ http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/47686.mkv
 #EXTINF:-1 tvg-id="¿Quien mato a Sara? S02 E08" tvg-name="¿Quien mato a Sara? S02 E08"  group-title="SERIES DRAMA",¿Quien mato a Sara? S02 E08
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/47687.mkv
 #EXTINF:-1 tvg-id="Prodigal Son S01 E01" tvg-name="Prodigal Son S01 E01"  group-title="SERIES DRAMA",Prodigal Son S01 E01
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51402.mkv
-#EXTINF:-1 tvg-id="Prodigal Son S01 E02" tvg-name="Prodigal Son S01 E02"  group-title="SERIES DRAMA",Prodigal Son S01 E02
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/44888.mkv
-#EXTINF:-1 tvg-id="Prodigal Son S01 E03" tvg-name="Prodigal Son S01 E03"  group-title="SERIES DRAMA",Prodigal Son S01 E03
+#EXTINF:-1 tvg-id="Prodigal Son S01 E02" tvg-name="Prodigal Son S01 E02"  group-title="SERIES DRAMA",Prodigal Son S01 E02
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/44889.mkv
-#EXTINF:-1 tvg-id="Prodigal Son S01 E04" tvg-name="Prodigal Son S01 E04"  group-title="SERIES DRAMA",Prodigal Son S01 E04
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51403.mkv
-#EXTINF:-1 tvg-id="Prodigal Son S01 E05" tvg-name="Prodigal Son S01 E05"  group-title="SERIES DRAMA",Prodigal Son S01 E05
+#EXTINF:-1 tvg-id="Prodigal Son S01 E03" tvg-name="Prodigal Son S01 E03"  group-title="SERIES DRAMA",Prodigal Son S01 E03
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/44890.mkv
-#EXTINF:-1 tvg-id="Prodigal Son S01 E06" tvg-name="Prodigal Son S01 E06"  group-title="SERIES DRAMA",Prodigal Son S01 E06
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51411.mkv
-#EXTINF:-1 tvg-id="Prodigal Son S01 E07" tvg-name="Prodigal Son S01 E07"  group-title="SERIES DRAMA",Prodigal Son S01 E07
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51404.mkv
-#EXTINF:-1 tvg-id="Prodigal Son S01 E08" tvg-name="Prodigal Son S01 E08"  group-title="SERIES DRAMA",Prodigal Son S01 E08
+#EXTINF:-1 tvg-id="Prodigal Son S01 E04" tvg-name="Prodigal Son S01 E04"  group-title="SERIES DRAMA",Prodigal Son S01 E04
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/44891.mkv
-#EXTINF:-1 tvg-id="Prodigal Son S01 E09" tvg-name="Prodigal Son S01 E09"  group-title="SERIES DRAMA",Prodigal Son S01 E09
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51405.mkv
-#EXTINF:-1 tvg-id="Prodigal Son S01 E10" tvg-name="Prodigal Son S01 E10"  group-title="SERIES DRAMA",Prodigal Son S01 E10
+#EXTINF:-1 tvg-id="Prodigal Son S01 E05" tvg-name="Prodigal Son S01 E05"  group-title="SERIES DRAMA",Prodigal Son S01 E05
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/44892.mkv
-#EXTINF:-1 tvg-id="Prodigal Son S01 E11" tvg-name="Prodigal Son S01 E11"  group-title="SERIES DRAMA",Prodigal Son S01 E11
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51412.mkv
-#EXTINF:-1 tvg-id="Prodigal Son S01 E12" tvg-name="Prodigal Son S01 E12"  group-title="SERIES DRAMA",Prodigal Son S01 E12
+#EXTINF:-1 tvg-id="Prodigal Son S01 E06" tvg-name="Prodigal Son S01 E06"  group-title="SERIES DRAMA",Prodigal Son S01 E06
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/44893.mkv
-#EXTINF:-1 tvg-id="Prodigal Son S01 E13" tvg-name="Prodigal Son S01 E13"  group-title="SERIES DRAMA",Prodigal Son S01 E13
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51406.mkv
-#EXTINF:-1 tvg-id="Prodigal Son S01 E14" tvg-name="Prodigal Son S01 E14"  group-title="SERIES DRAMA",Prodigal Son S01 E14
+#EXTINF:-1 tvg-id="Prodigal Son S01 E07" tvg-name="Prodigal Son S01 E07"  group-title="SERIES DRAMA",Prodigal Son S01 E07
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/44894.mkv
-#EXTINF:-1 tvg-id="Prodigal Son S01 E15" tvg-name="Prodigal Son S01 E15"  group-title="SERIES DRAMA",Prodigal Son S01 E15
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51407.mkv
-#EXTINF:-1 tvg-id="Prodigal Son S01 E16" tvg-name="Prodigal Son S01 E16"  group-title="SERIES DRAMA",Prodigal Son S01 E16
+#EXTINF:-1 tvg-id="Prodigal Son S01 E08" tvg-name="Prodigal Son S01 E08"  group-title="SERIES DRAMA",Prodigal Son S01 E08
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/44895.mkv
-#EXTINF:-1 tvg-id="Prodigal Son S01 E17" tvg-name="Prodigal Son S01 E17"  group-title="SERIES DRAMA",Prodigal Son S01 E17
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51413.mkv
-#EXTINF:-1 tvg-id="Prodigal Son S01 E18" tvg-name="Prodigal Son S01 E18"  group-title="SERIES DRAMA",Prodigal Son S01 E18
+#EXTINF:-1 tvg-id="Prodigal Son S01 E09" tvg-name="Prodigal Son S01 E09"  group-title="SERIES DRAMA",Prodigal Son S01 E09
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/44896.mkv
-#EXTINF:-1 tvg-id="Prodigal Son S01 E19" tvg-name="Prodigal Son S01 E19"  group-title="SERIES DRAMA",Prodigal Son S01 E19
+#EXTINF:-1 tvg-id="Prodigal Son S01 E10" tvg-name="Prodigal Son S01 E10"  group-title="SERIES DRAMA",Prodigal Son S01 E10
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/44897.mkv
-#EXTINF:-1 tvg-id="Prodigal Son S01 E20" tvg-name="Prodigal Son S01 E20"  group-title="SERIES DRAMA",Prodigal Son S01 E20
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51408.mkv
-#EXTINF:-1 tvg-id="Prodigal Son S01 E21" tvg-name="Prodigal Son S01 E21"  group-title="SERIES DRAMA",Prodigal Son S01 E21
+#EXTINF:-1 tvg-id="Prodigal Son S01 E11" tvg-name="Prodigal Son S01 E11"  group-title="SERIES DRAMA",Prodigal Son S01 E11
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/44898.mkv
-#EXTINF:-1 tvg-id="Prodigal Son S01 E22" tvg-name="Prodigal Son S01 E22"  group-title="SERIES DRAMA",Prodigal Son S01 E22
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51409.mkv
-#EXTINF:-1 tvg-id="Prodigal Son S01 E23" tvg-name="Prodigal Son S01 E23"  group-title="SERIES DRAMA",Prodigal Son S01 E23
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51414.mkv
-#EXTINF:-1 tvg-id="Prodigal Son S01 E24" tvg-name="Prodigal Son S01 E24"  group-title="SERIES DRAMA",Prodigal Son S01 E24
+#EXTINF:-1 tvg-id="Prodigal Son S01 E12" tvg-name="Prodigal Son S01 E12"  group-title="SERIES DRAMA",Prodigal Son S01 E12
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/44899.mkv
-#EXTINF:-1 tvg-id="Prodigal Son S01 E25" tvg-name="Prodigal Son S01 E25"  group-title="SERIES DRAMA",Prodigal Son S01 E25
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51410.mkv
-#EXTINF:-1 tvg-id="Prodigal Son S01 E26" tvg-name="Prodigal Son S01 E26"  group-title="SERIES DRAMA",Prodigal Son S01 E26
+#EXTINF:-1 tvg-id="Prodigal Son S01 E13" tvg-name="Prodigal Son S01 E13"  group-title="SERIES DRAMA",Prodigal Son S01 E13
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/44900.mkv
-#EXTINF:-1 tvg-id="Prodigal Son S01 E27" tvg-name="Prodigal Son S01 E27"  group-title="SERIES DRAMA",Prodigal Son S01 E27
+#EXTINF:-1 tvg-id="Prodigal Son S01 E14" tvg-name="Prodigal Son S01 E14"  group-title="SERIES DRAMA",Prodigal Son S01 E14
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/44901.mkv
-#EXTINF:-1 tvg-id="Prodigal Son S01 E28" tvg-name="Prodigal Son S01 E28"  group-title="SERIES DRAMA",Prodigal Son S01 E28
+#EXTINF:-1 tvg-id="Prodigal Son S01 E15" tvg-name="Prodigal Son S01 E15"  group-title="SERIES DRAMA",Prodigal Son S01 E15
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/44902.mkv
-#EXTINF:-1 tvg-id="Prodigal Son S01 E29" tvg-name="Prodigal Son S01 E29"  group-title="SERIES DRAMA",Prodigal Son S01 E29
+#EXTINF:-1 tvg-id="Prodigal Son S01 E16" tvg-name="Prodigal Son S01 E16"  group-title="SERIES DRAMA",Prodigal Son S01 E16
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/44903.mkv
-#EXTINF:-1 tvg-id="Prodigal Son S01 E30" tvg-name="Prodigal Son S01 E30"  group-title="SERIES DRAMA",Prodigal Son S01 E30
+#EXTINF:-1 tvg-id="Prodigal Son S01 E17" tvg-name="Prodigal Son S01 E17"  group-title="SERIES DRAMA",Prodigal Son S01 E17
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/44904.mkv
-#EXTINF:-1 tvg-id="Prodigal Son S01 E31" tvg-name="Prodigal Son S01 E31"  group-title="SERIES DRAMA",Prodigal Son S01 E31
+#EXTINF:-1 tvg-id="Prodigal Son S01 E18" tvg-name="Prodigal Son S01 E18"  group-title="SERIES DRAMA",Prodigal Son S01 E18
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/44905.mkv
-#EXTINF:-1 tvg-id="Prodigal Son S01 E32" tvg-name="Prodigal Son S01 E32"  group-title="SERIES DRAMA",Prodigal Son S01 E32
+#EXTINF:-1 tvg-id="Prodigal Son S01 E19" tvg-name="Prodigal Son S01 E19"  group-title="SERIES DRAMA",Prodigal Son S01 E19
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/44906.mkv
-#EXTINF:-1 tvg-id="Prodigal Son S01 E33" tvg-name="Prodigal Son S01 E33"  group-title="SERIES DRAMA",Prodigal Son S01 E33
+#EXTINF:-1 tvg-id="Prodigal Son S01 E20" tvg-name="Prodigal Son S01 E20"  group-title="SERIES DRAMA",Prodigal Son S01 E20
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/44907.mkv
 #EXTINF:-1 tvg-id="Dinero facil S01 E01" tvg-name="Dinero facil S01 E01"  group-title="SERIES DRAMA",Dinero facil S01 E01
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/44932.mkv
@@ -23169,6 +23067,252 @@ http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6201.mkv
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6202.mkv
 #EXTINF:-1 tvg-id="Game of Thrones S08 E06" tvg-name="Game of Thrones S08 E06"  group-title="SERIES FICCION - FANTASIA",Game of Thrones S08 E06
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6203.mkv
+#EXTINF:-1 tvg-id="Grimm S01 E01" tvg-name="Grimm S01 E01"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E01
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6558.mkv
+#EXTINF:-1 tvg-id="Grimm S01 E02" tvg-name="Grimm S01 E02"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E02
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6559.mkv
+#EXTINF:-1 tvg-id="Grimm S01 E03" tvg-name="Grimm S01 E03"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E03
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6560.mkv
+#EXTINF:-1 tvg-id="Grimm S01 E04" tvg-name="Grimm S01 E04"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E04
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6561.mkv
+#EXTINF:-1 tvg-id="Grimm S01 E05" tvg-name="Grimm S01 E05"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E05
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6562.mkv
+#EXTINF:-1 tvg-id="Grimm S01 E06" tvg-name="Grimm S01 E06"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E06
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6563.mkv
+#EXTINF:-1 tvg-id="Grimm S01 E07" tvg-name="Grimm S01 E07"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E07
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6564.mkv
+#EXTINF:-1 tvg-id="Grimm S01 E08" tvg-name="Grimm S01 E08"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E08
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6565.mkv
+#EXTINF:-1 tvg-id="Grimm S01 E09" tvg-name="Grimm S01 E09"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E09
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6566.mkv
+#EXTINF:-1 tvg-id="Grimm S01 E10" tvg-name="Grimm S01 E10"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E10
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6567.mkv
+#EXTINF:-1 tvg-id="Grimm S01 E11" tvg-name="Grimm S01 E11"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E11
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6568.mkv
+#EXTINF:-1 tvg-id="Grimm S01 E12" tvg-name="Grimm S01 E12"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E12
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6569.mkv
+#EXTINF:-1 tvg-id="Grimm S01 E13" tvg-name="Grimm S01 E13"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E13
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6570.mkv
+#EXTINF:-1 tvg-id="Grimm S01 E14" tvg-name="Grimm S01 E14"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E14
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6571.mkv
+#EXTINF:-1 tvg-id="Grimm S01 E15" tvg-name="Grimm S01 E15"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E15
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6572.mkv
+#EXTINF:-1 tvg-id="Grimm S01 E16" tvg-name="Grimm S01 E16"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E16
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6573.mkv
+#EXTINF:-1 tvg-id="Grimm S01 E17" tvg-name="Grimm S01 E17"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E17
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6574.mkv
+#EXTINF:-1 tvg-id="Grimm S01 E18" tvg-name="Grimm S01 E18"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E18
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6575.mkv
+#EXTINF:-1 tvg-id="Grimm S01 E19" tvg-name="Grimm S01 E19"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E19
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6576.mkv
+#EXTINF:-1 tvg-id="Grimm S01 E20" tvg-name="Grimm S01 E20"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E20
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6577.mkv
+#EXTINF:-1 tvg-id="Grimm S01 E21" tvg-name="Grimm S01 E21"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E21
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6578.mkv
+#EXTINF:-1 tvg-id="Grimm S01 E22" tvg-name="Grimm S01 E22"  group-title="SERIES FICCION - FANTASIA",Grimm S01 E22
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6579.mkv
+#EXTINF:-1 tvg-id="Grimm S02 E01" tvg-name="Grimm S02 E01"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E01
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6580.mkv
+#EXTINF:-1 tvg-id="Grimm S02 E02" tvg-name="Grimm S02 E02"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E02
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6581.mkv
+#EXTINF:-1 tvg-id="Grimm S02 E03" tvg-name="Grimm S02 E03"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E03
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6582.mkv
+#EXTINF:-1 tvg-id="Grimm S02 E04" tvg-name="Grimm S02 E04"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E04
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6583.mkv
+#EXTINF:-1 tvg-id="Grimm S02 E05" tvg-name="Grimm S02 E05"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E05
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6584.mkv
+#EXTINF:-1 tvg-id="Grimm S02 E06" tvg-name="Grimm S02 E06"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E06
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6585.mkv
+#EXTINF:-1 tvg-id="Grimm S02 E07" tvg-name="Grimm S02 E07"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E07
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6586.mkv
+#EXTINF:-1 tvg-id="Grimm S02 E08" tvg-name="Grimm S02 E08"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E08
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6587.mkv
+#EXTINF:-1 tvg-id="Grimm S02 E09" tvg-name="Grimm S02 E09"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E09
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6588.mkv
+#EXTINF:-1 tvg-id="Grimm S02 E10" tvg-name="Grimm S02 E10"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E10
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6589.mkv
+#EXTINF:-1 tvg-id="Grimm S02 E11" tvg-name="Grimm S02 E11"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E11
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6590.mkv
+#EXTINF:-1 tvg-id="Grimm S02 E12" tvg-name="Grimm S02 E12"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E12
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6591.mkv
+#EXTINF:-1 tvg-id="Grimm S02 E13" tvg-name="Grimm S02 E13"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E13
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6592.mkv
+#EXTINF:-1 tvg-id="Grimm S02 E14" tvg-name="Grimm S02 E14"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E14
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6593.mkv
+#EXTINF:-1 tvg-id="Grimm S02 E15" tvg-name="Grimm S02 E15"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E15
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6594.mkv
+#EXTINF:-1 tvg-id="Grimm S02 E16" tvg-name="Grimm S02 E16"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E16
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6595.mkv
+#EXTINF:-1 tvg-id="Grimm S02 E17" tvg-name="Grimm S02 E17"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E17
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6596.mkv
+#EXTINF:-1 tvg-id="Grimm S02 E18" tvg-name="Grimm S02 E18"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E18
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6597.mkv
+#EXTINF:-1 tvg-id="Grimm S02 E19" tvg-name="Grimm S02 E19"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E19
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6598.mkv
+#EXTINF:-1 tvg-id="Grimm S02 E20" tvg-name="Grimm S02 E20"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E20
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6599.mkv
+#EXTINF:-1 tvg-id="Grimm S02 E21" tvg-name="Grimm S02 E21"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E21
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6600.mkv
+#EXTINF:-1 tvg-id="Grimm S02 E22" tvg-name="Grimm S02 E22"  group-title="SERIES FICCION - FANTASIA",Grimm S02 E22
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6601.mkv
+#EXTINF:-1 tvg-id="Grimm S03 E01" tvg-name="Grimm S03 E01"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E01
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6602.mkv
+#EXTINF:-1 tvg-id="Grimm S03 E02" tvg-name="Grimm S03 E02"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E02
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6603.mkv
+#EXTINF:-1 tvg-id="Grimm S03 E03" tvg-name="Grimm S03 E03"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E03
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6604.mkv
+#EXTINF:-1 tvg-id="Grimm S03 E04" tvg-name="Grimm S03 E04"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E04
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6605.mkv
+#EXTINF:-1 tvg-id="Grimm S03 E05" tvg-name="Grimm S03 E05"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E05
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6606.mkv
+#EXTINF:-1 tvg-id="Grimm S03 E06" tvg-name="Grimm S03 E06"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E06
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6607.mkv
+#EXTINF:-1 tvg-id="Grimm S03 E07" tvg-name="Grimm S03 E07"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E07
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6608.mkv
+#EXTINF:-1 tvg-id="Grimm S03 E08" tvg-name="Grimm S03 E08"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E08
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6609.mkv
+#EXTINF:-1 tvg-id="Grimm S03 E09" tvg-name="Grimm S03 E09"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E09
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6610.mkv
+#EXTINF:-1 tvg-id="Grimm S03 E10" tvg-name="Grimm S03 E10"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E10
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6611.mkv
+#EXTINF:-1 tvg-id="Grimm S03 E11" tvg-name="Grimm S03 E11"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E11
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6612.mkv
+#EXTINF:-1 tvg-id="Grimm S03 E12" tvg-name="Grimm S03 E12"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E12
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6613.mkv
+#EXTINF:-1 tvg-id="Grimm S03 E13" tvg-name="Grimm S03 E13"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E13
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6614.mkv
+#EXTINF:-1 tvg-id="Grimm S03 E14" tvg-name="Grimm S03 E14"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E14
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6615.mkv
+#EXTINF:-1 tvg-id="Grimm S03 E15" tvg-name="Grimm S03 E15"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E15
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6616.mkv
+#EXTINF:-1 tvg-id="Grimm S03 E16" tvg-name="Grimm S03 E16"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E16
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6617.mkv
+#EXTINF:-1 tvg-id="Grimm S03 E17" tvg-name="Grimm S03 E17"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E17
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6618.mkv
+#EXTINF:-1 tvg-id="Grimm S03 E18" tvg-name="Grimm S03 E18"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E18
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6619.mkv
+#EXTINF:-1 tvg-id="Grimm S03 E19" tvg-name="Grimm S03 E19"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E19
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6620.mkv
+#EXTINF:-1 tvg-id="Grimm S03 E20" tvg-name="Grimm S03 E20"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E20
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6621.mkv
+#EXTINF:-1 tvg-id="Grimm S03 E21" tvg-name="Grimm S03 E21"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E21
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6622.mkv
+#EXTINF:-1 tvg-id="Grimm S03 E22" tvg-name="Grimm S03 E22"  group-title="SERIES FICCION - FANTASIA",Grimm S03 E22
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6623.mkv
+#EXTINF:-1 tvg-id="Grimm S04 E01" tvg-name="Grimm S04 E01"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E01
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6624.mkv
+#EXTINF:-1 tvg-id="Grimm S04 E02" tvg-name="Grimm S04 E02"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E02
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6625.mkv
+#EXTINF:-1 tvg-id="Grimm S04 E03" tvg-name="Grimm S04 E03"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E03
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6626.mkv
+#EXTINF:-1 tvg-id="Grimm S04 E04" tvg-name="Grimm S04 E04"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E04
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6627.mkv
+#EXTINF:-1 tvg-id="Grimm S04 E05" tvg-name="Grimm S04 E05"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E05
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6628.mkv
+#EXTINF:-1 tvg-id="Grimm S04 E06" tvg-name="Grimm S04 E06"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E06
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6629.mkv
+#EXTINF:-1 tvg-id="Grimm S04 E07" tvg-name="Grimm S04 E07"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E07
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6630.mkv
+#EXTINF:-1 tvg-id="Grimm S04 E08" tvg-name="Grimm S04 E08"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E08
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6631.mkv
+#EXTINF:-1 tvg-id="Grimm S04 E09" tvg-name="Grimm S04 E09"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E09
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6632.mkv
+#EXTINF:-1 tvg-id="Grimm S04 E10" tvg-name="Grimm S04 E10"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E10
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6633.mkv
+#EXTINF:-1 tvg-id="Grimm S04 E11" tvg-name="Grimm S04 E11"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E11
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6634.mkv
+#EXTINF:-1 tvg-id="Grimm S04 E12" tvg-name="Grimm S04 E12"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E12
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6635.mkv
+#EXTINF:-1 tvg-id="Grimm S04 E13" tvg-name="Grimm S04 E13"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E13
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6636.mkv
+#EXTINF:-1 tvg-id="Grimm S04 E14" tvg-name="Grimm S04 E14"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E14
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6637.mkv
+#EXTINF:-1 tvg-id="Grimm S04 E15" tvg-name="Grimm S04 E15"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E15
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6638.mkv
+#EXTINF:-1 tvg-id="Grimm S04 E16" tvg-name="Grimm S04 E16"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E16
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6639.mkv
+#EXTINF:-1 tvg-id="Grimm S04 E17" tvg-name="Grimm S04 E17"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E17
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6640.mkv
+#EXTINF:-1 tvg-id="Grimm S04 E18" tvg-name="Grimm S04 E18"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E18
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6641.mkv
+#EXTINF:-1 tvg-id="Grimm S04 E19" tvg-name="Grimm S04 E19"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E19
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6642.mkv
+#EXTINF:-1 tvg-id="Grimm S04 E20" tvg-name="Grimm S04 E20"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E20
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6643.mkv
+#EXTINF:-1 tvg-id="Grimm S04 E21" tvg-name="Grimm S04 E21"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E21
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6644.mkv
+#EXTINF:-1 tvg-id="Grimm S04 E22" tvg-name="Grimm S04 E22"  group-title="SERIES FICCION - FANTASIA",Grimm S04 E22
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6645.mkv
+#EXTINF:-1 tvg-id="Grimm S05 E01" tvg-name="Grimm S05 E01"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E01
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6646.mkv
+#EXTINF:-1 tvg-id="Grimm S05 E02" tvg-name="Grimm S05 E02"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E02
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6647.mkv
+#EXTINF:-1 tvg-id="Grimm S05 E03" tvg-name="Grimm S05 E03"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E03
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6648.mkv
+#EXTINF:-1 tvg-id="Grimm S05 E04" tvg-name="Grimm S05 E04"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E04
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6649.mkv
+#EXTINF:-1 tvg-id="Grimm S05 E05" tvg-name="Grimm S05 E05"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E05
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6650.mkv
+#EXTINF:-1 tvg-id="Grimm S05 E06" tvg-name="Grimm S05 E06"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E06
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6651.mkv
+#EXTINF:-1 tvg-id="Grimm S05 E07" tvg-name="Grimm S05 E07"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E07
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6652.mkv
+#EXTINF:-1 tvg-id="Grimm S05 E08" tvg-name="Grimm S05 E08"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E08
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6653.mkv
+#EXTINF:-1 tvg-id="Grimm S05 E09" tvg-name="Grimm S05 E09"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E09
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6654.mkv
+#EXTINF:-1 tvg-id="Grimm S05 E10" tvg-name="Grimm S05 E10"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E10
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6655.mkv
+#EXTINF:-1 tvg-id="Grimm S05 E11" tvg-name="Grimm S05 E11"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E11
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6656.mkv
+#EXTINF:-1 tvg-id="Grimm S05 E12" tvg-name="Grimm S05 E12"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E12
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6657.mkv
+#EXTINF:-1 tvg-id="Grimm S05 E13" tvg-name="Grimm S05 E13"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E13
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6658.mkv
+#EXTINF:-1 tvg-id="Grimm S05 E14" tvg-name="Grimm S05 E14"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E14
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6659.mkv
+#EXTINF:-1 tvg-id="Grimm S05 E15" tvg-name="Grimm S05 E15"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E15
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6660.mkv
+#EXTINF:-1 tvg-id="Grimm S05 E16" tvg-name="Grimm S05 E16"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E16
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6661.mkv
+#EXTINF:-1 tvg-id="Grimm S05 E17" tvg-name="Grimm S05 E17"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E17
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6662.mkv
+#EXTINF:-1 tvg-id="Grimm S05 E18" tvg-name="Grimm S05 E18"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E18
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6663.mkv
+#EXTINF:-1 tvg-id="Grimm S05 E19" tvg-name="Grimm S05 E19"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E19
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6664.mkv
+#EXTINF:-1 tvg-id="Grimm S05 E20" tvg-name="Grimm S05 E20"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E20
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6665.mkv
+#EXTINF:-1 tvg-id="Grimm S05 E21" tvg-name="Grimm S05 E21"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E21
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6666.mkv
+#EXTINF:-1 tvg-id="Grimm S05 E22" tvg-name="Grimm S05 E22"  group-title="SERIES FICCION - FANTASIA",Grimm S05 E22
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6667.mkv
+#EXTINF:-1 tvg-id="Grimm S06 E01" tvg-name="Grimm S06 E01"  group-title="SERIES FICCION - FANTASIA",Grimm S06 E01
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6668.mkv
+#EXTINF:-1 tvg-id="Grimm S06 E02" tvg-name="Grimm S06 E02"  group-title="SERIES FICCION - FANTASIA",Grimm S06 E02
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6669.mkv
+#EXTINF:-1 tvg-id="Grimm S06 E03" tvg-name="Grimm S06 E03"  group-title="SERIES FICCION - FANTASIA",Grimm S06 E03
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6670.mkv
+#EXTINF:-1 tvg-id="Grimm S06 E04" tvg-name="Grimm S06 E04"  group-title="SERIES FICCION - FANTASIA",Grimm S06 E04
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6671.mkv
+#EXTINF:-1 tvg-id="Grimm S06 E05" tvg-name="Grimm S06 E05"  group-title="SERIES FICCION - FANTASIA",Grimm S06 E05
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6672.mkv
+#EXTINF:-1 tvg-id="Grimm S06 E06" tvg-name="Grimm S06 E06"  group-title="SERIES FICCION - FANTASIA",Grimm S06 E06
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6673.mkv
+#EXTINF:-1 tvg-id="Grimm S06 E07" tvg-name="Grimm S06 E07"  group-title="SERIES FICCION - FANTASIA",Grimm S06 E07
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6674.mkv
+#EXTINF:-1 tvg-id="Grimm S06 E08" tvg-name="Grimm S06 E08"  group-title="SERIES FICCION - FANTASIA",Grimm S06 E08
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6675.mkv
+#EXTINF:-1 tvg-id="Grimm S06 E09" tvg-name="Grimm S06 E09"  group-title="SERIES FICCION - FANTASIA",Grimm S06 E09
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6676.mkv
+#EXTINF:-1 tvg-id="Grimm S06 E10" tvg-name="Grimm S06 E10"  group-title="SERIES FICCION - FANTASIA",Grimm S06 E10
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6677.mkv
+#EXTINF:-1 tvg-id="Grimm S06 E11" tvg-name="Grimm S06 E11"  group-title="SERIES FICCION - FANTASIA",Grimm S06 E11
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6678.mkv
+#EXTINF:-1 tvg-id="Grimm S06 E12" tvg-name="Grimm S06 E12"  group-title="SERIES FICCION - FANTASIA",Grimm S06 E12
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6679.mkv
+#EXTINF:-1 tvg-id="Grimm S06 E13" tvg-name="Grimm S06 E13"  group-title="SERIES FICCION - FANTASIA",Grimm S06 E13
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/6680.mkv
 #EXTINF:-1 tvg-id="La orden S01 E01" tvg-name="La orden S01 E01"  group-title="SERIES FICCION - FANTASIA",La orden S01 E01
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/7116.mkv
 #EXTINF:-1 tvg-id="La orden S01 E02" tvg-name="La orden S01 E02"  group-title="SERIES FICCION - FANTASIA",La orden S01 E02
@@ -24463,6 +24607,356 @@ http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29204.mkv
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29200.mkv
 #EXTINF:-1 tvg-id="Shadowhunters S03 E22" tvg-name="Shadowhunters S03 E22"  group-title="SERIES FICCION - FANTASIA",Shadowhunters S03 E22
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29201.mkv
+#EXTINF:-1 tvg-id="Embrujadas S01 E01" tvg-name="Embrujadas S01 E01"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E01
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29425.mkv
+#EXTINF:-1 tvg-id="Embrujadas S01 E02" tvg-name="Embrujadas S01 E02"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E02
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29426.mkv
+#EXTINF:-1 tvg-id="Embrujadas S01 E03" tvg-name="Embrujadas S01 E03"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E03
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29427.mkv
+#EXTINF:-1 tvg-id="Embrujadas S01 E04" tvg-name="Embrujadas S01 E04"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E04
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29428.mkv
+#EXTINF:-1 tvg-id="Embrujadas S01 E05" tvg-name="Embrujadas S01 E05"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E05
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29429.mkv
+#EXTINF:-1 tvg-id="Embrujadas S01 E06" tvg-name="Embrujadas S01 E06"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E06
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29430.mp4
+#EXTINF:-1 tvg-id="Embrujadas S01 E07" tvg-name="Embrujadas S01 E07"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E07
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29431.mp4
+#EXTINF:-1 tvg-id="Embrujadas S01 E08" tvg-name="Embrujadas S01 E08"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E08
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29432.mp4
+#EXTINF:-1 tvg-id="Embrujadas S01 E09" tvg-name="Embrujadas S01 E09"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E09
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29433.mp4
+#EXTINF:-1 tvg-id="Embrujadas S01 E10" tvg-name="Embrujadas S01 E10"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E10
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29434.mp4
+#EXTINF:-1 tvg-id="Embrujadas S01 E11" tvg-name="Embrujadas S01 E11"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E11
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29435.mp4
+#EXTINF:-1 tvg-id="Embrujadas S01 E12" tvg-name="Embrujadas S01 E12"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E12
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29436.mp4
+#EXTINF:-1 tvg-id="Embrujadas S01 E13" tvg-name="Embrujadas S01 E13"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E13
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29437.mkv
+#EXTINF:-1 tvg-id="Embrujadas S01 E14" tvg-name="Embrujadas S01 E14"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E14
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29438.mp4
+#EXTINF:-1 tvg-id="Embrujadas S01 E15" tvg-name="Embrujadas S01 E15"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E15
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29439.mp4
+#EXTINF:-1 tvg-id="Embrujadas S01 E16" tvg-name="Embrujadas S01 E16"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E16
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29440.mp4
+#EXTINF:-1 tvg-id="Embrujadas S01 E17" tvg-name="Embrujadas S01 E17"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E17
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29441.mp4
+#EXTINF:-1 tvg-id="Embrujadas S01 E18" tvg-name="Embrujadas S01 E18"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E18
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29442.mp4
+#EXTINF:-1 tvg-id="Embrujadas S01 E19" tvg-name="Embrujadas S01 E19"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E19
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29443.mp4
+#EXTINF:-1 tvg-id="Embrujadas S01 E20" tvg-name="Embrujadas S01 E20"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E20
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29444.mp4
+#EXTINF:-1 tvg-id="Embrujadas S01 E21" tvg-name="Embrujadas S01 E21"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E21
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29445.mp4
+#EXTINF:-1 tvg-id="Embrujadas S01 E22" tvg-name="Embrujadas S01 E22"  group-title="SERIES FICCION - FANTASIA",Embrujadas S01 E22
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29446.mkv
+#EXTINF:-1 tvg-id="Embrujadas S02 E01" tvg-name="Embrujadas S02 E01"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E01
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29272.mkv
+#EXTINF:-1 tvg-id="Embrujadas S02 E02" tvg-name="Embrujadas S02 E02"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E02
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29273.avi
+#EXTINF:-1 tvg-id="Embrujadas S02 E03" tvg-name="Embrujadas S02 E03"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E03
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29274.avi
+#EXTINF:-1 tvg-id="Embrujadas S02 E04" tvg-name="Embrujadas S02 E04"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E04
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29275.avi
+#EXTINF:-1 tvg-id="Embrujadas S02 E05" tvg-name="Embrujadas S02 E05"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E05
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29276.avi
+#EXTINF:-1 tvg-id="Embrujadas S02 E06" tvg-name="Embrujadas S02 E06"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E06
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29277.avi
+#EXTINF:-1 tvg-id="Embrujadas S02 E07" tvg-name="Embrujadas S02 E07"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E07
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29278.avi
+#EXTINF:-1 tvg-id="Embrujadas S02 E08" tvg-name="Embrujadas S02 E08"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E08
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29279.avi
+#EXTINF:-1 tvg-id="Embrujadas S02 E09" tvg-name="Embrujadas S02 E09"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E09
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29280.avi
+#EXTINF:-1 tvg-id="Embrujadas S02 E10" tvg-name="Embrujadas S02 E10"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E10
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29281.avi
+#EXTINF:-1 tvg-id="Embrujadas S02 E11" tvg-name="Embrujadas S02 E11"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E11
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29282.avi
+#EXTINF:-1 tvg-id="Embrujadas S02 E12" tvg-name="Embrujadas S02 E12"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E12
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29283.avi
+#EXTINF:-1 tvg-id="Embrujadas S02 E13" tvg-name="Embrujadas S02 E13"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E13
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29284.avi
+#EXTINF:-1 tvg-id="Embrujadas S02 E14" tvg-name="Embrujadas S02 E14"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E14
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29285.avi
+#EXTINF:-1 tvg-id="Embrujadas S02 E15" tvg-name="Embrujadas S02 E15"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E15
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29286.avi
+#EXTINF:-1 tvg-id="Embrujadas S02 E16" tvg-name="Embrujadas S02 E16"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E16
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29287.avi
+#EXTINF:-1 tvg-id="Embrujadas S02 E17" tvg-name="Embrujadas S02 E17"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E17
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29288.avi
+#EXTINF:-1 tvg-id="Embrujadas S02 E18" tvg-name="Embrujadas S02 E18"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E18
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29289.avi
+#EXTINF:-1 tvg-id="Embrujadas S02 E19" tvg-name="Embrujadas S02 E19"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E19
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29290.avi
+#EXTINF:-1 tvg-id="Embrujadas S02 E20" tvg-name="Embrujadas S02 E20"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E20
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29291.avi
+#EXTINF:-1 tvg-id="Embrujadas S02 E21" tvg-name="Embrujadas S02 E21"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E21
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29292.avi
+#EXTINF:-1 tvg-id="Embrujadas S02 E22" tvg-name="Embrujadas S02 E22"  group-title="SERIES FICCION - FANTASIA",Embrujadas S02 E22
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29293.mkv
+#EXTINF:-1 tvg-id="Embrujadas S03 E01" tvg-name="Embrujadas S03 E01"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E01
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29294.avi
+#EXTINF:-1 tvg-id="Embrujadas S03 E02" tvg-name="Embrujadas S03 E02"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E02
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29295.avi
+#EXTINF:-1 tvg-id="Embrujadas S03 E03" tvg-name="Embrujadas S03 E03"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E03
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29296.avi
+#EXTINF:-1 tvg-id="Embrujadas S03 E04" tvg-name="Embrujadas S03 E04"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E04
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29297.avi
+#EXTINF:-1 tvg-id="Embrujadas S03 E05" tvg-name="Embrujadas S03 E05"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E05
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29298.avi
+#EXTINF:-1 tvg-id="Embrujadas S03 E06" tvg-name="Embrujadas S03 E06"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E06
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29299.avi
+#EXTINF:-1 tvg-id="Embrujadas S03 E07" tvg-name="Embrujadas S03 E07"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E07
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29300.avi
+#EXTINF:-1 tvg-id="Embrujadas S03 E08" tvg-name="Embrujadas S03 E08"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E08
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29301.avi
+#EXTINF:-1 tvg-id="Embrujadas S03 E09" tvg-name="Embrujadas S03 E09"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E09
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29302.avi
+#EXTINF:-1 tvg-id="Embrujadas S03 E10" tvg-name="Embrujadas S03 E10"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E10
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29303.avi
+#EXTINF:-1 tvg-id="Embrujadas S03 E11" tvg-name="Embrujadas S03 E11"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E11
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29304.avi
+#EXTINF:-1 tvg-id="Embrujadas S03 E12" tvg-name="Embrujadas S03 E12"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E12
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29305.avi
+#EXTINF:-1 tvg-id="Embrujadas S03 E13" tvg-name="Embrujadas S03 E13"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E13
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29306.avi
+#EXTINF:-1 tvg-id="Embrujadas S03 E14" tvg-name="Embrujadas S03 E14"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E14
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29307.avi
+#EXTINF:-1 tvg-id="Embrujadas S03 E15" tvg-name="Embrujadas S03 E15"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E15
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29308.avi
+#EXTINF:-1 tvg-id="Embrujadas S03 E16" tvg-name="Embrujadas S03 E16"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E16
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29309.avi
+#EXTINF:-1 tvg-id="Embrujadas S03 E17" tvg-name="Embrujadas S03 E17"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E17
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29310.avi
+#EXTINF:-1 tvg-id="Embrujadas S03 E18" tvg-name="Embrujadas S03 E18"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E18
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29311.avi
+#EXTINF:-1 tvg-id="Embrujadas S03 E19" tvg-name="Embrujadas S03 E19"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E19
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29312.avi
+#EXTINF:-1 tvg-id="Embrujadas S03 E20" tvg-name="Embrujadas S03 E20"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E20
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29313.avi
+#EXTINF:-1 tvg-id="Embrujadas S03 E21" tvg-name="Embrujadas S03 E21"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E21
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29314.avi
+#EXTINF:-1 tvg-id="Embrujadas S03 E22" tvg-name="Embrujadas S03 E22"  group-title="SERIES FICCION - FANTASIA",Embrujadas S03 E22
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29315.avi
+#EXTINF:-1 tvg-id="Embrujadas S04 E01" tvg-name="Embrujadas S04 E01"  group-title="SERIES FICCION - FANTASIA",Embrujadas S04 E01
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29316.avi
+#EXTINF:-1 tvg-id="Embrujadas S04 E02" tvg-name="Embrujadas S04 E02"  group-title="SERIES FICCION - FANTASIA",Embrujadas S04 E02
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29317.avi
+#EXTINF:-1 tvg-id="Embrujadas S04 E03" tvg-name="Embrujadas S04 E03"  group-title="SERIES FICCION - FANTASIA",Embrujadas S04 E03
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29318.avi
+#EXTINF:-1 tvg-id="Embrujadas S04 E04" tvg-name="Embrujadas S04 E04"  group-title="SERIES FICCION - FANTASIA",Embrujadas S04 E04
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29319.avi
+#EXTINF:-1 tvg-id="Embrujadas S04 E05" tvg-name="Embrujadas S04 E05"  group-title="SERIES FICCION - FANTASIA",Embrujadas S04 E05
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29320.avi
+#EXTINF:-1 tvg-id="Embrujadas S04 E06" tvg-name="Embrujadas S04 E06"  group-title="SERIES FICCION - FANTASIA",Embrujadas S04 E06
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29321.avi
+#EXTINF:-1 tvg-id="Embrujadas S04 E07" tvg-name="Embrujadas S04 E07"  group-title="SERIES FICCION - FANTASIA",Embrujadas S04 E07
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29322.avi
+#EXTINF:-1 tvg-id="Embrujadas S04 E08" tvg-name="Embrujadas S04 E08"  group-title="SERIES FICCION - FANTASIA",Embrujadas S04 E08
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29323.avi
+#EXTINF:-1 tvg-id="Embrujadas S04 E09" tvg-name="Embrujadas S04 E09"  group-title="SERIES FICCION - FANTASIA",Embrujadas S04 E09
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29324.avi
+#EXTINF:-1 tvg-id="Embrujadas S04 E10" tvg-name="Embrujadas S04 E10"  group-title="SERIES FICCION - FANTASIA",Embrujadas S04 E10
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29325.avi
+#EXTINF:-1 tvg-id="Embrujadas S04 E11" tvg-name="Embrujadas S04 E11"  group-title="SERIES FICCION - FANTASIA",Embrujadas S04 E11
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29326.avi
+#EXTINF:-1 tvg-id="Embrujadas S04 E12" tvg-name="Embrujadas S04 E12"  group-title="SERIES FICCION - FANTASIA",Embrujadas S04 E12
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29327.avi
+#EXTINF:-1 tvg-id="Embrujadas S04 E13" tvg-name="Embrujadas S04 E13"  group-title="SERIES FICCION - FANTASIA",Embrujadas S04 E13
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29328.avi
+#EXTINF:-1 tvg-id="Embrujadas S04 E14" tvg-name="Embrujadas S04 E14"  group-title="SERIES FICCION - FANTASIA",Embrujadas S04 E14
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29329.avi
+#EXTINF:-1 tvg-id="Embrujadas S04 E15" tvg-name="Embrujadas S04 E15"  group-title="SERIES FICCION - FANTASIA",Embrujadas S04 E15
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29330.avi
+#EXTINF:-1 tvg-id="Embrujadas S04 E16" tvg-name="Embrujadas S04 E16"  group-title="SERIES FICCION - FANTASIA",Embrujadas S04 E16
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29331.avi
+#EXTINF:-1 tvg-id="Embrujadas S04 E17" tvg-name="Embrujadas S04 E17"  group-title="SERIES FICCION - FANTASIA",Embrujadas S04 E17
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29332.avi
+#EXTINF:-1 tvg-id="Embrujadas S04 E18" tvg-name="Embrujadas S04 E18"  group-title="SERIES FICCION - FANTASIA",Embrujadas S04 E18
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29333.avi
+#EXTINF:-1 tvg-id="Embrujadas S04 E19" tvg-name="Embrujadas S04 E19"  group-title="SERIES FICCION - FANTASIA",Embrujadas S04 E19
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29334.avi
+#EXTINF:-1 tvg-id="Embrujadas S04 E20" tvg-name="Embrujadas S04 E20"  group-title="SERIES FICCION - FANTASIA",Embrujadas S04 E20
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29335.avi
+#EXTINF:-1 tvg-id="Embrujadas S04 E21" tvg-name="Embrujadas S04 E21"  group-title="SERIES FICCION - FANTASIA",Embrujadas S04 E21
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29336.avi
+#EXTINF:-1 tvg-id="Embrujadas S05 E01" tvg-name="Embrujadas S05 E01"  group-title="SERIES FICCION - FANTASIA",Embrujadas S05 E01
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29337.avi
+#EXTINF:-1 tvg-id="Embrujadas S05 E02" tvg-name="Embrujadas S05 E02"  group-title="SERIES FICCION - FANTASIA",Embrujadas S05 E02
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29338.avi
+#EXTINF:-1 tvg-id="Embrujadas S05 E03" tvg-name="Embrujadas S05 E03"  group-title="SERIES FICCION - FANTASIA",Embrujadas S05 E03
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29339.avi
+#EXTINF:-1 tvg-id="Embrujadas S05 E04" tvg-name="Embrujadas S05 E04"  group-title="SERIES FICCION - FANTASIA",Embrujadas S05 E04
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29340.avi
+#EXTINF:-1 tvg-id="Embrujadas S05 E05" tvg-name="Embrujadas S05 E05"  group-title="SERIES FICCION - FANTASIA",Embrujadas S05 E05
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29341.avi
+#EXTINF:-1 tvg-id="Embrujadas S05 E06" tvg-name="Embrujadas S05 E06"  group-title="SERIES FICCION - FANTASIA",Embrujadas S05 E06
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29342.avi
+#EXTINF:-1 tvg-id="Embrujadas S05 E07" tvg-name="Embrujadas S05 E07"  group-title="SERIES FICCION - FANTASIA",Embrujadas S05 E07
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29343.avi
+#EXTINF:-1 tvg-id="Embrujadas S05 E08" tvg-name="Embrujadas S05 E08"  group-title="SERIES FICCION - FANTASIA",Embrujadas S05 E08
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29344.avi
+#EXTINF:-1 tvg-id="Embrujadas S05 E09" tvg-name="Embrujadas S05 E09"  group-title="SERIES FICCION - FANTASIA",Embrujadas S05 E09
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29345.avi
+#EXTINF:-1 tvg-id="Embrujadas S05 E10" tvg-name="Embrujadas S05 E10"  group-title="SERIES FICCION - FANTASIA",Embrujadas S05 E10
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29346.avi
+#EXTINF:-1 tvg-id="Embrujadas S05 E11" tvg-name="Embrujadas S05 E11"  group-title="SERIES FICCION - FANTASIA",Embrujadas S05 E11
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29347.avi
+#EXTINF:-1 tvg-id="Embrujadas S05 E12" tvg-name="Embrujadas S05 E12"  group-title="SERIES FICCION - FANTASIA",Embrujadas S05 E12
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29348.avi
+#EXTINF:-1 tvg-id="Embrujadas S05 E13" tvg-name="Embrujadas S05 E13"  group-title="SERIES FICCION - FANTASIA",Embrujadas S05 E13
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29349.avi
+#EXTINF:-1 tvg-id="Embrujadas S05 E14" tvg-name="Embrujadas S05 E14"  group-title="SERIES FICCION - FANTASIA",Embrujadas S05 E14
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29350.avi
+#EXTINF:-1 tvg-id="Embrujadas S05 E15" tvg-name="Embrujadas S05 E15"  group-title="SERIES FICCION - FANTASIA",Embrujadas S05 E15
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29351.avi
+#EXTINF:-1 tvg-id="Embrujadas S05 E16" tvg-name="Embrujadas S05 E16"  group-title="SERIES FICCION - FANTASIA",Embrujadas S05 E16
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29352.avi
+#EXTINF:-1 tvg-id="Embrujadas S05 E17" tvg-name="Embrujadas S05 E17"  group-title="SERIES FICCION - FANTASIA",Embrujadas S05 E17
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29353.avi
+#EXTINF:-1 tvg-id="Embrujadas S05 E18" tvg-name="Embrujadas S05 E18"  group-title="SERIES FICCION - FANTASIA",Embrujadas S05 E18
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29354.avi
+#EXTINF:-1 tvg-id="Embrujadas S05 E19" tvg-name="Embrujadas S05 E19"  group-title="SERIES FICCION - FANTASIA",Embrujadas S05 E19
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29355.avi
+#EXTINF:-1 tvg-id="Embrujadas S05 E20" tvg-name="Embrujadas S05 E20"  group-title="SERIES FICCION - FANTASIA",Embrujadas S05 E20
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29356.avi
+#EXTINF:-1 tvg-id="Embrujadas S05 E21" tvg-name="Embrujadas S05 E21"  group-title="SERIES FICCION - FANTASIA",Embrujadas S05 E21
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29357.avi
+#EXTINF:-1 tvg-id="Embrujadas S06 E01" tvg-name="Embrujadas S06 E01"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E01
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29358.mkv
+#EXTINF:-1 tvg-id="Embrujadas S06 E02" tvg-name="Embrujadas S06 E02"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E02
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29359.avi
+#EXTINF:-1 tvg-id="Embrujadas S06 E03" tvg-name="Embrujadas S06 E03"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E03
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29360.avi
+#EXTINF:-1 tvg-id="Embrujadas S06 E04" tvg-name="Embrujadas S06 E04"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E04
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29361.avi
+#EXTINF:-1 tvg-id="Embrujadas S06 E05" tvg-name="Embrujadas S06 E05"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E05
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29362.avi
+#EXTINF:-1 tvg-id="Embrujadas S06 E06" tvg-name="Embrujadas S06 E06"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E06
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29363.avi
+#EXTINF:-1 tvg-id="Embrujadas S06 E07" tvg-name="Embrujadas S06 E07"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E07
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29364.avi
+#EXTINF:-1 tvg-id="Embrujadas S06 E08" tvg-name="Embrujadas S06 E08"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E08
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29365.avi
+#EXTINF:-1 tvg-id="Embrujadas S06 E09" tvg-name="Embrujadas S06 E09"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E09
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29366.avi
+#EXTINF:-1 tvg-id="Embrujadas S06 E10" tvg-name="Embrujadas S06 E10"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E10
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29367.avi
+#EXTINF:-1 tvg-id="Embrujadas S06 E11" tvg-name="Embrujadas S06 E11"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E11
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29368.avi
+#EXTINF:-1 tvg-id="Embrujadas S06 E12" tvg-name="Embrujadas S06 E12"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E12
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29369.avi
+#EXTINF:-1 tvg-id="Embrujadas S06 E13" tvg-name="Embrujadas S06 E13"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E13
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29370.avi
+#EXTINF:-1 tvg-id="Embrujadas S06 E14" tvg-name="Embrujadas S06 E14"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E14
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29371.avi
+#EXTINF:-1 tvg-id="Embrujadas S06 E15" tvg-name="Embrujadas S06 E15"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E15
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29372.avi
+#EXTINF:-1 tvg-id="Embrujadas S06 E16" tvg-name="Embrujadas S06 E16"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E16
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29373.avi
+#EXTINF:-1 tvg-id="Embrujadas S06 E17" tvg-name="Embrujadas S06 E17"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E17
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29374.avi
+#EXTINF:-1 tvg-id="Embrujadas S06 E18" tvg-name="Embrujadas S06 E18"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E18
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29375.avi
+#EXTINF:-1 tvg-id="Embrujadas S06 E19" tvg-name="Embrujadas S06 E19"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E19
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29376.avi
+#EXTINF:-1 tvg-id="Embrujadas S06 E20" tvg-name="Embrujadas S06 E20"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E20
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29377.avi
+#EXTINF:-1 tvg-id="Embrujadas S06 E21" tvg-name="Embrujadas S06 E21"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E21
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29378.avi
+#EXTINF:-1 tvg-id="Embrujadas S06 E22" tvg-name="Embrujadas S06 E22"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E22
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29379.avi
+#EXTINF:-1 tvg-id="Embrujadas S06 E23" tvg-name="Embrujadas S06 E23"  group-title="SERIES FICCION - FANTASIA",Embrujadas S06 E23
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29380.mkv
+#EXTINF:-1 tvg-id="Embrujadas S07 E01" tvg-name="Embrujadas S07 E01"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E01
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29381.avi
+#EXTINF:-1 tvg-id="Embrujadas S07 E02" tvg-name="Embrujadas S07 E02"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E02
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29382.avi
+#EXTINF:-1 tvg-id="Embrujadas S07 E03" tvg-name="Embrujadas S07 E03"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E03
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29383.avi
+#EXTINF:-1 tvg-id="Embrujadas S07 E04" tvg-name="Embrujadas S07 E04"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E04
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29384.avi
+#EXTINF:-1 tvg-id="Embrujadas S07 E05" tvg-name="Embrujadas S07 E05"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E05
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29385.avi
+#EXTINF:-1 tvg-id="Embrujadas S07 E06" tvg-name="Embrujadas S07 E06"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E06
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29386.avi
+#EXTINF:-1 tvg-id="Embrujadas S07 E07" tvg-name="Embrujadas S07 E07"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E07
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29387.avi
+#EXTINF:-1 tvg-id="Embrujadas S07 E08" tvg-name="Embrujadas S07 E08"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E08
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29388.avi
+#EXTINF:-1 tvg-id="Embrujadas S07 E09" tvg-name="Embrujadas S07 E09"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E09
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29389.avi
+#EXTINF:-1 tvg-id="Embrujadas S07 E10" tvg-name="Embrujadas S07 E10"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E10
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29390.avi
+#EXTINF:-1 tvg-id="Embrujadas S07 E11" tvg-name="Embrujadas S07 E11"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E11
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29391.mkv
+#EXTINF:-1 tvg-id="Embrujadas S07 E12" tvg-name="Embrujadas S07 E12"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E12
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29392.avi
+#EXTINF:-1 tvg-id="Embrujadas S07 E13" tvg-name="Embrujadas S07 E13"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E13
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29393.avi
+#EXTINF:-1 tvg-id="Embrujadas S07 E14" tvg-name="Embrujadas S07 E14"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E14
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29394.avi
+#EXTINF:-1 tvg-id="Embrujadas S07 E15" tvg-name="Embrujadas S07 E15"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E15
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29395.avi
+#EXTINF:-1 tvg-id="Embrujadas S07 E16" tvg-name="Embrujadas S07 E16"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E16
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29396.avi
+#EXTINF:-1 tvg-id="Embrujadas S07 E17" tvg-name="Embrujadas S07 E17"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E17
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29397.avi
+#EXTINF:-1 tvg-id="Embrujadas S07 E18" tvg-name="Embrujadas S07 E18"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E18
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29398.avi
+#EXTINF:-1 tvg-id="Embrujadas S07 E19" tvg-name="Embrujadas S07 E19"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E19
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29399.avi
+#EXTINF:-1 tvg-id="Embrujadas S07 E20" tvg-name="Embrujadas S07 E20"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E20
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29400.avi
+#EXTINF:-1 tvg-id="Embrujadas S07 E21" tvg-name="Embrujadas S07 E21"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E21
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29401.avi
+#EXTINF:-1 tvg-id="Embrujadas S07 E22" tvg-name="Embrujadas S07 E22"  group-title="SERIES FICCION - FANTASIA",Embrujadas S07 E22
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29402.avi
+#EXTINF:-1 tvg-id="Embrujadas S08 E01" tvg-name="Embrujadas S08 E01"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E01
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29403.avi
+#EXTINF:-1 tvg-id="Embrujadas S08 E02" tvg-name="Embrujadas S08 E02"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E02
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29404.avi
+#EXTINF:-1 tvg-id="Embrujadas S08 E03" tvg-name="Embrujadas S08 E03"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E03
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29405.avi
+#EXTINF:-1 tvg-id="Embrujadas S08 E04" tvg-name="Embrujadas S08 E04"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E04
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29406.avi
+#EXTINF:-1 tvg-id="Embrujadas S08 E05" tvg-name="Embrujadas S08 E05"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E05
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29407.avi
+#EXTINF:-1 tvg-id="Embrujadas S08 E06" tvg-name="Embrujadas S08 E06"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E06
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29408.avi
+#EXTINF:-1 tvg-id="Embrujadas S08 E07" tvg-name="Embrujadas S08 E07"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E07
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29409.avi
+#EXTINF:-1 tvg-id="Embrujadas S08 E08" tvg-name="Embrujadas S08 E08"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E08
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29410.avi
+#EXTINF:-1 tvg-id="Embrujadas S08 E09" tvg-name="Embrujadas S08 E09"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E09
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29411.avi
+#EXTINF:-1 tvg-id="Embrujadas S08 E10" tvg-name="Embrujadas S08 E10"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E10
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29412.avi
+#EXTINF:-1 tvg-id="Embrujadas S08 E11" tvg-name="Embrujadas S08 E11"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E11
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29413.avi
+#EXTINF:-1 tvg-id="Embrujadas S08 E12" tvg-name="Embrujadas S08 E12"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E12
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29414.avi
+#EXTINF:-1 tvg-id="Embrujadas S08 E13" tvg-name="Embrujadas S08 E13"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E13
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29415.avi
+#EXTINF:-1 tvg-id="Embrujadas S08 E14" tvg-name="Embrujadas S08 E14"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E14
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29416.avi
+#EXTINF:-1 tvg-id="Embrujadas S08 E15" tvg-name="Embrujadas S08 E15"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E15
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29417.avi
+#EXTINF:-1 tvg-id="Embrujadas S08 E16" tvg-name="Embrujadas S08 E16"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E16
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29418.avi
+#EXTINF:-1 tvg-id="Embrujadas S08 E17" tvg-name="Embrujadas S08 E17"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E17
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29419.avi
+#EXTINF:-1 tvg-id="Embrujadas S08 E18" tvg-name="Embrujadas S08 E18"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E18
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29420.avi
+#EXTINF:-1 tvg-id="Embrujadas S08 E19" tvg-name="Embrujadas S08 E19"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E19
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29421.avi
+#EXTINF:-1 tvg-id="Embrujadas S08 E20" tvg-name="Embrujadas S08 E20"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E20
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29422.avi
+#EXTINF:-1 tvg-id="Embrujadas S08 E21" tvg-name="Embrujadas S08 E21"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E21
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29423.avi
+#EXTINF:-1 tvg-id="Embrujadas S08 E22" tvg-name="Embrujadas S08 E22"  group-title="SERIES FICCION - FANTASIA",Embrujadas S08 E22
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/29424.avi
 #EXTINF:-1 tvg-id="Marvel's Capa y Punal S01 E01" tvg-name="Marvel's Capa y Punal S01 E01"  group-title="SERIES FICCION - FANTASIA",Marvel's Capa y Punal S01 E01
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/12307.mkv
 #EXTINF:-1 tvg-id="Marvel's Capa y Punal S01 E02" tvg-name="Marvel's Capa y Punal S01 E02"  group-title="SERIES FICCION - FANTASIA",Marvel's Capa y Punal S01 E02
@@ -24833,44 +25327,6 @@ http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/16483.mkv
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/16484.mkv
 #EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S01 E07" tvg-name="El escritor fantasma (Ghostwriter) S01 E07"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S01 E07
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/16485.mkv
-#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S01 E08" tvg-name="El escritor fantasma (Ghostwriter) S01 E08"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S01 E08
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51512.mkv
-#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S01 E09" tvg-name="El escritor fantasma (Ghostwriter) S01 E09"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S01 E09
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51513.mkv
-#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S01 E10" tvg-name="El escritor fantasma (Ghostwriter) S01 E10"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S01 E10
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51514.mkv
-#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S01 E11" tvg-name="El escritor fantasma (Ghostwriter) S01 E11"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S01 E11
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51515.mkv
-#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S01 E12" tvg-name="El escritor fantasma (Ghostwriter) S01 E12"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S01 E12
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51516.mkv
-#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S01 E13" tvg-name="El escritor fantasma (Ghostwriter) S01 E13"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S01 E13
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51517.mkv
-#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S02 E01" tvg-name="El escritor fantasma (Ghostwriter) S02 E01"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S02 E01
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51518.mkv
-#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S02 E02" tvg-name="El escritor fantasma (Ghostwriter) S02 E02"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S02 E02
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51519.mkv
-#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S02 E03" tvg-name="El escritor fantasma (Ghostwriter) S02 E03"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S02 E03
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51520.mkv
-#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S02 E04" tvg-name="El escritor fantasma (Ghostwriter) S02 E04"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S02 E04
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51521.mkv
-#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S02 E05" tvg-name="El escritor fantasma (Ghostwriter) S02 E05"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S02 E05
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51522.mkv
-#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S02 E06" tvg-name="El escritor fantasma (Ghostwriter) S02 E06"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S02 E06
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51523.mkv
-#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S02 E07" tvg-name="El escritor fantasma (Ghostwriter) S02 E07"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S02 E07
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51524.mkv
-#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S02 E08" tvg-name="El escritor fantasma (Ghostwriter) S02 E08"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S02 E08
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51525.mkv
-#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S02 E09" tvg-name="El escritor fantasma (Ghostwriter) S02 E09"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S02 E09
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51526.mkv
-#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S02 E10" tvg-name="El escritor fantasma (Ghostwriter) S02 E10"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S02 E10
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51527.mkv
-#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S02 E11" tvg-name="El escritor fantasma (Ghostwriter) S02 E11"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S02 E11
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51528.mkv
-#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S02 E12" tvg-name="El escritor fantasma (Ghostwriter) S02 E12"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S02 E12
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51529.mkv
-#EXTINF:-1 tvg-id="El escritor fantasma (Ghostwriter) S02 E13" tvg-name="El escritor fantasma (Ghostwriter) S02 E13"  group-title="SERIES FICCION - FANTASIA",El escritor fantasma (Ghostwriter) S02 E13
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51530.mkv
 #EXTINF:-1 tvg-id="Carnival Row S01 E01" tvg-name="Carnival Row S01 E01"  group-title="SERIES FICCION - FANTASIA",Carnival Row S01 E01
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/19460.mkv
 #EXTINF:-1 tvg-id="Carnival Row S01 E02" tvg-name="Carnival Row S01 E02"  group-title="SERIES FICCION - FANTASIA",Carnival Row S01 E02
@@ -27519,78 +27975,6 @@ http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/20541.mkv
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/20542.mkv
 #EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S01 E13" tvg-name="El bebe jefazo Vuelta al curro S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3FkAPqaH658yafCEEhBSZ3Abr7v.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S01 E13
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/20543.mkv
-#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S02 E01" tvg-name="El bebe jefazo Vuelta al curro S02 E01" tvg-logo="http://xdgo.live:8080/images/3b5aeffedaf6dabe4680f827fc6d8bdf.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S02 E01
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51422.mkv
-#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S02 E02" tvg-name="El bebe jefazo Vuelta al curro S02 E02" tvg-logo="http://xdgo.live:8080/images/a42a582f160cbda8a412dfe1280bee52.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S02 E02
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51423.mkv
-#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S02 E03" tvg-name="El bebe jefazo Vuelta al curro S02 E03" tvg-logo="http://xdgo.live:8080/images/c51257b159438c83ea30708db18a7033.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S02 E03
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51424.mkv
-#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S02 E04" tvg-name="El bebe jefazo Vuelta al curro S02 E04" tvg-logo="http://xdgo.live:8080/images/d9ea2c42e33addc7f5aa235e7015bfb5.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S02 E04
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51425.mkv
-#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S02 E05" tvg-name="El bebe jefazo Vuelta al curro S02 E05" tvg-logo="http://xdgo.live:8080/images/3b10f3bcd44081ba5214e7a8f3d37398.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S02 E05
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51426.mkv
-#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S02 E06" tvg-name="El bebe jefazo Vuelta al curro S02 E06" tvg-logo="http://xdgo.live:8080/images/0b5da6766f6dbc7c2a83e03d4f0348f9.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S02 E06
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51427.mkv
-#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S02 E07" tvg-name="El bebe jefazo Vuelta al curro S02 E07" tvg-logo="http://xdgo.live:8080/images/ed8b75758bcab65401d8faccca80f2f6.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S02 E07
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51428.mkv
-#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S02 E08" tvg-name="El bebe jefazo Vuelta al curro S02 E08" tvg-logo="http://xdgo.live:8080/images/a3ab4925f721fd2c047fb099472ce483.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S02 E08
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51429.mkv
-#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S02 E09" tvg-name="El bebe jefazo Vuelta al curro S02 E09" tvg-logo="http://xdgo.live:8080/images/96b05023d582751ebf9481c24225cd23.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S02 E09
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51430.mkv
-#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S02 E10" tvg-name="El bebe jefazo Vuelta al curro S02 E10" tvg-logo="http://xdgo.live:8080/images/3037a6804a5ae66eb1ef993fe8dd766a.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S02 E10
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51431.mkv
-#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S02 E11" tvg-name="El bebe jefazo Vuelta al curro S02 E11" tvg-logo="http://xdgo.live:8080/images/6e59ee640d37ccbbba32cab69e621ca7.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S02 E11
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51432.mkv
-#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S02 E12" tvg-name="El bebe jefazo Vuelta al curro S02 E12" tvg-logo="http://xdgo.live:8080/images/2087805f6c4f183ac02d19843a89c645.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S02 E12
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51433.mkv
-#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S02 E13" tvg-name="El bebe jefazo Vuelta al curro S02 E13" tvg-logo="http://xdgo.live:8080/images/8e164454f132dcb4a7ec784af4f863be.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S02 E13
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51434.mkv
-#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S03 E01" tvg-name="El bebe jefazo Vuelta al curro S03 E01" tvg-logo="http://xdgo.live:8080/images/50a1d1ad92b98ddb86a470f0dd837376.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S03 E01
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51435.mkv
-#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S03 E02" tvg-name="El bebe jefazo Vuelta al curro S03 E02" tvg-logo="http://xdgo.live:8080/images/330ab10eace3d4349fbf3864ea607bf8.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S03 E02
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51436.mkv
-#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S03 E03" tvg-name="El bebe jefazo Vuelta al curro S03 E03" tvg-logo="http://xdgo.live:8080/images/12a1e371c8235439595c8796c2b945fb.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S03 E03
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51437.mkv
-#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S03 E04" tvg-name="El bebe jefazo Vuelta al curro S03 E04" tvg-logo="http://xdgo.live:8080/images/e90444485c29ea4cb92a6d3e29d81647.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S03 E04
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51438.mkv
-#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S03 E05" tvg-name="El bebe jefazo Vuelta al curro S03 E05" tvg-logo="http://xdgo.live:8080/images/795843c316b8e2b6756349db5cdcd60e.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S03 E05
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51439.mkv
-#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S03 E06" tvg-name="El bebe jefazo Vuelta al curro S03 E06" tvg-logo="http://xdgo.live:8080/images/90e792f82f223f435defd7e79e849b71.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S03 E06
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51440.mkv
-#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S03 E07" tvg-name="El bebe jefazo Vuelta al curro S03 E07" tvg-logo="http://xdgo.live:8080/images/ae1f373c35ec8374514fb3391206e238.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S03 E07
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51441.mkv
-#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S03 E08" tvg-name="El bebe jefazo Vuelta al curro S03 E08" tvg-logo="http://xdgo.live:8080/images/75acca24039a21148a9daa1c5189f8e2.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S03 E08
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51442.mkv
-#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S03 E09" tvg-name="El bebe jefazo Vuelta al curro S03 E09" tvg-logo="http://xdgo.live:8080/images/f2c8101be30f71f9be74cc5eaa6a7656.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S03 E09
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51443.mkv
-#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S03 E10" tvg-name="El bebe jefazo Vuelta al curro S03 E10" tvg-logo="http://xdgo.live:8080/images/eba253297f628fc3dff0f3144bc19b69.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S03 E10
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51444.mkv
-#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S03 E11" tvg-name="El bebe jefazo Vuelta al curro S03 E11" tvg-logo="http://xdgo.live:8080/images/d53639dbe9d6881fa38fd790d519b032.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S03 E11
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51445.mkv
-#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S04 E01" tvg-name="El bebe jefazo Vuelta al curro S04 E01" tvg-logo="http://xdgo.live:8080/images/86170f597d3baf1f2bb8ab0f9db2df8f.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S04 E01
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51446.mkv
-#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S04 E02" tvg-name="El bebe jefazo Vuelta al curro S04 E02" tvg-logo="http://xdgo.live:8080/images/ba78d003e4a799260b64dd7ec549faf2.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S04 E02
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51447.mkv
-#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S04 E03" tvg-name="El bebe jefazo Vuelta al curro S04 E03" tvg-logo="http://xdgo.live:8080/images/50e154e00faf3542282343c14262ea23.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S04 E03
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51448.mkv
-#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S04 E04" tvg-name="El bebe jefazo Vuelta al curro S04 E04" tvg-logo="http://xdgo.live:8080/images/46482f06b1e97e4b4b40fd93111c862f.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S04 E04
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51449.mkv
-#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S04 E05" tvg-name="El bebe jefazo Vuelta al curro S04 E05" tvg-logo="http://xdgo.live:8080/images/8fa8cb57b5baeb3b326ed87d3d38ed02.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S04 E05
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51450.mkv
-#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S04 E06" tvg-name="El bebe jefazo Vuelta al curro S04 E06" tvg-logo="http://xdgo.live:8080/images/3e6efd90ed3cb08844cfdb3eeb10a535.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S04 E06
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51451.mkv
-#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S04 E07" tvg-name="El bebe jefazo Vuelta al curro S04 E07" tvg-logo="http://xdgo.live:8080/images/6640a4e1a968445efd41c520d58e4eec.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S04 E07
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51452.mkv
-#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S04 E08" tvg-name="El bebe jefazo Vuelta al curro S04 E08" tvg-logo="http://xdgo.live:8080/images/21285888427602de7da779496dfde88d.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S04 E08
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51453.mkv
-#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S04 E09" tvg-name="El bebe jefazo Vuelta al curro S04 E09" tvg-logo="http://xdgo.live:8080/images/10d5cf3877810030f27df828a32a1851.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S04 E09
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51454.mkv
-#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S04 E10" tvg-name="El bebe jefazo Vuelta al curro S04 E10" tvg-logo="http://xdgo.live:8080/images/5d384c81d924e348942627ee7f092ff0.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S04 E10
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51455.mkv
-#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S04 E11" tvg-name="El bebe jefazo Vuelta al curro S04 E11" tvg-logo="http://xdgo.live:8080/images/940d4a6d842b23454641e874f236f23d.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S04 E11
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51456.mkv
-#EXTINF:-1 tvg-id="El bebe jefazo Vuelta al curro S04 E12" tvg-name="El bebe jefazo Vuelta al curro S04 E12" tvg-logo="http://xdgo.live:8080/images/c9c8ed1f52dc28860f46f54aca869346.jpg" group-title="SERIES INFANTILES",El bebe jefazo Vuelta al curro S04 E12
-http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/51457.mkv
 #EXTINF:-1 tvg-id="Los Picapiedra S01 E01" tvg-name="Los Picapiedra S01 E01" tvg-logo="http://xdgo.live:8080/images/802f56af1ab121f9344cb963ef5a384b.jpg" group-title="SERIES INFANTILES",Los Picapiedra S01 E01
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/20544.avi
 #EXTINF:-1 tvg-id="Los Picapiedra S01 E02" tvg-name="Los Picapiedra S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKqY1scWpBiWbQuDq3zKLteauNF.jpg" group-title="SERIES INFANTILES",Los Picapiedra S01 E02
@@ -28527,44 +28911,10 @@ http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/41776.mkv
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/42114.mkv
 #EXTINF:-1 tvg-id="WandaVision S01 E09" tvg-name="WandaVision S01 E09"  group-title="WANDAVISION",WandaVision S01 E09
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/42412.mkv
-#EXTINF:-1 tvg-id="Jolt (Impacto) (2021)" tvg-name="Jolt (Impacto) (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYZAHan5CHPFXORpQMvOjCTug4E.jpg" group-title="VFLIX ESTRENOS",Jolt (Impacto) (2021)
-http://xdgo.live:8080/movie/49_vAngelapaisa_c/Ppv9GFEHxD/51803.mkv
-#EXTINF:-1 tvg-id="La última carta de amor (2021)" tvg-name="La última carta de amor (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDKK51YdOfu9pTmSRw7sHUhGFxm.jpg" group-title="VFLIX ESTRENOS",La última carta de amor (2021)
-http://xdgo.live:8080/movie/49_vAngelapaisa_c/Ppv9GFEHxD/51806.mkv
-#EXTINF:-1 tvg-id="Fondeados (2021)" tvg-name="Fondeados (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jWIHh4nsUbT5Z7a0E51ZnEBE2lG.jpg" group-title="VFLIX ESTRENOS",Fondeados (2021)
-http://xdgo.live:8080/movie/49_vAngelapaisa_c/Ppv9GFEHxD/51801.mkv
-#EXTINF:-1 tvg-id="Cielo rojo sangre (2021)" tvg-name="Cielo rojo sangre (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ky8Fua6PD7FyyOA7JACh3GDETli.jpg" group-title="VFLIX ESTRENOS",Cielo rojo sangre (2021)
-http://xdgo.live:8080/movie/49_vAngelapaisa_c/Ppv9GFEHxD/51802.mkv
-#EXTINF:-1 tvg-id="Kingdom: La historia de Ashin (2021)" tvg-name="Kingdom: La historia de Ashin (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbnPTn7XNRUAD33YPbwAPDTHG3r.jpg" group-title="VFLIX ESTRENOS",Kingdom: La historia de Ashin (2021)
-http://xdgo.live:8080/movie/49_vAngelapaisa_c/Ppv9GFEHxD/51804.mkv
-#EXTINF:-1 tvg-id="Playing with Sharks (2021)" tvg-name="Playing with Sharks (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sChTuxwVuajaoctBBfMcGoaWoru.jpg" group-title="VFLIX ESTRENOS",Playing with Sharks (2021)
-http://xdgo.live:8080/movie/49_vAngelapaisa_c/Ppv9GFEHxD/51805.mkv
-#EXTINF:-1 tvg-id="El traficante (2021)" tvg-name="El traficante (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VKxWwVew6oCyYJVPN8RHtWg98r.jpg" group-title="VFLIX ESTRENOS",El traficante (2021)
-http://xdgo.live:8080/movie/49_vAngelapaisa_c/Ppv9GFEHxD/51608.mkv
-#EXTINF:-1 tvg-id="Morir en un tiroteo (2021)" tvg-name="Morir en un tiroteo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/byXLJZq5vfveYdAWaC4uMtojsWj.jpg" group-title="VFLIX ESTRENOS",Morir en un tiroteo (2021)
-http://xdgo.live:8080/movie/49_vAngelapaisa_c/Ppv9GFEHxD/51609.mkv
-#EXTINF:-1 tvg-id="El exorcismo de Carmen Farías (2021)" tvg-name="El exorcismo de Carmen Farías (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wjtOLYF87BuXQeznkuSUcgNQ12U.jpg" group-title="VFLIX ESTRENOS",El exorcismo de Carmen Farías (2021)
-http://xdgo.live:8080/movie/49_vAngelapaisa_c/Ppv9GFEHxD/51610.mkv
-#EXTINF:-1 tvg-id="Gintama: The Final (2021)" tvg-name="Gintama: The Final (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikTmjGDSXWlPRsNZ3AvnBR3Pry8.jpg" group-title="VFLIX ESTRENOS",Gintama: The Final (2021)
-http://xdgo.live:8080/movie/49_vAngelapaisa_c/Ppv9GFEHxD/51611.mkv
-#EXTINF:-1 tvg-id="Tiburón blanco (2021)" tvg-name="Tiburón blanco (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1qKnA83dtRaocubZx353j8qQje.jpg" group-title="VFLIX ESTRENOS",Tiburón blanco (2021)
-http://xdgo.live:8080/movie/49_vAngelapaisa_c/Ppv9GFEHxD/51612.mkv
-#EXTINF:-1 tvg-id="Midnight in the Switchgrass (2021)" tvg-name="Midnight in the Switchgrass (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1OTSuh2HNcTRfme8caU8DjgJ39K.jpg" group-title="VFLIX ESTRENOS",Midnight in the Switchgrass (2021)
-http://xdgo.live:8080/movie/49_vAngelapaisa_c/Ppv9GFEHxD/51613.mkv
-#EXTINF:-1 tvg-id="La Purga: Infinita (2021)" tvg-name="La Purga: Infinita (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2t07ky5WFRiI0bXLRIQCjalNkj.jpg" group-title="VFLIX ESTRENOS",La Purga: Infinita (2021)
-http://xdgo.live:8080/movie/49_vAngelapaisa_c/Ppv9GFEHxD/51615.mkv
-#EXTINF:-1 tvg-id="Y al séptimo día (2021)" tvg-name="Y al séptimo día (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtt2dfMdmlCcgaJZkPPQsIY5oR6.jpg" group-title="VFLIX ESTRENOS",Y al séptimo día (2021)
-http://xdgo.live:8080/movie/49_vAngelapaisa_c/Ppv9GFEHxD/51616.mkv
-#EXTINF:-1 tvg-id="Trollhunters: El despertar de los titanes (2021)" tvg-name="Trollhunters: El despertar de los titanes (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvUNFeTz0Sssb210wSiIiHRjA4W.jpg" group-title="VFLIX ESTRENOS",Trollhunters: El despertar de los titanes (2021)
-http://xdgo.live:8080/movie/49_vAngelapaisa_c/Ppv9GFEHxD/51617.mkv
-#EXTINF:-1 tvg-id="Cider no You ni Kotoba ga Wakiagaru (2021)" tvg-name="Cider no You ni Kotoba ga Wakiagaru (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioj55UtUAJgryvGim67w9B3NhA6.jpg" group-title="VFLIX ESTRENOS",Cider no You ni Kotoba ga Wakiagaru (2021)
-http://xdgo.live:8080/movie/49_vAngelapaisa_c/Ppv9GFEHxD/51618.mkv
-#EXTINF:-1 tvg-id="Inmune (2020)" tvg-name="Inmune (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9pKj3Awn5SThyHRkpprwHpRbe9Q.jpg" group-title="VFLIX ESTRENOS",Inmune (2020)
-http://xdgo.live:8080/movie/49_vAngelapaisa_c/Ppv9GFEHxD/51614.mkv
-#EXTINF:-1 tvg-id="La Otra Cara de La Guerra (2019)" tvg-name="La Otra Cara de La Guerra (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVLXwfawIYdGhwU6IJ2soO0gdLC.jpg" group-title="VFLIX ESTRENOS",La Otra Cara de La Guerra (2019)
-http://xdgo.live:8080/movie/49_vAngelapaisa_c/Ppv9GFEHxD/51607.mkv
 #EXTINF:-1 tvg-id="Pig (2021)" tvg-name="Pig (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFgybTip4QOWa8Jd9zIDCrmW3xO.jpg" group-title="VFLIX ESTRENOS",Pig (2021)
 http://xdgo.live:8080/movie/49_vAngelapaisa_c/Ppv9GFEHxD/50028.mkv
+#EXTINF:-1 tvg-id="La Purga: Infinita (2021)" tvg-name="La Purga: Infinita (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yvawJviOjb2nUFvHGXcCpGVTqy.jpg" group-title="VFLIX ESTRENOS",La Purga: Infinita (2021)
+http://xdgo.live:8080/movie/49_vAngelapaisa_c/Ppv9GFEHxD/50029.mkv
 #EXTINF:-1 tvg-id="Despierta la furia (2021)" tvg-name="Despierta la furia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/emM894kjspdQsHyTAF7sjRNlbTr.jpg" group-title="VFLIX ESTRENOS",Despierta la furia (2021)
 http://xdgo.live:8080/movie/49_vAngelapaisa_c/Ppv9GFEHxD/50030.mkv
 #EXTINF:-1 tvg-id="Space Jam 2: Una nueva era (2021)" tvg-name="Space Jam 2: Una nueva era (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHDF2320SbWDTP1FMZ8LgEIHew2.jpg" group-title="VFLIX ESTRENOS",Space Jam 2: Una nueva era (2021)
@@ -28619,8 +28969,6 @@ http://xdgo.live:8080/movie/49_vAngelapaisa_c/Ppv9GFEHxD/49518.mkv
 http://xdgo.live:8080/movie/49_vAngelapaisa_c/Ppv9GFEHxD/49519.mkv
 #EXTINF:-1 tvg-id="Seve (2021)" tvg-name="Seve (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnbmx93GzJeb2Q2KlbrszvwtYlT.jpg" group-title="VFLIX ESTRENOS",Seve (2021)
 http://xdgo.live:8080/movie/49_vAngelapaisa_c/Ppv9GFEHxD/49520.mkv
-#EXTINF:-1 tvg-id="Los Simpson: La buena el malo y Loki (2021)" tvg-name="Los Simpson: La buena el malo y Loki (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u10ZfFwbCMB4UrFy7OlHq08fBRr.jpg" group-title="VFLIX ESTRENOS",Los Simpson: La buena el malo y Loki (2021)
-http://xdgo.live:8080/movie/49_vAngelapaisa_c/Ppv9GFEHxD/49521.mkv
 #EXTINF:-1 tvg-id="El hombre agua (2020)" tvg-name="El hombre agua (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/krupbFlSTnnKIjpRryrg2CTdeIL.jpg" group-title="VFLIX ESTRENOS",El hombre agua (2020)
 http://xdgo.live:8080/movie/49_vAngelapaisa_c/Ppv9GFEHxD/49522.mkv
 #EXTINF:-1 tvg-id="La magia de la Isla (2021)" tvg-name="La magia de la Isla (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZaXFQkLsyty136SBJJ2PKuTKEb.jpg" group-title="VFLIX ESTRENOS",La magia de la Isla (2021)
