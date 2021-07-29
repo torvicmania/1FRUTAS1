@@ -429,10 +429,14 @@ http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/29594
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/30425
 #EXTINF:-1 tvg-id="ESPN SUR HD" tvg-name="ESPN SUR HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN SUR HD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/1858
-#EXTINF:-1 tvg-id="ESPN SUR HD op2" tvg-name="ESPN SUR HD op2" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN SUR HD op2
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/47915
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="ESPN SUR FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN SUR FHD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/1861
+#EXTINF:-1 tvg-id="ESPN AR HQ" tvg-name="ESPN AR HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN AR HQ
+http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52033
+#EXTINF:-1 tvg-id="ESPN AR HD" tvg-name="ESPN AR HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN AR HD
+http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/47915
+#EXTINF:-1 tvg-id="ESPN AR HD op2" tvg-name="ESPN AR HD op2" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN AR HD op2
+http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52032
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="ESPN MX HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN MX HQ
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/1797
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="ESPN MX HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN MX HD
@@ -3669,6 +3673,8 @@ http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/30351
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/30350
 #EXTINF:-1 tvg-id="Univision West" tvg-name="Univision West" tvg-logo="" group-title="USA LATINO",Univision West
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/385
+#EXTINF:-1 tvg-id="Fast & Furious 9 4K (2021)" tvg-name="Fast & Furious 9 4K (2021)"  group-title="VFLIX 4K",Fast & Furious 9 4K (2021)
+http://tv.xdgo.live:8080/movie/22_vPaolaRami_g/BXj9OkcgaQ/52066.mkv
 #EXTINF:-1 tvg-id="Godzilla vs. Kong (2021) 4K" tvg-name="Godzilla vs. Kong (2021) 4K"  group-title="VFLIX 4K",Godzilla vs. Kong (2021) 4K
 http://tv.xdgo.live:8080/movie/22_vPaolaRami_g/BXj9OkcgaQ/46140.mkv
 #EXTINF:-1 tvg-id="Mortal Kombat (2021) 4K" tvg-name="Mortal Kombat (2021) 4K"  group-title="VFLIX 4K",Mortal Kombat (2021) 4K
@@ -21555,6 +21561,18 @@ http://tv.xdgo.live:8080/series/22_vPaolaRami_g/BXj9OkcgaQ/40180.mkv
 http://tv.xdgo.live:8080/series/22_vPaolaRami_g/BXj9OkcgaQ/40181.mkv
 #EXTINF:-1 tvg-id="Como vender drogas online (a toda pastilla) S02 E06" tvg-name="Como vender drogas online (a toda pastilla) S02 E06"  group-title="SERIES DRAMA",Como vender drogas online (a toda pastilla) S02 E06
 http://tv.xdgo.live:8080/series/22_vPaolaRami_g/BXj9OkcgaQ/40182.mkv
+#EXTINF:-1 tvg-id="Como vender drogas online (a toda pastilla) S03 E01" tvg-name="Como vender drogas online (a toda pastilla) S03 E01"  group-title="SERIES DRAMA",Como vender drogas online (a toda pastilla) S03 E01
+http://tv.xdgo.live:8080/series/22_vPaolaRami_g/BXj9OkcgaQ/52024.mkv
+#EXTINF:-1 tvg-id="Como vender drogas online (a toda pastilla) S03 E02" tvg-name="Como vender drogas online (a toda pastilla) S03 E02"  group-title="SERIES DRAMA",Como vender drogas online (a toda pastilla) S03 E02
+http://tv.xdgo.live:8080/series/22_vPaolaRami_g/BXj9OkcgaQ/52025.mkv
+#EXTINF:-1 tvg-id="Como vender drogas online (a toda pastilla) S03 E03" tvg-name="Como vender drogas online (a toda pastilla) S03 E03"  group-title="SERIES DRAMA",Como vender drogas online (a toda pastilla) S03 E03
+http://tv.xdgo.live:8080/series/22_vPaolaRami_g/BXj9OkcgaQ/52026.mkv
+#EXTINF:-1 tvg-id="Como vender drogas online (a toda pastilla) S03 E04" tvg-name="Como vender drogas online (a toda pastilla) S03 E04"  group-title="SERIES DRAMA",Como vender drogas online (a toda pastilla) S03 E04
+http://tv.xdgo.live:8080/series/22_vPaolaRami_g/BXj9OkcgaQ/52027.mkv
+#EXTINF:-1 tvg-id="Como vender drogas online (a toda pastilla) S03 E05" tvg-name="Como vender drogas online (a toda pastilla) S03 E05"  group-title="SERIES DRAMA",Como vender drogas online (a toda pastilla) S03 E05
+http://tv.xdgo.live:8080/series/22_vPaolaRami_g/BXj9OkcgaQ/52028.mkv
+#EXTINF:-1 tvg-id="Como vender drogas online (a toda pastilla) S03 E06" tvg-name="Como vender drogas online (a toda pastilla) S03 E06"  group-title="SERIES DRAMA",Como vender drogas online (a toda pastilla) S03 E06
+http://tv.xdgo.live:8080/series/22_vPaolaRami_g/BXj9OkcgaQ/52029.mkv
 #EXTINF:-1 tvg-id="Gambito de reina S01 E01" tvg-name="Gambito de reina S01 E01"  group-title="SERIES DRAMA",Gambito de reina S01 E01
 http://tv.xdgo.live:8080/series/22_vPaolaRami_g/BXj9OkcgaQ/40183.mkv
 #EXTINF:-1 tvg-id="Gambito de reina S01 E02" tvg-name="Gambito de reina S01 E02"  group-title="SERIES DRAMA",Gambito de reina S01 E02
@@ -28441,6 +28459,12 @@ http://tv.xdgo.live:8080/series/22_vPaolaRami_g/BXj9OkcgaQ/41776.mkv
 http://tv.xdgo.live:8080/series/22_vPaolaRami_g/BXj9OkcgaQ/42114.mkv
 #EXTINF:-1 tvg-id="WandaVision S01 E09" tvg-name="WandaVision S01 E09"  group-title="WANDAVISION",WandaVision S01 E09
 http://tv.xdgo.live:8080/series/22_vPaolaRami_g/BXj9OkcgaQ/42412.mkv
+#EXTINF:-1 tvg-id="Fast & Furious 9 (2021)" tvg-name="Fast & Furious 9 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIyqWTuf6NouKphVlxzbv9pblxQ.jpg" group-title="VFLIX ESTRENOS",Fast & Furious 9 (2021)
+http://tv.xdgo.live:8080/movie/22_vPaolaRami_g/BXj9OkcgaQ/52065.mkv
+#EXTINF:-1 tvg-id="Teen Titans Go! See Space Jam (2021)" tvg-name="Teen Titans Go! See Space Jam (2021)" tvg-logo="http://xdgo.live:8080/images/87d8fa7ae3682bb796178f6b073e684f.jpg" group-title="VFLIX ESTRENOS",Teen Titans Go! See Space Jam (2021)
+http://tv.xdgo.live:8080/movie/22_vPaolaRami_g/BXj9OkcgaQ/52031.mkv
+#EXTINF:-1 tvg-id="Batman: El Largo Halloween Parte 1 (2021)" tvg-name="Batman: El Largo Halloween Parte 1 (2021)" tvg-logo="http://xdgo.live:8080/images/fc7e046507fc978d2f1adb128dd16dc2.jpg" group-title="VFLIX ESTRENOS",Batman: El Largo Halloween Parte 1 (2021)
+http://tv.xdgo.live:8080/movie/22_vPaolaRami_g/BXj9OkcgaQ/52030.mkv
 #EXTINF:-1 tvg-id="Jolt (Impacto) (2021)" tvg-name="Jolt (Impacto) (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYZAHan5CHPFXORpQMvOjCTug4E.jpg" group-title="VFLIX ESTRENOS",Jolt (Impacto) (2021)
 http://tv.xdgo.live:8080/movie/22_vPaolaRami_g/BXj9OkcgaQ/51803.mkv
 #EXTINF:-1 tvg-id="La última carta de amor (2021)" tvg-name="La última carta de amor (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDKK51YdOfu9pTmSRw7sHUhGFxm.jpg" group-title="VFLIX ESTRENOS",La última carta de amor (2021)
@@ -28801,8 +28825,6 @@ http://tv.xdgo.live:8080/movie/22_vPaolaRami_g/BXj9OkcgaQ/46730.mkv
 http://tv.xdgo.live:8080/movie/22_vPaolaRami_g/BXj9OkcgaQ/46731.mkv
 #EXTINF:-1 tvg-id="Ruega por nosotros (2021)" tvg-name="Ruega por nosotros (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPoOn553ARmSQl0ChKTlGDvYq9x.jpg" group-title="VFLIX ESTRENOS",Ruega por nosotros (2021)
 http://tv.xdgo.live:8080/movie/22_vPaolaRami_g/BXj9OkcgaQ/46732.mkv
-#EXTINF:-1 tvg-id="Fast & Furious 9  (2021)" tvg-name="Fast & Furious 9  (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg" group-title="VFLIX ESTRENOS",Fast & Furious 9  (2021)
-http://tv.xdgo.live:8080/movie/22_vPaolaRami_g/BXj9OkcgaQ/46652.mkv
 #EXTINF:-1 tvg-id="Ejército de los muertos (2021)" tvg-name="Ejército de los muertos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVXLDoEskRVUl8SaRh2lieY5STg.jpg" group-title="VFLIX ESTRENOS",Ejército de los muertos (2021)
 http://tv.xdgo.live:8080/movie/22_vPaolaRami_g/BXj9OkcgaQ/46642.mkv
 #EXTINF:-1 tvg-id="Entonces Apareciste (2021)" tvg-name="Entonces Apareciste (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxECW0qUol2pxI2ycRzIDPYO43t.jpg" group-title="VFLIX ESTRENOS",Entonces Apareciste (2021)
