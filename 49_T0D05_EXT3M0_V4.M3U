@@ -429,10 +429,14 @@ http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/29594
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/30425
 #EXTINF:-1 tvg-id="ESPN SUR HD" tvg-name="ESPN SUR HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN SUR HD
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/1858
-#EXTINF:-1 tvg-id="ESPN SUR HD op2" tvg-name="ESPN SUR HD op2" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN SUR HD op2
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/47915
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="ESPN SUR FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN SUR FHD
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/1861
+#EXTINF:-1 tvg-id="ESPN AR HQ" tvg-name="ESPN AR HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN AR HQ
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/52033
+#EXTINF:-1 tvg-id="ESPN AR HD" tvg-name="ESPN AR HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN AR HD
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/47915
+#EXTINF:-1 tvg-id="ESPN AR HD op2" tvg-name="ESPN AR HD op2" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN AR HD op2
+http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/52032
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="ESPN MX HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN MX HQ
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/1797
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="ESPN MX HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN MX HD
@@ -1999,92 +2003,6 @@ http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51683
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51907
 #EXTINF:-1 tvg-id="CLARO SPORTS PPV 4 FHD (Juegos Olimpicos)" tvg-name="CLARO SPORTS PPV 4 FHD (Juegos Olimpicos)"  group-title="EVENTOS PPV",CLARO SPORTS PPV 4 FHD (Juegos Olimpicos)
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51687
-#EXTINF:-1 tvg-id="PPV|| Olympicos Gimnasia artistica 1:00 PM EST ( TELe)" tvg-name="PPV|| Olympicos Gimnasia artistica 1:00 PM EST ( TELe)"  group-title="EVENTOS PPV",PPV|| Olympicos Gimnasia artistica 1:00 PM EST ( TELe)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51910
-#EXTINF:-1 tvg-id="PPV|| Tennis (Pro) Atlanta-ATP Early Rounds 1:30 PM EST ( TNNS)" tvg-name="PPV|| Tennis (Pro) Atlanta-ATP Early Rounds 1:30 PM EST ( TNNS)"  group-title="EVENTOS PPV",PPV|| Tennis (Pro) Atlanta-ATP Early Rounds 1:30 PM EST ( TNNS)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51911
-#EXTINF:-1 tvg-id="PPV|| Olympics Boxing PLUS 4:15 PM EST ( USA)" tvg-name="PPV|| Olympics Boxing PLUS 4:15 PM EST ( USA)" tvg-logo="" group-title="EVENTOS PPV",PPV|| Olympics Boxing PLUS 4:15 PM EST ( USA)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51912
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Atlanta Braves at New York Mets 5:10 PM EST ( MLBN)" tvg-name="PPV|| Baseball (MLB) Atlanta Braves at New York Mets 5:10 PM EST ( MLBN)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Atlanta Braves at New York Mets 5:10 PM EST ( MLBN)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51913
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Washington Nationals at Philadelphia Phillies 7:05 PM EST ( MLB)" tvg-name="PPV|| Baseball (MLB) Washington Nationals at Philadelphia Phillies 7:05 PM EST ( MLB)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Washington Nationals at Philadelphia Phillies 7:05 PM EST ( MLB)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51914
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Toronto Blue Jays at Boston Red Sox 7:10 PM EST ( PPV)" tvg-name="PPV|| Baseball (MLB) Toronto Blue Jays at Boston Red Sox 7:10 PM EST ( PPV)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Toronto Blue Jays at Boston Red Sox 7:10 PM EST ( PPV)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51915
-#EXTINF:-1 tvg-id="PPV|| Soccer (LigaMXF) Leon vs UANL Tigres 8:00 PM EST ( ESPDR)" tvg-name="PPV|| Soccer (LigaMXF) Leon vs UANL Tigres 8:00 PM EST ( ESPDR)"  group-title="EVENTOS PPV",PPV|| Soccer (LigaMXF) Leon vs UANL Tigres 8:00 PM EST ( ESPDR)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51916
-#EXTINF:-1 tvg-id="PPV|| Wrestling WWE Monday Night RAW 8:00 PM EST ( USA)" tvg-name="PPV|| Wrestling WWE Monday Night RAW 8:00 PM EST ( USA)" tvg-logo="" group-title="EVENTOS PPV",PPV|| Wrestling WWE Monday Night RAW 8:00 PM EST ( USA)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51917
-#EXTINF:-1 tvg-id="PPV|| Olympics Beach Volleyball 8:00 PM EST ( CNBC)" tvg-name="PPV|| Olympics Beach Volleyball 8:00 PM EST ( CNBC)"  group-title="EVENTOS PPV",PPV|| Olympics Beach Volleyball 8:00 PM EST ( CNBC)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51918
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Cincinnati Reds at Chicago Cubs 8:05 PM EST ( MLB)" tvg-name="PPV|| Baseball (MLB) Cincinnati Reds at Chicago Cubs 8:05 PM EST ( MLB)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Cincinnati Reds at Chicago Cubs 8:05 PM EST ( MLB)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51919
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Chicago White Sox at Kansas City Royals 8:10 PM EST ( MLB)" tvg-name="PPV|| Baseball (MLB) Chicago White Sox at Kansas City Royals 8:10 PM EST ( MLB)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Chicago White Sox at Kansas City Royals 8:10 PM EST ( MLB)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51920
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Detroit Tigers at Minnesota Twins 8:10 PM EST ( MLB)" tvg-name="PPV|| Baseball (MLB) Detroit Tigers at Minnesota Twins 8:10 PM EST ( MLB)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Detroit Tigers at Minnesota Twins 8:10 PM EST ( MLB)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51921
-#EXTINF:-1 tvg-id="PPV|| Olympics Men's Water Polo U.S. vs. South Africa 9:00 PM EST ( CNBC)" tvg-name="PPV|| Olympics Men's Water Polo U.S. vs. South Africa 9:00 PM EST ( CNBC)"  group-title="EVENTOS PPV",PPV|| Olympics Men's Water Polo U.S. vs. South Africa 9:00 PM EST ( CNBC)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51922
-#EXTINF:-1 tvg-id="PPV|| Soccer (Liga MX) Mazatlan FC at Cruz Azul 9:00 PM EST ( TUDN)" tvg-name="PPV|| Soccer (Liga MX) Mazatlan FC at Cruz Azul 9:00 PM EST ( TUDN)"  group-title="EVENTOS PPV",PPV|| Soccer (Liga MX) Mazatlan FC at Cruz Azul 9:00 PM EST ( TUDN)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51923
-#EXTINF:-1 tvg-id="PPV|| Soccer (LigaMXF) Tijuana vs. Toluca 9:30 PM EST ( ESPDR)" tvg-name="PPV|| Soccer (LigaMXF) Tijuana vs. Toluca 9:30 PM EST ( ESPDR)"  group-title="EVENTOS PPV",PPV|| Soccer (LigaMXF) Tijuana vs. Toluca 9:30 PM EST ( ESPDR)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51924
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Colorado Rockies at LA Angels 9:38 PM EST ( MLB)" tvg-name="PPV|| Baseball (MLB) Colorado Rockies at LA Angels 9:38 PM EST ( MLB)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Colorado Rockies at LA Angels 9:38 PM EST ( MLB)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51925
-#EXTINF:-1 tvg-id="PPV|| Olympics Tennis 10:00 PM EST ( OLYC)" tvg-name="PPV|| Olympics Tennis 10:00 PM EST ( OLYC)"  group-title="EVENTOS PPV",PPV|| Olympics Tennis 10:00 PM EST ( OLYC)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51926
-#EXTINF:-1 tvg-id="PPV|| Olympics Rugby 10:10 PM EST ( CNBC)" tvg-name="PPV|| Olympics Rugby 10:10 PM EST ( CNBC)"  group-title="EVENTOS PPV",PPV|| Olympics Rugby 10:10 PM EST ( CNBC)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51927
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Houston Astros at Seattle Mariners 10:10 PM EST ( MLB)" tvg-name="PPV|| Baseball (MLB) Houston Astros at Seattle Mariners 10:10 PM EST ( MLB)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Houston Astros at Seattle Mariners 10:10 PM EST ( MLB)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51928
-#EXTINF:-1 tvg-id="PPV|| Olympics Beach Volleyball 11:00 PM EST ( USA)" tvg-name="PPV|| Olympics Beach Volleyball 11:00 PM EST ( USA)" tvg-logo="" group-title="EVENTOS PPV",PPV|| Olympics Beach Volleyball 11:00 PM EST ( USA)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51929
-#EXTINF:-1 tvg-id="PPV|| Olympics Fencing, Rowing 11:00 PM EST ( CNBC)" tvg-name="PPV|| Olympics Fencing, Rowing 11:00 PM EST ( CNBC)"  group-title="EVENTOS PPV",PPV|| Olympics Fencing, Rowing 11:00 PM EST ( CNBC)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51930
-#EXTINF:-1 tvg-id="PPV|| Olympics Multi-Sport Coverage (OLYC)" tvg-name="PPV|| Olympics Multi-Sport Coverage (OLYC)"  group-title="EVENTOS PPV",PPV|| Olympics Multi-Sport Coverage (OLYC)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51931
-#EXTINF:-1 tvg-id="PPV|| Tokyo Olympics Multi-Sport Coverage (CNBC)" tvg-name="PPV|| Tokyo Olympics Multi-Sport Coverage (CNBC)"  group-title="EVENTOS PPV",PPV|| Tokyo Olympics Multi-Sport Coverage (CNBC)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51932
-#EXTINF:-1 tvg-id="PPV|| Tokyo Olympics Multi-Sport Coverage (NBCS)" tvg-name="PPV|| Tokyo Olympics Multi-Sport Coverage (NBCS)"  group-title="EVENTOS PPV",PPV|| Tokyo Olympics Multi-Sport Coverage (NBCS)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51933
-#EXTINF:-1 tvg-id="PPV|| Tokyo Olympics Multi-Sport Coverage (NBC)" tvg-name="PPV|| Tokyo Olympics Multi-Sport Coverage (NBC)"  group-title="EVENTOS PPV",PPV|| Tokyo Olympics Multi-Sport Coverage (NBC)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51934
-#EXTINF:-1 tvg-id="PPV|| Tokyo Olympics Multi-Sport Coverage (USA)" tvg-name="PPV|| Tokyo Olympics Multi-Sport Coverage (USA)" tvg-logo="" group-title="EVENTOS PPV",PPV|| Tokyo Olympics Multi-Sport Coverage (USA)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51935
-#EXTINF:-1 tvg-id="PPV|| Tennis (PRO) Atlanta Open 5:00am EST (TNNS)" tvg-name="PPV|| Tennis (PRO) Atlanta Open 5:00am EST (TNNS)"  group-title="EVENTOS PPV",PPV|| Tennis (PRO) Atlanta Open 5:00am EST (TNNS)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51936
-#EXTINF:-1 tvg-id="PPV|| Wrestling (WWE) Monday Night RAW 8:00pm EST (USA)" tvg-name="PPV|| Wrestling (WWE) Monday Night RAW 8:00pm EST (USA)" tvg-logo="" group-title="EVENTOS PPV",PPV|| Wrestling (WWE) Monday Night RAW 8:00pm EST (USA)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51937
-#EXTINF:-1 tvg-id="PPV|| Bull Riding (PBR) Last Cowboy Standing Tour 10:00pm EST (CBSSN)" tvg-name="PPV|| Bull Riding (PBR) Last Cowboy Standing Tour 10:00pm EST (CBSSN)"  group-title="EVENTOS PPV",PPV|| Bull Riding (PBR) Last Cowboy Standing Tour 10:00pm EST (CBSSN)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51938
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Atlanta Braves at New York Mets (Game 1) 5:10pm EST" tvg-name="PPV|| Baseball (MLB) Atlanta Braves at New York Mets (Game 1) 5:10pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Atlanta Braves at New York Mets (Game 1) 5:10pm EST
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51939
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Toronto Blue Jays at Boston Red Sox 7:10pm EST" tvg-name="PPV|| Baseball (MLB) Toronto Blue Jays at Boston Red Sox 7:10pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Toronto Blue Jays at Boston Red Sox 7:10pm EST
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51940
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Washington Nationals at Philadelphia Phillies 7:05pm EST" tvg-name="PPV|| Baseball (MLB) Washington Nationals at Philadelphia Phillies 7:05pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Washington Nationals at Philadelphia Phillies 7:05pm EST
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51941
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Chicago White Sox at Kansas City Royals 8:10pm EST" tvg-name="PPV|| Baseball (MLB) Chicago White Sox at Kansas City Royals 8:10pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Chicago White Sox at Kansas City Royals 8:10pm EST
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51942
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Atlanta Braves at New York Mets (Game 2) 8:10pm EST" tvg-name="PPV|| Baseball (MLB) Atlanta Braves at New York Mets (Game 2) 8:10pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Atlanta Braves at New York Mets (Game 2) 8:10pm EST
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51943
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Cincinnati Reds at Chicago Cubs 8:05pm EST" tvg-name="PPV|| Baseball (MLB) Cincinnati Reds at Chicago Cubs 8:05pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Cincinnati Reds at Chicago Cubs 8:05pm EST
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51944
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Detroit Tigers at Minnesota Twins 8:10pm EST" tvg-name="PPV|| Baseball (MLB) Detroit Tigers at Minnesota Twins 8:10pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Detroit Tigers at Minnesota Twins 8:10pm EST
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51945
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Colorado Rockies at Los Angeles Angels 9:38pm EST" tvg-name="PPV|| Baseball (MLB) Colorado Rockies at Los Angeles Angels 9:38pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Colorado Rockies at Los Angeles Angels 9:38pm EST
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51946
-#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Houston Astros at Seattle Mariners 10:10pm EST" tvg-name="PPV|| Baseball (MLB) Houston Astros at Seattle Mariners 10:10pm EST"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Houston Astros at Seattle Mariners 10:10pm EST
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51947
-#EXTINF:-1 tvg-id="PPV|| Baseball (TUES) San Francisco Giants vs. L.A. Dodgers 9:45 pm EST (MLBN)" tvg-name="PPV|| Baseball (TUES) San Francisco Giants vs. L.A. Dodgers 9:45 pm EST (MLBN)"  group-title="EVENTOS PPV",PPV|| Baseball (TUES) San Francisco Giants vs. L.A. Dodgers 9:45 pm EST (MLBN)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51948
-#EXTINF:-1 tvg-id="PPV|| Baseball (TUES) San Francisco Giants vs. L.A. Dodgers 9:45 pm EST (SNLA)" tvg-name="PPV|| Baseball (TUES) San Francisco Giants vs. L.A. Dodgers 9:45 pm EST (SNLA)"  group-title="EVENTOS PPV",PPV|| Baseball (TUES) San Francisco Giants vs. L.A. Dodgers 9:45 pm EST (SNLA)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51949
-#EXTINF:-1 tvg-id="PPV|| Baseball (TUES) San Francisco Giants vs. L.A. Dodgers 9:45 pm EST (HOME)" tvg-name="PPV|| Baseball (TUES) San Francisco Giants vs. L.A. Dodgers 9:45 pm EST (HOME)"  group-title="EVENTOS PPV",PPV|| Baseball (TUES) San Francisco Giants vs. L.A. Dodgers 9:45 pm EST (HOME)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51950
-#EXTINF:-1 tvg-id="PPV|| Soccer (FRIENDLY) Villarreal vs. Dynamo Kyiv 10:30 am EST (FRIENDLY)" tvg-name="PPV|| Soccer (FRIENDLY) Villarreal vs. Dynamo Kyiv 10:30 am EST (FRIENDLY)"  group-title="EVENTOS PPV",PPV|| Soccer (FRIENDLY) Villarreal vs. Dynamo Kyiv 10:30 am EST (FRIENDLY)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51951
-#EXTINF:-1 tvg-id="PPV|| Soccer (LigaMX) Cruz Azul vs. Mazatlan 9:00 pm EST (LigaMX)" tvg-name="PPV|| Soccer (LigaMX) Cruz Azul vs. Mazatlan 9:00 pm EST (LigaMX)"  group-title="EVENTOS PPV",PPV|| Soccer (LigaMX) Cruz Azul vs. Mazatlan 9:00 pm EST (LigaMX)
-http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/51952
 #EXTINF:-1 tvg-id="GUA Canal 4" tvg-name="GUA VEA CANAL" group-title="GUATEMALA",GUA VEA CANAL
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/2597
 #EXTINF:-1 tvg-id="GUA CANAL 11" tvg-name="GUA CANAL 11" group-title="GUATEMALA",GUA CANAL 11
@@ -3755,6 +3673,8 @@ http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/30351
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/30350
 #EXTINF:-1 tvg-id="Univision West" tvg-name="Univision West" tvg-logo="" group-title="USA LATINO",Univision West
 http://xdgo.live:8080/49_vAngelapaisa_c/Ppv9GFEHxD/385
+#EXTINF:-1 tvg-id="Fast & Furious 9 4K (2021)" tvg-name="Fast & Furious 9 4K (2021)"  group-title="VFLIX 4K",Fast & Furious 9 4K (2021)
+http://xdgo.live:8080/movie/49_vAngelapaisa_c/Ppv9GFEHxD/52066.mkv
 #EXTINF:-1 tvg-id="Godzilla vs. Kong (2021) 4K" tvg-name="Godzilla vs. Kong (2021) 4K"  group-title="VFLIX 4K",Godzilla vs. Kong (2021) 4K
 http://xdgo.live:8080/movie/49_vAngelapaisa_c/Ppv9GFEHxD/46140.mkv
 #EXTINF:-1 tvg-id="Mortal Kombat (2021) 4K" tvg-name="Mortal Kombat (2021) 4K"  group-title="VFLIX 4K",Mortal Kombat (2021) 4K
@@ -21641,6 +21561,18 @@ http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/40180.mkv
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/40181.mkv
 #EXTINF:-1 tvg-id="Como vender drogas online (a toda pastilla) S02 E06" tvg-name="Como vender drogas online (a toda pastilla) S02 E06"  group-title="SERIES DRAMA",Como vender drogas online (a toda pastilla) S02 E06
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/40182.mkv
+#EXTINF:-1 tvg-id="Como vender drogas online (a toda pastilla) S03 E01" tvg-name="Como vender drogas online (a toda pastilla) S03 E01"  group-title="SERIES DRAMA",Como vender drogas online (a toda pastilla) S03 E01
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/52024.mkv
+#EXTINF:-1 tvg-id="Como vender drogas online (a toda pastilla) S03 E02" tvg-name="Como vender drogas online (a toda pastilla) S03 E02"  group-title="SERIES DRAMA",Como vender drogas online (a toda pastilla) S03 E02
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/52025.mkv
+#EXTINF:-1 tvg-id="Como vender drogas online (a toda pastilla) S03 E03" tvg-name="Como vender drogas online (a toda pastilla) S03 E03"  group-title="SERIES DRAMA",Como vender drogas online (a toda pastilla) S03 E03
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/52026.mkv
+#EXTINF:-1 tvg-id="Como vender drogas online (a toda pastilla) S03 E04" tvg-name="Como vender drogas online (a toda pastilla) S03 E04"  group-title="SERIES DRAMA",Como vender drogas online (a toda pastilla) S03 E04
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/52027.mkv
+#EXTINF:-1 tvg-id="Como vender drogas online (a toda pastilla) S03 E05" tvg-name="Como vender drogas online (a toda pastilla) S03 E05"  group-title="SERIES DRAMA",Como vender drogas online (a toda pastilla) S03 E05
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/52028.mkv
+#EXTINF:-1 tvg-id="Como vender drogas online (a toda pastilla) S03 E06" tvg-name="Como vender drogas online (a toda pastilla) S03 E06"  group-title="SERIES DRAMA",Como vender drogas online (a toda pastilla) S03 E06
+http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/52029.mkv
 #EXTINF:-1 tvg-id="Gambito de reina S01 E01" tvg-name="Gambito de reina S01 E01"  group-title="SERIES DRAMA",Gambito de reina S01 E01
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/40183.mkv
 #EXTINF:-1 tvg-id="Gambito de reina S01 E02" tvg-name="Gambito de reina S01 E02"  group-title="SERIES DRAMA",Gambito de reina S01 E02
@@ -28527,6 +28459,12 @@ http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/41776.mkv
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/42114.mkv
 #EXTINF:-1 tvg-id="WandaVision S01 E09" tvg-name="WandaVision S01 E09"  group-title="WANDAVISION",WandaVision S01 E09
 http://xdgo.live:8080/series/49_vAngelapaisa_c/Ppv9GFEHxD/42412.mkv
+#EXTINF:-1 tvg-id="Fast & Furious 9 (2021)" tvg-name="Fast & Furious 9 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIyqWTuf6NouKphVlxzbv9pblxQ.jpg" group-title="VFLIX ESTRENOS",Fast & Furious 9 (2021)
+http://xdgo.live:8080/movie/49_vAngelapaisa_c/Ppv9GFEHxD/52065.mkv
+#EXTINF:-1 tvg-id="Teen Titans Go! See Space Jam (2021)" tvg-name="Teen Titans Go! See Space Jam (2021)" tvg-logo="http://xdgo.live:8080/images/87d8fa7ae3682bb796178f6b073e684f.jpg" group-title="VFLIX ESTRENOS",Teen Titans Go! See Space Jam (2021)
+http://xdgo.live:8080/movie/49_vAngelapaisa_c/Ppv9GFEHxD/52031.mkv
+#EXTINF:-1 tvg-id="Batman: El Largo Halloween Parte 1 (2021)" tvg-name="Batman: El Largo Halloween Parte 1 (2021)" tvg-logo="http://xdgo.live:8080/images/fc7e046507fc978d2f1adb128dd16dc2.jpg" group-title="VFLIX ESTRENOS",Batman: El Largo Halloween Parte 1 (2021)
+http://xdgo.live:8080/movie/49_vAngelapaisa_c/Ppv9GFEHxD/52030.mkv
 #EXTINF:-1 tvg-id="Jolt (Impacto) (2021)" tvg-name="Jolt (Impacto) (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYZAHan5CHPFXORpQMvOjCTug4E.jpg" group-title="VFLIX ESTRENOS",Jolt (Impacto) (2021)
 http://xdgo.live:8080/movie/49_vAngelapaisa_c/Ppv9GFEHxD/51803.mkv
 #EXTINF:-1 tvg-id="La última carta de amor (2021)" tvg-name="La última carta de amor (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDKK51YdOfu9pTmSRw7sHUhGFxm.jpg" group-title="VFLIX ESTRENOS",La última carta de amor (2021)
@@ -28887,8 +28825,6 @@ http://xdgo.live:8080/movie/49_vAngelapaisa_c/Ppv9GFEHxD/46730.mkv
 http://xdgo.live:8080/movie/49_vAngelapaisa_c/Ppv9GFEHxD/46731.mkv
 #EXTINF:-1 tvg-id="Ruega por nosotros (2021)" tvg-name="Ruega por nosotros (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPoOn553ARmSQl0ChKTlGDvYq9x.jpg" group-title="VFLIX ESTRENOS",Ruega por nosotros (2021)
 http://xdgo.live:8080/movie/49_vAngelapaisa_c/Ppv9GFEHxD/46732.mkv
-#EXTINF:-1 tvg-id="Fast & Furious 9  (2021)" tvg-name="Fast & Furious 9  (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg" group-title="VFLIX ESTRENOS",Fast & Furious 9  (2021)
-http://xdgo.live:8080/movie/49_vAngelapaisa_c/Ppv9GFEHxD/46652.mkv
 #EXTINF:-1 tvg-id="Ejército de los muertos (2021)" tvg-name="Ejército de los muertos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVXLDoEskRVUl8SaRh2lieY5STg.jpg" group-title="VFLIX ESTRENOS",Ejército de los muertos (2021)
 http://xdgo.live:8080/movie/49_vAngelapaisa_c/Ppv9GFEHxD/46642.mkv
 #EXTINF:-1 tvg-id="Entonces Apareciste (2021)" tvg-name="Entonces Apareciste (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxECW0qUol2pxI2ycRzIDPYO43t.jpg" group-title="VFLIX ESTRENOS",Entonces Apareciste (2021)
