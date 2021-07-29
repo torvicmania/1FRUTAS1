@@ -429,10 +429,14 @@ http://xdgo.live:8080/29_jerazo_h/Z5AAQydjfW/29594
 http://xdgo.live:8080/29_jerazo_h/Z5AAQydjfW/30425
 #EXTINF:-1 tvg-id="ESPN SUR HD" tvg-name="ESPN SUR HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN SUR HD
 http://xdgo.live:8080/29_jerazo_h/Z5AAQydjfW/1858
-#EXTINF:-1 tvg-id="ESPN AR HD" tvg-name="ESPN AR HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN AR HD
-http://xdgo.live:8080/29_jerazo_h/Z5AAQydjfW/47915
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="ESPN SUR FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN SUR FHD
 http://xdgo.live:8080/29_jerazo_h/Z5AAQydjfW/1861
+#EXTINF:-1 tvg-id="ESPN AR HQ" tvg-name="ESPN AR HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN AR HQ
+http://xdgo.live:8080/29_jerazo_h/Z5AAQydjfW/52033
+#EXTINF:-1 tvg-id="ESPN AR HD" tvg-name="ESPN AR HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN AR HD
+http://xdgo.live:8080/29_jerazo_h/Z5AAQydjfW/47915
+#EXTINF:-1 tvg-id="ESPN AR HD op2" tvg-name="ESPN AR HD op2" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN AR HD op2
+http://xdgo.live:8080/29_jerazo_h/Z5AAQydjfW/52032
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="ESPN MX HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN MX HQ
 http://xdgo.live:8080/29_jerazo_h/Z5AAQydjfW/1797
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="ESPN MX HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN MX HD
@@ -3669,6 +3673,8 @@ http://xdgo.live:8080/29_jerazo_h/Z5AAQydjfW/30351
 http://xdgo.live:8080/29_jerazo_h/Z5AAQydjfW/30350
 #EXTINF:-1 tvg-id="Univision West" tvg-name="Univision West" tvg-logo="" group-title="USA LATINO",Univision West
 http://xdgo.live:8080/29_jerazo_h/Z5AAQydjfW/385
+#EXTINF:-1 tvg-id="Fast & Furious 9 4K (2021)" tvg-name="Fast & Furious 9 4K (2021)"  group-title="VFLIX 4K",Fast & Furious 9 4K (2021)
+http://xdgo.live:8080/movie/29_jerazo_h/Z5AAQydjfW/52066.mkv
 #EXTINF:-1 tvg-id="Godzilla vs. Kong (2021) 4K" tvg-name="Godzilla vs. Kong (2021) 4K"  group-title="VFLIX 4K",Godzilla vs. Kong (2021) 4K
 http://xdgo.live:8080/movie/29_jerazo_h/Z5AAQydjfW/46140.mkv
 #EXTINF:-1 tvg-id="Mortal Kombat (2021) 4K" tvg-name="Mortal Kombat (2021) 4K"  group-title="VFLIX 4K",Mortal Kombat (2021) 4K
@@ -28453,6 +28459,32 @@ http://xdgo.live:8080/series/29_jerazo_h/Z5AAQydjfW/41776.mkv
 http://xdgo.live:8080/series/29_jerazo_h/Z5AAQydjfW/42114.mkv
 #EXTINF:-1 tvg-id="WandaVision S01 E09" tvg-name="WandaVision S01 E09"  group-title="WANDAVISION",WandaVision S01 E09
 http://xdgo.live:8080/series/29_jerazo_h/Z5AAQydjfW/42412.mkv
+#EXTINF:-1 tvg-id="Fast & Furious 9 (2021)" tvg-name="Fast & Furious 9 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIyqWTuf6NouKphVlxzbv9pblxQ.jpg" group-title="VFLIX ESTRENOS",Fast & Furious 9 (2021)
+http://xdgo.live:8080/movie/29_jerazo_h/Z5AAQydjfW/52065.mkv
+#EXTINF:-1 tvg-id="Teen Titans Go! See Space Jam (2021)" tvg-name="Teen Titans Go! See Space Jam (2021)" tvg-logo="http://xdgo.live:8080/images/87d8fa7ae3682bb796178f6b073e684f.jpg" group-title="VFLIX ESTRENOS",Teen Titans Go! See Space Jam (2021)
+http://xdgo.live:8080/movie/29_jerazo_h/Z5AAQydjfW/52031.mkv
+#EXTINF:-1 tvg-id="Batman: El Largo Halloween Parte 1 (2021)" tvg-name="Batman: El Largo Halloween Parte 1 (2021)" tvg-logo="http://xdgo.live:8080/images/fc7e046507fc978d2f1adb128dd16dc2.jpg" group-title="VFLIX ESTRENOS",Batman: El Largo Halloween Parte 1 (2021)
+http://xdgo.live:8080/movie/29_jerazo_h/Z5AAQydjfW/52030.mkv
+#EXTINF:-1 tvg-id="Jolt (Impacto) (2021)" tvg-name="Jolt (Impacto) (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYZAHan5CHPFXORpQMvOjCTug4E.jpg" group-title="VFLIX ESTRENOS",Jolt (Impacto) (2021)
+http://xdgo.live:8080/movie/29_jerazo_h/Z5AAQydjfW/51803.mkv
+#EXTINF:-1 tvg-id="La última carta de amor (2021)" tvg-name="La última carta de amor (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDKK51YdOfu9pTmSRw7sHUhGFxm.jpg" group-title="VFLIX ESTRENOS",La última carta de amor (2021)
+http://xdgo.live:8080/movie/29_jerazo_h/Z5AAQydjfW/51806.mkv
+#EXTINF:-1 tvg-id="Fondeados (2021)" tvg-name="Fondeados (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jWIHh4nsUbT5Z7a0E51ZnEBE2lG.jpg" group-title="VFLIX ESTRENOS",Fondeados (2021)
+http://xdgo.live:8080/movie/29_jerazo_h/Z5AAQydjfW/51801.mkv
+#EXTINF:-1 tvg-id="Cielo rojo sangre (2021)" tvg-name="Cielo rojo sangre (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ky8Fua6PD7FyyOA7JACh3GDETli.jpg" group-title="VFLIX ESTRENOS",Cielo rojo sangre (2021)
+http://xdgo.live:8080/movie/29_jerazo_h/Z5AAQydjfW/51802.mkv
+#EXTINF:-1 tvg-id="Kingdom: La historia de Ashin (2021)" tvg-name="Kingdom: La historia de Ashin (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbnPTn7XNRUAD33YPbwAPDTHG3r.jpg" group-title="VFLIX ESTRENOS",Kingdom: La historia de Ashin (2021)
+http://xdgo.live:8080/movie/29_jerazo_h/Z5AAQydjfW/51804.mkv
+#EXTINF:-1 tvg-id="Playing with Sharks (2021)" tvg-name="Playing with Sharks (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sChTuxwVuajaoctBBfMcGoaWoru.jpg" group-title="VFLIX ESTRENOS",Playing with Sharks (2021)
+http://xdgo.live:8080/movie/29_jerazo_h/Z5AAQydjfW/51805.mkv
+#EXTINF:-1 tvg-id="El traficante (2021)" tvg-name="El traficante (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VKxWwVew6oCyYJVPN8RHtWg98r.jpg" group-title="VFLIX ESTRENOS",El traficante (2021)
+http://xdgo.live:8080/movie/29_jerazo_h/Z5AAQydjfW/51608.mkv
+#EXTINF:-1 tvg-id="Morir en un tiroteo (2021)" tvg-name="Morir en un tiroteo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/byXLJZq5vfveYdAWaC4uMtojsWj.jpg" group-title="VFLIX ESTRENOS",Morir en un tiroteo (2021)
+http://xdgo.live:8080/movie/29_jerazo_h/Z5AAQydjfW/51609.mkv
+#EXTINF:-1 tvg-id="El exorcismo de Carmen Farías (2021)" tvg-name="El exorcismo de Carmen Farías (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wjtOLYF87BuXQeznkuSUcgNQ12U.jpg" group-title="VFLIX ESTRENOS",El exorcismo de Carmen Farías (2021)
+http://xdgo.live:8080/movie/29_jerazo_h/Z5AAQydjfW/51610.mkv
+#EXTINF:-1 tvg-id="Gintama: The Final (2021)" tvg-name="Gintama: The Final (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikTmjGDSXWlPRsNZ3AvnBR3Pry8.jpg" group-title="VFLIX ESTRENOS",Gintama: The Final (2021)
+http://xdgo.live:8080/movie/29_jerazo_h/Z5AAQydjfW/51611.mkv
 #EXTINF:-1 tvg-id="Tiburón blanco (2021)" tvg-name="Tiburón blanco (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1qKnA83dtRaocubZx353j8qQje.jpg" group-title="VFLIX ESTRENOS",Tiburón blanco (2021)
 http://xdgo.live:8080/movie/29_jerazo_h/Z5AAQydjfW/51612.mkv
 #EXTINF:-1 tvg-id="Midnight in the Switchgrass (2021)" tvg-name="Midnight in the Switchgrass (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1OTSuh2HNcTRfme8caU8DjgJ39K.jpg" group-title="VFLIX ESTRENOS",Midnight in the Switchgrass (2021)
@@ -28793,8 +28825,6 @@ http://xdgo.live:8080/movie/29_jerazo_h/Z5AAQydjfW/46730.mkv
 http://xdgo.live:8080/movie/29_jerazo_h/Z5AAQydjfW/46731.mkv
 #EXTINF:-1 tvg-id="Ruega por nosotros (2021)" tvg-name="Ruega por nosotros (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPoOn553ARmSQl0ChKTlGDvYq9x.jpg" group-title="VFLIX ESTRENOS",Ruega por nosotros (2021)
 http://xdgo.live:8080/movie/29_jerazo_h/Z5AAQydjfW/46732.mkv
-#EXTINF:-1 tvg-id="Fast & Furious 9  (2021)" tvg-name="Fast & Furious 9  (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg" group-title="VFLIX ESTRENOS",Fast & Furious 9  (2021)
-http://xdgo.live:8080/movie/29_jerazo_h/Z5AAQydjfW/46652.mkv
 #EXTINF:-1 tvg-id="Ejército de los muertos (2021)" tvg-name="Ejército de los muertos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVXLDoEskRVUl8SaRh2lieY5STg.jpg" group-title="VFLIX ESTRENOS",Ejército de los muertos (2021)
 http://xdgo.live:8080/movie/29_jerazo_h/Z5AAQydjfW/46642.mkv
 #EXTINF:-1 tvg-id="Entonces Apareciste (2021)" tvg-name="Entonces Apareciste (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxECW0qUol2pxI2ycRzIDPYO43t.jpg" group-title="VFLIX ESTRENOS",Entonces Apareciste (2021)
