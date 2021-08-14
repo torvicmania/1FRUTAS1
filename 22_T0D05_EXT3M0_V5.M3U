@@ -347,7 +347,7 @@ http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/40737
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/40736
 #EXTINF:-1 tvg-id="CDO BASICO HD" tvg-name="CDO BASICO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/2013-09-04_JJDDNN_en_directo_a_traves_de_CDO.jpg/245px-2013-09-04_JJDDNN_en_directo_a_traves_de_CDO.jpg" group-title="DEPORTES",CDO BASICO HD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/1839
-#EXTINF:-1 tvg-id="CDO PREMIUM HD" tvg-name="CDO PREMIUM HD" tvg-logo="https://lisa.zapping.live/uploads/canales/color/cdo.jpg" group-title="DEPORTES",CDO PREMIUM HD
+#EXTINF:-1 tvg-id="CDO PREMIUM HD" tvg-name="CDO PREMIUM HD" tvg-logo="http://xdgo.live:8080/images/e270be3f83015fc46a9fd7f678e0289b.jpg" group-title="DEPORTES",CDO PREMIUM HD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/1840
 #EXTINF:-1 tvg-id="CLARO SPORTS HQ" tvg-name="CLARO SPORTS HQ" tvg-logo="https://www.elimparcial.com/__export/1554579865733/sites/elimparcial/img/2018/04/06/1838753-N.JPG_1359985867.jpg" group-title="DEPORTES",CLARO SPORTS HQ
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/2351
@@ -365,57 +365,57 @@ http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/1786
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/1785
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 1 HD" tvg-name="DIRECTV SPORTS 1 AR HD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 AR HD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/47911
-#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 HQ" tvg-name="DIRECTV SPORTS 1 CL HQ" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 CL HQ
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 HQ" tvg-name="DIRECTV SPORTS 1 CL HQ" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 CL HQ
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/45883
-#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 HD" tvg-name="DIRECTV SPORTS 1 CL HQ op2" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 CL HQ op2
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 HD" tvg-name="DIRECTV SPORTS 1 CL HQ op2" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 CL HQ op2
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/25834
-#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 PE FHD" tvg-name="DIRECTV SPORTS 1 CL HD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 CL HD
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 PE FHD" tvg-name="DIRECTV SPORTS 1 CL HD" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 CL HD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/45881
-#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 FHD" tvg-name="DIRECTV SPORTS 1 CL HD op2" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 CL HD op2
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 FHD" tvg-name="DIRECTV SPORTS 1 CL HD op2" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 CL HD op2
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/25833
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 1 HQ" tvg-name="DIRECTV SPORTS 1 CL FHD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 CL FHD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/45882
-#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 PE FHD" tvg-name="DIRECTV SPORTS 1 PE FHD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 PE FHD
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 PE FHD" tvg-name="DIRECTV SPORTS 1 PE FHD" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 PE FHD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/6109
-#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 EC HD" tvg-name="DIRECTV SPORTS 1 EC HD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 EC HD
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 EC HD" tvg-name="DIRECTV SPORTS 1 EC HD" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 EC HD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/2346
-#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 EC HD op2" tvg-name="DIRECTV SPORTS 1 EC HD op2" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 EC HD op2
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 EC HD op2" tvg-name="DIRECTV SPORTS 1 EC HD op2" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 EC HD op2
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/2347
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 1 EC FHD" tvg-name="DIRECTV SPORTS 1 EC FHD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 EC FHD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/2357
-#EXTINF:-1 tvg-id="DIRECTV SPORTS 2 HQ" tvg-name="DIRECTV SPORTS 2 HQ" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 2 HQ
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 2 HQ" tvg-name="DIRECTV SPORTS 2 HQ" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 2 HQ
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/1789
-#EXTINF:-1 tvg-id="DIRECTV SPORTS 2 HD" tvg-name="DIRECTV SPORTS 2 HD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 2 HD
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 2 HD" tvg-name="DIRECTV SPORTS 2 HD" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 2 HD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/1788
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 2 FHD" tvg-name="DIRECTV SPORTS 2 FHD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 2 FHD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/1787
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 2 HQ" tvg-name="DIRECTV SPORTS 2 CL HQ" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 2 CL HQ
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/45886
-#EXTINF:-1 tvg-id="DIRECTV SPORTS 2 HQ" tvg-name="DIRECTV SPORTS 2 CL HD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 2 CL HD
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 2 HQ" tvg-name="DIRECTV SPORTS 2 CL HD" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 2 CL HD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/45885
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 2 HQ" tvg-name="DIRECTV SPORTS 2 CL FHD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 2 CL FHD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/45884
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 2 HD" tvg-name="DIRECTV SPORTS 2 PE FHD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 2 PE FHD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/40003
-#EXTINF:-1 tvg-id="DIRECTV SPORTS 2 HD" tvg-name="DIRECTV SPORTS 2 EC HD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 2 EC HD
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 2 HD" tvg-name="DIRECTV SPORTS 2 EC HD" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 2 EC HD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/46741
-#EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  HQ" tvg-name="DIRECTV SPORTS  PLUS  HQ" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS  PLUS  HQ
+#EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  HQ" tvg-name="DIRECTV SPORTS  PLUS  HQ" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS  PLUS  HQ
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/5190
-#EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  HD" tvg-name="DIRECTV SPORTS  PLUS  HD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS  PLUS  HD
+#EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  HD" tvg-name="DIRECTV SPORTS  PLUS  HD" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS  PLUS  HD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/5188
 #EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  FHD" tvg-name="DIRECTV SPORTS  PLUS  FHD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS  PLUS  FHD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/5189
 #EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  FHD op2" tvg-name="DIRECTV SPORTS  PLUS  FHD op2" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS  PLUS  FHD op2
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/5191
-#EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  FHD op2" tvg-name="DIRECTV SPORTS  PLUS  CL HQ" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS  PLUS  CL HQ
+#EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  FHD op2" tvg-name="DIRECTV SPORTS  PLUS  CL HQ" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS  PLUS  CL HQ
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/45889
-#EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  FHD" tvg-name="DIRECTV SPORTS  PLUS  CL HD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS  PLUS  CL HD
+#EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  FHD" tvg-name="DIRECTV SPORTS  PLUS  CL HD" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS  PLUS  CL HD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/45888
 #EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  FHD" tvg-name="DIRECTV SPORTS  PLUS  CL FHD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS  PLUS  CL FHD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/45887
 #EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  FHD" tvg-name="DIRECTV SPORTS  PLUS  PE FHD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS  PLUS  PE FHD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/40004
-#EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  FHD" tvg-name="DIRECTV SPORTS  PLUS  EC HD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS  PLUS  EC HD
+#EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  FHD" tvg-name="DIRECTV SPORTS  PLUS  EC HD" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS  PLUS  EC HD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/46742
 #EXTINF:-1 tvg-id="ESPN CL HD" tvg-name="ESPN CL HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN CL HQ
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/40100
@@ -487,8 +487,6 @@ http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/30426
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/47917
 #EXTINF:-1 tvg-id="ESPN 3 SUR FHD" tvg-name="ESPN 3 CL HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 3 CL HD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/46196
-#EXTINF:-1 tvg-id="ESPN 3 SUR HD" tvg-name="ESPN 3 PE FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 3 PE FHD
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/40007
 #EXTINF:-1 tvg-id="ESPN 3 SUR HD" tvg-name="ESPN 3 EC HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 3 EC HD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/46737
 #EXTINF:-1 tvg-id="ESPN 3 MX HQ" tvg-name="ESPN 3 MX HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 3 MX HQ
@@ -515,11 +513,11 @@ http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/2333
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/1838
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="FOX SPORTS BR HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS BR HD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/2336
-#EXTINF:-1 tvg-id="FOX SPORTS CL HD" tvg-name="FOX SPORTS CL HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS CL HD
+#EXTINF:-1 tvg-id="FOX SPORTS CL HD" tvg-name="FOX SPORTS CL HD" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS CL HD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/2356
-#EXTINF:-1 tvg-id="FOX SPORTS 1 CL HD" tvg-name="FOX SPORTS 1 CL HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 1 CL HQ
+#EXTINF:-1 tvg-id="FOX SPORTS 1 CL HD" tvg-name="FOX SPORTS 1 CL HQ" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 1 CL HQ
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/40149
-#EXTINF:-1 tvg-id="FOX SPORTS 1 CL HD" tvg-name="FOX SPORTS 1 CL HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 1 CL HD
+#EXTINF:-1 tvg-id="FOX SPORTS 1 CL HD" tvg-name="FOX SPORTS 1 CL HD" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 1 CL HD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/40151
 #EXTINF:-1 tvg-id="FOX SPORTS CL FHD" tvg-name="FOX SPORTS 1 CL HD op2" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 1 CL HD op2
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/30314
@@ -527,7 +525,7 @@ http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/30314
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/40152
 #EXTINF:-1 tvg-id="FOX SPORTS 1 CL FHD" tvg-name="FOX SPORTS 1 CL FHD op2" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 1 CL FHD op2
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/2354
-#EXTINF:-1 tvg-id="FOX SPORTS 1 AR FHD" tvg-name="FOX SPORTS 1 EC HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 1 EC HD
+#EXTINF:-1 tvg-id="FOX SPORTS 1 AR FHD" tvg-name="FOX SPORTS 1 EC HD" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 1 EC HD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/46740
 #EXTINF:-1 tvg-id="FOX SPORTS 1 AR FHD" tvg-name="FOX SPORTS 1 AR LQ" tvg-logo="" group-title="DEPORTES",FOX SPORTS 1 AR LQ
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/30427
@@ -607,15 +605,15 @@ http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/16452
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/16451
 #EXTINF:-1 tvg-id="GOL TV ECUADOR FHD op2" tvg-name="GOL TV LATINOAMERICA FHD" tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf_400x400.jpg" group-title="DEPORTES",GOL TV LATINOAMERICA FHD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/2358
-#EXTINF:-1 tvg-id="GOL TV Ecuador FHD" tvg-name="GOL TV ECUADOR LQ" tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf_400x400.jpg" group-title="DEPORTES",GOL TV ECUADOR LQ
+#EXTINF:-1 tvg-id="GOL TV Ecuador FHD" tvg-name="GOL TV ECUADOR LQ" tvg-logo="http://xdgo.live:8080/images/99ae7a1be23b775839ad45be02d5006e.jpg" group-title="DEPORTES",GOL TV ECUADOR LQ
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/30246
-#EXTINF:-1 tvg-id="GOL TV Ecuador HQ" tvg-name="GOL TV ECUADOR HQ" tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf_400x400.jpg" group-title="DEPORTES",GOL TV ECUADOR HQ
+#EXTINF:-1 tvg-id="GOL TV Ecuador HQ" tvg-name="GOL TV ECUADOR HQ" tvg-logo="http://xdgo.live:8080/images/99ae7a1be23b775839ad45be02d5006e.jpg" group-title="DEPORTES",GOL TV ECUADOR HQ
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/1832
-#EXTINF:-1 tvg-id="GOL TV Ecuador HD" tvg-name="GOL TV ECUADOR HQ op2" tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf_400x400.jpg" group-title="DEPORTES",GOL TV ECUADOR HQ op2
+#EXTINF:-1 tvg-id="GOL TV Ecuador HD" tvg-name="GOL TV ECUADOR HQ op2" tvg-logo="http://xdgo.live:8080/images/99ae7a1be23b775839ad45be02d5006e.jpg" group-title="DEPORTES",GOL TV ECUADOR HQ op2
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/40101
-#EXTINF:-1 tvg-id="GOL TV Ecuador HD" tvg-name="GOL TV ECUADOR HD" tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf_400x400.jpg" group-title="DEPORTES",GOL TV ECUADOR HD
+#EXTINF:-1 tvg-id="GOL TV Ecuador HD" tvg-name="GOL TV ECUADOR HD" tvg-logo="http://xdgo.live:8080/images/99ae7a1be23b775839ad45be02d5006e.jpg" group-title="DEPORTES",GOL TV ECUADOR HD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/1833
-#EXTINF:-1 tvg-id="GOL TV Ecuador FHD" tvg-name="GOL TV ECUADOR HD op2" tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf_400x400.jpg" group-title="DEPORTES",GOL TV ECUADOR HD op2
+#EXTINF:-1 tvg-id="GOL TV Ecuador FHD" tvg-name="GOL TV ECUADOR HD op2" tvg-logo="http://xdgo.live:8080/images/99ae7a1be23b775839ad45be02d5006e.jpg" group-title="DEPORTES",GOL TV ECUADOR HD op2
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/46734
 #EXTINF:-1 tvg-id="GOL TV Ecuador FHD" tvg-name="GOL TV ECUADOR FHD" tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf_400x400.jpg" group-title="DEPORTES",GOL TV ECUADOR FHD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/1834
@@ -657,17 +655,17 @@ http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/2328
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/30423
 #EXTINF:-1 tvg-id="TELEDEPORTE FHD" tvg-name="TELEDEPORTE FHD" tvg-logo="https://img.irtve.es/imagenes/jpg/1331827196060.jpg" group-title="DEPORTES",TELEDEPORTE FHD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/1824
-#EXTINF:-1 tvg-id="TELETRACK HD" tvg-name="TELETRACK HD" tvg-logo="https://www.mallsyoutletsvivo.cl/vivo-imperio/wp-content/uploads/sites/4/2018/07/logo-teletrak.jpg" group-title="DEPORTES",TELETRACK HD
+#EXTINF:-1 tvg-id="TELETRACK HD" tvg-name="TELETRACK HD" tvg-logo="http://xdgo.live:8080/images/747d00c399dbb30d86140ef5b8f61f76.jpg" group-title="DEPORTES",TELETRACK HD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/1823
 #EXTINF:-1 tvg-id="TIGO SPORTS 1 HD" tvg-name="TIGO SPORTS 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",TIGO SPORTS 1 HD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/1820
-#EXTINF:-1 tvg-id="TIGO SPORTS 2 HD" tvg-name="TIGO SPORTS 2 HD" tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",TIGO SPORTS 2 HD
+#EXTINF:-1 tvg-id="TIGO SPORTS 2 HD" tvg-name="TIGO SPORTS 2 HD" tvg-logo="http://xdgo.live:8080/images/a68da643b24f0266a2d19d175a80ce75.jpg" group-title="DEPORTES",TIGO SPORTS 2 HD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/1821
 #EXTINF:-1 tvg-id="TIGO SPORTS 1 HD" tvg-name="TIGO SPORTS 1 BO HD" tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",TIGO SPORTS 1 BO HD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/45890
 #EXTINF:-1 tvg-id="TIGO SPORTS 1 HD" tvg-name="TIGO SPORTS 2 BO HD" tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",TIGO SPORTS 2 BO HD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/45891
-#EXTINF:-1 tvg-id="TIGO SPORTS 1 HD" tvg-name="TIGO SPORTS 3 BO HD" tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",TIGO SPORTS 3 BO HD
+#EXTINF:-1 tvg-id="TIGO SPORTS 1 HD" tvg-name="TIGO SPORTS 3 BO HD" tvg-logo="http://xdgo.live:8080/images/a68da643b24f0266a2d19d175a80ce75.jpg" group-title="DEPORTES",TIGO SPORTS 3 BO HD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/45892
 #EXTINF:-1 tvg-id="TIGO SPORTS 1 HD" tvg-name="TIGO SPORTS HONDURAS HD" tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",TIGO SPORTS HONDURAS HD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/41345
@@ -711,7 +709,7 @@ http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/1804
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/30293
 #EXTINF:-1 tvg-id="WINSPORTS PLUS HQ" tvg-name="WINSPORTS PLUS HQ" tvg-logo="https://bolavip.com/__export/1579878857776/sites/bolavip/img/2020/01/24/win_x1_crop1579878857355.png_267849830.png" group-title="DEPORTES",WINSPORTS PLUS HQ
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/21863
-#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="WINSPORTS PLUS HD" tvg-logo="https://bolavip.com/__export/1579878857776/sites/bolavip/img/2020/01/24/win_x1_crop1579878857355.png_267849830.png" group-title="DEPORTES",WINSPORTS PLUS HD
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="WINSPORTS PLUS HD" tvg-logo="http://xdgo.live:8080/images/6cc910622c70cac7be7e50ee07ac20dd.png" group-title="DEPORTES",WINSPORTS PLUS HD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/21862
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="WINSPORTS PLUS FHD" tvg-logo="https://bolavip.com/__export/1579878857776/sites/bolavip/img/2020/01/24/win_x1_crop1579878857355.png_267849830.png" group-title="DEPORTES",WINSPORTS PLUS FHD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/21861
@@ -1407,7 +1405,7 @@ http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/801
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/797
 #EXTINF:-1 tvg-id="DW FHD" tvg-name="DW FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_NBNhn9wavYNpIf4uXGvD4XPztzuyLRCJDwhPiiYm_sZ6hAYb&s" group-title="CINE FHD",DW FHD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/798
-#EXTINF:-1 tvg-id="EUROPA EUROPA HD" tvg-name="EUROPA EUROPA FHD" tvg-logo="https://zpapi.zetatv.com.uy/media/images/558-blanco.png" group-title="CINE FHD",EUROPA EUROPA FHD
+#EXTINF:-1 tvg-id="EUROPA EUROPA HD" tvg-name="EUROPA EUROPA FHD" tvg-logo="http://xdgo.live:8080/images/dedc9298f14fbf3da6527ca5eb86f286.png" group-title="CINE FHD",EUROPA EUROPA FHD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/45257
 #EXTINF:-1 tvg-id="FILM & ART HQ" tvg-name="FILM ARTS FHD" tvg-logo="https://zpapi.zetatv.com.uy/media/images/1.104.6_rGC5WWB.png" group-title="CINE FHD",FILM ARTS FHD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/795
@@ -1711,7 +1709,7 @@ http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/949
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/852
 #EXTINF:-1 tvg-id="DIRECTV OnDEMAND HQ" tvg-name="ON-DIRECTV HD" tvg-logo="https://pbs.twimg.com/profile_images/1263836290975399936/bpQjW6Uo_400x400.jpg" group-title="CINE HD",ON-DIRECTV HD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/46331
-#EXTINF:-1 tvg-id="ON-DIRECTV HQ" tvg-name="ON-DIRECTV HQ" tvg-logo="https://pbs.twimg.com/profile_images/1263836290975399936/bpQjW6Uo_400x400.jpg" group-title="CINE HD",ON-DIRECTV HQ
+#EXTINF:-1 tvg-id="ON-DIRECTV HQ" tvg-name="ON-DIRECTV HQ" tvg-logo="http://xdgo.live:8080/images/59a22c84fd5e32eee03b01148626a297.jpg" group-title="CINE HD",ON-DIRECTV HQ
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52326
 #EXTINF:-1 tvg-id="ANIMAL PLANET HQ" tvg-name="ANIMAL PLANET HQ" group-title="CULTURA ",ANIMAL PLANET HQ
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/1005
@@ -1791,7 +1789,7 @@ http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/1009
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/985
 #EXTINF:-1 tvg-id="H2 FHD" tvg-name="H2 FHD" group-title="CULTURA ",H2 FHD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/1036
-#EXTINF:-1 tvg-id="USA HGTV" tvg-name="HGTV HQ" tvg-logo="https://i.pinimg.com/280x280_RS/1b/f1/d4/1bf1d4bf0ed8c37e1c8efc5b17401467.jpg" group-title="CULTURA ",HGTV HQ
+#EXTINF:-1 tvg-id="USA HGTV" tvg-name="HGTV HQ" tvg-logo="http://xdgo.live:8080/images/e82026f1472ba52eb5f6f9a9d4ae960b.jpg" group-title="CULTURA ",HGTV HQ
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/40086
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="HGTV HD" group-title="CULTURA ",HGTV HD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/40085
@@ -2013,118 +2011,6 @@ http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/51683
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/51907
 #EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  FHD" tvg-name="CLARO SPORTS PPV 4 FHD (Juegos Olimpicos)" group-title="EVENTOS PPV",CLARO SPORTS PPV 4 FHD (Juegos Olimpicos)
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/51687
-#EXTINF:-1 tvg-id="PPV || Baseball (MLB) Boston Red Sox at Toronto Blue Jays (Game 1) 3:07pm EST" tvg-name="PPV || Baseball (MLB) Boston Red Sox at Toronto Blue Jays (Game 1) 3:07pm EST"  group-title="EVENTOS PPV",PPV || Baseball (MLB) Boston Red Sox at Toronto Blue Jays (Game 1) 3:07pm EST
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52327
-#EXTINF:-1 tvg-id="PPV || Baseball (MLB) Texas Rangers at Oakland Athletics 4:07pm EST" tvg-name="PPV || Baseball (MLB) Texas Rangers at Oakland Athletics 4:07pm EST"  group-title="EVENTOS PPV",PPV || Baseball (MLB) Texas Rangers at Oakland Athletics 4:07pm EST
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52328
-#EXTINF:-1 tvg-id="PPV || Baseball (MLB) New York Mets at Philadelphia Phillies 4:15pm EST (FS1)" tvg-name="PPV || Baseball (MLB) New York Mets at Philadelphia Phillies 4:15pm EST (FS1)"  group-title="EVENTOS PPV",PPV || Baseball (MLB) New York Mets at Philadelphia Phillies 4:15pm EST (FS1)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52329
-#EXTINF:-1 tvg-id="PPV || Baseball (MLB) Tampa Bay Rays at Baltimore Orioles 7:05pm EST" tvg-name="PPV || Baseball (MLB) Tampa Bay Rays at Baltimore Orioles 7:05pm EST"  group-title="EVENTOS PPV",PPV || Baseball (MLB) Tampa Bay Rays at Baltimore Orioles 7:05pm EST
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52330
-#EXTINF:-1 tvg-id="PPV || Baseball (MLB) Pittsburgh Pirates at Cincinnati Reds 7:10pm EST" tvg-name="PPV || Baseball (MLB) Pittsburgh Pirates at Cincinnati Reds 7:10pm EST"  group-title="EVENTOS PPV",PPV || Baseball (MLB) Pittsburgh Pirates at Cincinnati Reds 7:10pm EST
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52331
-#EXTINF:-1 tvg-id="PPV || Baseball (MLB) Boston Red Sox at Toronto Blue Jays (Game 2) 7:07pm EST" tvg-name="PPV || Baseball (MLB) Boston Red Sox at Toronto Blue Jays (Game 2) 7:07pm EST"  group-title="EVENTOS PPV",PPV || Baseball (MLB) Boston Red Sox at Toronto Blue Jays (Game 2) 7:07pm EST
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52332
-#EXTINF:-1 tvg-id="PPV || Baseball (MLB) San Francisco Giants at Milwaukee Brewers 7:10pm EST" tvg-name="PPV || Baseball (MLB) San Francisco Giants at Milwaukee Brewers 7:10pm EST"  group-title="EVENTOS PPV",PPV || Baseball (MLB) San Francisco Giants at Milwaukee Brewers 7:10pm EST
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52333
-#EXTINF:-1 tvg-id="PPV || Baseball (MLB) Detroit Tigers at Cleveland Indians 7:10pm EST" tvg-name="PPV || Baseball (MLB) Detroit Tigers at Cleveland Indians 7:10pm EST"  group-title="EVENTOS PPV",PPV || Baseball (MLB) Detroit Tigers at Cleveland Indians 7:10pm EST
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52334
-#EXTINF:-1 tvg-id="PPV || Baseball (MLB) Minnesota Twins at Houston Astros 7:10pm EST" tvg-name="PPV || Baseball (MLB) Minnesota Twins at Houston Astros 7:10pm EST"  group-title="EVENTOS PPV",PPV || Baseball (MLB) Minnesota Twins at Houston Astros 7:10pm EST
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52335
-#EXTINF:-1 tvg-id="PPV || Baseball (MLB) Kansas City Royals at St. Louis Cardinals 7:15pm EST" tvg-name="PPV || Baseball (MLB) Kansas City Royals at St. Louis Cardinals 7:15pm EST"  group-title="EVENTOS PPV",PPV || Baseball (MLB) Kansas City Royals at St. Louis Cardinals 7:15pm EST
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52336
-#EXTINF:-1 tvg-id="PPV || Baseball (MLB) Washington Nationals at Atlanta Braves 7:20pm EST" tvg-name="PPV || Baseball (MLB) Washington Nationals at Atlanta Braves 7:20pm EST"  group-title="EVENTOS PPV",PPV || Baseball (MLB) Washington Nationals at Atlanta Braves 7:20pm EST
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52337
-#EXTINF:-1 tvg-id="PPV || Baseball (MLB) Miami Marlins at Colorado Rockies 8:10pm EST" tvg-name="PPV || Baseball (MLB) Miami Marlins at Colorado Rockies 8:10pm EST"  group-title="EVENTOS PPV",PPV || Baseball (MLB) Miami Marlins at Colorado Rockies 8:10pm EST
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52338
-#EXTINF:-1 tvg-id="PPV || Baseball (MLB) Arizona Diamondbacks at San Diego Padres 8:40pm EST (FS1)" tvg-name="PPV || Baseball (MLB) Arizona Diamondbacks at San Diego Padres 8:40pm EST (FS1)"  group-title="EVENTOS PPV",PPV || Baseball (MLB) Arizona Diamondbacks at San Diego Padres 8:40pm EST (FS1)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52339
-#EXTINF:-1 tvg-id="PPV || Baseball (MLB) Los Angeles Angels at Los Angeles Dodgers 9:10pm EST" tvg-name="PPV || Baseball (MLB) Los Angeles Angels at Los Angeles Dodgers 9:10pm EST"  group-title="EVENTOS PPV",PPV || Baseball (MLB) Los Angeles Angels at Los Angeles Dodgers 9:10pm EST
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52340
-#EXTINF:-1 tvg-id="PPV || Baseball (MLB) L.A. Dodgers vs. L.A. Angels 9:10 pm EST (MLBN)" tvg-name="PPV || Baseball (MLB) L.A. Dodgers vs. L.A. Angels 9:10 pm EST (MLBN)"  group-title="EVENTOS PPV",PPV || Baseball (MLB) L.A. Dodgers vs. L.A. Angels 9:10 pm EST (MLBN)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52341
-#EXTINF:-1 tvg-id="PPV || Baseball (MLB) L.A. Dodgers vs. L.A. Angels 9:10 pm EST (SNLA)" tvg-name="PPV || Baseball (MLB) L.A. Dodgers vs. L.A. Angels 9:10 pm EST (SNLA)"  group-title="EVENTOS PPV",PPV || Baseball (MLB) L.A. Dodgers vs. L.A. Angels 9:10 pm EST (SNLA)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52342
-#EXTINF:-1 tvg-id="PPV || Baseball (MLB) L.A. Dodgers vs. L.A. Angels 9:10 pm EST (AWAY)" tvg-name="PPV || Baseball (MLB) L.A. Dodgers vs. L.A. Angels 9:10 pm EST (AWAY)"  group-title="EVENTOS PPV",PPV || Baseball (MLB) L.A. Dodgers vs. L.A. Angels 9:10 pm EST (AWAY)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52343
-#EXTINF:-1 tvg-id="PPV || Grappling Polaris Squads3 1:00pm EST (HD1)" tvg-name="PPV || Grappling Polaris Squads3 1:00pm EST (HD1)"  group-title="EVENTOS PPV",PPV || Grappling Polaris Squads3 1:00pm EST (HD1)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52344
-#EXTINF:-1 tvg-id="PPV || Boxing Fight Camp Week 2 Galahad vs. Dickens 2:00pm EST (HD1)" tvg-name="PPV || Boxing Fight Camp Week 2 Galahad vs. Dickens 2:00pm EST (HD1)"  group-title="EVENTOS PPV",PPV || Boxing Fight Camp Week 2 Galahad vs. Dickens 2:00pm EST (HD1)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52345
-#EXTINF:-1 tvg-id="PPV || PBC on FOX Stanionis vs. Collazo 8:00pm EST (HD1)" tvg-name="PPV || PBC on FOX Stanionis vs. Collazo 8:00pm EST (HD1)"  group-title="EVENTOS PPV",PPV || PBC on FOX Stanionis vs. Collazo 8:00pm EST (HD1)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52346
-#EXTINF:-1 tvg-id="PPV || PBC on FOX Stanionis vs. Collazo 8:00pm EST (HD1)(ESP)" tvg-name="PPV || PBC on FOX Stanionis vs. Collazo 8:00pm EST (HD1)(ESP)"  group-title="EVENTOS PPV",PPV || PBC on FOX Stanionis vs. Collazo 8:00pm EST (HD1)(ESP)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52347
-#EXTINF:-1 tvg-id="PPV || Boxeo Neza Fight Night Cruz vs Haro 11:00pm EST (HD1)(ESP)" tvg-name="PPV || Boxeo Neza Fight Night Cruz vs Haro 11:00pm EST (HD1)(ESP)"  group-title="EVENTOS PPV",PPV || Boxeo Neza Fight Night Cruz vs Haro 11:00pm EST (HD1)(ESP)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52348
-#EXTINF:-1 tvg-id="PPV || UFC265 EARLY PRELIMS 6:00 pm EST (PPV1)" tvg-name="PPV || UFC265 EARLY PRELIMS 6:00 pm EST (PPV1)"  group-title="EVENTOS PPV",PPV || UFC265 EARLY PRELIMS 6:00 pm EST (PPV1)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52349
-#EXTINF:-1 tvg-id="PPV || UFC265 EARLY PRELIMS 6:00 pm EST (PPV2)" tvg-name="PPV || UFC265 EARLY PRELIMS 6:00 pm EST (PPV2)"  group-title="EVENTOS PPV",PPV || UFC265 EARLY PRELIMS 6:00 pm EST (PPV2)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52350
-#EXTINF:-1 tvg-id="PPV || UFC265 EARLY PRELIMS 6:00 pm EST (PPV3)" tvg-name="PPV || UFC265 EARLY PRELIMS 6:00 pm EST (PPV3)"  group-title="EVENTOS PPV",PPV || UFC265 EARLY PRELIMS 6:00 pm EST (PPV3)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52351
-#EXTINF:-1 tvg-id="PPV || UFC265 PRELIMS 8:00 pm EST (PPV1)" tvg-name="PPV || UFC265 PRELIMS 8:00 pm EST (PPV1)"  group-title="EVENTOS PPV",PPV || UFC265 PRELIMS 8:00 pm EST (PPV1)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52352
-#EXTINF:-1 tvg-id="PPV || UFC265 PRELIMS 8:00 pm EST (PPV2)" tvg-name="PPV || UFC265 PRELIMS 8:00 pm EST (PPV2)"  group-title="EVENTOS PPV",PPV || UFC265 PRELIMS 8:00 pm EST (PPV2)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52353
-#EXTINF:-1 tvg-id="PPV || UFC265 PRELIMS 8:00 pm EST (PPV3)" tvg-name="PPV || UFC265 PRELIMS 8:00 pm EST (PPV3)"  group-title="EVENTOS PPV",PPV || UFC265 PRELIMS 8:00 pm EST (PPV3)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52354
-#EXTINF:-1 tvg-id="PPV || UFC265 PRELIMS 8:00 pm EST (PPV4)" tvg-name="PPV || UFC265 PRELIMS 8:00 pm EST (PPV4)"  group-title="EVENTOS PPV",PPV || UFC265 PRELIMS 8:00 pm EST (PPV4)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52355
-#EXTINF:-1 tvg-id="PPV || UFC265(ESP) PRELIMS 8:00 pm EST (PPV5)" tvg-name="PPV || UFC265(ESP) PRELIMS 8:00 pm EST (PPV5)"  group-title="EVENTOS PPV",PPV || UFC265(ESP) PRELIMS 8:00 pm EST (PPV5)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52356
-#EXTINF:-1 tvg-id="PPV || UFC265 MAINCARD 10:00 pm EST (PPV1)" tvg-name="PPV || UFC265 MAINCARD 10:00 pm EST (PPV1)"  group-title="EVENTOS PPV",PPV || UFC265 MAINCARD 10:00 pm EST (PPV1)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52357
-#EXTINF:-1 tvg-id="PPV || UFC265 MAINCARD 10:00 pm EST (PPV2)" tvg-name="PPV || UFC265 MAINCARD 10:00 pm EST (PPV2)"  group-title="EVENTOS PPV",PPV || UFC265 MAINCARD 10:00 pm EST (PPV2)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52358
-#EXTINF:-1 tvg-id="PPV || UFC265 MAINCARD 10:00 pm EST (PPV3)" tvg-name="PPV || UFC265 MAINCARD 10:00 pm EST (PPV3)"  group-title="EVENTOS PPV",PPV || UFC265 MAINCARD 10:00 pm EST (PPV3)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52359
-#EXTINF:-1 tvg-id="PPV || UFC265 MAINCARD 10:00 pm EST (PPV4)" tvg-name="PPV || UFC265 MAINCARD 10:00 pm EST (PPV4)"  group-title="EVENTOS PPV",PPV || UFC265 MAINCARD 10:00 pm EST (PPV4)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52360
-#EXTINF:-1 tvg-id="PPV || UFC265 MAINCARD 10:00 pm EST (PPV5)" tvg-name="PPV || UFC265 MAINCARD 10:00 pm EST (PPV5)"  group-title="EVENTOS PPV",PPV || UFC265 MAINCARD 10:00 pm EST (PPV5)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52361
-#EXTINF:-1 tvg-id="PPV || UFC265 MAINCARD 10:00 pm EST (PPV6)" tvg-name="PPV || UFC265 MAINCARD 10:00 pm EST (PPV6)"  group-title="EVENTOS PPV",PPV || UFC265 MAINCARD 10:00 pm EST (PPV6)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52362
-#EXTINF:-1 tvg-id="PPV || UFC265(ESP) MAINCARD 10:00 pm EST (PPV7)" tvg-name="PPV || UFC265(ESP) MAINCARD 10:00 pm EST (PPV7)"  group-title="EVENTOS PPV",PPV || UFC265(ESP) MAINCARD 10:00 pm EST (PPV7)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52363
-#EXTINF:-1 tvg-id="PPV || UFC265(ESP) MAINCARD 10:00 pm EST (PPV8)" tvg-name="PPV || UFC265(ESP) MAINCARD 10:00 pm EST (PPV8)"  group-title="EVENTOS PPV",PPV || UFC265(ESP) MAINCARD 10:00 pm EST (PPV8)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52364
-#EXTINF:-1 tvg-id="PPV || Soccer (Men) Brazil U23 vs. Spain U23 7:30 am EST (ENG)" tvg-name="PPV || Soccer (Men) Brazil U23 vs. Spain U23 7:30 am EST (ENG)"  group-title="EVENTOS PPV",PPV || Soccer (Men) Brazil U23 vs. Spain U23 7:30 am EST (ENG)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52365
-#EXTINF:-1 tvg-id="PPV || Soccer (Men) Brazil U23 vs. Spain U23 7:30 am EST (ESP)" tvg-name="PPV || Soccer (Men) Brazil U23 vs. Spain U23 7:30 am EST (ESP)"  group-title="EVENTOS PPV",PPV || Soccer (Men) Brazil U23 vs. Spain U23 7:30 am EST (ESP)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52366
-#EXTINF:-1 tvg-id="PPV || Soccer (MLS) Columbus Crew vs. Atlanta United 7:30 pm EST (MLS)" tvg-name="PPV || Soccer (MLS) Columbus Crew vs. Atlanta United 7:30 pm EST (MLS)"  group-title="EVENTOS PPV",PPV || Soccer (MLS) Columbus Crew vs. Atlanta United 7:30 pm EST (MLS)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52367
-#EXTINF:-1 tvg-id="PPV || Soccer (MLS) Cincinnati vs. Orlando City SC 7:30 pm EST (MLS)" tvg-name="PPV || Soccer (MLS) Cincinnati vs. Orlando City SC 7:30 pm EST (MLS)"  group-title="EVENTOS PPV",PPV || Soccer (MLS) Cincinnati vs. Orlando City SC 7:30 pm EST (MLS)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52368
-#EXTINF:-1 tvg-id="PPV || Soccer (MLS) FC Dallas vs. Austin 8:30 pm EST (MLS)" tvg-name="PPV || Soccer (MLS) FC Dallas vs. Austin 8:30 pm EST (MLS)"  group-title="EVENTOS PPV",PPV || Soccer (MLS) FC Dallas vs. Austin 8:30 pm EST (MLS)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52369
-#EXTINF:-1 tvg-id="PPV || Soccer (MLS) Minnesota United vs. Houston Dynamo 8:00 pm EST (MLS)" tvg-name="PPV || Soccer (MLS) Minnesota United vs. Houston Dynamo 8:00 pm EST (MLS)"  group-title="EVENTOS PPV",PPV || Soccer (MLS) Minnesota United vs. Houston Dynamo 8:00 pm EST (MLS)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52370
-#EXTINF:-1 tvg-id="PPV || Soccer (MLS) Toronto FC vs. New York City 8:00 pm EST (MLS)" tvg-name="PPV || Soccer (MLS) Toronto FC vs. New York City 8:00 pm EST (MLS)"  group-title="EVENTOS PPV",PPV || Soccer (MLS) Toronto FC vs. New York City 8:00 pm EST (MLS)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52371
-#EXTINF:-1 tvg-id="PPV || Soccer (MLS) Colorado Rapids vs. Sporting KC 9:00 pm EST (MLS)" tvg-name="PPV || Soccer (MLS) Colorado Rapids vs. Sporting KC 9:00 pm EST (MLS)"  group-title="EVENTOS PPV",PPV || Soccer (MLS) Colorado Rapids vs. Sporting KC 9:00 pm EST (MLS)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52372
-#EXTINF:-1 tvg-id="PPV || Soccer (MLS) Portland Timbers vs. Real Salt Lake 10:30 pm EST (MLS)" tvg-name="PPV || Soccer (MLS) Portland Timbers vs. Real Salt Lake 10:30 pm EST (MLS)"  group-title="EVENTOS PPV",PPV || Soccer (MLS) Portland Timbers vs. Real Salt Lake 10:30 pm EST (MLS)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52373
-#EXTINF:-1 tvg-id="PPV || Soccer (FA) Leicester City vs. Manchester City 12:00 pm EST (ENG)" tvg-name="PPV || Soccer (FA) Leicester City vs. Manchester City 12:00 pm EST (ENG)"  group-title="EVENTOS PPV",PPV || Soccer (FA) Leicester City vs. Manchester City 12:00 pm EST (ENG)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52374
-#EXTINF:-1 tvg-id="PPV || Soccer (FA) Leicester City vs. Manchester City 12:00 pm EST (ESP)" tvg-name="PPV || Soccer (FA) Leicester City vs. Manchester City 12:00 pm EST (ESP)"  group-title="EVENTOS PPV",PPV || Soccer (FA) Leicester City vs. Manchester City 12:00 pm EST (ESP)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52375
-#EXTINF:-1 tvg-id="PPV || Soccer (Ligue1) Olympique Lyonnais vs. Brest 11:00 am EST (beIN)" tvg-name="PPV || Soccer (Ligue1) Olympique Lyonnais vs. Brest 11:00 am EST (beIN)"  group-title="EVENTOS PPV",PPV || Soccer (Ligue1) Olympique Lyonnais vs. Brest 11:00 am EST (beIN)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52376
-#EXTINF:-1 tvg-id="PPV || Soccer (Ligue1) Olympique Lyonnais vs. Brest 11:00 am EST (beINn)" tvg-name="PPV || Soccer (Ligue1) Olympique Lyonnais vs. Brest 11:00 am EST (beINn)"  group-title="EVENTOS PPV",PPV || Soccer (Ligue1) Olympique Lyonnais vs. Brest 11:00 am EST (beINn)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52377
-#EXTINF:-1 tvg-id="PPV || Soccer (Ligue1) Troyes vs. PSG 3:00 pm EST (beIN)" tvg-name="PPV || Soccer (Ligue1) Troyes vs. PSG 3:00 pm EST (beIN)"  group-title="EVENTOS PPV",PPV || Soccer (Ligue1) Troyes vs. PSG 3:00 pm EST (beIN)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52378
-#EXTINF:-1 tvg-id="PPV || Soccer (Ligue1) Troyes vs. PSG 3:00 pm EST (beINn)" tvg-name="PPV || Soccer (Ligue1) Troyes vs. PSG 3:00 pm EST (beINn)"  group-title="EVENTOS PPV",PPV || Soccer (Ligue1) Troyes vs. PSG 3:00 pm EST (beINn)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52379
-#EXTINF:-1 tvg-id="PPV || Soccer (LigaMX) Guadalajara vs. FC Juarez 6:00 pm EST (LigaMX)" tvg-name="PPV || Soccer (LigaMX) Guadalajara vs. FC Juarez 6:00 pm EST (LigaMX)"  group-title="EVENTOS PPV",PPV || Soccer (LigaMX) Guadalajara vs. FC Juarez 6:00 pm EST (LigaMX)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52380
-#EXTINF:-1 tvg-id="PPV || Soccer (LigaMX) America vs. Puebla 8:00 pm EST (LigaMX)" tvg-name="PPV || Soccer (LigaMX) America vs. Puebla 8:00 pm EST (LigaMX)"  group-title="EVENTOS PPV",PPV || Soccer (LigaMX) America vs. Puebla 8:00 pm EST (LigaMX)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52381
-#EXTINF:-1 tvg-id="PPV || Soccer (LigaMX) Tigres UANL vs. Santos Laguna 10:00 pm EST (LigaMX)" tvg-name="PPV || Soccer (LigaMX) Tigres UANL vs. Santos Laguna 10:00 pm EST (LigaMX)"  group-title="EVENTOS PPV",PPV || Soccer (LigaMX) Tigres UANL vs. Santos Laguna 10:00 pm EST (LigaMX)
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52382
 #EXTINF:-1 tvg-id="GUA Canal 4" tvg-name="GUA VEA CANAL" group-title="GUATEMALA",GUA VEA CANAL
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/2597
 #EXTINF:-1 tvg-id="GUA CANAL 11" tvg-name="GUA CANAL 11" group-title="GUATEMALA",GUA CANAL 11
@@ -2199,20 +2085,14 @@ http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52078
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52079
 #EXTINF:-1 tvg-id="HN ATV HONDURAS" tvg-name="HN ATV HONDURAS"  group-title="HONDURAS",HN ATV HONDURAS
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52080
-#EXTINF:-1 tvg-id="HN CANAL 51" tvg-name="HN CANAL 51"  group-title="HONDURAS",HN CANAL 51
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52081
 #EXTINF:-1 tvg-id="HN CHOLUSAT-SUR" tvg-name="HN CHOLUSAT-SUR" tvg-logo="" group-title="HONDURAS",HN CHOLUSAT-SUR
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52082
 #EXTINF:-1 tvg-id="HN EDN TV" tvg-name="HN EDN TV"  group-title="HONDURAS",HN EDN TV
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52083
 #EXTINF:-1 tvg-id="HN GO-TV" tvg-name="HN GO-TV"  group-title="HONDURAS",HN GO-TV
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52084
-#EXTINF:-1 tvg-id="HN HONDURED 13" tvg-name="HN HONDURED 13"  group-title="HONDURAS",HN HONDURED 13
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52085
 #EXTINF:-1 tvg-id="HN JBN" tvg-name="HN JBN"  group-title="HONDURAS",HN JBN
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52086
-#EXTINF:-1 tvg-id="HN LTV" tvg-name="HN LTV"  group-title="HONDURAS",HN LTV
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52087
 #EXTINF:-1 tvg-id="HN MAS TV" tvg-name="HN MAS TV"  group-title="HONDURAS",HN MAS TV
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52088
 #EXTINF:-1 tvg-id="HN METRO TV" tvg-name="HN METRO TV"  group-title="HONDURAS",HN METRO TV
@@ -2223,16 +2103,8 @@ http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52091
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52092
 #EXTINF:-1 tvg-id="HN TDTV PLUS" tvg-name="HN TDTV PLUS"  group-title="HONDURAS",HN TDTV PLUS
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52093
-#EXTINF:-1 tvg-id="HN TELEMAS" tvg-name="HN TELEMAS"  group-title="HONDURAS",HN TELEMAS
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52094
-#EXTINF:-1 tvg-id="HN TV CENTRO CANAL 27.1" tvg-name="HN TV CENTRO CANAL 27.1"  group-title="HONDURAS",HN TV CENTRO CANAL 27.1
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52095
-#EXTINF:-1 tvg-id="HN TV CENTRO CANAL 27.2" tvg-name="HN TV CENTRO CANAL 27.2"  group-title="HONDURAS",HN TV CENTRO CANAL 27.2
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52096
 #EXTINF:-1 tvg-id="HN VALLEVISION" tvg-name="HN VALLEVISION"  group-title="HONDURAS",HN VALLEVISION
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52097
-#EXTINF:-1 tvg-id="HN PBS" tvg-name="HN PBS"  group-title="HONDURAS",HN PBS
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52098
 #EXTINF:-1 tvg-id="HN VICA TV" tvg-name="HN VICA TV"  group-title="HONDURAS",HN VICA TV
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52099
 #EXTINF:-1 tvg-id="HN UNETV" tvg-name="HN UNETV"  group-title="HONDURAS",HN UNETV
@@ -2731,7 +2603,9 @@ http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/5186
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/5187
 #EXTINF:-1 tvg-id="NBA - Cleveland Cavaliers" tvg-name="NBA Washington Wizards" tvg-logo="https://play-lh.googleusercontent.com/I6Jz9nEZq-8jBPn2bmjywWLXLZ7GMn2WR64x9w1xQm8H5Isd1rhaQ4NDsp3jVUhLPFI" group-title="NBA MLB NFL NHL",NBA Washington Wizards
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/30107
-#EXTINF:-1 tvg-id="NFL NETWORK" tvg-name="NFL NETWORK" tvg-logo="https://www.elsoldemexico.com.mx/incoming/94utop-nfl-logo-National-Football-League.jpg/ALTERNATES/FREE_768/nfl-logo-National-Football-League.jpg" group-title="NBA MLB NFL NHL",NFL NETWORK
+#EXTINF:-1 tvg-id="NFL NETWORK HD" tvg-name="NFL NETWORK HD" tvg-logo="http://xdgo.live:8080/images/500c14941b66b13912895bfe1af07d91.jpg" group-title="NBA MLB NFL NHL",NFL NETWORK HD
+http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/52340
+#EXTINF:-1 tvg-id="NFL NETWORK" tvg-name="NFL NETWORK FHD" tvg-logo="http://xdgo.live:8080/images/500c14941b66b13912895bfe1af07d91.jpg" group-title="NBA MLB NFL NHL",NFL NETWORK FHD
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/340
 #EXTINF:-1 tvg-id="NFL REDZONE" tvg-name="NFL REDZONE" tvg-logo="https://www.elsoldemexico.com.mx/incoming/94utop-nfl-logo-National-Football-League.jpg/ALTERNATES/FREE_768/nfl-logo-National-Football-League.jpg" group-title="NBA MLB NFL NHL",NFL REDZONE
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/341
@@ -2957,12 +2831,8 @@ http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/6045
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/6044
 #EXTINF:-1 tvg-id="PPV CINEMA 01" tvg-name="PPV CINEMA 35" tvg-logo="" group-title="PPV ESTRENOS FHD",PPV CINEMA 35
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/6043
-#EXTINF:-1 tvg-id="REL ALIENTO Y VISION" tvg-name="REL ALIENTO Y VISION" group-title="RELIGIOSOS",REL ALIENTO Y VISION
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/17313
 #EXTINF:-1 tvg-id="REL CANDELITA TV" tvg-name="REL CANDELITA TV" group-title="RELIGIOSOS",REL CANDELITA TV
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/17314
-#EXTINF:-1 tvg-id="REL CCI CHANNEL" tvg-name="REL CCI CHANNEL" group-title="RELIGIOSOS",REL CCI CHANNEL
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/17320
 #EXTINF:-1 tvg-id="REL ENLACE" tvg-name="REL ENLACE" group-title="RELIGIOSOS",REL ENLACE
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/17310
 #EXTINF:-1 tvg-id="REL Enlace Juvenil" tvg-name="REL ENLACE JUVENIL" group-title="RELIGIOSOS",REL ENLACE JUVENIL
@@ -2973,8 +2843,6 @@ http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/17311
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/17324
 #EXTINF:-1 tvg-id="REL EWTN" tvg-name="REL EWTN" group-title="RELIGIOSOS",REL EWTN
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/17312
-#EXTINF:-1 tvg-id="REL IGLESIA DEL CAMINO" tvg-name="REL IGLESIA DEL CAMINO" group-title="RELIGIOSOS",REL IGLESIA DEL CAMINO
-http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/17301
 #EXTINF:-1 tvg-id="REL SOLIDARIA TV" tvg-name="REL SOLIDARIA TV" group-title="RELIGIOSOS",REL SOLIDARIA TV
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/17309
 #EXTINF:-1 tvg-id="REL SOLIDARIA TV" tvg-name="REL SOLIDARIA TV" group-title="RELIGIOSOS",REL SOLIDARIA TV
@@ -3649,7 +3517,7 @@ http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/5815
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/372
 #EXTINF:-1 tvg-id="Lo Mejor de Despierta America" tvg-name="Lo Mejor de Despierta America" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/79_es.png" group-title="USA LATINO",Lo Mejor de Despierta America
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/5889
-#EXTINF:-1 tvg-id="MEGA TV MIAMI" tvg-name="MEGA TV MIAMI" tvg-logo="https://mega.tv/wp-content/uploads/sites/4/2015/03/megatv-opengraph.jpg" group-title="USA LATINO",MEGA TV MIAMI
+#EXTINF:-1 tvg-id="MEGA TV MIAMI" tvg-name="MEGA TV MIAMI" tvg-logo="http://xdgo.live:8080/images/b45965ca4ce2f400bc2013bfd6a161bf.jpg" group-title="USA LATINO",MEGA TV MIAMI
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/27542
 #EXTINF:-1 tvg-id="Novelas" tvg-name="Novelas" tvg-logo="" group-title="USA LATINO",Novelas
 http://tv.xdgo.live:8080/22_vPaolaRami_g/BXj9OkcgaQ/370
@@ -19911,6 +19779,24 @@ http://tv.xdgo.live:8080/series/22_vPaolaRami_g/BXj9OkcgaQ/44745.mkv
 http://tv.xdgo.live:8080/series/22_vPaolaRami_g/BXj9OkcgaQ/44746.mkv
 #EXTINF:-1 tvg-id="The Good Doctor S04 E11" tvg-name="The Good Doctor S04 E11"  group-title="SERIES DRAMA",The Good Doctor S04 E11
 http://tv.xdgo.live:8080/series/22_vPaolaRami_g/BXj9OkcgaQ/44747.mkv
+#EXTINF:-1 tvg-id="The Good Doctor S04 E12" tvg-name="The Good Doctor S04 E12"  group-title="SERIES DRAMA",The Good Doctor S04 E12
+http://tv.xdgo.live:8080/series/22_vPaolaRami_g/BXj9OkcgaQ/52347.mkv
+#EXTINF:-1 tvg-id="The Good Doctor S04 E13" tvg-name="The Good Doctor S04 E13"  group-title="SERIES DRAMA",The Good Doctor S04 E13
+http://tv.xdgo.live:8080/series/22_vPaolaRami_g/BXj9OkcgaQ/52348.mkv
+#EXTINF:-1 tvg-id="The Good Doctor S04 E14" tvg-name="The Good Doctor S04 E14"  group-title="SERIES DRAMA",The Good Doctor S04 E14
+http://tv.xdgo.live:8080/series/22_vPaolaRami_g/BXj9OkcgaQ/52349.mkv
+#EXTINF:-1 tvg-id="The Good Doctor S04 E15" tvg-name="The Good Doctor S04 E15"  group-title="SERIES DRAMA",The Good Doctor S04 E15
+http://tv.xdgo.live:8080/series/22_vPaolaRami_g/BXj9OkcgaQ/52350.mkv
+#EXTINF:-1 tvg-id="The Good Doctor S04 E16" tvg-name="The Good Doctor S04 E16"  group-title="SERIES DRAMA",The Good Doctor S04 E16
+http://tv.xdgo.live:8080/series/22_vPaolaRami_g/BXj9OkcgaQ/52351.mkv
+#EXTINF:-1 tvg-id="The Good Doctor S04 E17" tvg-name="The Good Doctor S04 E17"  group-title="SERIES DRAMA",The Good Doctor S04 E17
+http://tv.xdgo.live:8080/series/22_vPaolaRami_g/BXj9OkcgaQ/52352.mkv
+#EXTINF:-1 tvg-id="The Good Doctor S04 E18" tvg-name="The Good Doctor S04 E18"  group-title="SERIES DRAMA",The Good Doctor S04 E18
+http://tv.xdgo.live:8080/series/22_vPaolaRami_g/BXj9OkcgaQ/52353.mkv
+#EXTINF:-1 tvg-id="The Good Doctor S04 E19" tvg-name="The Good Doctor S04 E19"  group-title="SERIES DRAMA",The Good Doctor S04 E19
+http://tv.xdgo.live:8080/series/22_vPaolaRami_g/BXj9OkcgaQ/52354.mkv
+#EXTINF:-1 tvg-id="The Good Doctor S04 E20" tvg-name="The Good Doctor S04 E20"  group-title="SERIES DRAMA",The Good Doctor S04 E20
+http://tv.xdgo.live:8080/series/22_vPaolaRami_g/BXj9OkcgaQ/52355.mkv
 #EXTINF:-1 tvg-id="La viuda S01 E01" tvg-name="La viuda S01 E01"  group-title="SERIES DRAMA",La viuda S01 E01
 http://tv.xdgo.live:8080/series/22_vPaolaRami_g/BXj9OkcgaQ/14617.mkv
 #EXTINF:-1 tvg-id="La viuda S01 E02" tvg-name="La viuda S01 E02"  group-title="SERIES DRAMA",La viuda S01 E02
@@ -26085,6 +25971,8 @@ http://tv.xdgo.live:8080/series/22_vPaolaRami_g/BXj9OkcgaQ/48784.mkv
 http://tv.xdgo.live:8080/series/22_vPaolaRami_g/BXj9OkcgaQ/48785.mkv
 #EXTINF:-1 tvg-id="Solos S01 E07" tvg-name="Solos S01 E07"  group-title="SERIES FICCION - FANTASIA",Solos S01 E07
 http://tv.xdgo.live:8080/series/22_vPaolaRami_g/BXj9OkcgaQ/48786.mkv
+#EXTINF:-1 tvg-id="What If - ¿Que pasaria si...? S01 E01" tvg-name="What If - ¿Que pasaria si...? S01 E01"  group-title="SERIES FICCION - FANTASIA",What If - ¿Que pasaria si...? S01 E01
+http://tv.xdgo.live:8080/series/22_vPaolaRami_g/BXj9OkcgaQ/52356.mkv
 #EXTINF:-1 tvg-id="Johnny Bravo S01 E01" tvg-name="Johnny Bravo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9Ug39KxbIt1opgXdJY3AJhAlGx.jpg" group-title="SERIES INFANTILES",Johnny Bravo S01 E01
 http://tv.xdgo.live:8080/series/22_vPaolaRami_g/BXj9OkcgaQ/6923.mp4
 #EXTINF:-1 tvg-id="Johnny Bravo S01 E02" tvg-name="Johnny Bravo S01 E02" tvg-logo="http://xdgo.live:8080/images/d7b2ea32f483aef63edf9412a3da3b79.jpg" group-title="SERIES INFANTILES",Johnny Bravo S01 E02
@@ -28617,6 +28505,42 @@ http://tv.xdgo.live:8080/series/22_vPaolaRami_g/BXj9OkcgaQ/41776.mkv
 http://tv.xdgo.live:8080/series/22_vPaolaRami_g/BXj9OkcgaQ/42114.mkv
 #EXTINF:-1 tvg-id="WandaVision S01 E09" tvg-name="WandaVision S01 E09"  group-title="WANDAVISION",WandaVision S01 E09
 http://tv.xdgo.live:8080/series/22_vPaolaRami_g/BXj9OkcgaQ/42412.mkv
+#EXTINF:-1 tvg-id="Hotel De Dinosaurios (2021)" tvg-name="Hotel De Dinosaurios (2021)" tvg-logo="http://xdgo.live:8080/images/3dc3f10bfe83543dbf0e39efe343a409.jpg" group-title="VFLIX ESTRENOS",Hotel De Dinosaurios (2021)
+http://tv.xdgo.live:8080/movie/22_vPaolaRami_g/BXj9OkcgaQ/52341.mkv
+#EXTINF:-1 tvg-id="Que nadie se entere (2021)" tvg-name="Que nadie se entere (2021)" tvg-logo="http://xdgo.live:8080/images/757622267fd96b22bd554500fe775ffb.jpg" group-title="VFLIX ESTRENOS",Que nadie se entere (2021)
+http://tv.xdgo.live:8080/movie/22_vPaolaRami_g/BXj9OkcgaQ/52342.mkv
+#EXTINF:-1 tvg-id="Evangelion: 3.0+1.0 (2021)" tvg-name="Evangelion: 3.0+1.0 (2021)" tvg-logo="http://xdgo.live:8080/images/2b114c2814ca9a3e617723cb66e433b1.jpg" group-title="VFLIX ESTRENOS",Evangelion: 3.0+1.0 (2021)
+http://tv.xdgo.live:8080/movie/22_vPaolaRami_g/BXj9OkcgaQ/52343.mkv
+#EXTINF:-1 tvg-id="Misha and the Wolves (2021)" tvg-name="Misha and the Wolves (2021)" tvg-logo="http://xdgo.live:8080/images/632498ff3be17f60e4c2375be2bba015.jpg" group-title="VFLIX ESTRENOS",Misha and the Wolves (2021)
+http://tv.xdgo.live:8080/movie/22_vPaolaRami_g/BXj9OkcgaQ/52344.mkv
+#EXTINF:-1 tvg-id="Monster Hunter: Leyendas del gremio (2021)" tvg-name="Monster Hunter: Leyendas del gremio (2021)" tvg-logo="http://xdgo.live:8080/images/c1ce090d72ddac168c3968327172133c.jpg" group-title="VFLIX ESTRENOS",Monster Hunter: Leyendas del gremio (2021)
+http://tv.xdgo.live:8080/movie/22_vPaolaRami_g/BXj9OkcgaQ/52345.mkv
+#EXTINF:-1 tvg-id="Wander (2020)" tvg-name="Wander (2020)" tvg-logo="http://xdgo.live:8080/images/008fe8bcd6710ed094a4479db75e2104.jpg" group-title="VFLIX ESTRENOS",Wander (2020)
+http://tv.xdgo.live:8080/movie/22_vPaolaRami_g/BXj9OkcgaQ/52346.mkv
+#EXTINF:-1 tvg-id="Muere otra vez (2021)" tvg-name="Muere otra vez (2021)" tvg-logo="http://xdgo.live:8080/images/2592f7b38078a9df47a56cbae829647f.jpg" group-title="VFLIX ESTRENOS",Muere otra vez (2021)
+http://tv.xdgo.live:8080/movie/22_vPaolaRami_g/BXj9OkcgaQ/52328.mkv
+#EXTINF:-1 tvg-id="El otro guardaespaldas 2 (2021)" tvg-name="El otro guardaespaldas 2 (2021)" tvg-logo="http://xdgo.live:8080/images/fafad7f15c4a87df009637e434a8326c.jpg" group-title="VFLIX ESTRENOS",El otro guardaespaldas 2 (2021)
+http://tv.xdgo.live:8080/movie/22_vPaolaRami_g/BXj9OkcgaQ/52329.mkv
+#EXTINF:-1 tvg-id="Finding You (2021)" tvg-name="Finding You (2021)" tvg-logo="http://xdgo.live:8080/images/9a5b8a3f2a0ddcec9faeb8d317d9eadb.jpg" group-title="VFLIX ESTRENOS",Finding You (2021)
+http://tv.xdgo.live:8080/movie/22_vPaolaRami_g/BXj9OkcgaQ/52330.mkv
+#EXTINF:-1 tvg-id="Infinito (2021)" tvg-name="Infinito (2021)" tvg-logo="http://xdgo.live:8080/images/82f797d8931baa5ee710b1fc2207dae5.jpg" group-title="VFLIX ESTRENOS",Infinito (2021)
+http://tv.xdgo.live:8080/movie/22_vPaolaRami_g/BXj9OkcgaQ/52331.mkv
+#EXTINF:-1 tvg-id="Joe Bell (2021)" tvg-name="Joe Bell (2021)" tvg-logo="http://xdgo.live:8080/images/6bceb272724ad48355f9a99e38826268.jpg" group-title="VFLIX ESTRENOS",Joe Bell (2021)
+http://tv.xdgo.live:8080/movie/22_vPaolaRami_g/BXj9OkcgaQ/52332.mkv
+#EXTINF:-1 tvg-id="Lansky (2021)" tvg-name="Lansky (2021)" tvg-logo="http://xdgo.live:8080/images/12e1939e610eca132d99206bffd2d640.jpg" group-title="VFLIX ESTRENOS",Lansky (2021)
+http://tv.xdgo.live:8080/movie/22_vPaolaRami_g/BXj9OkcgaQ/52334.mkv
+#EXTINF:-1 tvg-id="Mi primer beso 3 (2021)" tvg-name="Mi primer beso 3 (2021)" tvg-logo="http://xdgo.live:8080/images/020cb5b8c75cbd7484970116fc4d9fa3.jpg" group-title="VFLIX ESTRENOS",Mi primer beso 3 (2021)
+http://tv.xdgo.live:8080/movie/22_vPaolaRami_g/BXj9OkcgaQ/52337.mkv
+#EXTINF:-1 tvg-id="Val (2021)" tvg-name="Val (2021)" tvg-logo="http://xdgo.live:8080/images/861d361deac21123e2a78c82d8dea5d3.jpg" group-title="VFLIX ESTRENOS",Val (2021)
+http://tv.xdgo.live:8080/movie/22_vPaolaRami_g/BXj9OkcgaQ/52338.mkv
+#EXTINF:-1 tvg-id="Vivo (2021)" tvg-name="Vivo (2021)" tvg-logo="http://xdgo.live:8080/images/4cbcccd03055a62ca4034e7a09a24157.jpg" group-title="VFLIX ESTRENOS",Vivo (2021)
+http://tv.xdgo.live:8080/movie/22_vPaolaRami_g/BXj9OkcgaQ/52339.mkv
+#EXTINF:-1 tvg-id="En Modo Asesino (2020)" tvg-name="En Modo Asesino (2020)" tvg-logo="http://xdgo.live:8080/images/672a5a350f50d7ce352b9d5332ef94f9.jpg" group-title="VFLIX ESTRENOS",En Modo Asesino (2020)
+http://tv.xdgo.live:8080/movie/22_vPaolaRami_g/BXj9OkcgaQ/52333.mkv
+#EXTINF:-1 tvg-id="La nube (2020)" tvg-name="La nube (2020)" tvg-logo="http://xdgo.live:8080/images/b581d67509bc04a255f699ab911b380f.jpg" group-title="VFLIX ESTRENOS",La nube (2020)
+http://tv.xdgo.live:8080/movie/22_vPaolaRami_g/BXj9OkcgaQ/52335.mkv
+#EXTINF:-1 tvg-id="A Mano Armada (2020)" tvg-name="A Mano Armada (2020)" tvg-logo="http://xdgo.live:8080/images/ed79d5d775f1835055117e147693e079.jpg" group-title="VFLIX ESTRENOS",A Mano Armada (2020)
+http://tv.xdgo.live:8080/movie/22_vPaolaRami_g/BXj9OkcgaQ/52336.mkv
 #EXTINF:-1 tvg-id="El Escuadrón Suicida 2 (2021)" tvg-name="El Escuadrón Suicida 2 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AcvqhsaE26hshLKZhXmnlsIkcq.jpg" group-title="VFLIX ESTRENOS",El Escuadrón Suicida 2 (2021)
 http://tv.xdgo.live:8080/movie/22_vPaolaRami_g/BXj9OkcgaQ/52325.mkv
 #EXTINF:-1 tvg-id="Safer at Home (2021)" tvg-name="Safer at Home (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ZUvH5saSPaC8K1p3i04SrzSwQf.jpg" group-title="VFLIX ESTRENOS",Safer at Home (2021)
