@@ -347,9 +347,9 @@ http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/40737
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/40736
 #EXTINF:-1 tvg-id="CDO BASICO HD" tvg-name="CDO BASICO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/2013-09-04_JJDDNN_en_directo_a_traves_de_CDO.jpg/245px-2013-09-04_JJDDNN_en_directo_a_traves_de_CDO.jpg" group-title="DEPORTES",CDO BASICO HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1839
-#EXTINF:-1 tvg-id="CDO PREMIUM HD" tvg-name="CDO PREMIUM HD" tvg-logo="https://lisa.zapping.live/uploads/canales/color/cdo.jpg" group-title="DEPORTES",CDO PREMIUM HD
+#EXTINF:-1 tvg-id="CDO PREMIUM HD" tvg-name="CDO PREMIUM HD" tvg-logo="http://xdgo.live:8080/images/e270be3f83015fc46a9fd7f678e0289b.jpg" group-title="DEPORTES",CDO PREMIUM HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1840
-#EXTINF:-1 tvg-id="CLARO SPORTS HQ" tvg-name="CLARO SPORTS HQ" tvg-logo="https://www.elimparcial.com/__export/1554579865733/sites/elimparcial/img/2018/04/06/1838753-N.JPG_1359985867.jpg" group-title="DEPORTES",CLARO SPORTS HQ
+#EXTINF:-1 tvg-id="CLARO SPORTS HQ" tvg-name="CLARO SPORTS HQ" tvg-logo="http://xdgo.live:8080/images/9cf8886ad93cb12600a72949c8ce4039.jpg" group-title="DEPORTES",CLARO SPORTS HQ
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/2351
 #EXTINF:-1 tvg-id="TIGO SPORTS COSTA RICA HD" tvg-name="CLARO SPORTS HD" tvg-logo="https://www.elimparcial.com/__export/1554579865733/sites/elimparcial/img/2018/04/06/1838753-N.JPG_1359985867.jpg" group-title="DEPORTES",CLARO SPORTS HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/2352
@@ -361,61 +361,65 @@ http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/2330
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1784
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 1 HD" tvg-name="DIRECTV SPORTS 1 HD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1786
-#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 FHD" tvg-name="DIRECTV SPORTS 1 FHD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 FHD
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 FHD" tvg-name="DIRECTV SPORTS 1 FHD" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 FHD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1785
-#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 HD" tvg-name="DIRECTV SPORTS 1 AR HD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 AR HD
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 HD" tvg-name="DIRECTV SPORTS 1 AR HD" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 AR HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/47911
-#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 HQ" tvg-name="DIRECTV SPORTS 1 CL HQ" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 CL HQ
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 HQ" tvg-name="DIRECTV SPORTS 1 CL HQ" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 CL HQ
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/45883
-#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 HD" tvg-name="DIRECTV SPORTS 1 CL HQ op2" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 CL HQ op2
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 HD" tvg-name="DIRECTV SPORTS 1 CL HQ op2" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 CL HQ op2
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/25834
-#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 PE FHD" tvg-name="DIRECTV SPORTS 1 CL HD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 CL HD
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 PE FHD" tvg-name="DIRECTV SPORTS 1 CL HD" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 CL HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/45881
-#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 FHD" tvg-name="DIRECTV SPORTS 1 CL HD op2" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 CL HD op2
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 FHD" tvg-name="DIRECTV SPORTS 1 CL HD op2" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 CL HD op2
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/25833
-#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 HQ" tvg-name="DIRECTV SPORTS 1 CL FHD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 CL FHD
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 HQ" tvg-name="DIRECTV SPORTS 1 CL FHD" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 CL FHD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/45882
-#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 PE FHD" tvg-name="DIRECTV SPORTS 1 PE FHD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 PE FHD
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 PE HQ" tvg-name="DIRECTV SPORTS 1 PE HQ" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 PE HQ
+http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/52498
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 PE HD" tvg-name="DIRECTV SPORTS 1 PE HD" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 PE HD
+http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/52497
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 PE FHD" tvg-name="DIRECTV SPORTS 1 PE FHD" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 PE FHD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/6109
-#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 EC HD" tvg-name="DIRECTV SPORTS 1 EC HD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 EC HD
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 EC HD" tvg-name="DIRECTV SPORTS 1 EC HD" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 EC HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/2346
-#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 EC HD op2" tvg-name="DIRECTV SPORTS 1 EC HD op2" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 EC HD op2
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 EC HD op2" tvg-name="DIRECTV SPORTS 1 EC HD op2" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 EC HD op2
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/2347
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 1 EC FHD" tvg-name="DIRECTV SPORTS 1 EC FHD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 EC FHD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/2357
-#EXTINF:-1 tvg-id="DIRECTV SPORTS 2 HQ" tvg-name="DIRECTV SPORTS 2 HQ" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 2 HQ
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 2 HQ" tvg-name="DIRECTV SPORTS 2 HQ" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 2 HQ
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1789
-#EXTINF:-1 tvg-id="DIRECTV SPORTS 2 HD" tvg-name="DIRECTV SPORTS 2 HD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 2 HD
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 2 HD" tvg-name="DIRECTV SPORTS 2 HD" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 2 HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1788
-#EXTINF:-1 tvg-id="DIRECTV SPORTS 2 FHD" tvg-name="DIRECTV SPORTS 2 FHD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 2 FHD
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 2 FHD" tvg-name="DIRECTV SPORTS 2 FHD" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 2 FHD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1787
-#EXTINF:-1 tvg-id="DIRECTV SPORTS 2 HQ" tvg-name="DIRECTV SPORTS 2 CL HQ" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 2 CL HQ
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 2 HQ" tvg-name="DIRECTV SPORTS 2 CL HQ" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 2 CL HQ
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/45886
-#EXTINF:-1 tvg-id="DIRECTV SPORTS 2 HQ" tvg-name="DIRECTV SPORTS 2 CL HD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 2 CL HD
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 2 HQ" tvg-name="DIRECTV SPORTS 2 CL HD" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 2 CL HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/45885
-#EXTINF:-1 tvg-id="DIRECTV SPORTS 2 HQ" tvg-name="DIRECTV SPORTS 2 CL FHD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 2 CL FHD
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 2 HQ" tvg-name="DIRECTV SPORTS 2 CL FHD" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 2 CL FHD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/45884
-#EXTINF:-1 tvg-id="DIRECTV SPORTS 2 HD" tvg-name="DIRECTV SPORTS 2 PE FHD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 2 PE FHD
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 2 HD" tvg-name="DIRECTV SPORTS 2 PE FHD" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 2 PE FHD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/40003
-#EXTINF:-1 tvg-id="DIRECTV SPORTS 2 HD" tvg-name="DIRECTV SPORTS 2 EC HD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 2 EC HD
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 2 HD" tvg-name="DIRECTV SPORTS 2 EC HD" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 2 EC HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/46741
-#EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  HQ" tvg-name="DIRECTV SPORTS  PLUS  HQ" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS  PLUS  HQ
+#EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  HQ" tvg-name="DIRECTV SPORTS  PLUS  HQ" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS  PLUS  HQ
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/5190
-#EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  HD" tvg-name="DIRECTV SPORTS  PLUS  HD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS  PLUS  HD
+#EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  HD" tvg-name="DIRECTV SPORTS  PLUS  HD" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS  PLUS  HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/5188
-#EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  FHD" tvg-name="DIRECTV SPORTS  PLUS  FHD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS  PLUS  FHD
+#EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  FHD" tvg-name="DIRECTV SPORTS  PLUS  FHD" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS  PLUS  FHD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/5189
 #EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  FHD op2" tvg-name="DIRECTV SPORTS  PLUS  FHD op2" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS  PLUS  FHD op2
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/5191
-#EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  FHD op2" tvg-name="DIRECTV SPORTS  PLUS  CL HQ" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS  PLUS  CL HQ
+#EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  FHD op2" tvg-name="DIRECTV SPORTS  PLUS  CL HQ" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS  PLUS  CL HQ
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/45889
-#EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  FHD" tvg-name="DIRECTV SPORTS  PLUS  CL HD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS  PLUS  CL HD
+#EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  FHD" tvg-name="DIRECTV SPORTS  PLUS  CL HD" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS  PLUS  CL HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/45888
-#EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  FHD" tvg-name="DIRECTV SPORTS  PLUS  CL FHD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS  PLUS  CL FHD
+#EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  FHD" tvg-name="DIRECTV SPORTS  PLUS  CL FHD" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS  PLUS  CL FHD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/45887
-#EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  FHD" tvg-name="DIRECTV SPORTS  PLUS  PE FHD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS  PLUS  PE FHD
+#EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  FHD" tvg-name="DIRECTV SPORTS  PLUS  PE FHD" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS  PLUS  PE FHD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/40004
-#EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  FHD" tvg-name="DIRECTV SPORTS  PLUS  EC HD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS  PLUS  EC HD
+#EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  FHD" tvg-name="DIRECTV SPORTS  PLUS  EC HD" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS  PLUS  EC HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/46742
 #EXTINF:-1 tvg-id="ESPN CL HD" tvg-name="ESPN CL HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN CL HQ
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/40100
@@ -487,8 +491,6 @@ http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/30426
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/47917
 #EXTINF:-1 tvg-id="ESPN 3 SUR FHD" tvg-name="ESPN 3 CL HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 3 CL HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/46196
-#EXTINF:-1 tvg-id="ESPN 3 SUR HD" tvg-name="ESPN 3 PE FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 3 PE FHD
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/40007
 #EXTINF:-1 tvg-id="ESPN 3 SUR HD" tvg-name="ESPN 3 EC HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 3 EC HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/46737
 #EXTINF:-1 tvg-id="ESPN 3 MX HQ" tvg-name="ESPN 3 MX HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 3 MX HQ
@@ -515,27 +517,29 @@ http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/2333
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1838
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="FOX SPORTS BR HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS BR HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/2336
-#EXTINF:-1 tvg-id="FOX SPORTS CL HD" tvg-name="FOX SPORTS CL HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS CL HD
+#EXTINF:-1 tvg-id="FOX SPORTS CL HQ" tvg-name="FOX SPORTS CL HQ" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS CL HQ
+http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/52715
+#EXTINF:-1 tvg-id="FOX SPORTS CL HD" tvg-name="FOX SPORTS CL HD" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS CL HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/2356
-#EXTINF:-1 tvg-id="FOX SPORTS 1 CL HD" tvg-name="FOX SPORTS 1 CL HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 1 CL HQ
+#EXTINF:-1 tvg-id="FOX SPORTS 1 CL HD" tvg-name="FOX SPORTS 1 CL HQ" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 1 CL HQ
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/40149
-#EXTINF:-1 tvg-id="FOX SPORTS 1 CL HD" tvg-name="FOX SPORTS 1 CL HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 1 CL HD
+#EXTINF:-1 tvg-id="FOX SPORTS 1 CL HD" tvg-name="FOX SPORTS 1 CL HD" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 1 CL HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/40151
-#EXTINF:-1 tvg-id="FOX SPORTS CL FHD" tvg-name="FOX SPORTS 1 CL HD op2" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 1 CL HD op2
+#EXTINF:-1 tvg-id="FOX SPORTS CL FHD" tvg-name="FOX SPORTS 1 CL HD op2" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 1 CL HD op2
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/30314
-#EXTINF:-1 tvg-id="FOX SPORTS 1 CL FHD" tvg-name="FOX SPORTS 1 CL FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 1 CL FHD
+#EXTINF:-1 tvg-id="FOX SPORTS 1 CL FHD" tvg-name="FOX SPORTS 1 CL FHD" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 1 CL FHD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/40152
-#EXTINF:-1 tvg-id="FOX SPORTS 1 CL FHD" tvg-name="FOX SPORTS 1 CL FHD op2" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 1 CL FHD op2
+#EXTINF:-1 tvg-id="FOX SPORTS 1 CL FHD" tvg-name="FOX SPORTS 1 CL FHD op2" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 1 CL FHD op2
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/2354
-#EXTINF:-1 tvg-id="FOX SPORTS 1 AR FHD" tvg-name="FOX SPORTS 1 EC HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 1 EC HD
+#EXTINF:-1 tvg-id="FOX SPORTS 1 AR FHD" tvg-name="FOX SPORTS 1 EC HD" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 1 EC HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/46740
 #EXTINF:-1 tvg-id="FOX SPORTS 1 AR FHD" tvg-name="FOX SPORTS 1 AR LQ" tvg-logo="" group-title="DEPORTES",FOX SPORTS 1 AR LQ
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/30427
-#EXTINF:-1 tvg-id="FOX SPORTS 1 AR HQ" tvg-name="FOX SPORTS 1 AR HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 1 AR HQ
+#EXTINF:-1 tvg-id="FOX SPORTS 1 AR HQ" tvg-name="FOX SPORTS 1 AR HQ" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 1 AR HQ
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1777
 #EXTINF:-1 tvg-id="FOX SPORTS 1 AR FHD" tvg-name="FOX SPORTS 1 AR HD" tvg-logo="" group-title="DEPORTES",FOX SPORTS 1 AR HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/30424
-#EXTINF:-1 tvg-id="FOX SPORTS 1 AR HD" tvg-name="FOX SPORTS 1 AR HD op2" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 1 AR HD op2
+#EXTINF:-1 tvg-id="FOX SPORTS 1 AR HD" tvg-name="FOX SPORTS 1 AR HD op2" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 1 AR HD op2
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/47912
 #EXTINF:-1 tvg-id="FOX SPORTS 1 AR FHD" tvg-name="FOX SPORTS 1 AR FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 1 AR FHD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1779
@@ -547,17 +551,17 @@ http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1771
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1772
 #EXTINF:-1 tvg-id="FOX SPORTS 1 MX FHD" tvg-name="FOX SPORTS 1 MX FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 1 MX FHD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1766
-#EXTINF:-1 tvg-id="FOX SPORTS 1 CO HD" tvg-name="FOX SPORTS 1 PE FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 1 PE FHD
+#EXTINF:-1 tvg-id="FOX SPORTS 1 CO HD" tvg-name="FOX SPORTS 1 PE FHD" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 1 PE FHD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/41770
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="FOX SPORTS 2 BR HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 2 BR HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/2335
-#EXTINF:-1 tvg-id="FOX SPORTS 2 CL FHD" tvg-name="FOX SPORTS 2 CL HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 2 CL HQ
+#EXTINF:-1 tvg-id="FOX SPORTS 2 CL FHD" tvg-name="FOX SPORTS 2 CL HQ" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 2 CL HQ
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/40150
-#EXTINF:-1 tvg-id="FOX SPORTS 2 CL FHD" tvg-name="FOX SPORTS 2 CL HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 2 CL HD
+#EXTINF:-1 tvg-id="FOX SPORTS 2 CL FHD" tvg-name="FOX SPORTS 2 CL HD" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 2 CL HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/40153
-#EXTINF:-1 tvg-id="FOX SPORTS 2 CL FHD" tvg-name="FOX SPORTS 2 CL HD op2" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 2 CL HD op2
+#EXTINF:-1 tvg-id="FOX SPORTS 2 CL FHD" tvg-name="FOX SPORTS 2 CL HD op2" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 2 CL HD op2
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/46197
-#EXTINF:-1 tvg-id="FOX SPORTS 2 CL FHD" tvg-name="FOX SPORTS 2 CL FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 2 CL FHD
+#EXTINF:-1 tvg-id="FOX SPORTS 2 CL FHD" tvg-name="FOX SPORTS 2 CL FHD" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 2 CL FHD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/40154
 #EXTINF:-1 tvg-id="FOX SPORTS 2 AR HQ" tvg-name="FOX SPORTS 2 MX HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 2 MX HQ
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1770
@@ -565,23 +569,25 @@ http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1770
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1774
 #EXTINF:-1 tvg-id="FOX SPORTS 2 AR HQ" tvg-name="FOX SPORTS 2 MX FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 2 MX FHD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1768
-#EXTINF:-1 tvg-id="FOX SPORTS 2 AR HQ" tvg-name="FOX SPORTS 2 AR HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 2 AR HQ
+#EXTINF:-1 tvg-id="FOX SPORTS 2 AR HQ" tvg-name="FOX SPORTS 2 AR HQ" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 2 AR HQ
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1776
-#EXTINF:-1 tvg-id="FOX SPORTS 2 AR HD" tvg-name="FOX SPORTS 2 AR HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 2 AR HD
+#EXTINF:-1 tvg-id="FOX SPORTS 2 AR HD" tvg-name="FOX SPORTS 2 AR HD" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 2 AR HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1782
-#EXTINF:-1 tvg-id="FOX SPORTS 2 AR FHD" tvg-name="FOX SPORTS 2 AR HD op2" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 2 AR HD op2
+#EXTINF:-1 tvg-id="FOX SPORTS 2 AR FHD" tvg-name="FOX SPORTS 2 AR HD op2" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 2 AR HD op2
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/47913
 #EXTINF:-1 tvg-id="FOX SPORTS 2 AR FHD" tvg-name="FOX SPORTS 2 AR FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 2 AR FHD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1778
-#EXTINF:-1 tvg-id="FOX SPORTS 2 CO HD" tvg-name="FOX SPORTS 2 PE FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 2 PE FHD
+#EXTINF:-1 tvg-id="FOX SPORTS 2 CO HD" tvg-name="FOX SPORTS 2 PE FHD" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 2 PE FHD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/41771
-#EXTINF:-1 tvg-id="FOX SPORTS 3 AR HQ" tvg-name="FOX SPORTS 3 AR HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 3 AR HQ
+#EXTINF:-1 tvg-id="FOX SPORTS 3 AR HQ" tvg-name="FOX SPORTS 3 AR HQ" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 3 AR HQ
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1775
-#EXTINF:-1 tvg-id="FOX SPORTS 3 AR HD" tvg-name="FOX SPORTS 3 AR HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 3 AR HD
+#EXTINF:-1 tvg-id="FOX SPORTS 3 AR HD" tvg-name="FOX SPORTS 3 AR HD" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 3 AR HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1781
-#EXTINF:-1 tvg-id="FOX SPORTS 3 AR HD" tvg-name="FOX SPORTS 3 AR HD op2" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 3 AR HD op2
+#EXTINF:-1 tvg-id="FOX SPORTS 3 AR HD" tvg-name="FOX SPORTS 3 AR HD op2" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 3 AR HD op2
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/47914
-#EXTINF:-1 tvg-id="FOX SPORTS 3 AR HD" tvg-name="FOX SPORTS 3 CL HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 3 CL HD
+#EXTINF:-1 tvg-id="FOX SPORTS 3 CL HQ" tvg-name="FOX SPORTS 3 CL HQ" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 3 CL HQ
+http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/52716
+#EXTINF:-1 tvg-id="FOX SPORTS 3 AR HD" tvg-name="FOX SPORTS 3 CL HD" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 3 CL HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/46198
 #EXTINF:-1 tvg-id="FOX SPORTS 3 MX HQ" tvg-name="FOX SPORTS 3 MX HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 3 MX HQ
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1769
@@ -589,15 +595,15 @@ http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1769
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1773
 #EXTINF:-1 tvg-id="FOX SPORTS 3 MX FHD" tvg-name="FOX SPORTS 3 MX FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 3 MX FHD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1767
-#EXTINF:-1 tvg-id="FOX SPORTS 3 CO HD" tvg-name="FOX SPORTS 3 PE HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 3 PE HD
+#EXTINF:-1 tvg-id="FOX SPORTS 3 CO HD" tvg-name="FOX SPORTS 3 PE HD" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 3 PE HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/41772
-#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM HD" tvg-name="FOX SPORTS PREMIUM HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS PREMIUM HQ
+#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM HD" tvg-name="FOX SPORTS PREMIUM HQ" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS PREMIUM HQ
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/40910
-#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM HD" tvg-name="FOX SPORTS PREMIUM HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS PREMIUM HD
+#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM HD" tvg-name="FOX SPORTS PREMIUM HD" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS PREMIUM HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1780
 #EXTINF:-1 tvg-id="FOX SPORTS PREMIUM FHD" tvg-name="FOX SPORTS PREMIUM FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS PREMIUM FHD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/2359
-#EXTINF:-1 tvg-id="SP BEIN SPORTS 1" tvg-name="TD PLUS  FHD" tvg-logo="https://pbs.twimg.com/profile_images/1189755464386519041/2wI2B-TY_400x400.jpg" group-title="DEPORTES",TD PLUS  FHD
+#EXTINF:-1 tvg-id="SP BEIN SPORTS 1" tvg-name="TD PLUS  FHD" tvg-logo="http://xdgo.live:8080/images/15f09d7f989093a5dad6ace42bf3af8d.jpg" group-title="DEPORTES",TD PLUS  FHD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/29818
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 1 PE FHD" tvg-name="TD PLUS  2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M C3 A1s_2_Logo.svg/1280px-TD_M C3 A1s_2_Logo.svg.png" group-title="DEPORTES",TD PLUS  2 FHD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/29817
@@ -607,15 +613,15 @@ http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/16452
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/16451
 #EXTINF:-1 tvg-id="GOL TV ECUADOR FHD op2" tvg-name="GOL TV LATINOAMERICA FHD" tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf_400x400.jpg" group-title="DEPORTES",GOL TV LATINOAMERICA FHD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/2358
-#EXTINF:-1 tvg-id="GOL TV Ecuador FHD" tvg-name="GOL TV ECUADOR LQ" tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf_400x400.jpg" group-title="DEPORTES",GOL TV ECUADOR LQ
+#EXTINF:-1 tvg-id="GOL TV Ecuador FHD" tvg-name="GOL TV ECUADOR LQ" tvg-logo="http://xdgo.live:8080/images/99ae7a1be23b775839ad45be02d5006e.jpg" group-title="DEPORTES",GOL TV ECUADOR LQ
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/30246
-#EXTINF:-1 tvg-id="GOL TV Ecuador HQ" tvg-name="GOL TV ECUADOR HQ" tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf_400x400.jpg" group-title="DEPORTES",GOL TV ECUADOR HQ
+#EXTINF:-1 tvg-id="GOL TV Ecuador HQ" tvg-name="GOL TV ECUADOR HQ" tvg-logo="http://xdgo.live:8080/images/99ae7a1be23b775839ad45be02d5006e.jpg" group-title="DEPORTES",GOL TV ECUADOR HQ
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1832
-#EXTINF:-1 tvg-id="GOL TV Ecuador HD" tvg-name="GOL TV ECUADOR HQ op2" tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf_400x400.jpg" group-title="DEPORTES",GOL TV ECUADOR HQ op2
+#EXTINF:-1 tvg-id="GOL TV Ecuador HD" tvg-name="GOL TV ECUADOR HQ op2" tvg-logo="http://xdgo.live:8080/images/99ae7a1be23b775839ad45be02d5006e.jpg" group-title="DEPORTES",GOL TV ECUADOR HQ op2
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/40101
-#EXTINF:-1 tvg-id="GOL TV Ecuador HD" tvg-name="GOL TV ECUADOR HD" tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf_400x400.jpg" group-title="DEPORTES",GOL TV ECUADOR HD
+#EXTINF:-1 tvg-id="GOL TV Ecuador HD" tvg-name="GOL TV ECUADOR HD" tvg-logo="http://xdgo.live:8080/images/99ae7a1be23b775839ad45be02d5006e.jpg" group-title="DEPORTES",GOL TV ECUADOR HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1833
-#EXTINF:-1 tvg-id="GOL TV Ecuador FHD" tvg-name="GOL TV ECUADOR HD op2" tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf_400x400.jpg" group-title="DEPORTES",GOL TV ECUADOR HD op2
+#EXTINF:-1 tvg-id="GOL TV Ecuador FHD" tvg-name="GOL TV ECUADOR HD op2" tvg-logo="http://xdgo.live:8080/images/99ae7a1be23b775839ad45be02d5006e.jpg" group-title="DEPORTES",GOL TV ECUADOR HD op2
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/46734
 #EXTINF:-1 tvg-id="GOL TV Ecuador FHD" tvg-name="GOL TV ECUADOR FHD" tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf_400x400.jpg" group-title="DEPORTES",GOL TV ECUADOR FHD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1834
@@ -647,30 +653,32 @@ http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/2342
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/2349
 #EXTINF:-1 tvg-id="RAI SPORTS FHD" tvg-name="RAI SPORTS FHD" tvg-logo="http://kmedianet.es/wp-content/uploads/2017/09/rai-sports-logo.jpg" group-title="DEPORTES",RAI SPORTS FHD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/2348
-#EXTINF:-1 tvg-id="SPORTV HD" tvg-name="SPORTV HD" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="DEPORTES",SPORTV HD
+#EXTINF:-1 tvg-id="SPORTV HD" tvg-name="SPORTV HD" tvg-logo="http://xdgo.live:8080/images/0735433002f2bfb39538445f35212200.png" group-title="DEPORTES",SPORTV HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/2329
-#EXTINF:-1 tvg-id="SPORTV 2 HD" tvg-name="SPORTV 2 HD" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="DEPORTES",SPORTV 2 HD
+#EXTINF:-1 tvg-id="SPORTV 2 HD" tvg-name="SPORTV 2 HD" tvg-logo="http://xdgo.live:8080/images/0735433002f2bfb39538445f35212200.png" group-title="DEPORTES",SPORTV 2 HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/2327
-#EXTINF:-1 tvg-id="SPORTV 3 HD" tvg-name="SPORTV 3 HD" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="DEPORTES",SPORTV 3 HD
+#EXTINF:-1 tvg-id="SPORTV 3 HD" tvg-name="SPORTV 3 HD" tvg-logo="http://xdgo.live:8080/images/0735433002f2bfb39538445f35212200.png" group-title="DEPORTES",SPORTV 3 HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/2328
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 1 PE FHD" tvg-name="SKY SPORTS LATINO FHD" tvg-logo="https://play-lh.googleusercontent.com/r_zZcURuNO_Ax1prrWgkh5yA-DYhqN9Y_6APwskJIdg9Kwx8ujexkR1pML4xfSn5aBwX" group-title="DEPORTES",SKY SPORTS LATINO FHD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/30423
 #EXTINF:-1 tvg-id="TELEDEPORTE FHD" tvg-name="TELEDEPORTE FHD" tvg-logo="https://img.irtve.es/imagenes/jpg/1331827196060.jpg" group-title="DEPORTES",TELEDEPORTE FHD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1824
-#EXTINF:-1 tvg-id="TELETRACK HD" tvg-name="TELETRACK HD" tvg-logo="https://www.mallsyoutletsvivo.cl/vivo-imperio/wp-content/uploads/sites/4/2018/07/logo-teletrak.jpg" group-title="DEPORTES",TELETRACK HD
+#EXTINF:-1 tvg-id="TELETRACK HD" tvg-name="TELETRACK HD" tvg-logo="http://xdgo.live:8080/images/747d00c399dbb30d86140ef5b8f61f76.jpg" group-title="DEPORTES",TELETRACK HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1823
 #EXTINF:-1 tvg-id="TIGO SPORTS 1 HD" tvg-name="TIGO SPORTS 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",TIGO SPORTS 1 HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1820
-#EXTINF:-1 tvg-id="TIGO SPORTS 2 HD" tvg-name="TIGO SPORTS 2 HD" tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",TIGO SPORTS 2 HD
+#EXTINF:-1 tvg-id="TIGO SPORTS 2 HD" tvg-name="TIGO SPORTS 2 HD" tvg-logo="http://xdgo.live:8080/images/a68da643b24f0266a2d19d175a80ce75.jpg" group-title="DEPORTES",TIGO SPORTS 2 HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1821
 #EXTINF:-1 tvg-id="TIGO SPORTS 1 HD" tvg-name="TIGO SPORTS 1 BO HD" tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",TIGO SPORTS 1 BO HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/45890
 #EXTINF:-1 tvg-id="TIGO SPORTS 1 HD" tvg-name="TIGO SPORTS 2 BO HD" tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",TIGO SPORTS 2 BO HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/45891
-#EXTINF:-1 tvg-id="TIGO SPORTS 1 HD" tvg-name="TIGO SPORTS 3 BO HD" tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",TIGO SPORTS 3 BO HD
+#EXTINF:-1 tvg-id="TIGO SPORTS 1 HD" tvg-name="TIGO SPORTS 3 BO HD" tvg-logo="http://xdgo.live:8080/images/a68da643b24f0266a2d19d175a80ce75.jpg" group-title="DEPORTES",TIGO SPORTS 3 BO HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/45892
-#EXTINF:-1 tvg-id="TIGO SPORTS 1 HD" tvg-name="TIGO SPORTS HONDURAS HD" tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",TIGO SPORTS HONDURAS HD
+#EXTINF:-1 tvg-id="TIGO SPORTS 1 HD" tvg-name="TIGO SPORTS HONDURAS HD" tvg-logo="http://xdgo.live:8080/images/a68da643b24f0266a2d19d175a80ce75.jpg" group-title="DEPORTES",TIGO SPORTS HONDURAS HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/41345
+#EXTINF:-1 tvg-id="TNT SPORTS HD" tvg-name="TNT SPORTS AR HQ" tvg-logo="https://tntsports.com/__export/1565373169000/sites/tntsports/arte/apps/facebook.jpg" group-title="DEPORTES",TNT SPORTS AR HQ
+http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/29664
 #EXTINF:-1 tvg-id="TNT SPORTS HD" tvg-name="TNT SPORTS AR HD" tvg-logo="https://tntsports.com/__export/1565373169000/sites/tntsports/arte/apps/facebook.jpg" group-title="DEPORTES",TNT SPORTS AR HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1815
 #EXTINF:-1 tvg-id="TNT SPORTS FHD" tvg-name="TNT SPORTS AR FHD" tvg-logo="https://tntsports.com/__export/1565373169000/sites/tntsports/arte/apps/facebook.jpg" group-title="DEPORTES",TNT SPORTS AR FHD
@@ -711,7 +719,7 @@ http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1804
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/30293
 #EXTINF:-1 tvg-id="WINSPORTS PLUS HQ" tvg-name="WINSPORTS PLUS HQ" tvg-logo="https://bolavip.com/__export/1579878857776/sites/bolavip/img/2020/01/24/win_x1_crop1579878857355.png_267849830.png" group-title="DEPORTES",WINSPORTS PLUS HQ
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/21863
-#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="WINSPORTS PLUS HD" tvg-logo="https://bolavip.com/__export/1579878857776/sites/bolavip/img/2020/01/24/win_x1_crop1579878857355.png_267849830.png" group-title="DEPORTES",WINSPORTS PLUS HD
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="WINSPORTS PLUS HD" tvg-logo="http://xdgo.live:8080/images/6cc910622c70cac7be7e50ee07ac20dd.png" group-title="DEPORTES",WINSPORTS PLUS HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/21862
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="WINSPORTS PLUS FHD" tvg-logo="https://bolavip.com/__export/1579878857776/sites/bolavip/img/2020/01/24/win_x1_crop1579878857355.png_267849830.png" group-title="DEPORTES",WINSPORTS PLUS FHD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/21861
@@ -753,8 +761,12 @@ http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/30202
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/30203
 #EXTINF:-1 tvg-id="BEIN SPORTS 6" tvg-name="BEIN SPORTS 6" tvg-logo="" group-title="DEPORTES INTERNACIONALES",BEIN SPORTS 6
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/30204
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="BEIN SPORTS 11" tvg-logo="" group-title="DEPORTES INTERNACIONALES",BEIN SPORTS 11
+http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/40047
 #EXTINF:-1 tvg-id="BEIN SPORTS XTRA" tvg-name="BEIN SPORTS XTRA" tvg-logo="" group-title="DEPORTES INTERNACIONALES",BEIN SPORTS XTRA
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/30195
+#EXTINF:-1 tvg-id="BEIN SPORTS XTRA N" tvg-name="BEIN SPORTS XTRA N" tvg-logo="https://image.xumo.com/v1/channels/channel/9999785/300x300.png?type=color_onBlack" group-title="DEPORTES INTERNACIONALES",BEIN SPORTS XTRA N
+http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/52688
 #EXTINF:-1 tvg-id="BTN" tvg-name="BT SPORT 1" tvg-logo="" group-title="DEPORTES INTERNACIONALES",BT SPORT 1
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/24108
 #EXTINF:-1 tvg-id="SKY SPORT Bundesliga 1" tvg-name="BT SPORT 2" tvg-logo="" group-title="DEPORTES INTERNACIONALES",BT SPORT 2
@@ -773,14 +785,18 @@ http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/2030
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/2059
 #EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1" tvg-logo="" group-title="DEPORTES INTERNACIONALES",DAZN 1
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/2370
-#EXTINF:-1 tvg-id="DAZN 1 DE" tvg-name="DAZN 1 DE" tvg-logo="" group-title="DEPORTES INTERNACIONALES",DAZN 1 DE
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/2360
 #EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2" tvg-logo="" group-title="DEPORTES INTERNACIONALES",DAZN 2
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/2368
-#EXTINF:-1 tvg-id="DAZN 2 DE" tvg-name="DAZN 2 DE" tvg-logo="" group-title="DEPORTES INTERNACIONALES",DAZN 2 DE
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/2361
 #EXTINF:-1 tvg-id="DAZN 3" tvg-name="DAZN 3" tvg-logo="" group-title="DEPORTES INTERNACIONALES",DAZN 3
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/2369
+#EXTINF:-1 tvg-id="DAZN 1 DE" tvg-name="DAZN 1 DE" tvg-logo="" group-title="DEPORTES INTERNACIONALES",DAZN 1 DE
+http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/2360
+#EXTINF:-1 tvg-id="DAZN 2 DE" tvg-name="DAZN 2 DE" tvg-logo="" group-title="DEPORTES INTERNACIONALES",DAZN 2 DE
+http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/2361
+#EXTINF:-1 tvg-id="DAZN F1 HQ" tvg-name="DAZN F1 HQ" tvg-logo="http://xdgo.live:8080/images/70174c0a783eae8342f989252f0c82e8.jpg" group-title="DEPORTES INTERNACIONALES",DAZN F1 HQ
+http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/52687
+#EXTINF:-1 tvg-id="DAZN F1 FHD" tvg-name="DAZN F1 FHD" tvg-logo="http://xdgo.live:8080/images/70174c0a783eae8342f989252f0c82e8.jpg" group-title="DEPORTES INTERNACIONALES",DAZN F1 FHD
+http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/52686
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="ESPN" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES INTERNACIONALES",ESPN
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/2378
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES INTERNACIONALES",ESPN 2
@@ -877,11 +893,11 @@ http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1997
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1988
 #EXTINF:-1 tvg-id="LA LIGA TV FHD" tvg-name="MOVISTAR LALIGA FHD" tvg-logo="https://www.adslzone.net/app/uploads/2019/07/movistar-laliga-logo.jpg" group-title="DEPORTES INTERNACIONALES",MOVISTAR LALIGA FHD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/29080
-#EXTINF:-1 tvg-id="LA LIGA TV FHD" tvg-name="MOVISTAR LALIGA HD" tvg-logo="https://www.adslzone.net/app/uploads/2019/07/movistar-laliga-logo.jpg" group-title="DEPORTES INTERNACIONALES",MOVISTAR LALIGA HD
+#EXTINF:-1 tvg-id="LA LIGA TV FHD" tvg-name="MOVISTAR LALIGA HD" tvg-logo="http://xdgo.live:8080/images/89e64cc90f6340f48d80ff670ae8d37d.jpg" group-title="DEPORTES INTERNACIONALES",MOVISTAR LALIGA HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/29079
 #EXTINF:-1 tvg-id="LA LIGA TV FHD" tvg-name="MOVISTAR LALIGA HQ" tvg-logo="https://www.adslzone.net/app/uploads/2019/07/movistar-laliga-logo.jpg" group-title="DEPORTES INTERNACIONALES",MOVISTAR LALIGA HQ
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/29081
-#EXTINF:-1 tvg-id="LA LIGA TV FHD" tvg-name="MOVISTAR LALIGA 1 FHD" tvg-logo="https://www.adslzone.net/app/uploads/2019/07/movistar-laliga-logo.jpg" group-title="DEPORTES INTERNACIONALES",MOVISTAR LALIGA 1 FHD
+#EXTINF:-1 tvg-id="LA LIGA TV FHD" tvg-name="MOVISTAR LALIGA 1 FHD" tvg-logo="http://xdgo.live:8080/images/89e64cc90f6340f48d80ff670ae8d37d.jpg" group-title="DEPORTES INTERNACIONALES",MOVISTAR LALIGA 1 FHD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/29082
 #EXTINF:-1 tvg-id="MOVISTAR TOROS TV" tvg-name="MOVISTAR TOROS TV" tvg-logo="" group-title="DEPORTES INTERNACIONALES",MOVISTAR TOROS TV
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1995
@@ -1009,8 +1025,8 @@ http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/30191
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/2049
 #EXTINF:-1 tvg-id="YES NETWORK" tvg-name="YES NETWORK" tvg-logo="" group-title="DEPORTES INTERNACIONALES",YES NETWORK
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/30196
-#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="BEIN SPORTS 11" tvg-logo="" group-title="DEPORTES INTERNACIONALES",BEIN SPORTS 11
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/40047
+#EXTINF:-1 tvg-id="BEIN SPORTS NBA" tvg-name="BEIN SPORTS NBA" tvg-logo="http://hadarasport.com/wp-content/uploads/2018/05/bein-NBA.gif" group-title="DEPORTES INTERNACIONALES",BEIN SPORTS NBA
+http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/52689
 #EXTINF:-1 tvg-id="Colombiana (2011)" tvg-name="Colombiana (2011)"  group-title="VFLIX ACCION",Colombiana (2011)
 http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/22733.mp4
 #EXTINF:-1 tvg-id="Alberto Barros - Tributo A La Salsa Colombiana 2" tvg-name="Alberto Barros - Tributo A La Salsa Colombiana 2"  group-title="VFLIX CONCIERTOS",Alberto Barros - Tributo A La Salsa Colombiana 2
@@ -1407,7 +1423,7 @@ http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/801
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/797
 #EXTINF:-1 tvg-id="DW FHD" tvg-name="DW FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_NBNhn9wavYNpIf4uXGvD4XPztzuyLRCJDwhPiiYm_sZ6hAYb&s" group-title="CINE FHD",DW FHD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/798
-#EXTINF:-1 tvg-id="EUROPA EUROPA HD" tvg-name="EUROPA EUROPA FHD" tvg-logo="https://zpapi.zetatv.com.uy/media/images/558-blanco.png" group-title="CINE FHD",EUROPA EUROPA FHD
+#EXTINF:-1 tvg-id="EUROPA EUROPA HD" tvg-name="EUROPA EUROPA FHD" tvg-logo="http://xdgo.live:8080/images/dedc9298f14fbf3da6527ca5eb86f286.png" group-title="CINE FHD",EUROPA EUROPA FHD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/45257
 #EXTINF:-1 tvg-id="FILM & ART HQ" tvg-name="FILM ARTS FHD" tvg-logo="https://zpapi.zetatv.com.uy/media/images/1.104.6_rGC5WWB.png" group-title="CINE FHD",FILM ARTS FHD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/795
@@ -1551,7 +1567,7 @@ http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/943
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/916
 #EXTINF:-1 tvg-id="CINEMAX HD" tvg-name="CINEMAX HD" tvg-logo="https://images.istreamplanet.net/w_222.22222222222223,c_limit/dtv-latam-prod/91219067-0362-45cc-bf36-ed3a65f47746.png" group-title="CINE HD",CINEMAX HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/942
-#EXTINF:-1 tvg-id="CINEMAX HQ" tvg-name="CINEMAX HQ" tvg-logo="https://images.istreamplanet.net/w_222.22222222222223,c_limit/dtv-latam-prod/91219067-0362-45cc-bf36-ed3a65f47746.png" group-title="CINE HD",CINEMAX HQ
+#EXTINF:-1 tvg-id="CINEMAX HQ" tvg-name="CINEMAX HQ" tvg-logo="http://xdgo.live:8080/images/ef824d368ec9422c054798e0aac6fc71.png" group-title="CINE HD",CINEMAX HQ
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/915
 #EXTINF:-1 tvg-id="DEPELICULA HD" tvg-name="DEPELICULA HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_de-pelicula_m.png" group-title="CINE HD",DEPELICULA HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/941
@@ -1709,8 +1725,10 @@ http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/853
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/949
 #EXTINF:-1 tvg-id="WARNER CHANNEL HQ" tvg-name="WARNER CHANNEL HQ" tvg-logo="https://zpapi.zetatv.com.uy/media/images/297-blanco.png" group-title="CINE HD",WARNER CHANNEL HQ
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/852
-#EXTINF:-1 tvg-id="DIRECTV OnDEMAND HQ" tvg-name="ON-DIRECTV HD" tvg-logo="https://pbs.twimg.com/profile_images/1263836290975399936/bpQjW6Uo_400x400.jpg" group-title="CINE HD",ON-DIRECTV HD
+#EXTINF:-1 tvg-id="DIRECTV OnDEMAND HQ" tvg-name="ON-DIRECTV HD" tvg-logo="http://xdgo.live:8080/images/59a22c84fd5e32eee03b01148626a297.jpg" group-title="CINE HD",ON-DIRECTV HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/46331
+#EXTINF:-1 tvg-id="ON-DIRECTV HQ" tvg-name="ON-DIRECTV HQ" tvg-logo="http://xdgo.live:8080/images/59a22c84fd5e32eee03b01148626a297.jpg" group-title="CINE HD",ON-DIRECTV HQ
+http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/52326
 #EXTINF:-1 tvg-id="ANIMAL PLANET HQ" tvg-name="ANIMAL PLANET HQ" group-title="CULTURA ",ANIMAL PLANET HQ
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1005
 #EXTINF:-1 tvg-id="ANIMAL PLANET HD" tvg-name="ANIMAL PLANET HD" group-title="CULTURA ",ANIMAL PLANET HD
@@ -1789,7 +1807,7 @@ http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1009
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/985
 #EXTINF:-1 tvg-id="H2 FHD" tvg-name="H2 FHD" group-title="CULTURA ",H2 FHD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1036
-#EXTINF:-1 tvg-id="USA HGTV" tvg-name="HGTV HQ" tvg-logo="https://i.pinimg.com/280x280_RS/1b/f1/d4/1bf1d4bf0ed8c37e1c8efc5b17401467.jpg" group-title="CULTURA ",HGTV HQ
+#EXTINF:-1 tvg-id="USA HGTV" tvg-name="HGTV HQ" tvg-logo="http://xdgo.live:8080/images/e82026f1472ba52eb5f6f9a9d4ae960b.jpg" group-title="CULTURA ",HGTV HQ
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/40086
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="HGTV HD" group-title="CULTURA ",HGTV HD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/40085
@@ -1987,30 +2005,6 @@ http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/47231
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/51077
 #EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  FHD" tvg-name="DIRECTV SPORTS PPV 2" group-title="EVENTOS PPV",DIRECTV SPORTS PPV 2
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/51078
-#EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  FHD" tvg-name="CLARO SPORTS PPV 1 HQ (Juegos Olimpicos)" group-title="EVENTOS PPV",CLARO SPORTS PPV 1 HQ (Juegos Olimpicos)
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/51680
-#EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  FHD" tvg-name="CLARO SPORTS PPV 1 HD (Juegos Olimpicos)" group-title="EVENTOS PPV",CLARO SPORTS PPV 1 HD (Juegos Olimpicos)
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/51904
-#EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  FHD" tvg-name="CLARO SPORTS PPV 1 FHD (Juegos Olimpicos)" group-title="EVENTOS PPV",CLARO SPORTS PPV 1 FHD (Juegos Olimpicos)
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/51684
-#EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  FHD op2" tvg-name="CLARO SPORTS PPV 2 HQ (Juegos Olimpicos)" group-title="EVENTOS PPV",CLARO SPORTS PPV 2 HQ (Juegos Olimpicos)
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/51681
-#EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  FHD" tvg-name="CLARO SPORTS PPV 2 HD (Juegos Olimpicos)" group-title="EVENTOS PPV",CLARO SPORTS PPV 2 HD (Juegos Olimpicos)
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/51905
-#EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  FHD" tvg-name="CLARO SPORTS PPV 2 FHD (Juegos Olimpicos)" group-title="EVENTOS PPV",CLARO SPORTS PPV 2 FHD (Juegos Olimpicos)
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/51685
-#EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  FHD op2" tvg-name="CLARO SPORTS PPV 3 HQ (Juegos Olimpicos)" group-title="EVENTOS PPV",CLARO SPORTS PPV 3 HQ (Juegos Olimpicos)
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/51682
-#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 PE FHD" tvg-name="CLARO SPORTS PPV 3 HD (Juegos Olimpicos)" group-title="EVENTOS PPV",CLARO SPORTS PPV 3 HD (Juegos Olimpicos)
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/51906
-#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 PE FHD" tvg-name="CLARO SPORTS PPV 3 FHD (Juegos Olimpicos)" group-title="EVENTOS PPV",CLARO SPORTS PPV 3 FHD (Juegos Olimpicos)
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/51686
-#EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  FHD op2" tvg-name="CLARO SPORTS PPV 4 HQ (Juegos Olimpicos)" group-title="EVENTOS PPV",CLARO SPORTS PPV 4 HQ (Juegos Olimpicos)
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/51683
-#EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  FHD" tvg-name="CLARO SPORTS PPV 4 HD (Juegos Olimpicos)" group-title="EVENTOS PPV",CLARO SPORTS PPV 4 HD (Juegos Olimpicos)
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/51907
-#EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  FHD" tvg-name="CLARO SPORTS PPV 4 FHD (Juegos Olimpicos)" group-title="EVENTOS PPV",CLARO SPORTS PPV 4 FHD (Juegos Olimpicos)
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/51687
 #EXTINF:-1 tvg-id="GUA Canal 4" tvg-name="GUA VEA CANAL" group-title="GUATEMALA",GUA VEA CANAL
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/2597
 #EXTINF:-1 tvg-id="GUA CANAL 11" tvg-name="GUA CANAL 11" group-title="GUATEMALA",GUA CANAL 11
@@ -2085,40 +2079,22 @@ http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/52078
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/52079
 #EXTINF:-1 tvg-id="HN ATV HONDURAS" tvg-name="HN ATV HONDURAS"  group-title="HONDURAS",HN ATV HONDURAS
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/52080
-#EXTINF:-1 tvg-id="HN CANAL 51" tvg-name="HN CANAL 51"  group-title="HONDURAS",HN CANAL 51
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/52081
 #EXTINF:-1 tvg-id="HN CHOLUSAT-SUR" tvg-name="HN CHOLUSAT-SUR" tvg-logo="" group-title="HONDURAS",HN CHOLUSAT-SUR
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/52082
 #EXTINF:-1 tvg-id="HN EDN TV" tvg-name="HN EDN TV"  group-title="HONDURAS",HN EDN TV
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/52083
 #EXTINF:-1 tvg-id="HN GO-TV" tvg-name="HN GO-TV"  group-title="HONDURAS",HN GO-TV
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/52084
-#EXTINF:-1 tvg-id="HN HONDURED 13" tvg-name="HN HONDURED 13"  group-title="HONDURAS",HN HONDURED 13
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/52085
 #EXTINF:-1 tvg-id="HN JBN" tvg-name="HN JBN"  group-title="HONDURAS",HN JBN
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/52086
-#EXTINF:-1 tvg-id="HN LTV" tvg-name="HN LTV"  group-title="HONDURAS",HN LTV
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/52087
-#EXTINF:-1 tvg-id="HN MAS TV" tvg-name="HN MAS TV"  group-title="HONDURAS",HN MAS TV
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/52088
 #EXTINF:-1 tvg-id="HN METRO TV" tvg-name="HN METRO TV"  group-title="HONDURAS",HN METRO TV
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/52089
-#EXTINF:-1 tvg-id="HN PORVENIR TV" tvg-name="HN PORVENIR TV"  group-title="HONDURAS",HN PORVENIR TV
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/52091
 #EXTINF:-1 tvg-id="HN SANTA BARBARA VISION" tvg-name="HN SANTA BARBARA VISION"  group-title="HONDURAS",HN SANTA BARBARA VISION
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/52092
 #EXTINF:-1 tvg-id="HN TDTV PLUS" tvg-name="HN TDTV PLUS"  group-title="HONDURAS",HN TDTV PLUS
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/52093
-#EXTINF:-1 tvg-id="HN TELEMAS" tvg-name="HN TELEMAS"  group-title="HONDURAS",HN TELEMAS
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/52094
-#EXTINF:-1 tvg-id="HN TV CENTRO CANAL 27.1" tvg-name="HN TV CENTRO CANAL 27.1"  group-title="HONDURAS",HN TV CENTRO CANAL 27.1
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/52095
-#EXTINF:-1 tvg-id="HN TV CENTRO CANAL 27.2" tvg-name="HN TV CENTRO CANAL 27.2"  group-title="HONDURAS",HN TV CENTRO CANAL 27.2
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/52096
 #EXTINF:-1 tvg-id="HN VALLEVISION" tvg-name="HN VALLEVISION"  group-title="HONDURAS",HN VALLEVISION
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/52097
-#EXTINF:-1 tvg-id="HN PBS" tvg-name="HN PBS"  group-title="HONDURAS",HN PBS
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/52098
 #EXTINF:-1 tvg-id="HN VICA TV" tvg-name="HN VICA TV"  group-title="HONDURAS",HN VICA TV
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/52099
 #EXTINF:-1 tvg-id="HN UNETV" tvg-name="HN UNETV"  group-title="HONDURAS",HN UNETV
@@ -2217,86 +2193,6 @@ http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1041
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1072
 #EXTINF:-1 tvg-id="TOONCAST HQ" tvg-name="TOONCAST HQ" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tooncast_m.png" group-title="INFANTILES",TOONCAST HQ
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/1056
-#EXTINF:-1 tvg-id="IL Baby TV" tvg-name="IL Baby TV"  group-title="ISRAEL",IL Baby TV
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/42913
-#EXTINF:-1 tvg-id="IL Channel 11 Kan" tvg-name="IL Channel 11 Kan"  group-title="ISRAEL",IL Channel 11 Kan
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/42914
-#EXTINF:-1 tvg-id="IL Channel 12 Keset" tvg-name="IL Channel 12 Keset"  group-title="ISRAEL",IL Channel 12 Keset
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/42915
-#EXTINF:-1 tvg-id="IL Channel 13 Reshet" tvg-name="IL Channel 13 Reshet"  group-title="ISRAEL",IL Channel 13 Reshet
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/42916
-#EXTINF:-1 tvg-id="IL Channel 9" tvg-name="IL Channel 9"  group-title="ISRAEL",IL Channel 9
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/42918
-#EXTINF:-1 tvg-id="IL Discovery Channel" tvg-name="IL Discovery Channel"  group-title="ISRAEL",IL Discovery Channel
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/42919
-#EXTINF:-1 tvg-id="IL Disney Jr" tvg-name="IL Disney Jr"  group-title="ISRAEL",IL Disney Jr
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/42921
-#EXTINF:-1 tvg-id="IL Ego Total" tvg-name="IL Ego Total"  group-title="ISRAEL",IL Ego Total
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/42923
-#EXTINF:-1 tvg-id="IL Food Channel" tvg-name="IL Food Channel"  group-title="ISRAEL",IL Food Channel
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/42924
-#EXTINF:-1 tvg-id="IL Good Life" tvg-name="IL Good Life"  group-title="ISRAEL",IL Good Life
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/42925
-#EXTINF:-1 tvg-id="IL Health" tvg-name="IL Health"  group-title="ISRAEL",IL Health
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/42926
-#EXTINF:-1 tvg-id="IL Home Plus" tvg-name="IL Home Plus"  group-title="ISRAEL",IL Home Plus
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/42927
-#EXTINF:-1 tvg-id="IL hop" tvg-name="IL hop"  group-title="ISRAEL",IL hop
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/42928
-#EXTINF:-1 tvg-id="IL Hot Action" tvg-name="IL Hot Action"  group-title="ISRAEL",IL Hot Action
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/42929
-#EXTINF:-1 tvg-id="IL Hot Drama" tvg-name="IL Hot Drama"  group-title="ISRAEL",IL Hot Drama
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/42932
-#EXTINF:-1 tvg-id="IL Hot Fun" tvg-name="IL Hot Fun"  group-title="ISRAEL",IL Hot Fun
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/42934
-#EXTINF:-1 tvg-id="IL Hot Gold" tvg-name="IL Hot Gold"  group-title="ISRAEL",IL Hot Gold
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/42935
-#EXTINF:-1 tvg-id="IL Hot HBO" tvg-name="IL Hot HBO"  group-title="ISRAEL",IL Hot HBO
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/42936
-#EXTINF:-1 tvg-id="IL Hot Zone" tvg-name="IL Hot Zone"  group-title="ISRAEL",IL Hot Zone
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/42938
-#EXTINF:-1 tvg-id="IL Hot3" tvg-name="IL Hot3"  group-title="ISRAEL",IL Hot3
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/42939
-#EXTINF:-1 tvg-id="IL i24" tvg-name="IL i24"  group-title="ISRAEL",IL i24
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/42940
-#EXTINF:-1 tvg-id="IL Junior" tvg-name="IL Junior"  group-title="ISRAEL",IL Junior
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/42941
-#EXTINF:-1 tvg-id="IL Luli" tvg-name="IL Luli"  group-title="ISRAEL",IL Luli
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/42942
-#EXTINF:-1 tvg-id="IL Nick Jr" tvg-name="IL Nick Jr"  group-title="ISRAEL",IL Nick Jr
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/42944
-#EXTINF:-1 tvg-id="IL Sport 1" tvg-name="IL Sport 1"  group-title="ISRAEL",IL Sport 1
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/42946
-#EXTINF:-1 tvg-id="IL Sport 2" tvg-name="IL Sport 2"  group-title="ISRAEL",IL Sport 2
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/42947
-#EXTINF:-1 tvg-id="IL Sport 3" tvg-name="IL Sport 3"  group-title="ISRAEL",IL Sport 3
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/42948
-#EXTINF:-1 tvg-id="IL Sport 4" tvg-name="IL Sport 4"  group-title="ISRAEL",IL Sport 4
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/42949
-#EXTINF:-1 tvg-id="IL Sport 5 Live" tvg-name="IL Sport 5 Live"  group-title="ISRAEL",IL Sport 5 Live
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/42952
-#EXTINF:-1 tvg-id="IL Sport 5 Stars" tvg-name="IL Sport 5 Stars"  group-title="ISRAEL",IL Sport 5 Stars
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/42953
-#EXTINF:-1 tvg-id="IL Sport ONE" tvg-name="IL Sport ONE"  group-title="ISRAEL",IL Sport ONE
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/42954
-#EXTINF:-1 tvg-id="IL TeenNick" tvg-name="IL TeenNick"  group-title="ISRAEL",IL TeenNick
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/42956
-#EXTINF:-1 tvg-id="IL Travel" tvg-name="IL Travel"  group-title="ISRAEL",IL Travel
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/42957
-#EXTINF:-1 tvg-id="IL Viva" tvg-name="IL Viva"  group-title="ISRAEL",IL Viva
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/42958
-#EXTINF:-1 tvg-id="IL Viva PLUS " tvg-name="IL Viva PLUS "  group-title="ISRAEL",IL Viva PLUS 
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/42959
-#EXTINF:-1 tvg-id="IL Yaldut Israeli" tvg-name="IL Yaldut Israeli"  group-title="ISRAEL",IL Yaldut Israeli
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/42960
-#EXTINF:-1 tvg-id="IL ZOOM" tvg-name="IL ZOOM"  group-title="ISRAEL",IL ZOOM
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/42970
-#EXTINF:-1 tvg-id="IL Hot Bollywood" tvg-name="IL Hot Bollywood"  group-title="ISRAEL",IL Hot Bollywood
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/42971
-#EXTINF:-1 tvg-id="IL Kabal" tvg-name="IL Kabal"  group-title="ISRAEL",IL Kabal
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/42973
-#EXTINF:-1 tvg-id="IL Mikan" tvg-name="IL Mikan"  group-title="ISRAEL",IL Mikan
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/42976
 #EXTINF:-1 tvg-id="MX A Plus" tvg-name="MX A Plus" group-title="MEXICO",MX A Plus
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/210
 #EXTINF:-1 tvg-id="MX ADN40 FHD" tvg-name="MX ADN40 FHD" group-title="MEXICO",MX ADN40 FHD
@@ -2697,7 +2593,9 @@ http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/5186
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/5187
 #EXTINF:-1 tvg-id="NBA - Cleveland Cavaliers" tvg-name="NBA Washington Wizards" tvg-logo="https://play-lh.googleusercontent.com/I6Jz9nEZq-8jBPn2bmjywWLXLZ7GMn2WR64x9w1xQm8H5Isd1rhaQ4NDsp3jVUhLPFI" group-title="NBA MLB NFL NHL",NBA Washington Wizards
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/30107
-#EXTINF:-1 tvg-id="NFL NETWORK" tvg-name="NFL NETWORK" tvg-logo="https://www.elsoldemexico.com.mx/incoming/94utop-nfl-logo-National-Football-League.jpg/ALTERNATES/FREE_768/nfl-logo-National-Football-League.jpg" group-title="NBA MLB NFL NHL",NFL NETWORK
+#EXTINF:-1 tvg-id="NFL NETWORK HD" tvg-name="NFL NETWORK HD" tvg-logo="http://xdgo.live:8080/images/500c14941b66b13912895bfe1af07d91.jpg" group-title="NBA MLB NFL NHL",NFL NETWORK HD
+http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/52340
+#EXTINF:-1 tvg-id="NFL NETWORK" tvg-name="NFL NETWORK FHD" tvg-logo="http://xdgo.live:8080/images/500c14941b66b13912895bfe1af07d91.jpg" group-title="NBA MLB NFL NHL",NFL NETWORK FHD
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/340
 #EXTINF:-1 tvg-id="NFL REDZONE" tvg-name="NFL REDZONE" tvg-logo="https://www.elsoldemexico.com.mx/incoming/94utop-nfl-logo-National-Football-League.jpg/ALTERNATES/FREE_768/nfl-logo-National-Football-League.jpg" group-title="NBA MLB NFL NHL",NFL REDZONE
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/341
@@ -2923,12 +2821,8 @@ http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/6045
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/6044
 #EXTINF:-1 tvg-id="PPV CINEMA 01" tvg-name="PPV CINEMA 35" tvg-logo="" group-title="PPV ESTRENOS FHD",PPV CINEMA 35
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/6043
-#EXTINF:-1 tvg-id="REL ALIENTO Y VISION" tvg-name="REL ALIENTO Y VISION" group-title="RELIGIOSOS",REL ALIENTO Y VISION
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/17313
 #EXTINF:-1 tvg-id="REL CANDELITA TV" tvg-name="REL CANDELITA TV" group-title="RELIGIOSOS",REL CANDELITA TV
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/17314
-#EXTINF:-1 tvg-id="REL CCI CHANNEL" tvg-name="REL CCI CHANNEL" group-title="RELIGIOSOS",REL CCI CHANNEL
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/17320
 #EXTINF:-1 tvg-id="REL ENLACE" tvg-name="REL ENLACE" group-title="RELIGIOSOS",REL ENLACE
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/17310
 #EXTINF:-1 tvg-id="REL Enlace Juvenil" tvg-name="REL ENLACE JUVENIL" group-title="RELIGIOSOS",REL ENLACE JUVENIL
@@ -2939,14 +2833,10 @@ http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/17311
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/17324
 #EXTINF:-1 tvg-id="REL EWTN" tvg-name="REL EWTN" group-title="RELIGIOSOS",REL EWTN
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/17312
-#EXTINF:-1 tvg-id="REL IGLESIA DEL CAMINO" tvg-name="REL IGLESIA DEL CAMINO" group-title="RELIGIOSOS",REL IGLESIA DEL CAMINO
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/17301
 #EXTINF:-1 tvg-id="REL SOLIDARIA TV" tvg-name="REL SOLIDARIA TV" group-title="RELIGIOSOS",REL SOLIDARIA TV
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/17309
 #EXTINF:-1 tvg-id="REL SOLIDARIA TV" tvg-name="REL SOLIDARIA TV" group-title="RELIGIOSOS",REL SOLIDARIA TV
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/17328
-#EXTINF:-1 tvg-id="REL TELEBENDICION" tvg-name="REL TELEBENDICION" group-title="RELIGIOSOS",REL TELEBENDICION
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/17307
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="USA 5 StarMax" tvg-logo="" group-title="USA",USA 5 StarMax
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/25632
 #EXTINF:-1 tvg-id="USA A&E HD" tvg-name="USA A&E HD" tvg-logo="https://images.istreamplanet.net/w_222.22222222222223,c_limit/dtv-latam-prod/7ccd90e70bdc68ed0f3c8046e75b6e03" group-title="USA",USA A&E HD
@@ -2987,8 +2877,6 @@ http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/19149
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/19165
 #EXTINF:-1 tvg-id="USA ABC Orlando" tvg-name="USA ABC Orlando" tvg-logo="" group-title="USA",USA ABC Orlando
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/19174
-#EXTINF:-1 tvg-id="USA ABC Philly" tvg-name="USA ABC Philly" tvg-logo="" group-title="USA",USA ABC Philly
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/19160
 #EXTINF:-1 tvg-id="USA ABC Phoenix" tvg-name="USA ABC Phoenix" tvg-logo="" group-title="USA",USA ABC Phoenix
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/19183
 #EXTINF:-1 tvg-id="USA ABC Phoenix" tvg-name="USA ABC Pittsburgh" tvg-logo="" group-title="USA",USA ABC Pittsburgh
@@ -3391,8 +3279,6 @@ http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/2320
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/2318
 #EXTINF:-1 tvg-id="USA MTV Live" tvg-name="USA MTV Live" tvg-logo="" group-title="USA",USA MTV Live
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/2315
-#EXTINF:-1 tvg-id="USA Natgeo Pacific" tvg-name="USA Natgeo Pacific" tvg-logo="" group-title="USA",USA Natgeo Pacific
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/2233
 #EXTINF:-1 tvg-id="USA National Geographic" tvg-name="USA National Geographic" tvg-logo="" group-title="USA",USA National Geographic
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/2236
 #EXTINF:-1 tvg-id="USA NBC" tvg-name="USA NBC" tvg-logo="" group-title="USA",USA NBC
@@ -3569,6 +3455,10 @@ http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/22264
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/2250
 #EXTINF:-1 tvg-id="USA YES" tvg-name="USA YES" tvg-logo="" group-title="USA",USA YES
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/2210
+#EXTINF:-1 tvg-id="America tv Miami" tvg-name="America tv Miami" tvg-logo="http://yt3.ggpht.com/ytc/AAUvwniXKjKgOCJtKb5eNCUIDtrR0X7nkbfbtiwpMhOsTw=s900-c-k-c0x00ffffff-no-rj" group-title="USA LATINO",America tv Miami
+http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/52501
+#EXTINF:-1 tvg-id="MEGA TV MIAMI" tvg-name="Mega Tv Miami" tvg-logo="http://xdgo.live:8080/images/b45965ca4ce2f400bc2013bfd6a161bf.jpg" group-title="USA LATINO",Mega Tv Miami
+http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/27542
 #EXTINF:-1 tvg-id="Delicioso" tvg-name="Delicioso" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/77_es.png" group-title="USA LATINO",Delicioso
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/5891
 #EXTINF:-1 tvg-id="Estrella TV" tvg-name="Estrella TV" tvg-logo="" group-title="USA LATINO",Estrella TV
@@ -3615,8 +3505,6 @@ http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/5815
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/372
 #EXTINF:-1 tvg-id="Lo Mejor de Despierta America" tvg-name="Lo Mejor de Despierta America" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/79_es.png" group-title="USA LATINO",Lo Mejor de Despierta America
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/5889
-#EXTINF:-1 tvg-id="MEGA TV MIAMI" tvg-name="MEGA TV MIAMI" tvg-logo="https://mega.tv/wp-content/uploads/sites/4/2015/03/megatv-opengraph.jpg" group-title="USA LATINO",MEGA TV MIAMI
-http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/27542
 #EXTINF:-1 tvg-id="Novelas" tvg-name="Novelas" tvg-logo="" group-title="USA LATINO",Novelas
 http://xdgo.live:8080/52_leidyestrada_k/m2vx2y8a4k/370
 #EXTINF:-1 tvg-id="Novelas in 5 Minutos" tvg-name="Novelas in 5 Minutos" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/75_es.png" group-title="USA LATINO",Novelas in 5 Minutos
@@ -10719,7 +10607,7 @@ http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/21945.mkv
 http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/21946.mkv
 #EXTINF:-1 tvg-id="Polar Express (2004)" tvg-name="Polar Express (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nFO4b8D4U051rBFhjKdgPwOJt5e.jpg" group-title="VFLIX INFANTILES",Polar Express (2004)
 http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/21947.mkv
-#EXTINF:-1 tvg-id="The Making of 'The Nightmare Before Christmas' - 1993" tvg-name="The Making of 'The Nightmare Before Christmas' - 1993" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgJ9pasxEYiM8m3220gflt0jzHI.jpg" group-title="VFLIX INFANTILES",The Making of 'The Nightmare Before Christmas' - 1993
+#EXTINF:-1 tvg-id="Pesadilla antes de Navidad (1993)" tvg-name="Pesadilla antes de Navidad (1993)" tvg-logo="http://xdgo.live:8080/images/9e189d9c43d873b4205ffd64b0e36406.jpg" group-title="VFLIX INFANTILES",Pesadilla antes de Navidad (1993)
 http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/21948.mkv
 #EXTINF:-1 tvg-id="El gato con botas (1961)" tvg-name="El gato con botas (1961)" tvg-logo="http://xdgo.live:8080/images/e9ea439fe35c4fb8d54690788cdbe56c.jpg" group-title="VFLIX INFANTILES",El gato con botas (1961)
 http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/21949.mkv
@@ -12539,7 +12427,7 @@ http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/22222.mkv
 http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/21865.mkv
 #EXTINF:-1 tvg-id="It (1990)" tvg-name="It (1990)"  group-title="VFLIX TERROR TRILLER SUSPENSO",It (1990)
 http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/21248.mkv
-#EXTINF:-1 tvg-id="El barco fantasma (1943)" tvg-name="El barco fantasma (1943)"  group-title="VFLIX TERROR TRILLER SUSPENSO",El barco fantasma (1943)
+#EXTINF:-1 tvg-id="Ghost Ship (Barco fantasma) (2002)" tvg-name="Ghost Ship (Barco fantasma) (2002)"  group-title="VFLIX TERROR TRILLER SUSPENSO",Ghost Ship (Barco fantasma) (2002)
 http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/21249.mkv
 #EXTINF:-1 tvg-id="La casa de cera (2005)" tvg-name="La casa de cera (2005)"  group-title="VFLIX TERROR TRILLER SUSPENSO",La casa de cera (2005)
 http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/21250.mkv
@@ -19877,6 +19765,24 @@ http://xdgo.live:8080/series/52_leidyestrada_k/m2vx2y8a4k/44745.mkv
 http://xdgo.live:8080/series/52_leidyestrada_k/m2vx2y8a4k/44746.mkv
 #EXTINF:-1 tvg-id="The Good Doctor S04 E11" tvg-name="The Good Doctor S04 E11"  group-title="SERIES DRAMA",The Good Doctor S04 E11
 http://xdgo.live:8080/series/52_leidyestrada_k/m2vx2y8a4k/44747.mkv
+#EXTINF:-1 tvg-id="The Good Doctor S04 E12" tvg-name="The Good Doctor S04 E12"  group-title="SERIES DRAMA",The Good Doctor S04 E12
+http://xdgo.live:8080/series/52_leidyestrada_k/m2vx2y8a4k/52347.mkv
+#EXTINF:-1 tvg-id="The Good Doctor S04 E13" tvg-name="The Good Doctor S04 E13"  group-title="SERIES DRAMA",The Good Doctor S04 E13
+http://xdgo.live:8080/series/52_leidyestrada_k/m2vx2y8a4k/52348.mkv
+#EXTINF:-1 tvg-id="The Good Doctor S04 E14" tvg-name="The Good Doctor S04 E14"  group-title="SERIES DRAMA",The Good Doctor S04 E14
+http://xdgo.live:8080/series/52_leidyestrada_k/m2vx2y8a4k/52349.mkv
+#EXTINF:-1 tvg-id="The Good Doctor S04 E15" tvg-name="The Good Doctor S04 E15"  group-title="SERIES DRAMA",The Good Doctor S04 E15
+http://xdgo.live:8080/series/52_leidyestrada_k/m2vx2y8a4k/52350.mkv
+#EXTINF:-1 tvg-id="The Good Doctor S04 E16" tvg-name="The Good Doctor S04 E16"  group-title="SERIES DRAMA",The Good Doctor S04 E16
+http://xdgo.live:8080/series/52_leidyestrada_k/m2vx2y8a4k/52351.mkv
+#EXTINF:-1 tvg-id="The Good Doctor S04 E17" tvg-name="The Good Doctor S04 E17"  group-title="SERIES DRAMA",The Good Doctor S04 E17
+http://xdgo.live:8080/series/52_leidyestrada_k/m2vx2y8a4k/52352.mkv
+#EXTINF:-1 tvg-id="The Good Doctor S04 E18" tvg-name="The Good Doctor S04 E18"  group-title="SERIES DRAMA",The Good Doctor S04 E18
+http://xdgo.live:8080/series/52_leidyestrada_k/m2vx2y8a4k/52353.mkv
+#EXTINF:-1 tvg-id="The Good Doctor S04 E19" tvg-name="The Good Doctor S04 E19"  group-title="SERIES DRAMA",The Good Doctor S04 E19
+http://xdgo.live:8080/series/52_leidyestrada_k/m2vx2y8a4k/52354.mkv
+#EXTINF:-1 tvg-id="The Good Doctor S04 E20" tvg-name="The Good Doctor S04 E20"  group-title="SERIES DRAMA",The Good Doctor S04 E20
+http://xdgo.live:8080/series/52_leidyestrada_k/m2vx2y8a4k/52355.mkv
 #EXTINF:-1 tvg-id="La viuda S01 E01" tvg-name="La viuda S01 E01"  group-title="SERIES DRAMA",La viuda S01 E01
 http://xdgo.live:8080/series/52_leidyestrada_k/m2vx2y8a4k/14617.mkv
 #EXTINF:-1 tvg-id="La viuda S01 E02" tvg-name="La viuda S01 E02"  group-title="SERIES DRAMA",La viuda S01 E02
@@ -26051,6 +25957,10 @@ http://xdgo.live:8080/series/52_leidyestrada_k/m2vx2y8a4k/48784.mkv
 http://xdgo.live:8080/series/52_leidyestrada_k/m2vx2y8a4k/48785.mkv
 #EXTINF:-1 tvg-id="Solos S01 E07" tvg-name="Solos S01 E07"  group-title="SERIES FICCION - FANTASIA",Solos S01 E07
 http://xdgo.live:8080/series/52_leidyestrada_k/m2vx2y8a4k/48786.mkv
+#EXTINF:-1 tvg-id="What If - ¿Que pasaria si...? S01 E01" tvg-name="What If - ¿Que pasaria si...? S01 E01"  group-title="SERIES FICCION - FANTASIA",What If - ¿Que pasaria si...? S01 E01
+http://xdgo.live:8080/series/52_leidyestrada_k/m2vx2y8a4k/52356.mkv
+#EXTINF:-1 tvg-id="What If - ¿Que pasaria si...? S01 E02" tvg-name="What If - ¿Que pasaria si...? S01 E02"  group-title="SERIES FICCION - FANTASIA",What If - ¿Que pasaria si...? S01 E02
+http://xdgo.live:8080/series/52_leidyestrada_k/m2vx2y8a4k/52741.mkv
 #EXTINF:-1 tvg-id="Johnny Bravo S01 E01" tvg-name="Johnny Bravo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9Ug39KxbIt1opgXdJY3AJhAlGx.jpg" group-title="SERIES INFANTILES",Johnny Bravo S01 E01
 http://xdgo.live:8080/series/52_leidyestrada_k/m2vx2y8a4k/6923.mp4
 #EXTINF:-1 tvg-id="Johnny Bravo S01 E02" tvg-name="Johnny Bravo S01 E02" tvg-logo="http://xdgo.live:8080/images/d7b2ea32f483aef63edf9412a3da3b79.jpg" group-title="SERIES INFANTILES",Johnny Bravo S01 E02
@@ -28583,6 +28493,100 @@ http://xdgo.live:8080/series/52_leidyestrada_k/m2vx2y8a4k/41776.mkv
 http://xdgo.live:8080/series/52_leidyestrada_k/m2vx2y8a4k/42114.mkv
 #EXTINF:-1 tvg-id="WandaVision S01 E09" tvg-name="WandaVision S01 E09"  group-title="WANDAVISION",WandaVision S01 E09
 http://xdgo.live:8080/series/52_leidyestrada_k/m2vx2y8a4k/42412.mkv
+#EXTINF:-1 tvg-id="In the Same Breath (2021)" tvg-name="In the Same Breath (2021)" tvg-logo="http://xdgo.live:8080/images/248b4ca79760c7bb3165c28d626d0e0f.jpg" group-title="VFLIX ESTRENOS",In the Same Breath (2021)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52678.mkv
+#EXTINF:-1 tvg-id="La casa del caracol (2021)" tvg-name="La casa del caracol (2021)" tvg-logo="http://xdgo.live:8080/images/898d78b4de682ae0f4d5b4c1a9d01254.jpg" group-title="VFLIX ESTRENOS",La casa del caracol (2021)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52679.mkv
+#EXTINF:-1 tvg-id="Reminiscencia (2021)" tvg-name="Reminiscencia (2021)" tvg-logo="http://xdgo.live:8080/images/ce1fc7ed11e637ca0a75ed6f04c863cf.jpg" group-title="VFLIX ESTRENOS",Reminiscencia (2021)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52680.mkv
+#EXTINF:-1 tvg-id="Rogue Hostage (2021)" tvg-name="Rogue Hostage (2021)" tvg-logo="http://xdgo.live:8080/images/2b5f4d69f96529ac0e878c2020ba9225.jpg" group-title="VFLIX ESTRENOS",Rogue Hostage (2021)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52681.mkv
+#EXTINF:-1 tvg-id="Ironbark: El espía inglés (2021)" tvg-name="Ironbark: El espía inglés (2021)" tvg-logo="http://xdgo.live:8080/images/3d28cfdac48f0c254b2d4c270d475b5a.jpg" group-title="VFLIX ESTRENOS",Ironbark: El espía inglés (2021)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52682.mkv
+#EXTINF:-1 tvg-id="The Girl Who Got Away (2021)" tvg-name="The Girl Who Got Away (2021)" tvg-logo="http://xdgo.live:8080/images/a5bc31b551a854932ca887d0afabe69c.jpg" group-title="VFLIX ESTRENOS",The Girl Who Got Away (2021)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52683.mkv
+#EXTINF:-1 tvg-id="El caballero verde (2021)" tvg-name="El caballero verde (2021)" tvg-logo="http://xdgo.live:8080/images/f56855bd814efd4cd10f4ee2ec742d1b.jpg" group-title="VFLIX ESTRENOS",El caballero verde (2021)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52684.mkv
+#EXTINF:-1 tvg-id="Una casa de locos: La película (2021)" tvg-name="Una casa de locos: La película (2021)" tvg-logo="http://xdgo.live:8080/images/1e0e63adf30f8601c7b30853b2fa8693.jpg" group-title="VFLIX ESTRENOS",Una casa de locos: La película (2021)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52685.mkv
+#EXTINF:-1 tvg-id="Snake Eyes: El origen (2021)" tvg-name="Snake Eyes: El origen (2021)" tvg-logo="http://xdgo.live:8080/images/0c871afa351dbfefc58dbfe1c4c3d9a2.jpg" group-title="VFLIX ESTRENOS",Snake Eyes: El origen (2021)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52580.mkv
+#EXTINF:-1 tvg-id="Beckett (2021)" tvg-name="Beckett (2021)" tvg-logo="http://xdgo.live:8080/images/c619facf2f84ed40d94b189320adfe6f.jpg" group-title="VFLIX ESTRENOS",Beckett (2021)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52566.mkv
+#EXTINF:-1 tvg-id="La isla negra (2021)" tvg-name="La isla negra (2021)" tvg-logo="http://xdgo.live:8080/images/6eb450823f3027987ccf3e27962ff543.jpg" group-title="VFLIX ESTRENOS",La isla negra (2021)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52567.mkv
+#EXTINF:-1 tvg-id="CODA (2021)" tvg-name="CODA (2021)" tvg-logo="http://xdgo.live:8080/images/8483e2640368d495448f96e95fd71619.jpg" group-title="VFLIX ESTRENOS",CODA (2021)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52568.mkv
+#EXTINF:-1 tvg-id="Daisy Quokka ciudad santuario (2021)" tvg-name="Daisy Quokka ciudad santuario (2021)" tvg-logo="http://xdgo.live:8080/images/5faacbb341e61a9e1bd95ba93ee88528.jpg" group-title="VFLIX ESTRENOS",Daisy Quokka ciudad santuario (2021)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52569.mkv
+#EXTINF:-1 tvg-id="Que nadie se entere (2021)" tvg-name="Que nadie se entere (2021)" tvg-logo="http://xdgo.live:8080/images/757622267fd96b22bd554500fe775ffb.jpg" group-title="VFLIX ESTRENOS",Que nadie se entere (2021)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52570.mkv
+#EXTINF:-1 tvg-id="Eye Without a Face (2021)" tvg-name="Eye Without a Face (2021)" tvg-logo="http://xdgo.live:8080/images/82b0dbb84e4ccedb2f7bd2fe20e19633.jpg" group-title="VFLIX ESTRENOS",Eye Without a Face (2021)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52571.mkv
+#EXTINF:-1 tvg-id="Joe Bell (2021)" tvg-name="Joe Bell (2021)" tvg-logo="http://xdgo.live:8080/images/6bceb272724ad48355f9a99e38826268.jpg" group-title="VFLIX ESTRENOS",Joe Bell (2021)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52572.mkv
+#EXTINF:-1 tvg-id="Lokillo: nada es igual (2021)" tvg-name="Lokillo: nada es igual (2021)" tvg-logo="http://xdgo.live:8080/images/e50aae7e307ff39fa1f091b448ed1aa1.jpg" group-title="VFLIX ESTRENOS",Lokillo: nada es igual (2021)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52573.mkv
+#EXTINF:-1 tvg-id="Memories of a Murderer: The Nilsen Tapes (2021)" tvg-name="Memories of a Murderer: The Nilsen Tapes (2021)" tvg-logo="http://xdgo.live:8080/images/111fae7e90fa4830d5abf0973590c6ec.jpg" group-title="VFLIX ESTRENOS",Memories of a Murderer: The Nilsen Tapes (2021)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52574.mkv
+#EXTINF:-1 tvg-id="Naked Singularity (2021)" tvg-name="Naked Singularity (2021)" tvg-logo="http://xdgo.live:8080/images/06e629a6ebad704ccb880219d10b756d.jpg" group-title="VFLIX ESTRENOS",Naked Singularity (2021)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52576.mkv
+#EXTINF:-1 tvg-id="Las mil y una (2020)" tvg-name="Las mil y una (2020)" tvg-logo="http://xdgo.live:8080/images/1b60714dff459239444796fe7c972fc4.jpg" group-title="VFLIX ESTRENOS",Las mil y una (2020)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52577.mkv
+#EXTINF:-1 tvg-id="En el mejor momento (2020)" tvg-name="En el mejor momento (2020)" tvg-logo="http://xdgo.live:8080/images/81f87331ae7407c0d67f696dd1ff1ff5.jpg" group-title="VFLIX ESTRENOS",En el mejor momento (2020)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52578.mkv
+#EXTINF:-1 tvg-id="Police (2020)" tvg-name="Police (2020)" tvg-logo="http://xdgo.live:8080/images/af6cf678858e575e408dac6c3976666f.jpg" group-title="VFLIX ESTRENOS",Police (2020)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52579.mkv
+#EXTINF:-1 tvg-id="The Clearing (2020)" tvg-name="The Clearing (2020)" tvg-logo="http://xdgo.live:8080/images/870994bcbb087311bcd1f7d2a60daa6c.jpg" group-title="VFLIX ESTRENOS",The Clearing (2020)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52581.mkv
+#EXTINF:-1 tvg-id="Flashback (2020)" tvg-name="Flashback (2020)" tvg-logo="http://xdgo.live:8080/images/3cacec33b59ba3a41f6164e88b9e0ef0.jpg" group-title="VFLIX ESTRENOS",Flashback (2020)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52582.mkv
+#EXTINF:-1 tvg-id="Diarios de Intercambio (2021)" tvg-name="Diarios de Intercambio (2021)" tvg-logo="http://xdgo.live:8080/images/a93a034304b783216656183e3ac43381.jpg" group-title="VFLIX ESTRENOS",Diarios de Intercambio (2021)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52583.mkv
+#EXTINF:-1 tvg-id="Un Rescate de Huevitos (2021)" tvg-name="Un Rescate de Huevitos (2021)" tvg-logo="http://xdgo.live:8080/images/23c2e1bce30b20eae66935041b4de47a.jpg" group-title="VFLIX ESTRENOS",Un Rescate de Huevitos (2021)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52584.mkv
+#EXTINF:-1 tvg-id="Untold: Deal with the Devil (2021)" tvg-name="Untold: Deal with the Devil (2021)" tvg-logo="http://xdgo.live:8080/images/c90e43ceffd2b938587c02f898e23ac1.jpg" group-title="VFLIX ESTRENOS",Untold: Deal with the Devil (2021)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52585.mkv
+#EXTINF:-1 tvg-id="Secretos del deporte: La bronca entre los Detroit Pistons y los Indiana Pacers (2021)" tvg-name="Secretos del deporte: La bronca entre los Detroit Pistons y los Indiana Pacers (2021)" tvg-logo="http://xdgo.live:8080/images/b499c41164f47873c8a36cae23b2389b.jpg" group-title="VFLIX ESTRENOS",Secretos del deporte: La bronca entre los Detroit Pistons y los Indiana Pacers (2021)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52586.mkv
+#EXTINF:-1 tvg-id="Villanos (2019)" tvg-name="Villanos (2019)" tvg-logo="http://xdgo.live:8080/images/c539e43e88b249207e78300fa0b26f58.jpg" group-title="VFLIX ESTRENOS",Villanos (2019)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52587.mkv
+#EXTINF:-1 tvg-id="Hotel De Dinosaurios (2021)" tvg-name="Hotel De Dinosaurios (2021)" tvg-logo="http://xdgo.live:8080/images/3dc3f10bfe83543dbf0e39efe343a409.jpg" group-title="VFLIX ESTRENOS",Hotel De Dinosaurios (2021)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52341.mkv
+#EXTINF:-1 tvg-id="Que nadie se entere (2021)" tvg-name="Que nadie se entere (2021)" tvg-logo="http://xdgo.live:8080/images/757622267fd96b22bd554500fe775ffb.jpg" group-title="VFLIX ESTRENOS",Que nadie se entere (2021)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52342.mkv
+#EXTINF:-1 tvg-id="Evangelion: 3.0+1.0 (2021)" tvg-name="Evangelion: 3.0+1.0 (2021)" tvg-logo="http://xdgo.live:8080/images/2b114c2814ca9a3e617723cb66e433b1.jpg" group-title="VFLIX ESTRENOS",Evangelion: 3.0+1.0 (2021)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52343.mkv
+#EXTINF:-1 tvg-id="Misha and the Wolves (2021)" tvg-name="Misha and the Wolves (2021)" tvg-logo="http://xdgo.live:8080/images/632498ff3be17f60e4c2375be2bba015.jpg" group-title="VFLIX ESTRENOS",Misha and the Wolves (2021)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52344.mkv
+#EXTINF:-1 tvg-id="Monster Hunter: Leyendas del gremio (2021)" tvg-name="Monster Hunter: Leyendas del gremio (2021)" tvg-logo="http://xdgo.live:8080/images/c1ce090d72ddac168c3968327172133c.jpg" group-title="VFLIX ESTRENOS",Monster Hunter: Leyendas del gremio (2021)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52345.mkv
+#EXTINF:-1 tvg-id="Wander (2020)" tvg-name="Wander (2020)" tvg-logo="http://xdgo.live:8080/images/008fe8bcd6710ed094a4479db75e2104.jpg" group-title="VFLIX ESTRENOS",Wander (2020)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52346.mkv
+#EXTINF:-1 tvg-id="Muere otra vez (2021)" tvg-name="Muere otra vez (2021)" tvg-logo="http://xdgo.live:8080/images/2592f7b38078a9df47a56cbae829647f.jpg" group-title="VFLIX ESTRENOS",Muere otra vez (2021)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52328.mkv
+#EXTINF:-1 tvg-id="El otro guardaespaldas 2 (2021)" tvg-name="El otro guardaespaldas 2 (2021)" tvg-logo="http://xdgo.live:8080/images/fafad7f15c4a87df009637e434a8326c.jpg" group-title="VFLIX ESTRENOS",El otro guardaespaldas 2 (2021)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52329.mkv
+#EXTINF:-1 tvg-id="Finding You (2021)" tvg-name="Finding You (2021)" tvg-logo="http://xdgo.live:8080/images/9a5b8a3f2a0ddcec9faeb8d317d9eadb.jpg" group-title="VFLIX ESTRENOS",Finding You (2021)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52330.mkv
+#EXTINF:-1 tvg-id="Infinito (2021)" tvg-name="Infinito (2021)" tvg-logo="http://xdgo.live:8080/images/82f797d8931baa5ee710b1fc2207dae5.jpg" group-title="VFLIX ESTRENOS",Infinito (2021)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52331.mkv
+#EXTINF:-1 tvg-id="Joe Bell (2021)" tvg-name="Joe Bell (2021)" tvg-logo="http://xdgo.live:8080/images/6bceb272724ad48355f9a99e38826268.jpg" group-title="VFLIX ESTRENOS",Joe Bell (2021)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52332.mkv
+#EXTINF:-1 tvg-id="Lansky (2021)" tvg-name="Lansky (2021)" tvg-logo="http://xdgo.live:8080/images/12e1939e610eca132d99206bffd2d640.jpg" group-title="VFLIX ESTRENOS",Lansky (2021)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52334.mkv
+#EXTINF:-1 tvg-id="Mi primer beso 3 (2021)" tvg-name="Mi primer beso 3 (2021)" tvg-logo="http://xdgo.live:8080/images/020cb5b8c75cbd7484970116fc4d9fa3.jpg" group-title="VFLIX ESTRENOS",Mi primer beso 3 (2021)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52337.mkv
+#EXTINF:-1 tvg-id="Val (2021)" tvg-name="Val (2021)" tvg-logo="http://xdgo.live:8080/images/861d361deac21123e2a78c82d8dea5d3.jpg" group-title="VFLIX ESTRENOS",Val (2021)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52338.mkv
+#EXTINF:-1 tvg-id="Vivo (2021)" tvg-name="Vivo (2021)" tvg-logo="http://xdgo.live:8080/images/4cbcccd03055a62ca4034e7a09a24157.jpg" group-title="VFLIX ESTRENOS",Vivo (2021)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52339.mkv
+#EXTINF:-1 tvg-id="En Modo Asesino (2020)" tvg-name="En Modo Asesino (2020)" tvg-logo="http://xdgo.live:8080/images/672a5a350f50d7ce352b9d5332ef94f9.jpg" group-title="VFLIX ESTRENOS",En Modo Asesino (2020)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52333.mkv
+#EXTINF:-1 tvg-id="La nube (2020)" tvg-name="La nube (2020)" tvg-logo="http://xdgo.live:8080/images/b581d67509bc04a255f699ab911b380f.jpg" group-title="VFLIX ESTRENOS",La nube (2020)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52335.mkv
+#EXTINF:-1 tvg-id="A Mano Armada (2020)" tvg-name="A Mano Armada (2020)" tvg-logo="http://xdgo.live:8080/images/ed79d5d775f1835055117e147693e079.jpg" group-title="VFLIX ESTRENOS",A Mano Armada (2020)
+http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52336.mkv
 #EXTINF:-1 tvg-id="El Escuadrón Suicida 2 (2021)" tvg-name="El Escuadrón Suicida 2 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AcvqhsaE26hshLKZhXmnlsIkcq.jpg" group-title="VFLIX ESTRENOS",El Escuadrón Suicida 2 (2021)
 http://xdgo.live:8080/movie/52_leidyestrada_k/m2vx2y8a4k/52325.mkv
 #EXTINF:-1 tvg-id="Safer at Home (2021)" tvg-name="Safer at Home (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ZUvH5saSPaC8K1p3i04SrzSwQf.jpg" group-title="VFLIX ESTRENOS",Safer at Home (2021)
