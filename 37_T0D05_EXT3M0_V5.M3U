@@ -245,12 +245,12 @@ http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/1105
 http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/1106
 #EXTINF:-1 tvg-id="CO CANAL TRECE HD" tvg-name="CO CANAL TRECE HD" tvg-logo="https://cr00.epimg.net/radio/imagenes/2018/12/05/nacional/1544029867_795485_1544030022_noticia_normal.jpg" group-title="COLOMBIA",CO CANAL TRECE HD
 http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/1131
+#EXTINF:-1 tvg-id="CO CANAL TRO FHD" tvg-name="CO CANAL TRO FHD" tvg-logo="http://xdgo.live:8080/images/9f2cf5725fcf60822a2adbb0ea5be239.png" group-title="COLOMBIA",CO CANAL TRO FHD
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/53874
 #EXTINF:-1 tvg-id="CO CANAL TRO HQ" tvg-name="CO CANAL TRO HQ" tvg-logo="http://xdgo.live:8080/images/9f2cf5725fcf60822a2adbb0ea5be239.png" group-title="COLOMBIA",CO CANAL TRO HQ
 http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/53876
 #EXTINF:-1 tvg-id="CO CANAL TRO HD" tvg-name="CO CANAL TRO HD" tvg-logo="http://xdgo.live:8080/images/9f2cf5725fcf60822a2adbb0ea5be239.png" group-title="COLOMBIA",CO CANAL TRO HD
 http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/53875
-#EXTINF:-1 tvg-id="CO CANAL TRO FHD" tvg-name="CO CANAL TRO FHD" tvg-logo="http://xdgo.live:8080/images/9f2cf5725fcf60822a2adbb0ea5be239.png" group-title="COLOMBIA",CO CANAL TRO FHD
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/53874
 #EXTINF:-1 tvg-id="CO CANAL UNO HD" tvg-name="CO CANAL UNO HD" tvg-logo="https://boom82.com/wp-content/uploads/2019/05/imLavL3o.png" group-title="COLOMBIA",CO CANAL UNO HD
 http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/1108
 #EXTINF:-1 tvg-id="CO CANTINAZO HD" tvg-name="CO CANTINAZO HD" tvg-logo="http://yt3.ggpht.com/a-/AAuE7mBpJjkt1jaDhMWWO4Ba70_Ukkm32OQrqJouyQ=s240-mo-c-c0xffffffff-rj-k-no" group-title="COLOMBIA",CO CANTINAZO HD
@@ -259,7 +259,7 @@ http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/53870
 http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/30290
 #EXTINF:-1 tvg-id="CO CARACOL HQ" tvg-name="CO CARACOL HQ" tvg-logo="http://xdgo.live:8080/images/63a94b6fa7a0e380619f05a359fe5583.png" group-title="COLOMBIA",CO CARACOL HQ
 http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/1110
-#EXTINF:-1 tvg-id="CO CARACOL HD" tvg-name="CO CARACOL HQ op2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi C3 B3n_logo.svg/1200px-Caracol_Televisi C3 B3n_logo.svg.png" group-title="COLOMBIA",CO CARACOL HQ op2
+#EXTINF:-1 tvg-id="CO CARACOL HD" tvg-name="CO CARACOL HQ op2" tvg-logo="http://xdgo.live:8080/images/63a94b6fa7a0e380619f05a359fe5583.png" group-title="COLOMBIA",CO CARACOL HQ op2
 http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/30292
 #EXTINF:-1 tvg-id="CO CARACOL HD" tvg-name="CO CARACOL HD" tvg-logo="http://xdgo.live:8080/images/63a94b6fa7a0e380619f05a359fe5583.png" group-title="COLOMBIA",CO CARACOL HD
 http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/1111
@@ -429,6 +429,8 @@ http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/2346
 http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/2347
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 1 EC FHD" tvg-name="DIRECTV SPORTS 1 EC FHD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 EC FHD
 http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/2357
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 UR HQ" tvg-name="DIRECTV SPORTS 1 UR HQ" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 UR HQ
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54632
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 1 UR HD" tvg-name="DIRECTV SPORTS 1 UR HD" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 UR HD
 http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54370
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 2 HQ" tvg-name="DIRECTV SPORTS 2 HQ" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 2 HQ
@@ -503,6 +505,10 @@ http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/1797
 http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/1799
 #EXTINF:-1 tvg-id="ESPN MX HD" tvg-name="ESPN MX FHD" tvg-logo="" group-title="DEPORTES",ESPN MX FHD
 http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/30428
+#EXTINF:-1 tvg-id="ESPN UR HQ" tvg-name="ESPN UR HQ" tvg-logo="http://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN UR HQ
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54636
+#EXTINF:-1 tvg-id="ESPN UR HD" tvg-name="ESPN UR HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN UR HD
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54635
 #EXTINF:-1 tvg-id="ESPN SUR HD" tvg-name="ESPN LATINOAMERICA HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN LATINOAMERICA HD
 http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/47916
 #EXTINF:-1 tvg-id="ESPN 2 CL HD" tvg-name="ESPN 2 CL HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 2 CL HQ
@@ -539,6 +545,10 @@ http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/1859
 http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/1862
 #EXTINF:-1 tvg-id="ESPN 2 NORTE HD" tvg-name="ESPN 2 NORTE HD" tvg-logo="" group-title="DEPORTES",ESPN 2 NORTE HD
 http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/30426
+#EXTINF:-1 tvg-id="ESPN 2 UR HQ" tvg-name="ESPN 2 UR HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 2 UR HQ
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54634
+#EXTINF:-1 tvg-id="ESPN 2 UR HD" tvg-name="ESPN 2 UR HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 2 UR HD
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54633
 #EXTINF:-1 tvg-id="ESPN 2 SUR HD" tvg-name="ESPN 2 LATINOAMERICA HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 2 LATINOAMERICA HD
 http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/47917
 #EXTINF:-1 tvg-id="ESPN 3 SUR FHD" tvg-name="ESPN 3 CL HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 3 CL HD
@@ -1035,7 +1045,7 @@ http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/2039
 http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/2067
 #EXTINF:-1 tvg-id="Rai Sport HD" tvg-name="Rai Sport HD" tvg-logo="http://kmedianet.es/wp-content/uploads/2017/09/rai-sports-logo.jpg" group-title="DEPORTES INTERNACIONALES",Rai Sport HD
 http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/1983
-#EXTINF:-1 tvg-id="Rai Sport 1 HD" tvg-name="Rai Sport 1 HD" tvg-logo="http://kmedianet.es/wp-content/uploads/2017/09/rai-sports-logo.jpg" group-title="DEPORTES INTERNACIONALES",Rai Sport 1 HD
+#EXTINF:-1 tvg-id="Rai Sport 1 HD" tvg-name="Rai Sport 1 HD" tvg-logo="http://xdgo.live:8080/images/bc86b2eda0b2261c735512ff745aa2e9.jpg" group-title="DEPORTES INTERNACIONALES",Rai Sport 1 HD
 http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/1984
 #EXTINF:-1 tvg-id="REAL MADRID FHD" tvg-name="REAL MADRID FHD" tvg-logo="" group-title="DEPORTES INTERNACIONALES",REAL MADRID FHD
 http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/1985
@@ -1111,10 +1121,6 @@ http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/2049
 http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/30196
 #EXTINF:-1 tvg-id="BEIN SPORTS NBA" tvg-name="BEIN SPORTS NBA" tvg-logo="http://hadarasport.com/wp-content/uploads/2018/05/bein-NBA.gif" group-title="DEPORTES INTERNACIONALES",BEIN SPORTS NBA
 http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/52689
-#EXTINF:-1 tvg-id="Soccer (Colombia Primera) AmÃ©rica de Cali vs. Deportivo Cali 5:00 PM EST ( NTEL)" tvg-name="Soccer (Colombia Primera) AmÃ©rica de Cali vs. Deportivo Cali 5:00 PM EST ( NTEL)"  group-title="EVENTOS PPV",Soccer (Colombia Primera) AmÃ©rica de Cali vs. Deportivo Cali 5:00 PM EST ( NTEL)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54458
-#EXTINF:-1 tvg-id="Soccer (Colombia Primera) AtlÃ©tico Nacional vs. Independiente MedellÃ­n 9:00 PM EST ( NTEL)" tvg-name="Soccer (Colombia Primera) AtlÃ©tico Nacional vs. Independiente MedellÃ­n 9:00 PM EST ( NTEL)"  group-title="EVENTOS PPV",Soccer (Colombia Primera) AtlÃ©tico Nacional vs. Independiente MedellÃ­n 9:00 PM EST ( NTEL)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54481
 #EXTINF:-1 tvg-id="Colombiana (2011)" tvg-name="Colombiana (2011)"  group-title="VFLIX ACCION",Colombiana (2011)
 http://xdgo.live:8080/movie/37_luismelao_a/gz3GJJ58PN/22733.mp4
 #EXTINF:-1 tvg-id="Alberto Barros - Tributo A La Salsa Colombiana 2" tvg-name="Alberto Barros - Tributo A La Salsa Colombiana 2"  group-title="VFLIX CONCIERTOS",Alberto Barros - Tributo A La Salsa Colombiana 2
@@ -2107,150 +2113,86 @@ http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54379
 http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54393
 #EXTINF:-1 tvg-id="DIRECTV SPORTS PPV 7" tvg-name="DIRECTV SPORTS PPV 7"  group-title="EVENTOS PPV",DIRECTV SPORTS PPV 7
 http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54394
-#EXTINF:-1 tvg-id="Hockey (NHL) Arizona Coyotes at Buffalo Sabres 1:00 PM EST ( NHL)" tvg-name="Hockey (NHL) Arizona Coyotes at Buffalo Sabres 1:00 PM EST ( NHL)"  group-title="EVENTOS PPV",Hockey (NHL) Arizona Coyotes at Buffalo Sabres 1:00 PM EST ( NHL)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54441
-#EXTINF:-1 tvg-id="Football (NCAA) Virginia State at Bowie State 1:00 PM EST ( ASP)" tvg-name="Football (NCAA) Virginia State at Bowie State 1:00 PM EST ( ASP)"  group-title="EVENTOS PPV",Football (NCAA) Virginia State at Bowie State 1:00 PM EST ( ASP)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54442
-#EXTINF:-1 tvg-id="Football (NCAA) Monmouth at Campbell 1:00 PM EST ( ECE)" tvg-name="Football (NCAA) Monmouth at Campbell 1:00 PM EST ( ECE)"  group-title="EVENTOS PPV",Football (NCAA) Monmouth at Campbell 1:00 PM EST ( ECE)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54443
-#EXTINF:-1 tvg-id="Soccer (Serie A) Milan vs Hellas Verona 2:45 PM EST ( PPV)" tvg-name="Soccer (Serie A) Milan vs Hellas Verona 2:45 PM EST ( PPV)"  group-title="EVENTOS PPV",Soccer (Serie A) Milan vs Hellas Verona 2:45 PM EST ( PPV)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54444
-#EXTINF:-1 tvg-id="Football (NCAA) North Dakota at Southern Illinois Carbondale 3:00 PM EST ( ECE)" tvg-name="Football (NCAA) North Dakota at Southern Illinois Carbondale 3:00 PM EST ( ECE)"  group-title="EVENTOS PPV",Football (NCAA) North Dakota at Southern Illinois Carbondale 3:00 PM EST ( ECE)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54445
-#EXTINF:-1 tvg-id="Football (NCAA) Brigham Young at Baylor 3:30 PM EST ( ESPN)" tvg-name="Football (NCAA) Brigham Young at Baylor 3:30 PM EST ( ESPN)"  group-title="EVENTOS PPV",Football (NCAA) Brigham Young at Baylor 3:30 PM EST ( ESPN)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54446
-#EXTINF:-1 tvg-id="Football (NCAA) Kent State at Western Michigan 3:30 PM EST ( ESPNU)" tvg-name="Football (NCAA) Kent State at Western Michigan 3:30 PM EST ( ESPNU)"  group-title="EVENTOS PPV",Football (NCAA) Kent State at Western Michigan 3:30 PM EST ( ESPNU)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54447
-#EXTINF:-1 tvg-id="Football (NCAA) Pittsburgh at Virginia Tech 3:30 PM EST ( ESPN2)" tvg-name="Football (NCAA) Pittsburgh at Virginia Tech 3:30 PM EST ( ESPN2)"  group-title="EVENTOS PPV",Football (NCAA) Pittsburgh at Virginia Tech 3:30 PM EST ( ESPN2)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54448
-#EXTINF:-1 tvg-id="Football (NCAA) Toledo at Central Michigan 3:30 PM EST ( CBSSN)" tvg-name="Football (NCAA) Toledo at Central Michigan 3:30 PM EST ( CBSSN)"  group-title="EVENTOS PPV",Football (NCAA) Toledo at Central Michigan 3:30 PM EST ( CBSSN)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54449
-#EXTINF:-1 tvg-id="Soccer (MLS) San Jose Earthquakes at Los Angeles FC 3:30 PM EST ( UNIe)" tvg-name="Soccer (MLS) San Jose Earthquakes at Los Angeles FC 3:30 PM EST ( UNIe)"  group-title="EVENTOS PPV",Soccer (MLS) San Jose Earthquakes at Los Angeles FC 3:30 PM EST ( UNIe)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54450
-#EXTINF:-1 tvg-id="Football (NCAA) Miami (FL) at North Carolina 3:30 PM EST ( ACCN)" tvg-name="Football (NCAA) Miami (FL) at North Carolina 3:30 PM EST ( ACCN)"  group-title="EVENTOS PPV",Football (NCAA) Miami (FL) at North Carolina 3:30 PM EST ( ACCN)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54451
-#EXTINF:-1 tvg-id="Football (NCAA) Fresno State at Wyoming 3:30 PM EST ( FS2)" tvg-name="Football (NCAA) Fresno State at Wyoming 3:30 PM EST ( FS2)"  group-title="EVENTOS PPV",Football (NCAA) Fresno State at Wyoming 3:30 PM EST ( FS2)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54452
-#EXTINF:-1 tvg-id="Football (NCAA) Western Kentucky at Old Dominion 3:30 PM EST ( ECE)" tvg-name="Football (NCAA) Western Kentucky at Old Dominion 3:30 PM EST ( ECE)"  group-title="EVENTOS PPV",Football (NCAA) Western Kentucky at Old Dominion 3:30 PM EST ( ECE)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54453
-#EXTINF:-1 tvg-id="Football (NCAA) Morgan State at South Carolina State 3:30 PM EST ( ECE)" tvg-name="Football (NCAA) Morgan State at South Carolina State 3:30 PM EST ( ECE)"  group-title="EVENTOS PPV",Football (NCAA) Morgan State at South Carolina State 3:30 PM EST ( ECE)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54454
-#EXTINF:-1 tvg-id="Football (NCAA) Vanderbilt at South Carolina 4:00 PM EST ( SEC)" tvg-name="Football (NCAA) Vanderbilt at South Carolina 4:00 PM EST ( SEC)"  group-title="EVENTOS PPV",Football (NCAA) Vanderbilt at South Carolina 4:00 PM EST ( SEC)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54455
-#EXTINF:-1 tvg-id="Baseball (MLB) Boston Red Sox at Houston Astros 4:20 PM EST ( FS1)" tvg-name="Baseball (MLB) Boston Red Sox at Houston Astros 4:20 PM EST ( FS1)"  group-title="EVENTOS PPV",Baseball (MLB) Boston Red Sox at Houston Astros 4:20 PM EST ( FS1)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54456
-#EXTINF:-1 tvg-id="Volleyball (NCAA Women) Wisconsin at Michigan 4:30 PM EST ( BTN)" tvg-name="Volleyball (NCAA Women) Wisconsin at Michigan 4:30 PM EST ( BTN)"  group-title="EVENTOS PPV",Volleyball (NCAA Women) Wisconsin at Michigan 4:30 PM EST ( BTN)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54457
-#EXTINF:-1 tvg-id="Soccer (Liga MX) Leon at Monterrey 6:00 PM EST ( ESPDR)" tvg-name="Soccer (Liga MX) Leon at Monterrey 6:00 PM EST ( ESPDR)"  group-title="EVENTOS PPV",Soccer (Liga MX) Leon at Monterrey 6:00 PM EST ( ESPDR)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54459
-#EXTINF:-1 tvg-id="Soccer (MLS) Inter Miami CF at Columbus Crew SC 6:00 PM EST ( MLS)" tvg-name="Soccer (MLS) Inter Miami CF at Columbus Crew SC 6:00 PM EST ( MLS)"  group-title="EVENTOS PPV",Soccer (MLS) Inter Miami CF at Columbus Crew SC 6:00 PM EST ( MLS)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54460
-#EXTINF:-1 tvg-id="Hockey (NHL) New York Islanders at Florida Panthers 6:00 PM EST ( NHL)" tvg-name="Hockey (NHL) New York Islanders at Florida Panthers 6:00 PM EST ( NHL)"  group-title="EVENTOS PPV",Hockey (NHL) New York Islanders at Florida Panthers 6:00 PM EST ( NHL)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54461
-#EXTINF:-1 tvg-id="Football (NCAA) The Citadel at Furman 6:00 PM EST ( ECE)" tvg-name="Football (NCAA) The Citadel at Furman 6:00 PM EST ( ECE)"  group-title="EVENTOS PPV",Football (NCAA) The Citadel at Furman 6:00 PM EST ( ECE)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54462
-#EXTINF:-1 tvg-id="Football (NCAA) Alabama at Mississippi State 7:00 PM EST ( ESPN)" tvg-name="Football (NCAA) Alabama at Mississippi State 7:00 PM EST ( ESPN)"  group-title="EVENTOS PPV",Football (NCAA) Alabama at Mississippi State 7:00 PM EST ( ESPN)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54463
-#EXTINF:-1 tvg-id="Hockey (NHL) Chicago Blackhawks at Pittsburgh Penguins 7:00 PM EST ( NHL)" tvg-name="Hockey (NHL) Chicago Blackhawks at Pittsburgh Penguins 7:00 PM EST ( NHL)"  group-title="EVENTOS PPV",Hockey (NHL) Chicago Blackhawks at Pittsburgh Penguins 7:00 PM EST ( NHL)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54464
-#EXTINF:-1 tvg-id="Hockey (NHL) Dallas Stars at Boston Bruins 7:00 PM EST ( NHLa)" tvg-name="Hockey (NHL) Dallas Stars at Boston Bruins 7:00 PM EST ( NHLa)"  group-title="EVENTOS PPV",Hockey (NHL) Dallas Stars at Boston Bruins 7:00 PM EST ( NHLa)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54465
-#EXTINF:-1 tvg-id="Football (NCAA) Utah State at UNLV 7:00 PM EST ( CBSSN)" tvg-name="Football (NCAA) Utah State at UNLV 7:00 PM EST ( CBSSN)"  group-title="EVENTOS PPV",Football (NCAA) Utah State at UNLV 7:00 PM EST ( CBSSN)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54466
-#EXTINF:-1 tvg-id="Hockey (NHL) Ottawa Senators at Toronto Maple Leafs 7:00 PM EST ( NHL)" tvg-name="Hockey (NHL) Ottawa Senators at Toronto Maple Leafs 7:00 PM EST ( NHL)"  group-title="EVENTOS PPV",Hockey (NHL) Ottawa Senators at Toronto Maple Leafs 7:00 PM EST ( NHL)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54467
-#EXTINF:-1 tvg-id="Hockey (NHL) New York Rangers at Montreal Canadiens 7:00 PM EST ( NHL)" tvg-name="Hockey (NHL) New York Rangers at Montreal Canadiens 7:00 PM EST ( NHL)"  group-title="EVENTOS PPV",Hockey (NHL) New York Rangers at Montreal Canadiens 7:00 PM EST ( NHL)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54468
-#EXTINF:-1 tvg-id="Hockey (NHL) Vancouver Canucks at Detroit Red Wings 7:00 PM EST ( NHL)" tvg-name="Hockey (NHL) Vancouver Canucks at Detroit Red Wings 7:00 PM EST ( NHL)"  group-title="EVENTOS PPV",Hockey (NHL) Vancouver Canucks at Detroit Red Wings 7:00 PM EST ( NHL)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54469
-#EXTINF:-1 tvg-id="Hockey (NHL) Tampa Bay Lightning at Washington Capitals 7:00 PM EST ( NHL)" tvg-name="Hockey (NHL) Tampa Bay Lightning at Washington Capitals 7:00 PM EST ( NHL)"  group-title="EVENTOS PPV",Hockey (NHL) Tampa Bay Lightning at Washington Capitals 7:00 PM EST ( NHL)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54470
-#EXTINF:-1 tvg-id="Hockey (NHL) Seattle Kraken at Columbus Blue Jackets 7:00 PM EST ( NHL)" tvg-name="Hockey (NHL) Seattle Kraken at Columbus Blue Jackets 7:00 PM EST ( NHL)"  group-title="EVENTOS PPV",Hockey (NHL) Seattle Kraken at Columbus Blue Jackets 7:00 PM EST ( NHL)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54471
-#EXTINF:-1 tvg-id="Football (NCAA) Stanford at Washington State 7:30 PM EST ( ESPNU)" tvg-name="Football (NCAA) Stanford at Washington State 7:30 PM EST ( ESPNU)"  group-title="EVENTOS PPV",Football (NCAA) Stanford at Washington State 7:30 PM EST ( ESPNU)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54472
-#EXTINF:-1 tvg-id="Football (NCAA) Iowa State at Kansas State 7:30 PM EST ( ESPN2)" tvg-name="Football (NCAA) Iowa State at Kansas State 7:30 PM EST ( ESPN2)"  group-title="EVENTOS PPV",Football (NCAA) Iowa State at Kansas State 7:30 PM EST ( ESPN2)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54473
-#EXTINF:-1 tvg-id="Soccer (MLS) Atlanta United FC at Toronto FC 7:30 PM EST ( MLS)" tvg-name="Soccer (MLS) Atlanta United FC at Toronto FC 7:30 PM EST ( MLS)"  group-title="EVENTOS PPV",Soccer (MLS) Atlanta United FC at Toronto FC 7:30 PM EST ( MLS)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54474
-#EXTINF:-1 tvg-id="Football (NCAA) Mississippi at Tennessee 7:30 PM EST ( SEC)" tvg-name="Football (NCAA) Mississippi at Tennessee 7:30 PM EST ( SEC)"  group-title="EVENTOS PPV",Football (NCAA) Mississippi at Tennessee 7:30 PM EST ( SEC)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54475
-#EXTINF:-1 tvg-id="Football (NCAA) North Carolina State at Boston College 7:30 PM EST ( ACCN)" tvg-name="Football (NCAA) North Carolina State at Boston College 7:30 PM EST ( ACCN)"  group-title="EVENTOS PPV",Football (NCAA) North Carolina State at Boston College 7:30 PM EST ( ACCN)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54476
-#EXTINF:-1 tvg-id="Soccer (Liga MX) America vs San Luis 8:00 PM EST ( UNIe)" tvg-name="Soccer (Liga MX) America vs San Luis 8:00 PM EST ( UNIe)"  group-title="EVENTOS PPV",Soccer (Liga MX) America vs San Luis 8:00 PM EST ( UNIe)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54477
-#EXTINF:-1 tvg-id="Football (NCAA) Army West Point at Wisconsin 8:00 PM EST ( BTN)" tvg-name="Football (NCAA) Army West Point at Wisconsin 8:00 PM EST ( BTN)"  group-title="EVENTOS PPV",Football (NCAA) Army West Point at Wisconsin 8:00 PM EST ( BTN)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54478
-#EXTINF:-1 tvg-id="Hockey (NHL) Carolina Hurricanes at Nashville Predators 8:00 PM EST ( NHL)" tvg-name="Hockey (NHL) Carolina Hurricanes at Nashville Predators 8:00 PM EST ( NHL)"  group-title="EVENTOS PPV",Hockey (NHL) Carolina Hurricanes at Nashville Predators 8:00 PM EST ( NHL)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54479
-#EXTINF:-1 tvg-id="Football (NCAA) Air Force at Boise State 9:00 PM EST ( FS1)" tvg-name="Football (NCAA) Air Force at Boise State 9:00 PM EST ( FS1)"  group-title="EVENTOS PPV",Football (NCAA) Air Force at Boise State 9:00 PM EST ( FS1)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54480
-#EXTINF:-1 tvg-id="Soccer (Liga MX) Pachuca vs Santos PLUS 8:05 PM EST ( UNIe)" tvg-name="Soccer (Liga MX) Pachuca vs Santos PLUS 8:05 PM EST ( UNIe)"  group-title="EVENTOS PPV",Soccer (Liga MX) Pachuca vs Santos PLUS 8:05 PM EST ( UNIe)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54482
-#EXTINF:-1 tvg-id="Soccer (MLS) Minnesota United FC at Austin FC 9:00 PM EST ( MLS)" tvg-name="Soccer (MLS) Minnesota United FC at Austin FC 9:00 PM EST ( MLS)"  group-title="EVENTOS PPV",Soccer (MLS) Minnesota United FC at Austin FC 9:00 PM EST ( MLS)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54483
-#EXTINF:-1 tvg-id="Hockey (NHL) St. Louis Blues at Colorado Avalanche 9:00 PM EST ( NHL)" tvg-name="Hockey (NHL) St. Louis Blues at Colorado Avalanche 9:00 PM EST ( NHL)"  group-title="EVENTOS PPV",Hockey (NHL) St. Louis Blues at Colorado Avalanche 9:00 PM EST ( NHL)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54484
-#EXTINF:-1 tvg-id="Soccer (MLS) Colorado Rapids at Real Salt Lake 9:30 PM EST ( MLS)" tvg-name="Soccer (MLS) Colorado Rapids at Real Salt Lake 9:30 PM EST ( MLS)"  group-title="EVENTOS PPV",Soccer (MLS) Colorado Rapids at Real Salt Lake 9:30 PM EST ( MLS)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54485
-#EXTINF:-1 tvg-id="Football (NCAA) Arizona State at Utah 10:00 PM EST ( ESPN)" tvg-name="Football (NCAA) Arizona State at Utah 10:00 PM EST ( ESPN)"  group-title="EVENTOS PPV",Football (NCAA) Arizona State at Utah 10:00 PM EST ( ESPN)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54486
-#EXTINF:-1 tvg-id="Soccer (Liga MX) U. de N. Leon at Cruz Azul 10:00 PM EST ( UNIe)" tvg-name="Soccer (Liga MX) U. de N. Leon at Cruz Azul 10:00 PM EST ( UNIe)"  group-title="EVENTOS PPV",Soccer (Liga MX) U. de N. Leon at Cruz Azul 10:00 PM EST ( UNIe)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54487
-#EXTINF:-1 tvg-id="Hockey (NHL) Calgary Flames at Edmonton Oilers 10:00 PM EST ( NHL)" tvg-name="Hockey (NHL) Calgary Flames at Edmonton Oilers 10:00 PM EST ( NHL)"  group-title="EVENTOS PPV",Hockey (NHL) Calgary Flames at Edmonton Oilers 10:00 PM EST ( NHL)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54488
-#EXTINF:-1 tvg-id="Hockey (NHL) Winnipeg Jets at San Jose Sharks 10:00 PM EST ( NHL)" tvg-name="Hockey (NHL) Winnipeg Jets at San Jose Sharks 10:00 PM EST ( NHL)"  group-title="EVENTOS PPV",Hockey (NHL) Winnipeg Jets at San Jose Sharks 10:00 PM EST ( NHL)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54489
-#EXTINF:-1 tvg-id="Football (NCAA) Hawaii at Nevada 10:30 PM EST ( CBSSN)" tvg-name="Football (NCAA) Hawaii at Nevada 10:30 PM EST ( CBSSN)"  group-title="EVENTOS PPV",Football (NCAA) Hawaii at Nevada 10:30 PM EST ( CBSSN)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54490
-#EXTINF:-1 tvg-id="Soccer (MLS) Portland Timbers at Los Angeles Galaxy 10:30 PM EST ( MLS)" tvg-name="Soccer (MLS) Portland Timbers at Los Angeles Galaxy 10:30 PM EST ( MLS)"  group-title="EVENTOS PPV",Soccer (MLS) Portland Timbers at Los Angeles Galaxy 10:30 PM EST ( MLS)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54491
-#EXTINF:-1 tvg-id="Hockey (NHL) Minnesota Wild at Los Angeles Kings 10:30 PM EST ( NHL)" tvg-name="Hockey (NHL) Minnesota Wild at Los Angeles Kings 10:30 PM EST ( NHL)"  group-title="EVENTOS PPV",Hockey (NHL) Minnesota Wild at Los Angeles Kings 10:30 PM EST ( NHL)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54492
-#EXTINF:-1 tvg-id="Baseball (MLB) PLUS Boston Red Sox vs Houston Astros 8:07 PM EST (ESPSD)" tvg-name="Baseball (MLB) PLUS Boston Red Sox vs Houston Astros 8:07 PM EST (ESPSD)"  group-title="EVENTOS PPV",Baseball (MLB) PLUS Boston Red Sox vs Houston Astros 8:07 PM EST (ESPSD)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54493
-#EXTINF:-1 tvg-id="Baseball (MLB) Boston Red Sox vs Houston Astros 8:07 PM EST (FS1HD)" tvg-name="Baseball (MLB) Boston Red Sox vs Houston Astros 8:07 PM EST (FS1HD)"  group-title="EVENTOS PPV",Baseball (MLB) Boston Red Sox vs Houston Astros 8:07 PM EST (FS1HD)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54494
-#EXTINF:-1 tvg-id="Baseball (MLB) PLUS Boston Red Sox vs Houston Astros 8:07 PM EST (ESP)" tvg-name="Baseball (MLB) PLUS Boston Red Sox vs Houston Astros 8:07 PM EST (ESP)"  group-title="EVENTOS PPV",Baseball (MLB) PLUS Boston Red Sox vs Houston Astros 8:07 PM EST (ESP)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54495
-#EXTINF:-1 tvg-id="Baseball (MLB) Boston Red Sox vs Houston Astros 8:07 PM EST ( FS1SD)" tvg-name="Baseball (MLB) Boston Red Sox vs Houston Astros 8:07 PM EST ( FS1SD)"  group-title="EVENTOS PPV",Baseball (MLB) Boston Red Sox vs Houston Astros 8:07 PM EST ( FS1SD)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54496
-#EXTINF:-1 tvg-id="Baseball (MLB) PLUS Los Angeles Dodgers vs Atlanta Braves 8:07 PM EST (TBSHD)" tvg-name="Baseball (MLB) PLUS Los Angeles Dodgers vs Atlanta Braves 8:07 PM EST (TBSHD)"  group-title="EVENTOS PPV",Baseball (MLB) PLUS Los Angeles Dodgers vs Atlanta Braves 8:07 PM EST (TBSHD)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54497
-#EXTINF:-1 tvg-id="Baseball (MLB) PLUS Los Angeles Dodgers vs Atlanta Braves 8:07 PM EST (TBSSD)" tvg-name="Baseball (MLB) PLUS Los Angeles Dodgers vs Atlanta Braves 8:07 PM EST (TBSSD)"  group-title="EVENTOS PPV",Baseball (MLB) PLUS Los Angeles Dodgers vs Atlanta Braves 8:07 PM EST (TBSSD)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54498
-#EXTINF:-1 tvg-id="Baseball (MLB) PLUS Los Angeles Dodgers vs Atlanta Braves 8:07 PM EST (ESPHD)" tvg-name="Baseball (MLB) PLUS Los Angeles Dodgers vs Atlanta Braves 8:07 PM EST (ESPHD)"  group-title="EVENTOS PPV",Baseball (MLB) PLUS Los Angeles Dodgers vs Atlanta Braves 8:07 PM EST (ESPHD)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54499
-#EXTINF:-1 tvg-id="Baseball (MLB) PLUS Los Angeles Dodgers vs Atlanta Braves 8:07 PM EST (ESPSD)" tvg-name="Baseball (MLB) PLUS Los Angeles Dodgers vs Atlanta Braves 8:07 PM EST (ESPSD)"  group-title="EVENTOS PPV",Baseball (MLB) PLUS Los Angeles Dodgers vs Atlanta Braves 8:07 PM EST (ESPSD)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54500
-#EXTINF:-1 tvg-id="RJJ Boxing Santiago Dominguez vs Jesus Antonio Rubio 10:00 PM EST (HD)" tvg-name="RJJ Boxing Santiago Dominguez vs Jesus Antonio Rubio 10:00 PM EST (HD)"  group-title="EVENTOS PPV",RJJ Boxing Santiago Dominguez vs Jesus Antonio Rubio 10:00 PM EST (HD)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54501
-#EXTINF:-1 tvg-id="RJJ Boxing Santiago Dominguez vs Jesus Antonio Rubio 10:00 PM EST (SD)" tvg-name="RJJ Boxing Santiago Dominguez vs Jesus Antonio Rubio 10:00 PM EST (SD)"  group-title="EVENTOS PPV",RJJ Boxing Santiago Dominguez vs Jesus Antonio Rubio 10:00 PM EST (SD)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54502
-#EXTINF:-1 tvg-id="Amir Khan Crypto Fight Night 10:00 AM EST (HD)" tvg-name="Amir Khan Crypto Fight Night 10:00 AM EST (HD)"  group-title="EVENTOS PPV",Amir Khan Crypto Fight Night 10:00 AM EST (HD)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54503
-#EXTINF:-1 tvg-id="Amir Khan Crypto Fight Night 10:00 AM EST (SD)" tvg-name="Amir Khan Crypto Fight Night 10:00 AM EST (SD)"  group-title="EVENTOS PPV",Amir Khan Crypto Fight Night 10:00 AM EST (SD)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54504
-#EXTINF:-1 tvg-id="Box Hughie Fury vs Christian Hammer 1:00 PM EST (HD)" tvg-name="Box Hughie Fury vs Christian Hammer 1:00 PM EST (HD)"  group-title="EVENTOS PPV",Box Hughie Fury vs Christian Hammer 1:00 PM EST (HD)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54505
-#EXTINF:-1 tvg-id="Box Hughie Fury vs Christian Hammer 1:00 PM EST (SD)" tvg-name="Box Hughie Fury vs Christian Hammer 1:00 PM EST (SD)"  group-title="EVENTOS PPV",Box Hughie Fury vs Christian Hammer 1:00 PM EST (SD)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54506
-#EXTINF:-1 tvg-id="The TrillerVerz III Weekend Daniel Gonzalez vs Petros Ananyan 6:00 PM EST (HD)" tvg-name="The TrillerVerz III Weekend Daniel Gonzalez vs Petros Ananyan 6:00 PM EST (HD)"  group-title="EVENTOS PPV",The TrillerVerz III Weekend Daniel Gonzalez vs Petros Ananyan 6:00 PM EST (HD)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54507
-#EXTINF:-1 tvg-id="The TrillerVerz III Weekend Daniel Gonzalez vs Petros Ananyan 6:00 PM EST (SD)" tvg-name="The TrillerVerz III Weekend Daniel Gonzalez vs Petros Ananyan 6:00 PM EST (SD)"  group-title="EVENTOS PPV",The TrillerVerz III Weekend Daniel Gonzalez vs Petros Ananyan 6:00 PM EST (SD)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54508
-#EXTINF:-1 tvg-id="UFC Fight Night Aspen Ladd vs Norma Dumont 7:00 PM EST (HD)" tvg-name="UFC Fight Night Aspen Ladd vs Norma Dumont 7:00 PM EST (HD)"  group-title="EVENTOS PPV",UFC Fight Night Aspen Ladd vs Norma Dumont 7:00 PM EST (HD)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54509
-#EXTINF:-1 tvg-id="UFC Fight Night Aspen Ladd vs Norma Dumont 7:00 PM EST (SD)" tvg-name="UFC Fight Night Aspen Ladd vs Norma Dumont 7:00 PM EST (SD)"  group-title="EVENTOS PPV",UFC Fight Night Aspen Ladd vs Norma Dumont 7:00 PM EST (SD)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54510
-#EXTINF:-1 tvg-id="Box Mikey Garcia vs Sandor Martin 7:00 PM EST (HD)" tvg-name="Box Mikey Garcia vs Sandor Martin 7:00 PM EST (HD)"  group-title="EVENTOS PPV",Box Mikey Garcia vs Sandor Martin 7:00 PM EST (HD)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54511
-#EXTINF:-1 tvg-id="Box Mikey Garcia vs Sandor Martin 7:00 PM EST (SD)" tvg-name="Box Mikey Garcia vs Sandor Martin 7:00 PM EST (SD)"  group-title="EVENTOS PPV",Box Mikey Garcia vs Sandor Martin 7:00 PM EST (SD)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54512
-#EXTINF:-1 tvg-id="Bellator 268 Nemkov vs Anglickas 10:00 PM EST (HD)" tvg-name="Bellator 268 Nemkov vs Anglickas 10:00 PM EST (HD)"  group-title="EVENTOS PPV",Bellator 268 Nemkov vs Anglickas 10:00 PM EST (HD)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54513
-#EXTINF:-1 tvg-id="Bellator 268 Nemkov vs Anglickas 10:00 PM EST (SD)" tvg-name="Bellator 268 Nemkov vs Anglickas 10:00 PM EST (SD)"  group-title="EVENTOS PPV",Bellator 268 Nemkov vs Anglickas 10:00 PM EST (SD)
-http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54514
+#EXTINF:-1 tvg-id="Auto Racing F1 United States Grand Prix Practice 2 3:55 PM EST ( ESPN2)" tvg-name="Auto Racing F1 United States Grand Prix Practice 2 3:55 PM EST ( ESPN2)"  group-title="EVENTOS PPV",Auto Racing F1 United States Grand Prix Practice 2 3:55 PM EST ( ESPN2)
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54727
+#EXTINF:-1 tvg-id="Football (NCAA) Columbia at Dartmouth 6:00 PM EST ( ESPNU)" tvg-name="Football (NCAA) Columbia at Dartmouth 6:00 PM EST ( ESPNU)"  group-title="EVENTOS PPV",Football (NCAA) Columbia at Dartmouth 6:00 PM EST ( ESPNU)
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54728
+#EXTINF:-1 tvg-id="Football (NCAA) Middle Tennessee State at Connecticut 6:00 PM EST ( CBSSN)" tvg-name="Football (NCAA) Middle Tennessee State at Connecticut 6:00 PM EST ( CBSSN)"  group-title="EVENTOS PPV",Football (NCAA) Middle Tennessee State at Connecticut 6:00 PM EST ( CBSSN)
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54729
+#EXTINF:-1 tvg-id="Hockey (NHL) San Jose Sharks at Toronto Maple Leafs 6:00 PM EST ( NHL)" tvg-name="Hockey (NHL) San Jose Sharks at Toronto Maple Leafs 6:00 PM EST ( NHL)"  group-title="EVENTOS PPV",Hockey (NHL) San Jose Sharks at Toronto Maple Leafs 6:00 PM EST ( NHL)
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54730
+#EXTINF:-1 tvg-id="Football (NCAA) Memphis at Central Florida 7:00 PM EST ( ESPN2)" tvg-name="Football (NCAA) Memphis at Central Florida 7:00 PM EST ( ESPN2)"  group-title="EVENTOS PPV",Football (NCAA) Memphis at Central Florida 7:00 PM EST ( ESPN2)
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54731
+#EXTINF:-1 tvg-id="Volleyball (NCAA Women) Penn State at Minnesota 7:00 PM EST ( BTN)" tvg-name="Volleyball (NCAA Women) Penn State at Minnesota 7:00 PM EST ( BTN)"  group-title="EVENTOS PPV",Volleyball (NCAA Women) Penn State at Minnesota 7:00 PM EST ( BTN)
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54732
+#EXTINF:-1 tvg-id="Soccer (NCAA Men) Pittsburgh at Virginia 7:00 PM EST ( ACCN)" tvg-name="Soccer (NCAA Men) Pittsburgh at Virginia 7:00 PM EST ( ACCN)"  group-title="EVENTOS PPV",Soccer (NCAA Men) Pittsburgh at Virginia 7:00 PM EST ( ACCN)
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54733
+#EXTINF:-1 tvg-id="Basketball (NBA) Charlotte Hornets at Cleveland Cavaliers 7:00 PM EST ( NBA)" tvg-name="Basketball (NBA) Charlotte Hornets at Cleveland Cavaliers 7:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Charlotte Hornets at Cleveland Cavaliers 7:00 PM EST ( NBA)
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54734
+#EXTINF:-1 tvg-id="Basketball (NBA) New York Knicks at Orlando Magic 7:00 PM EST ( NBA)" tvg-name="Basketball (NBA) New York Knicks at Orlando Magic 7:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) New York Knicks at Orlando Magic 7:00 PM EST ( NBA)
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54735
+#EXTINF:-1 tvg-id="Basketball (NBA) Indiana Pacers at Washington Wizards 7:00 PM EST ( NBA)" tvg-name="Basketball (NBA) Indiana Pacers at Washington Wizards 7:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Indiana Pacers at Washington Wizards 7:00 PM EST ( NBA)
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54736
+#EXTINF:-1 tvg-id="Basketball (NBA) Brooklyn Nets at Philadelphia 76ers 7:30 PM EST ( ESPN)" tvg-name="Basketball (NBA) Brooklyn Nets at Philadelphia 76ers 7:30 PM EST ( ESPN)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Brooklyn Nets at Philadelphia 76ers 7:30 PM EST ( ESPN)
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54737
+#EXTINF:-1 tvg-id="Basketball (NBA) Toronto Raptors at Boston Celtics 7:30 PM EST ( NBA)" tvg-name="Basketball (NBA) Toronto Raptors at Boston Celtics 7:30 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Toronto Raptors at Boston Celtics 7:30 PM EST ( NBA)
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54738
+#EXTINF:-1 tvg-id="Soccer (Ecuador Serie A) Tecnico Universitario at Aucas 8:00 PM EST ( GOL)" tvg-name="Soccer (Ecuador Serie A) Tecnico Universitario at Aucas 8:00 PM EST ( GOL)"  group-title="EVENTOS PPV",Soccer (Ecuador Serie A) Tecnico Universitario at Aucas 8:00 PM EST ( GOL)
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54739
+#EXTINF:-1 tvg-id="Soccer (Argentina Primera) Independiente Rivadavia vs. AtlÃ©tico de Rafaela 8:00 PM EST ( TYC)" tvg-name="Soccer (Argentina Primera) Independiente Rivadavia vs. AtlÃ©tico de Rafaela 8:00 PM EST ( TYC)"  group-title="EVENTOS PPV",Soccer (Argentina Primera) Independiente Rivadavia vs. AtlÃ©tico de Rafaela 8:00 PM EST ( TYC)
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54740
+#EXTINF:-1 tvg-id="Basketball (NBA) New Orleans Pelicans at Chicago Bulls 8:00 PM EST ( NBA)" tvg-name="Basketball (NBA) New Orleans Pelicans at Chicago Bulls 8:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) New Orleans Pelicans at Chicago Bulls 8:00 PM EST ( NBA)
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54741
+#EXTINF:-1 tvg-id="Basketball (NBA) Oklahoma City Thunder at Houston Rockets 8:00 PM EST ( NBA)" tvg-name="Basketball (NBA) Oklahoma City Thunder at Houston Rockets 8:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Oklahoma City Thunder at Houston Rockets 8:00 PM EST ( NBA)
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54742
+#EXTINF:-1 tvg-id="Baseball (MLB) Boston Red Sox at Houston Astros 8:08 PM EST ( FS1)" tvg-name="Baseball (MLB) Boston Red Sox at Houston Astros 8:08 PM EST ( FS1)"  group-title="EVENTOS PPV",Baseball (MLB) Boston Red Sox at Houston Astros 8:08 PM EST ( FS1)
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54743
+#EXTINF:-1 tvg-id="Volleyball (NCAA Women) San Diego at Brigham Young 9:00 PM EST ( BYU)" tvg-name="Volleyball (NCAA Women) San Diego at Brigham Young 9:00 PM EST ( BYU)"  group-title="EVENTOS PPV",Volleyball (NCAA Women) San Diego at Brigham Young 9:00 PM EST ( BYU)
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54744
+#EXTINF:-1 tvg-id="Volleyball (NCAA Women) Ohio State at Wisconsin 9:00 PM EST ( BTN)" tvg-name="Volleyball (NCAA Women) Ohio State at Wisconsin 9:00 PM EST ( BTN)"  group-title="EVENTOS PPV",Volleyball (NCAA Women) Ohio State at Wisconsin 9:00 PM EST ( BTN)
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54745
+#EXTINF:-1 tvg-id="Volleyball (NCAA Women) Arkansas at Kentucky 9:00 PM EST ( SEC)" tvg-name="Volleyball (NCAA Women) Arkansas at Kentucky 9:00 PM EST ( SEC)"  group-title="EVENTOS PPV",Volleyball (NCAA Women) Arkansas at Kentucky 9:00 PM EST ( SEC)
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54746
+#EXTINF:-1 tvg-id="Basketball (NBA) San Antonio Spurs at Denver Nuggets 9:00 PM EST ( NBA)" tvg-name="Basketball (NBA) San Antonio Spurs at Denver Nuggets 9:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) San Antonio Spurs at Denver Nuggets 9:00 PM EST ( NBA)
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54747
+#EXTINF:-1 tvg-id="Football (NCAA) Colorado State at Utah State 9:30 PM EST ( CBSSN)" tvg-name="Football (NCAA) Colorado State at Utah State 9:30 PM EST ( CBSSN)"  group-title="EVENTOS PPV",Football (NCAA) Colorado State at Utah State 9:30 PM EST ( CBSSN)
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54748
+#EXTINF:-1 tvg-id="Basketball (NBA) Phoenix Suns at Los Angeles Lakers 10:00 PM EST ( ESPN)" tvg-name="Basketball (NBA) Phoenix Suns at Los Angeles Lakers 10:00 PM EST ( ESPN)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Phoenix Suns at Los Angeles Lakers 10:00 PM EST ( ESPN)
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54749
+#EXTINF:-1 tvg-id="Soccer (Liga MX) Gallos Blancos de QuerÃ©taro at Mazatlan FC 10:00 PM EST ( TUDN)" tvg-name="Soccer (Liga MX) Gallos Blancos de QuerÃ©taro at Mazatlan FC 10:00 PM EST ( TUDN)"  group-title="EVENTOS PPV",Soccer (Liga MX) Gallos Blancos de QuerÃ©taro at Mazatlan FC 10:00 PM EST ( TUDN)
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54750
+#EXTINF:-1 tvg-id="Basketball (NBA) Utah Jazz at Sacramento Kings 10:00 PM EST ( NBA)" tvg-name="Basketball (NBA) Utah Jazz at Sacramento Kings 10:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Utah Jazz at Sacramento Kings 10:00 PM EST ( NBA)
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54751
+#EXTINF:-1 tvg-id="Hockey (NHL) Edmonton Oilers at Vegas Golden Knights 10:00 PM EST ( NHL)" tvg-name="Hockey (NHL) Edmonton Oilers at Vegas Golden Knights 10:00 PM EST ( NHL)"  group-title="EVENTOS PPV",Hockey (NHL) Edmonton Oilers at Vegas Golden Knights 10:00 PM EST ( NHL)
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54752
+#EXTINF:-1 tvg-id="Football (NCAA) Washington at Arizona 10:30 PM EST ( ESPN2)" tvg-name="Football (NCAA) Washington at Arizona 10:30 PM EST ( ESPN2)"  group-title="EVENTOS PPV",Football (NCAA) Washington at Arizona 10:30 PM EST ( ESPN2)
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54753
+#EXTINF:-1 tvg-id="Golf (Pro) PGA ZOZO Championship Third Round 11:30 PM EST ( Golf)" tvg-name="Golf (Pro) PGA ZOZO Championship Third Round 11:30 PM EST ( Golf)"  group-title="EVENTOS PPV",Golf (Pro) PGA ZOZO Championship Third Round 11:30 PM EST ( Golf)
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54754
+#EXTINF:-1 tvg-id="Baseball (MLB) PLUS Los Angeles Dodgers vs Atlanta Braves 8:08 PM EST (TBSHD)" tvg-name="Baseball (MLB) PLUS Los Angeles Dodgers vs Atlanta Braves 8:08 PM EST (TBSHD)"  group-title="EVENTOS PPV",Baseball (MLB) PLUS Los Angeles Dodgers vs Atlanta Braves 8:08 PM EST (TBSHD)
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54755
+#EXTINF:-1 tvg-id="Baseball (MLB) PLUS Los Angeles Dodgers vs Atlanta Braves 8:08 PM EST (TBSSD)" tvg-name="Baseball (MLB) PLUS Los Angeles Dodgers vs Atlanta Braves 8:08 PM EST (TBSSD)"  group-title="EVENTOS PPV",Baseball (MLB) PLUS Los Angeles Dodgers vs Atlanta Braves 8:08 PM EST (TBSSD)
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54756
+#EXTINF:-1 tvg-id="Baseball (MLB) PLUS Los Angeles Dodgers vs Atlanta Braves 8:08 PM EST (ESPHD)" tvg-name="Baseball (MLB) PLUS Los Angeles Dodgers vs Atlanta Braves 8:08 PM EST (ESPHD)"  group-title="EVENTOS PPV",Baseball (MLB) PLUS Los Angeles Dodgers vs Atlanta Braves 8:08 PM EST (ESPHD)
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54757
+#EXTINF:-1 tvg-id="Baseball (MLB) PLUS Los Angeles Dodgers vs Atlanta Braves 8:08 PM EST (ESPSD)" tvg-name="Baseball (MLB) PLUS Los Angeles Dodgers vs Atlanta Braves 8:08 PM EST (ESPSD)"  group-title="EVENTOS PPV",Baseball (MLB) PLUS Los Angeles Dodgers vs Atlanta Braves 8:08 PM EST (ESPSD)
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54758
+#EXTINF:-1 tvg-id="Baseball (MLB) PLUS Boston Red Sox vs Houston Astros 8:08 PM EST (ESPSD)" tvg-name="Baseball (MLB) PLUS Boston Red Sox vs Houston Astros 8:08 PM EST (ESPSD)"  group-title="EVENTOS PPV",Baseball (MLB) PLUS Boston Red Sox vs Houston Astros 8:08 PM EST (ESPSD)
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54759
+#EXTINF:-1 tvg-id="Baseball (MLB) Boston Red Sox vs Houston Astros 8:08 PM EST (FS1HD)" tvg-name="Baseball (MLB) Boston Red Sox vs Houston Astros 8:08 PM EST (FS1HD)"  group-title="EVENTOS PPV",Baseball (MLB) Boston Red Sox vs Houston Astros 8:08 PM EST (FS1HD)
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54760
+#EXTINF:-1 tvg-id="Baseball (MLB) PLUS Boston Red Sox vs Houston Astros 8:08 PM EST (ESPHD)" tvg-name="Baseball (MLB) PLUS Boston Red Sox vs Houston Astros 8:08 PM EST (ESPHD)"  group-title="EVENTOS PPV",Baseball (MLB) PLUS Boston Red Sox vs Houston Astros 8:08 PM EST (ESPHD)
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54761
+#EXTINF:-1 tvg-id="Baseball (MLB) Boston Red Sox vs Houston Astros 8:08 PM EST ( FS1SD)" tvg-name="Baseball (MLB) Boston Red Sox vs Houston Astros 8:08 PM EST ( FS1SD)"  group-title="EVENTOS PPV",Baseball (MLB) Boston Red Sox vs Houston Astros 8:08 PM EST ( FS1SD)
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54762
+#EXTINF:-1 tvg-id="Boxing Oscar Rivas vs Ryan Rozicki 7:00 PM EST (HD)" tvg-name="Boxing Oscar Rivas vs Ryan Rozicki 7:00 PM EST (HD)"  group-title="EVENTOS PPV",Boxing Oscar Rivas vs Ryan Rozicki 7:00 PM EST (HD)
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54763
+#EXTINF:-1 tvg-id="Boxing Oscar Rivas vs Ryan Rozicki 7:00 PM EST (SD)" tvg-name="Boxing Oscar Rivas vs Ryan Rozicki 7:00 PM EST (SD)"  group-title="EVENTOS PPV",Boxing Oscar Rivas vs Ryan Rozicki 7:00 PM EST (SD)
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54764
+#EXTINF:-1 tvg-id="LFA 116 Fremd vs Valente 10:00 PM EST (HD)" tvg-name="LFA 116 Fremd vs Valente 10:00 PM EST (HD)"  group-title="EVENTOS PPV",LFA 116 Fremd vs Valente 10:00 PM EST (HD)
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54765
+#EXTINF:-1 tvg-id="LFA 116 Fremd vs Valente 10:00 PM EST (SD)" tvg-name="LFA 116 Fremd vs Valente 10:00 PM EST (SD)"  group-title="EVENTOS PPV",LFA 116 Fremd vs Valente 10:00 PM EST (SD)
+http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54766
 #EXTINF:-1 tvg-id="GUA Canal 4" tvg-name="GUA VEA CANAL" group-title="GUATEMALA",GUA VEA CANAL
 http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/2597
 #EXTINF:-1 tvg-id="GUA CANAL 11" tvg-name="GUA CANAL 11" group-title="GUATEMALA",GUA CANAL 11
@@ -2979,7 +2921,7 @@ http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/41078
 http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/41072
 #EXTINF:-1 tvg-id="NHL Washington Capitals" tvg-name="NHL Washington Capitals" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/symbol-NHL.jpg" group-title="NBA MLB NFL NHL",NHL Washington Capitals
 http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/41056
-#EXTINF:-1 tvg-id="SP NHL" tvg-name="NHL Winnipeg Jets" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/symbol-NHL.jpg" group-title="NBA MLB NFL NHL",NHL Winnipeg Jets
+#EXTINF:-1 tvg-id="SP NHL" tvg-name="NHL Winnipeg Jets" tvg-logo="http://xdgo.live:8080/images/7bda62b8181c422ccc88046e7eb01edb.jpg" group-title="NBA MLB NFL NHL",NHL Winnipeg Jets
 http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/41079
 #EXTINF:-1 tvg-id="LMP Evento 1" tvg-name="LMP Evento 1" tvg-logo="http://xdgo.live:8080/images/c71bf099935de726a4d29e446b1c13d9.jpg" group-title="NBA MLB NFL NHL",LMP Evento 1
 http://xdgo.live:8080/37_luismelao_a/gz3GJJ58PN/54200
@@ -29405,6 +29347,68 @@ http://xdgo.live:8080/series/37_luismelao_a/gz3GJJ58PN/41776.mkv
 http://xdgo.live:8080/series/37_luismelao_a/gz3GJJ58PN/42114.mkv
 #EXTINF:-1 tvg-id="WandaVision S01 E09" tvg-name="WandaVision S01 E09"  group-title="WANDAVISION",WandaVision S01 E09
 http://xdgo.live:8080/series/37_luismelao_a/gz3GJJ58PN/42412.mkv
+#EXTINF:-1 tvg-id="Dune (2021)" tvg-name="Dune (2021)" tvg-logo="http://xdgo.live:8080/images/c46a2357d95fa9161589be08acaea667.jpg" group-title="VFLIX ESTRENOS",Dune (2021)
+http://xdgo.live:8080/movie/37_luismelao_a/gz3GJJ58PN/54701.mkv
+#EXTINF:-1 tvg-id="El fantástico Halloween de Tibucán (2021)" tvg-name="El fantástico Halloween de Tibucán (2021)" tvg-logo="http://xdgo.live:8080/images/44b14d1244295f1e512759244aeb5370.jpg" group-title="VFLIX ESTRENOS",El fantástico Halloween de Tibucán (2021)
+http://xdgo.live:8080/movie/37_luismelao_a/gz3GJJ58PN/54702.mkv
+#EXTINF:-1 tvg-id="Halloween Kills (2021)" tvg-name="Halloween Kills (2021)" tvg-logo="http://xdgo.live:8080/images/4a3d9e699373cbb522179168096bd250.jpg" group-title="VFLIX ESTRENOS",Halloween Kills (2021)
+http://xdgo.live:8080/movie/37_luismelao_a/gz3GJJ58PN/54705.mkv
+#EXTINF:-1 tvg-id="Adventures of a Mathematician (2021)" tvg-name="Adventures of a Mathematician (2021)" tvg-logo="http://xdgo.live:8080/images/7b70f3a486aa8e7cf3a5b6079e1d92f1.jpg" group-title="VFLIX ESTRENOS",Adventures of a Mathematician (2021)
+http://xdgo.live:8080/movie/37_luismelao_a/gz3GJJ58PN/54696.mkv
+#EXTINF:-1 tvg-id="American Badger (2021)" tvg-name="American Badger (2021)" tvg-logo="http://xdgo.live:8080/images/e80d044ba07c5b42c70a69df8bd26c0a.jpg" group-title="VFLIX ESTRENOS",American Badger (2021)
+http://xdgo.live:8080/movie/37_luismelao_a/gz3GJJ58PN/54697.mkv
+#EXTINF:-1 tvg-id="Nunca seremos novias (2021)" tvg-name="Nunca seremos novias (2021)" tvg-logo="http://xdgo.live:8080/images/dd4cea00eba9cb5382880ddba015b610.jpg" group-title="VFLIX ESTRENOS",Nunca seremos novias (2021)
+http://xdgo.live:8080/movie/37_luismelao_a/gz3GJJ58PN/54698.mkv
+#EXTINF:-1 tvg-id="Bright: Samurai Soul (2021)" tvg-name="Bright: Samurai Soul (2021)" tvg-logo="http://xdgo.live:8080/images/807ed42e6ca9d8289d0906e949872b2a.jpg" group-title="VFLIX ESTRENOS",Bright: Samurai Soul (2021)
+http://xdgo.live:8080/movie/37_luismelao_a/gz3GJJ58PN/54699.mkv
+#EXTINF:-1 tvg-id="Distancia de rescate (2021)" tvg-name="Distancia de rescate (2021)" tvg-logo="http://xdgo.live:8080/images/d4df459bcf462424dcd8ac8faa68fa4e.jpg" group-title="VFLIX ESTRENOS",Distancia de rescate (2021)
+http://xdgo.live:8080/movie/37_luismelao_a/gz3GJJ58PN/54700.mkv
+#EXTINF:-1 tvg-id="Found (2021)" tvg-name="Found (2021)" tvg-logo="http://xdgo.live:8080/images/de1a58e29ca507c446900cb862145e76.jpg" group-title="VFLIX ESTRENOS",Found (2021)
+http://xdgo.live:8080/movie/37_luismelao_a/gz3GJJ58PN/54703.mkv
+#EXTINF:-1 tvg-id="Gunpowder Milkshake (Cóctel explosivo) (2021)" tvg-name="Gunpowder Milkshake (Cóctel explosivo) (2021)" tvg-logo="http://xdgo.live:8080/images/af6a43d57b969ede9340af38db1904da.jpg" group-title="VFLIX ESTRENOS",Gunpowder Milkshake (Cóctel explosivo) (2021)
+http://xdgo.live:8080/movie/37_luismelao_a/gz3GJJ58PN/54704.mkv
+#EXTINF:-1 tvg-id="In for a Murder (2021)" tvg-name="In for a Murder (2021)" tvg-logo="http://xdgo.live:8080/images/98d94b6845ea5d68bf5e8228612d2a36.jpg" group-title="VFLIX ESTRENOS",In for a Murder (2021)
+http://xdgo.live:8080/movie/37_luismelao_a/gz3GJJ58PN/54707.mkv
+#EXTINF:-1 tvg-id="Needle in a Timestack (2021)" tvg-name="Needle in a Timestack (2021)" tvg-logo="http://xdgo.live:8080/images/59a493c2b680d333aa065609e60c0337.jpg" group-title="VFLIX ESTRENOS",Needle in a Timestack (2021)
+http://xdgo.live:8080/movie/37_luismelao_a/gz3GJJ58PN/54708.mkv
+#EXTINF:-1 tvg-id="Fauces de la noche (2021)" tvg-name="Fauces de la noche (2021)" tvg-logo="http://xdgo.live:8080/images/10a062717aa9253be194ad83507924ad.jpg" group-title="VFLIX ESTRENOS",Fauces de la noche (2021)
+http://xdgo.live:8080/movie/37_luismelao_a/gz3GJJ58PN/54709.mkv
+#EXTINF:-1 tvg-id="Acción Jacinto (2021)" tvg-name="Acción Jacinto (2021)" tvg-logo="http://xdgo.live:8080/images/e42a1965967e073ef79b70bcb1918e89.jpg" group-title="VFLIX ESTRENOS",Acción Jacinto (2021)
+http://xdgo.live:8080/movie/37_luismelao_a/gz3GJJ58PN/54710.mkv
+#EXTINF:-1 tvg-id="Separation (2021)" tvg-name="Separation (2021)" tvg-logo="http://xdgo.live:8080/images/609fd4d57ce600216ce7445bdd211d2d.jpg" group-title="VFLIX ESTRENOS",Separation (2021)
+http://xdgo.live:8080/movie/37_luismelao_a/gz3GJJ58PN/54714.mkv
+#EXTINF:-1 tvg-id="Hijos del Sur (2021)" tvg-name="Hijos del Sur (2021)" tvg-logo="http://xdgo.live:8080/images/e24692c1975581c7cb6ca88281914505.jpg" group-title="VFLIX ESTRENOS",Hijos del Sur (2021)
+http://xdgo.live:8080/movie/37_luismelao_a/gz3GJJ58PN/54715.mkv
+#EXTINF:-1 tvg-id="Coincés (2021)" tvg-name="Coincés (2021)" tvg-logo="http://xdgo.live:8080/images/adef05739696931751cf12fe958164ac.jpg" group-title="VFLIX ESTRENOS",Coincés (2021)
+http://xdgo.live:8080/movie/37_luismelao_a/gz3GJJ58PN/54716.mkv
+#EXTINF:-1 tvg-id="Survive the Game (2021)" tvg-name="Survive the Game (2021)" tvg-logo="http://xdgo.live:8080/images/f4c4797551e3386879aa3e7a1aa54d0c.jpg" group-title="VFLIX ESTRENOS",Survive the Game (2021)
+http://xdgo.live:8080/movie/37_luismelao_a/gz3GJJ58PN/54717.mkv
+#EXTINF:-1 tvg-id="El Contador De Cartas (2021)" tvg-name="El Contador De Cartas (2021)" tvg-logo="http://xdgo.live:8080/images/fe109c0f921c6988043f539ca909a5c7.jpg" group-title="VFLIX ESTRENOS",El Contador De Cartas (2021)
+http://xdgo.live:8080/movie/37_luismelao_a/gz3GJJ58PN/54718.mkv
+#EXTINF:-1 tvg-id="La batalla olvidada (2021)" tvg-name="La batalla olvidada (2021)" tvg-logo="http://xdgo.live:8080/images/249da2658a5f21dd67f79330e29a7f63.jpg" group-title="VFLIX ESTRENOS",La batalla olvidada (2021)
+http://xdgo.live:8080/movie/37_luismelao_a/gz3GJJ58PN/54719.mkv
+#EXTINF:-1 tvg-id="Cuatro por cuatro (2021)" tvg-name="Cuatro por cuatro (2021)" tvg-logo="http://xdgo.live:8080/images/120ff7656a2c06f13bc676c77f3442d9.jpg" group-title="VFLIX ESTRENOS",Cuatro por cuatro (2021)
+http://xdgo.live:8080/movie/37_luismelao_a/gz3GJJ58PN/54720.mkv
+#EXTINF:-1 tvg-id="La protegida (2021)" tvg-name="La protegida (2021)" tvg-logo="http://xdgo.live:8080/images/6236149a882341ab9501e8ff784923a1.jpg" group-title="VFLIX ESTRENOS",La protegida (2021)
+http://xdgo.live:8080/movie/37_luismelao_a/gz3GJJ58PN/54721.mkv
+#EXTINF:-1 tvg-id="El viaje (2021)" tvg-name="El viaje (2021)" tvg-logo="http://xdgo.live:8080/images/e5d3f773c21cc8e05c7770f6f538e0cc.jpg" group-title="VFLIX ESTRENOS",El viaje (2021)
+http://xdgo.live:8080/movie/37_luismelao_a/gz3GJJ58PN/54722.mkv
+#EXTINF:-1 tvg-id="Una Momia en Halloween (2021)" tvg-name="Una Momia en Halloween (2021)" tvg-logo="http://xdgo.live:8080/images/2ac7ba999dc6ab4b1de6be43a9cff07a.jpg" group-title="VFLIX ESTRENOS",Una Momia en Halloween (2021)
+http://xdgo.live:8080/movie/37_luismelao_a/gz3GJJ58PN/54724.mkv
+#EXTINF:-1 tvg-id="Warning (2021)" tvg-name="Warning (2021)" tvg-logo="http://xdgo.live:8080/images/7b0a473727ebcb0db51db741bb5903b6.jpg" group-title="VFLIX ESTRENOS",Warning (2021)
+http://xdgo.live:8080/movie/37_luismelao_a/gz3GJJ58PN/54725.mkv
+#EXTINF:-1 tvg-id="Way Down (2021)" tvg-name="Way Down (2021)" tvg-logo="http://xdgo.live:8080/images/3d3e627e1ed6b40348370c00ed96c583.jpg" group-title="VFLIX ESTRENOS",Way Down (2021)
+http://xdgo.live:8080/movie/37_luismelao_a/gz3GJJ58PN/54726.mkv
+#EXTINF:-1 tvg-id="Cazador contra cazador (2020)" tvg-name="Cazador contra cazador (2020)" tvg-logo="http://xdgo.live:8080/images/8f806860cc5b0be05218e5dfa3893139.jpg" group-title="VFLIX ESTRENOS",Cazador contra cazador (2020)
+http://xdgo.live:8080/movie/37_luismelao_a/gz3GJJ58PN/54706.mkv
+#EXTINF:-1 tvg-id="Playhouse (2020)" tvg-name="Playhouse (2020)" tvg-logo="http://xdgo.live:8080/images/3a80087ec2ac295fb8003983dabb6f6b.jpg" group-title="VFLIX ESTRENOS",Playhouse (2020)
+http://xdgo.live:8080/movie/37_luismelao_a/gz3GJJ58PN/54711.mkv
+#EXTINF:-1 tvg-id="Polaroid (2019)" tvg-name="Polaroid (2019)" tvg-logo="http://xdgo.live:8080/images/50ca8261f913247c8769ab3d2f85574f.jpg" group-title="VFLIX ESTRENOS",Polaroid (2019)
+http://xdgo.live:8080/movie/37_luismelao_a/gz3GJJ58PN/54712.mkv
+#EXTINF:-1 tvg-id="Russian Raid (2020)" tvg-name="Russian Raid (2020)" tvg-logo="http://xdgo.live:8080/images/0e8931a6727e50dea3353cdc9784c70a.jpg" group-title="VFLIX ESTRENOS",Russian Raid (2020)
+http://xdgo.live:8080/movie/37_luismelao_a/gz3GJJ58PN/54713.mkv
+#EXTINF:-1 tvg-id="True to the Game 2 (2020)" tvg-name="True to the Game 2 (2020)" tvg-logo="http://xdgo.live:8080/images/7f68fc60faacaa48349ff42c1db6c3cd.jpg" group-title="VFLIX ESTRENOS",True to the Game 2 (2020)
+http://xdgo.live:8080/movie/37_luismelao_a/gz3GJJ58PN/54723.mkv
 #EXTINF:-1 tvg-id="Snake Eyes: El origen (2021)" tvg-name="Snake Eyes: El origen (2021)" tvg-logo="http://xdgo.live:8080/images/0c871afa351dbfefc58dbfe1c4c3d9a2.jpg" group-title="VFLIX ESTRENOS",Snake Eyes: El origen (2021)
 http://xdgo.live:8080/movie/37_luismelao_a/gz3GJJ58PN/54367.mkv
 #EXTINF:-1 tvg-id="Los Muppets en Haunted Mansion (2021)" tvg-name="Los Muppets en Haunted Mansion (2021)" tvg-logo="http://xdgo.live:8080/images/67ea01057d568a666ba24f5d9e3d2914.jpg" group-title="VFLIX ESTRENOS",Los Muppets en Haunted Mansion (2021)
