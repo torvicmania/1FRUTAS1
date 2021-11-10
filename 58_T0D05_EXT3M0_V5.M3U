@@ -1657,7 +1657,7 @@ http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/944
 http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/917
 #EXTINF:-1 tvg-id="CINECANAL HD" tvg-name="CINECANAL HD" tvg-logo="https://zpapi.zetatv.com.uy/media/images/1.82.8.png" group-title="CINE HD",CINECANAL HD
 http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/943
-#EXTINF:-1 tvg-id="CINECANAL HQ" tvg-name="CINECANAL HQ" tvg-logo="https://zpapi.zetatv.com.uy/media/images/1.82.8.png" group-title="CINE HD",CINECANAL HQ
+#EXTINF:-1 tvg-id="CINECANAL HQ" tvg-name="CINECANAL HQ" tvg-logo="http://xdgo.live:8080/images/ef0df7787b7759fdc6d447499a0c18e0.png" group-title="CINE HD",CINECANAL HQ
 http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/916
 #EXTINF:-1 tvg-id="CINEMAX HD" tvg-name="CINEMAX HD" tvg-logo="http://xdgo.live:8080/images/ef824d368ec9422c054798e0aac6fc71.png" group-title="CINE HD",CINEMAX HD
 http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/942
@@ -1807,7 +1807,7 @@ http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/888
 http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/951
 #EXTINF:-1 tvg-id="TBS HQ" tvg-name="TBS HQ" tvg-logo="https://images.istreamplanet.net/w_222.22222222222223,c_limit/dtv-latam-prod/9b973ff6d8264e0fefe9229dfb303b05" group-title="CINE HD",TBS HQ
 http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/857
-#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM HD" tvg-logo="https://images.istreamplanet.net/w_222.22222222222223,c_limit/dtv-latam-prod/41f15e74-37c8-44b2-96b5-7c5fd26496bc.png" group-title="CINE HD",TCM HD
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM HD" tvg-logo="http://xdgo.live:8080/images/1f8ce791da065d08ec7b817e0d1700b6.png" group-title="CINE HD",TCM HD
 http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/950
 #EXTINF:-1 tvg-id="TCM HQ" tvg-name="TCM HQ" tvg-logo="http://xdgo.live:8080/images/1f8ce791da065d08ec7b817e0d1700b6.png" group-title="CINE HD",TCM HQ
 http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/886
@@ -2111,6 +2111,50 @@ http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/54379
 http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/54393
 #EXTINF:-1 tvg-id="DIRECTV SPORTS PPV 7" tvg-name="DIRECTV SPORTS PPV 7"  group-title="EVENTOS PPV",DIRECTV SPORTS PPV 7
 http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/54394
+#EXTINF:-1 tvg-id="Basketball (NCAA Men) Lafayette College at Syracuse 7:00 PM EST ( ECE)" tvg-name="Basketball (NCAA Men) Lafayette College at Syracuse 7:00 PM EST ( ECE)"  group-title="EVENTOS PPV",Basketball (NCAA Men) Lafayette College at Syracuse 7:00 PM EST ( ECE)
+http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/56324
+#EXTINF:-1 tvg-id="Basketball (NBA) Milwaukee Bucks at Philadelphia 76ers 7:30 PM EST ( TNT)" tvg-name="Basketball (NBA) Milwaukee Bucks at Philadelphia 76ers 7:30 PM EST ( TNT)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Milwaukee Bucks at Philadelphia 76ers 7:30 PM EST ( TNT)
+http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/56325
+#EXTINF:-1 tvg-id="Hockey (NHL) Edmonton Oilers at Detroit Red Wings 7:30 PM EST ( NHL)" tvg-name="Hockey (NHL) Edmonton Oilers at Detroit Red Wings 7:30 PM EST ( NHL)"  group-title="EVENTOS PPV",Hockey (NHL) Edmonton Oilers at Detroit Red Wings 7:30 PM EST ( NHL)
+http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/56326
+#EXTINF:-1 tvg-id="Basketball (NCAA Men) Miami Univ. (Ohio) at Georgia Tech 7:30 PM EST ( ECE)" tvg-name="Basketball (NCAA Men) Miami Univ. (Ohio) at Georgia Tech 7:30 PM EST ( ECE)"  group-title="EVENTOS PPV",Basketball (NCAA Men) Miami Univ. (Ohio) at Georgia Tech 7:30 PM EST ( ECE)
+http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/56327
+#EXTINF:-1 tvg-id="Football (NCAA) Ohio at Eastern Michigan 8:00 PM EST ( ESPN2)" tvg-name="Football (NCAA) Ohio at Eastern Michigan 8:00 PM EST ( ESPN2)"  group-title="EVENTOS PPV",Football (NCAA) Ohio at Eastern Michigan 8:00 PM EST ( ESPN2)
+http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/56328
+#EXTINF:-1 tvg-id="Wrestling WWE NXT 8:00 PM EST ( USA)" tvg-name="Wrestling WWE NXT 8:00 PM EST ( USA)" tvg-logo="" group-title="EVENTOS PPV",Wrestling WWE NXT 8:00 PM EST ( USA)
+http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/56329
+#EXTINF:-1 tvg-id="Basketball (NCAA Men) Jackson State at Illinois 8:00 PM EST ( BTN)" tvg-name="Basketball (NCAA Men) Jackson State at Illinois 8:00 PM EST ( BTN)"  group-title="EVENTOS PPV",Basketball (NCAA Men) Jackson State at Illinois 8:00 PM EST ( BTN)
+http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/56330
+#EXTINF:-1 tvg-id="Hockey (NHL) St. Louis Blues at Winnipeg Jets 8:00 PM EST ( NHL)" tvg-name="Hockey (NHL) St. Louis Blues at Winnipeg Jets 8:00 PM EST ( NHL)"  group-title="EVENTOS PPV",Hockey (NHL) St. Louis Blues at Winnipeg Jets 8:00 PM EST ( NHL)
+http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/56331
+#EXTINF:-1 tvg-id="Basketball (NCAA Men) Maine at Virginia Tech 8:00 PM EST ( ECE)" tvg-name="Basketball (NCAA Men) Maine at Virginia Tech 8:00 PM EST ( ECE)"  group-title="EVENTOS PPV",Basketball (NCAA Men) Maine at Virginia Tech 8:00 PM EST ( ECE)
+http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/56332
+#EXTINF:-1 tvg-id="Basketball (NCAA Men) Southern Illinois Edwardsville at Marquette 8:30 PM EST ( FS2)" tvg-name="Basketball (NCAA Men) Southern Illinois Edwardsville at Marquette 8:30 PM EST ( FS2)"  group-title="EVENTOS PPV",Basketball (NCAA Men) Southern Illinois Edwardsville at Marquette 8:30 PM EST ( FS2)
+http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/56333
+#EXTINF:-1 tvg-id="Basketball (NCAA Men) Louisiana Tech at Alabama 9:00 PM EST ( SEC)" tvg-name="Basketball (NCAA Men) Louisiana Tech at Alabama 9:00 PM EST ( SEC)"  group-title="EVENTOS PPV",Basketball (NCAA Men) Louisiana Tech at Alabama 9:00 PM EST ( SEC)
+http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/56334
+#EXTINF:-1 tvg-id="Basketball (NCAA Men) Navy at Virginia 9:00 PM EST ( ACCN)" tvg-name="Basketball (NCAA Men) Navy at Virginia 9:00 PM EST ( ACCN)"  group-title="EVENTOS PPV",Basketball (NCAA Men) Navy at Virginia 9:00 PM EST ( ACCN)
+http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/56335
+#EXTINF:-1 tvg-id="Basketball (NBA) Atlanta Hawks at Utah Jazz 9:00 PM EST ( NBA)" tvg-name="Basketball (NBA) Atlanta Hawks at Utah Jazz 9:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Atlanta Hawks at Utah Jazz 9:00 PM EST ( NBA)
+http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/56336
+#EXTINF:-1 tvg-id="Hockey (NHL) San Jose Sharks at Calgary Flames 9:00 PM EST ( NHL)" tvg-name="Hockey (NHL) San Jose Sharks at Calgary Flames 9:00 PM EST ( NHL)"  group-title="EVENTOS PPV",Hockey (NHL) San Jose Sharks at Calgary Flames 9:00 PM EST ( NHL)
+http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/56337
+#EXTINF:-1 tvg-id="Basketball (NCAA Men) Southern at Louisville 9:00 PM EST ( ECE)" tvg-name="Basketball (NCAA Men) Southern at Louisville 9:00 PM EST ( ECE)"  group-title="EVENTOS PPV",Basketball (NCAA Men) Southern at Louisville 9:00 PM EST ( ECE)
+http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/56338
+#EXTINF:-1 tvg-id="Basketball (NCAA Men) Kentucky at Duke 9:30 PM EST ( ESPN)" tvg-name="Basketball (NCAA Men) Kentucky at Duke 9:30 PM EST ( ESPN)"  group-title="EVENTOS PPV",Basketball (NCAA Men) Kentucky at Duke 9:30 PM EST ( ESPN)
+http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/56339
+#EXTINF:-1 tvg-id="Basketball (NBA) Portland Trail Blazers at Los Angeles Clippers 10:00 PM EST ( TNT)" tvg-name="Basketball (NBA) Portland Trail Blazers at Los Angeles Clippers 10:00 PM EST ( TNT)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Portland Trail Blazers at Los Angeles Clippers 10:00 PM EST ( TNT)
+http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/56340
+#EXTINF:-1 tvg-id="Basketball (NCAA Men) Cleveland State at Brigham Young 10:00 PM EST ( BYU)" tvg-name="Basketball (NCAA Men) Cleveland State at Brigham Young 10:00 PM EST ( BYU)"  group-title="EVENTOS PPV",Basketball (NCAA Men) Cleveland State at Brigham Young 10:00 PM EST ( BYU)
+http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/56341
+#EXTINF:-1 tvg-id="Basketball (NCAA Men) Longwood at Iowa 10:00 PM EST ( BTN)" tvg-name="Basketball (NCAA Men) Longwood at Iowa 10:00 PM EST ( BTN)"  group-title="EVENTOS PPV",Basketball (NCAA Men) Longwood at Iowa 10:00 PM EST ( BTN)
+http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/56342
+#EXTINF:-1 tvg-id="Hockey (NHL) Anaheim Ducks at Vancouver Canucks 10:00 PM EST ( NHL)" tvg-name="Hockey (NHL) Anaheim Ducks at Vancouver Canucks 10:00 PM EST ( NHL)"  group-title="EVENTOS PPV",Hockey (NHL) Anaheim Ducks at Vancouver Canucks 10:00 PM EST ( NHL)
+http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/56343
+#EXTINF:-1 tvg-id="Basketball (NBA) Charlotte Hornets at Los Angeles Lakers 10:30 PM EST ( NBA)" tvg-name="Basketball (NBA) Charlotte Hornets at Los Angeles Lakers 10:30 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Charlotte Hornets at Los Angeles Lakers 10:30 PM EST ( NBA)
+http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/56344
+#EXTINF:-1 tvg-id="Hockey (NHL) Pittsburgh Penguins at Chicago Blackhawks 8:30 PM EST ( NHL)" tvg-name="Hockey (NHL) Pittsburgh Penguins at Chicago Blackhawks 8:30 PM EST ( NHL)"  group-title="EVENTOS PPV",Hockey (NHL) Pittsburgh Penguins at Chicago Blackhawks 8:30 PM EST ( NHL)
+http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/56345
 #EXTINF:-1 tvg-id="GUA Canal 4" tvg-name="GUA VEA CANAL" group-title="GUATEMALA",GUA VEA CANAL
 http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/2597
 #EXTINF:-1 tvg-id="GUA CANAL 11" tvg-name="GUA CANAL 11" group-title="GUATEMALA",GUA CANAL 11
@@ -2237,7 +2281,7 @@ http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/1080
 http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/1068
 #EXTINF:-1 tvg-id="CARTOON NETWORK FHD" tvg-name="CARTOON NETWORK FHD" tvg-logo="https://pm1.narvii.com/6466/0ed83137cec9f532e42ddc644eb6bb2614a0ed6e_hq.jpg" group-title="INFANTILES",CARTOON NETWORK FHD
 http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/1053
-#EXTINF:-1 tvg-id="CARTOON NETWORK HD" tvg-name="CARTOON NETWORK HD" tvg-logo="https://pm1.narvii.com/6466/0ed83137cec9f532e42ddc644eb6bb2614a0ed6e_hq.jpg" group-title="INFANTILES",CARTOON NETWORK HD
+#EXTINF:-1 tvg-id="CARTOON NETWORK HD" tvg-name="CARTOON NETWORK HD" tvg-logo="http://xdgo.live:8080/images/170a9279c9ae8b35d082db070f626101.jpg" group-title="INFANTILES",CARTOON NETWORK HD
 http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/1079
 #EXTINF:-1 tvg-id="CARTOON NETWORK FHD" tvg-name="CARTOON NETWORK HQ" tvg-logo="https://pm1.narvii.com/6466/0ed83137cec9f532e42ddc644eb6bb2614a0ed6e_hq.jpg" group-title="INFANTILES",CARTOON NETWORK HQ
 http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/1096
@@ -3043,13 +3087,13 @@ http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/40110
 http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/40111
 #EXTINF:-1 tvg-id="USA Bet Soul" tvg-name="USA Bet Soul" tvg-logo="" group-title="USA",USA Bet Soul
 http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/40112
-#EXTINF:-1 tvg-id="USA Boomerang" tvg-name="USA Boomerang" tvg-logo="https://cdn.mitvstatic.com/channels/cl_boomerang-cartoon_m.png" group-title="USA",USA Boomerang
+#EXTINF:-1 tvg-id="USA Boomerang" tvg-name="USA Boomerang" tvg-logo="http://xdgo.live:8080/images/9382570005d3bce3ca94b34db339e1fa.png" group-title="USA",USA Boomerang
 http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/2239
 #EXTINF:-1 tvg-id="USA Bounce TV" tvg-name="USA Bounce TV" tvg-logo="" group-title="USA",USA Bounce TV
 http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/40102
 #EXTINF:-1 tvg-id="USA Bravo TV" tvg-name="USA Bravo TV" tvg-logo="" group-title="USA",USA Bravo TV
 http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/2323
-#EXTINF:-1 tvg-id="USA CARTOON NETWORK" tvg-name="USA Cartoon Network" tvg-logo="https://pm1.narvii.com/6466/0ed83137cec9f532e42ddc644eb6bb2614a0ed6e_hq.jpg" group-title="USA",USA Cartoon Network
+#EXTINF:-1 tvg-id="USA CARTOON NETWORK" tvg-name="USA Cartoon Network" tvg-logo="http://xdgo.live:8080/images/170a9279c9ae8b35d082db070f626101.jpg" group-title="USA",USA Cartoon Network
 http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/2207
 #EXTINF:-1 tvg-id="SP CBS" tvg-name="USA CBS" tvg-logo="" group-title="USA",USA CBS
 http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/22279
@@ -3193,11 +3237,11 @@ http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/25635
 http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/25634
 #EXTINF:-1 tvg-id="USA Cinema 39 PPV" tvg-name="USA Cinema 39 PPV" tvg-logo="" group-title="USA",USA Cinema 39 PPV
 http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/25633
-#EXTINF:-1 tvg-id="USA Cinemax" tvg-name="USA Cinemax" tvg-logo="https://images.istreamplanet.net/w_222.22222222222223,c_limit/dtv-latam-prod/91219067-0362-45cc-bf36-ed3a65f47746.png" group-title="USA",USA Cinemax
+#EXTINF:-1 tvg-id="USA Cinemax" tvg-name="USA Cinemax" tvg-logo="http://xdgo.live:8080/images/ef824d368ec9422c054798e0aac6fc71.png" group-title="USA",USA Cinemax
 http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/2273
 #EXTINF:-1 tvg-id="USA Cinemax Action" tvg-name="USA Cinemax Action" tvg-logo="https://images.istreamplanet.net/w_222.22222222222223,c_limit/dtv-latam-prod/91219067-0362-45cc-bf36-ed3a65f47746.png" group-title="USA",USA Cinemax Action
 http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/25672
-#EXTINF:-1 tvg-id="USA Cinemax Actionmax" tvg-name="USA Cinemax Actionmax" tvg-logo="https://images.istreamplanet.net/w_222.22222222222223,c_limit/dtv-latam-prod/91219067-0362-45cc-bf36-ed3a65f47746.png" group-title="USA",USA Cinemax Actionmax
+#EXTINF:-1 tvg-id="USA Cinemax Actionmax" tvg-name="USA Cinemax Actionmax" tvg-logo="http://xdgo.live:8080/images/ef824d368ec9422c054798e0aac6fc71.png" group-title="USA",USA Cinemax Actionmax
 http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/2272
 #EXTINF:-1 tvg-id="USA Cinemax East" tvg-name="USA Cinemax East" tvg-logo="https://images.istreamplanet.net/w_222.22222222222223,c_limit/dtv-latam-prod/91219067-0362-45cc-bf36-ed3a65f47746.png" group-title="USA",USA Cinemax East
 http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/25673
@@ -3473,7 +3517,7 @@ http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/2242
 http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/25683
 #EXTINF:-1 tvg-id="USA Oxygen HD" tvg-name="USA Oxygen HD" tvg-logo="" group-title="USA",USA Oxygen HD
 http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/2254
-#EXTINF:-1 tvg-id="USA Paramount Network" tvg-name="USA Paramount Network" tvg-logo="https://images.istreamplanet.net/w_222.22222222222223,c_limit/dtv-latam-prod/f30511e4-0495-4bf3-aaf4-d1188c9b615b.png" group-title="USA",USA Paramount Network
+#EXTINF:-1 tvg-id="USA Paramount Network" tvg-name="USA Paramount Network" tvg-logo="http://xdgo.live:8080/images/9fe8548c8942327834530025a3f13893.png" group-title="USA",USA Paramount Network
 http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/2241
 #EXTINF:-1 tvg-id="USA PBS Kids" tvg-name="USA PBS Kids" tvg-logo="" group-title="USA",USA PBS Kids
 http://xdgo.live:8080/58_felipeparra_m/eUAfZ6QnUQ/40128
@@ -16313,6 +16357,42 @@ http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55416.mkv
 http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55417.mkv
 #EXTINF:-1 tvg-id="Mil Colmillos S01 E07" tvg-name="Mil Colmillos S01 E07"  group-title="SERIES ACCION",Mil Colmillos S01 E07
 http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55418.mkv
+#EXTINF:-1 tvg-id="Walker S01 E01" tvg-name="Walker S01 E01"  group-title="SERIES ACCION",Walker S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55633.mkv
+#EXTINF:-1 tvg-id="Walker S01 E02" tvg-name="Walker S01 E02"  group-title="SERIES ACCION",Walker S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55634.mkv
+#EXTINF:-1 tvg-id="Walker S01 E03" tvg-name="Walker S01 E03"  group-title="SERIES ACCION",Walker S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55635.mkv
+#EXTINF:-1 tvg-id="Walker S01 E04" tvg-name="Walker S01 E04"  group-title="SERIES ACCION",Walker S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55636.mkv
+#EXTINF:-1 tvg-id="Walker S01 E05" tvg-name="Walker S01 E05"  group-title="SERIES ACCION",Walker S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55637.mkv
+#EXTINF:-1 tvg-id="Walker S01 E06" tvg-name="Walker S01 E06"  group-title="SERIES ACCION",Walker S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55638.mkv
+#EXTINF:-1 tvg-id="Walker S01 E07" tvg-name="Walker S01 E07"  group-title="SERIES ACCION",Walker S01 E07
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55639.mkv
+#EXTINF:-1 tvg-id="Walker S01 E08" tvg-name="Walker S01 E08"  group-title="SERIES ACCION",Walker S01 E08
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55640.mkv
+#EXTINF:-1 tvg-id="Walker S01 E09" tvg-name="Walker S01 E09"  group-title="SERIES ACCION",Walker S01 E09
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55641.mkv
+#EXTINF:-1 tvg-id="Walker S01 E10" tvg-name="Walker S01 E10"  group-title="SERIES ACCION",Walker S01 E10
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55642.mkv
+#EXTINF:-1 tvg-id="Walker S01 E11" tvg-name="Walker S01 E11"  group-title="SERIES ACCION",Walker S01 E11
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55643.mkv
+#EXTINF:-1 tvg-id="Walker S01 E12" tvg-name="Walker S01 E12"  group-title="SERIES ACCION",Walker S01 E12
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55644.mkv
+#EXTINF:-1 tvg-id="Walker S01 E13" tvg-name="Walker S01 E13"  group-title="SERIES ACCION",Walker S01 E13
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55645.mkv
+#EXTINF:-1 tvg-id="Walker S01 E14" tvg-name="Walker S01 E14"  group-title="SERIES ACCION",Walker S01 E14
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55646.mkv
+#EXTINF:-1 tvg-id="Walker S01 E15" tvg-name="Walker S01 E15"  group-title="SERIES ACCION",Walker S01 E15
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55647.mkv
+#EXTINF:-1 tvg-id="Walker S01 E16" tvg-name="Walker S01 E16"  group-title="SERIES ACCION",Walker S01 E16
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55648.mkv
+#EXTINF:-1 tvg-id="Walker S01 E17" tvg-name="Walker S01 E17"  group-title="SERIES ACCION",Walker S01 E17
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55649.mkv
+#EXTINF:-1 tvg-id="Walker S01 E18" tvg-name="Walker S01 E18"  group-title="SERIES ACCION",Walker S01 E18
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55650.mkv
 #EXTINF:-1 tvg-id="Los Super Campeones hacia el Mundial Oliver y Benji (Super Campeones 2002) S01 E01" tvg-name="Los Super Campeones hacia el Mundial Oliver y Benji (Super Campeones 2002) S01 E01"  group-title="SERIES ANIME",Los Super Campeones hacia el Mundial Oliver y Benji (Super Campeones 2002) S01 E01
 http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/7933.mp4
 #EXTINF:-1 tvg-id="Los Super Campeones hacia el Mundial Oliver y Benji (Super Campeones 2002) S01 E02" tvg-name="Los Super Campeones hacia el Mundial Oliver y Benji (Super Campeones 2002) S01 E02"  group-title="SERIES ANIME",Los Super Campeones hacia el Mundial Oliver y Benji (Super Campeones 2002) S01 E02
@@ -17825,6 +17905,148 @@ http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55441.mkv
 http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55442.mkv
 #EXTINF:-1 tvg-id="Mushoku Tensei Isekai Ittara Honki Dasu S01 E11" tvg-name="Mushoku Tensei Isekai Ittara Honki Dasu S01 E11"  group-title="SERIES ANIME",Mushoku Tensei Isekai Ittara Honki Dasu S01 E11
 http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55443.mkv
+#EXTINF:-1 tvg-id="De yakuza a amo de casa S01 E01" tvg-name="De yakuza a amo de casa S01 E01"  group-title="SERIES ANIME",De yakuza a amo de casa S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55612.mkv
+#EXTINF:-1 tvg-id="De yakuza a amo de casa S01 E02" tvg-name="De yakuza a amo de casa S01 E02"  group-title="SERIES ANIME",De yakuza a amo de casa S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55613.mkv
+#EXTINF:-1 tvg-id="De yakuza a amo de casa S01 E03" tvg-name="De yakuza a amo de casa S01 E03"  group-title="SERIES ANIME",De yakuza a amo de casa S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55614.mkv
+#EXTINF:-1 tvg-id="De yakuza a amo de casa S01 E04" tvg-name="De yakuza a amo de casa S01 E04"  group-title="SERIES ANIME",De yakuza a amo de casa S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55615.mkv
+#EXTINF:-1 tvg-id="De yakuza a amo de casa S01 E05" tvg-name="De yakuza a amo de casa S01 E05"  group-title="SERIES ANIME",De yakuza a amo de casa S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55616.mkv
+#EXTINF:-1 tvg-id="De yakuza a amo de casa S01 E06" tvg-name="De yakuza a amo de casa S01 E06"  group-title="SERIES ANIME",De yakuza a amo de casa S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55617.mkv
+#EXTINF:-1 tvg-id="De yakuza a amo de casa S01 E07" tvg-name="De yakuza a amo de casa S01 E07"  group-title="SERIES ANIME",De yakuza a amo de casa S01 E07
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55618.mkv
+#EXTINF:-1 tvg-id="De yakuza a amo de casa S01 E08" tvg-name="De yakuza a amo de casa S01 E08"  group-title="SERIES ANIME",De yakuza a amo de casa S01 E08
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55619.mkv
+#EXTINF:-1 tvg-id="De yakuza a amo de casa S01 E09" tvg-name="De yakuza a amo de casa S01 E09"  group-title="SERIES ANIME",De yakuza a amo de casa S01 E09
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55620.mkv
+#EXTINF:-1 tvg-id="De yakuza a amo de casa S01 E10" tvg-name="De yakuza a amo de casa S01 E10"  group-title="SERIES ANIME",De yakuza a amo de casa S01 E10
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55621.mkv
+#EXTINF:-1 tvg-id="Death Parade S01 E01" tvg-name="Death Parade S01 E01"  group-title="SERIES ANIME",Death Parade S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55801.mkv
+#EXTINF:-1 tvg-id="Death Parade S01 E02" tvg-name="Death Parade S01 E02"  group-title="SERIES ANIME",Death Parade S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55802.mkv
+#EXTINF:-1 tvg-id="Death Parade S01 E03" tvg-name="Death Parade S01 E03"  group-title="SERIES ANIME",Death Parade S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55803.mkv
+#EXTINF:-1 tvg-id="Death Parade S01 E04" tvg-name="Death Parade S01 E04"  group-title="SERIES ANIME",Death Parade S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55804.mkv
+#EXTINF:-1 tvg-id="Death Parade S01 E05" tvg-name="Death Parade S01 E05"  group-title="SERIES ANIME",Death Parade S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55805.mkv
+#EXTINF:-1 tvg-id="Death Parade S01 E06" tvg-name="Death Parade S01 E06"  group-title="SERIES ANIME",Death Parade S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55806.mkv
+#EXTINF:-1 tvg-id="Death Parade S01 E07" tvg-name="Death Parade S01 E07"  group-title="SERIES ANIME",Death Parade S01 E07
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55807.mkv
+#EXTINF:-1 tvg-id="Death Parade S01 E08" tvg-name="Death Parade S01 E08"  group-title="SERIES ANIME",Death Parade S01 E08
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55808.mkv
+#EXTINF:-1 tvg-id="Death Parade S01 E09" tvg-name="Death Parade S01 E09"  group-title="SERIES ANIME",Death Parade S01 E09
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55809.mkv
+#EXTINF:-1 tvg-id="Death Parade S01 E10" tvg-name="Death Parade S01 E10"  group-title="SERIES ANIME",Death Parade S01 E10
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55810.mkv
+#EXTINF:-1 tvg-id="Death Parade S01 E11" tvg-name="Death Parade S01 E11"  group-title="SERIES ANIME",Death Parade S01 E11
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55811.mkv
+#EXTINF:-1 tvg-id="Death Parade S01 E12" tvg-name="Death Parade S01 E12"  group-title="SERIES ANIME",Death Parade S01 E12
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55812.mkv
+#EXTINF:-1 tvg-id="Shokugeki no Souma S01 E01" tvg-name="Shokugeki no Souma S01 E01"  group-title="SERIES ANIME",Shokugeki no Souma S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55837.mkv
+#EXTINF:-1 tvg-id="Shokugeki no Souma S01 E02" tvg-name="Shokugeki no Souma S01 E02"  group-title="SERIES ANIME",Shokugeki no Souma S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55838.mkv
+#EXTINF:-1 tvg-id="Shokugeki no Souma S01 E03" tvg-name="Shokugeki no Souma S01 E03"  group-title="SERIES ANIME",Shokugeki no Souma S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55839.mkv
+#EXTINF:-1 tvg-id="Shokugeki no Souma S01 E04" tvg-name="Shokugeki no Souma S01 E04"  group-title="SERIES ANIME",Shokugeki no Souma S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55840.mkv
+#EXTINF:-1 tvg-id="Shokugeki no Souma S01 E05" tvg-name="Shokugeki no Souma S01 E05"  group-title="SERIES ANIME",Shokugeki no Souma S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55841.mkv
+#EXTINF:-1 tvg-id="Shokugeki no Souma S01 E06" tvg-name="Shokugeki no Souma S01 E06"  group-title="SERIES ANIME",Shokugeki no Souma S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55842.mkv
+#EXTINF:-1 tvg-id="Shokugeki no Souma S01 E07" tvg-name="Shokugeki no Souma S01 E07"  group-title="SERIES ANIME",Shokugeki no Souma S01 E07
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55843.mkv
+#EXTINF:-1 tvg-id="Shokugeki no Souma S01 E08" tvg-name="Shokugeki no Souma S01 E08"  group-title="SERIES ANIME",Shokugeki no Souma S01 E08
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55844.mkv
+#EXTINF:-1 tvg-id="Shokugeki no Souma S01 E09" tvg-name="Shokugeki no Souma S01 E09"  group-title="SERIES ANIME",Shokugeki no Souma S01 E09
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55845.mkv
+#EXTINF:-1 tvg-id="Shokugeki no Souma S01 E10" tvg-name="Shokugeki no Souma S01 E10"  group-title="SERIES ANIME",Shokugeki no Souma S01 E10
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55846.mkv
+#EXTINF:-1 tvg-id="Shokugeki no Souma S01 E11" tvg-name="Shokugeki no Souma S01 E11"  group-title="SERIES ANIME",Shokugeki no Souma S01 E11
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55847.mkv
+#EXTINF:-1 tvg-id="Shokugeki no Souma S01 E12" tvg-name="Shokugeki no Souma S01 E12"  group-title="SERIES ANIME",Shokugeki no Souma S01 E12
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55848.mkv
+#EXTINF:-1 tvg-id="Shokugeki no Souma S01 E13" tvg-name="Shokugeki no Souma S01 E13"  group-title="SERIES ANIME",Shokugeki no Souma S01 E13
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55849.mkv
+#EXTINF:-1 tvg-id="Shokugeki no Souma S01 E14" tvg-name="Shokugeki no Souma S01 E14"  group-title="SERIES ANIME",Shokugeki no Souma S01 E14
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55850.mkv
+#EXTINF:-1 tvg-id="Shokugeki no Souma S01 E15" tvg-name="Shokugeki no Souma S01 E15"  group-title="SERIES ANIME",Shokugeki no Souma S01 E15
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55851.mkv
+#EXTINF:-1 tvg-id="Shokugeki no Souma S01 E16" tvg-name="Shokugeki no Souma S01 E16"  group-title="SERIES ANIME",Shokugeki no Souma S01 E16
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55852.mkv
+#EXTINF:-1 tvg-id="Shokugeki no Souma S01 E17" tvg-name="Shokugeki no Souma S01 E17"  group-title="SERIES ANIME",Shokugeki no Souma S01 E17
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55853.mkv
+#EXTINF:-1 tvg-id="Shokugeki no Souma S01 E18" tvg-name="Shokugeki no Souma S01 E18"  group-title="SERIES ANIME",Shokugeki no Souma S01 E18
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55854.mkv
+#EXTINF:-1 tvg-id="Shokugeki no Souma S01 E19" tvg-name="Shokugeki no Souma S01 E19"  group-title="SERIES ANIME",Shokugeki no Souma S01 E19
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55855.mkv
+#EXTINF:-1 tvg-id="Shokugeki no Souma S01 E20" tvg-name="Shokugeki no Souma S01 E20"  group-title="SERIES ANIME",Shokugeki no Souma S01 E20
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55856.mkv
+#EXTINF:-1 tvg-id="Shokugeki no Souma S01 E21" tvg-name="Shokugeki no Souma S01 E21"  group-title="SERIES ANIME",Shokugeki no Souma S01 E21
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55857.mkv
+#EXTINF:-1 tvg-id="Shokugeki no Souma S01 E22" tvg-name="Shokugeki no Souma S01 E22"  group-title="SERIES ANIME",Shokugeki no Souma S01 E22
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55858.mkv
+#EXTINF:-1 tvg-id="Shokugeki no Souma S01 E23" tvg-name="Shokugeki no Souma S01 E23"  group-title="SERIES ANIME",Shokugeki no Souma S01 E23
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55859.mkv
+#EXTINF:-1 tvg-id="Shokugeki no Souma S01 E24" tvg-name="Shokugeki no Souma S01 E24"  group-title="SERIES ANIME",Shokugeki no Souma S01 E24
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55860.mkv
+#EXTINF:-1 tvg-id="The Rising of the Shield Hero S01 E01" tvg-name="The Rising of the Shield Hero S01 E01"  group-title="SERIES ANIME",The Rising of the Shield Hero S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56032.mkv
+#EXTINF:-1 tvg-id="The Rising of the Shield Hero S01 E02" tvg-name="The Rising of the Shield Hero S01 E02"  group-title="SERIES ANIME",The Rising of the Shield Hero S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56033.mkv
+#EXTINF:-1 tvg-id="The Rising of the Shield Hero S01 E03" tvg-name="The Rising of the Shield Hero S01 E03"  group-title="SERIES ANIME",The Rising of the Shield Hero S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56034.mkv
+#EXTINF:-1 tvg-id="The Rising of the Shield Hero S01 E04" tvg-name="The Rising of the Shield Hero S01 E04"  group-title="SERIES ANIME",The Rising of the Shield Hero S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56035.mkv
+#EXTINF:-1 tvg-id="The Rising of the Shield Hero S01 E05" tvg-name="The Rising of the Shield Hero S01 E05"  group-title="SERIES ANIME",The Rising of the Shield Hero S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56036.mkv
+#EXTINF:-1 tvg-id="The Rising of the Shield Hero S01 E06" tvg-name="The Rising of the Shield Hero S01 E06"  group-title="SERIES ANIME",The Rising of the Shield Hero S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56037.mkv
+#EXTINF:-1 tvg-id="The Rising of the Shield Hero S01 E07" tvg-name="The Rising of the Shield Hero S01 E07"  group-title="SERIES ANIME",The Rising of the Shield Hero S01 E07
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56038.mkv
+#EXTINF:-1 tvg-id="The Rising of the Shield Hero S01 E08" tvg-name="The Rising of the Shield Hero S01 E08"  group-title="SERIES ANIME",The Rising of the Shield Hero S01 E08
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56039.mkv
+#EXTINF:-1 tvg-id="The Rising of the Shield Hero S01 E09" tvg-name="The Rising of the Shield Hero S01 E09"  group-title="SERIES ANIME",The Rising of the Shield Hero S01 E09
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56040.mkv
+#EXTINF:-1 tvg-id="The Rising of the Shield Hero S01 E10" tvg-name="The Rising of the Shield Hero S01 E10"  group-title="SERIES ANIME",The Rising of the Shield Hero S01 E10
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56041.mkv
+#EXTINF:-1 tvg-id="The Rising of the Shield Hero S01 E11" tvg-name="The Rising of the Shield Hero S01 E11"  group-title="SERIES ANIME",The Rising of the Shield Hero S01 E11
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56042.mkv
+#EXTINF:-1 tvg-id="The Rising of the Shield Hero S01 E12" tvg-name="The Rising of the Shield Hero S01 E12"  group-title="SERIES ANIME",The Rising of the Shield Hero S01 E12
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56043.mkv
+#EXTINF:-1 tvg-id="The Rising of the Shield Hero S01 E13" tvg-name="The Rising of the Shield Hero S01 E13"  group-title="SERIES ANIME",The Rising of the Shield Hero S01 E13
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56044.mkv
+#EXTINF:-1 tvg-id="The Rising of the Shield Hero S01 E14" tvg-name="The Rising of the Shield Hero S01 E14"  group-title="SERIES ANIME",The Rising of the Shield Hero S01 E14
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56045.mkv
+#EXTINF:-1 tvg-id="The Rising of the Shield Hero S01 E15" tvg-name="The Rising of the Shield Hero S01 E15"  group-title="SERIES ANIME",The Rising of the Shield Hero S01 E15
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56046.mkv
+#EXTINF:-1 tvg-id="The Rising of the Shield Hero S01 E16" tvg-name="The Rising of the Shield Hero S01 E16"  group-title="SERIES ANIME",The Rising of the Shield Hero S01 E16
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56047.mkv
+#EXTINF:-1 tvg-id="The Rising of the Shield Hero S01 E17" tvg-name="The Rising of the Shield Hero S01 E17"  group-title="SERIES ANIME",The Rising of the Shield Hero S01 E17
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56048.mkv
+#EXTINF:-1 tvg-id="The Rising of the Shield Hero S01 E18" tvg-name="The Rising of the Shield Hero S01 E18"  group-title="SERIES ANIME",The Rising of the Shield Hero S01 E18
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56049.mkv
+#EXTINF:-1 tvg-id="The Rising of the Shield Hero S01 E19" tvg-name="The Rising of the Shield Hero S01 E19"  group-title="SERIES ANIME",The Rising of the Shield Hero S01 E19
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56050.mkv
+#EXTINF:-1 tvg-id="The Rising of the Shield Hero S01 E20" tvg-name="The Rising of the Shield Hero S01 E20"  group-title="SERIES ANIME",The Rising of the Shield Hero S01 E20
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56051.mkv
+#EXTINF:-1 tvg-id="The Rising of the Shield Hero S01 E21" tvg-name="The Rising of the Shield Hero S01 E21"  group-title="SERIES ANIME",The Rising of the Shield Hero S01 E21
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56052.mkv
+#EXTINF:-1 tvg-id="The Rising of the Shield Hero S01 E22" tvg-name="The Rising of the Shield Hero S01 E22"  group-title="SERIES ANIME",The Rising of the Shield Hero S01 E22
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56053.mkv
+#EXTINF:-1 tvg-id="The Rising of the Shield Hero S01 E23" tvg-name="The Rising of the Shield Hero S01 E23"  group-title="SERIES ANIME",The Rising of the Shield Hero S01 E23
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56054.mkv
+#EXTINF:-1 tvg-id="The Rising of the Shield Hero S01 E24" tvg-name="The Rising of the Shield Hero S01 E24"  group-title="SERIES ANIME",The Rising of the Shield Hero S01 E24
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56055.mkv
+#EXTINF:-1 tvg-id="The Rising of the Shield Hero S01 E25" tvg-name="The Rising of the Shield Hero S01 E25"  group-title="SERIES ANIME",The Rising of the Shield Hero S01 E25
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56056.mkv
 #EXTINF:-1 tvg-id="Los Espookys S01 E01" tvg-name="Los Espookys S01 E01"  group-title="SERIES COMEDIA",Los Espookys S01 E01
 http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/7946.mkv
 #EXTINF:-1 tvg-id="Los Espookys S01 E02" tvg-name="Los Espookys S01 E02"  group-title="SERIES COMEDIA",Los Espookys S01 E02
@@ -18791,6 +19013,30 @@ http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/41618.mkv
 http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/41619.mkv
 #EXTINF:-1 tvg-id="Ted Lasso S01 E10" tvg-name="Ted Lasso S01 E10"  group-title="SERIES COMEDIA",Ted Lasso S01 E10
 http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/41620.mkv
+#EXTINF:-1 tvg-id="Ted Lasso S02 E01" tvg-name="Ted Lasso S02 E01"  group-title="SERIES COMEDIA",Ted Lasso S02 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55564.mkv
+#EXTINF:-1 tvg-id="Ted Lasso S02 E02" tvg-name="Ted Lasso S02 E02"  group-title="SERIES COMEDIA",Ted Lasso S02 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55565.mkv
+#EXTINF:-1 tvg-id="Ted Lasso S02 E03" tvg-name="Ted Lasso S02 E03"  group-title="SERIES COMEDIA",Ted Lasso S02 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55566.mkv
+#EXTINF:-1 tvg-id="Ted Lasso S02 E04" tvg-name="Ted Lasso S02 E04"  group-title="SERIES COMEDIA",Ted Lasso S02 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55567.mkv
+#EXTINF:-1 tvg-id="Ted Lasso S02 E05" tvg-name="Ted Lasso S02 E05"  group-title="SERIES COMEDIA",Ted Lasso S02 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55568.mkv
+#EXTINF:-1 tvg-id="Ted Lasso S02 E06" tvg-name="Ted Lasso S02 E06"  group-title="SERIES COMEDIA",Ted Lasso S02 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55569.mkv
+#EXTINF:-1 tvg-id="Ted Lasso S02 E07" tvg-name="Ted Lasso S02 E07"  group-title="SERIES COMEDIA",Ted Lasso S02 E07
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55570.mkv
+#EXTINF:-1 tvg-id="Ted Lasso S02 E08" tvg-name="Ted Lasso S02 E08"  group-title="SERIES COMEDIA",Ted Lasso S02 E08
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55571.mkv
+#EXTINF:-1 tvg-id="Ted Lasso S02 E09" tvg-name="Ted Lasso S02 E09"  group-title="SERIES COMEDIA",Ted Lasso S02 E09
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55572.mkv
+#EXTINF:-1 tvg-id="Ted Lasso S02 E10" tvg-name="Ted Lasso S02 E10"  group-title="SERIES COMEDIA",Ted Lasso S02 E10
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55573.mkv
+#EXTINF:-1 tvg-id="Ted Lasso S02 E11" tvg-name="Ted Lasso S02 E11"  group-title="SERIES COMEDIA",Ted Lasso S02 E11
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55574.mkv
+#EXTINF:-1 tvg-id="Ted Lasso S02 E12" tvg-name="Ted Lasso S02 E12"  group-title="SERIES COMEDIA",Ted Lasso S02 E12
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55575.mkv
 #EXTINF:-1 tvg-id="Madre solo hay dos S01 E01" tvg-name="Madre solo hay dos S01 E01"  group-title="SERIES COMEDIA",Madre solo hay dos S01 E01
 http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/41899.mkv
 #EXTINF:-1 tvg-id="Madre solo hay dos S01 E02" tvg-name="Madre solo hay dos S01 E02"  group-title="SERIES COMEDIA",Madre solo hay dos S01 E02
@@ -18965,6 +19211,94 @@ http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55489.mkv
 http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55490.mkv
 #EXTINF:-1 tvg-id="Mucho mas que listos S01 E10" tvg-name="Mucho mas que listos S01 E10"  group-title="SERIES COMEDIA",Mucho mas que listos S01 E10
 http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55491.mkv
+#EXTINF:-1 tvg-id="Amarres S01 E01" tvg-name="Amarres S01 E01"  group-title="SERIES COMEDIA",Amarres S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55726.mkv
+#EXTINF:-1 tvg-id="Amarres S01 E02" tvg-name="Amarres S01 E02"  group-title="SERIES COMEDIA",Amarres S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55727.mkv
+#EXTINF:-1 tvg-id="Amarres S01 E03" tvg-name="Amarres S01 E03"  group-title="SERIES COMEDIA",Amarres S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55728.mkv
+#EXTINF:-1 tvg-id="Amarres S01 E04" tvg-name="Amarres S01 E04"  group-title="SERIES COMEDIA",Amarres S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55729.mkv
+#EXTINF:-1 tvg-id="Amarres S01 E05" tvg-name="Amarres S01 E05"  group-title="SERIES COMEDIA",Amarres S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55730.mkv
+#EXTINF:-1 tvg-id="Amarres S01 E06" tvg-name="Amarres S01 E06"  group-title="SERIES COMEDIA",Amarres S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55731.mkv
+#EXTINF:-1 tvg-id="Amarres S01 E07" tvg-name="Amarres S01 E07"  group-title="SERIES COMEDIA",Amarres S01 E07
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55732.mkv
+#EXTINF:-1 tvg-id="Amarres S01 E08" tvg-name="Amarres S01 E08"  group-title="SERIES COMEDIA",Amarres S01 E08
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55733.mkv
+#EXTINF:-1 tvg-id="Amarres S01 E09" tvg-name="Amarres S01 E09"  group-title="SERIES COMEDIA",Amarres S01 E09
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55734.mkv
+#EXTINF:-1 tvg-id="Amarres S01 E10" tvg-name="Amarres S01 E10"  group-title="SERIES COMEDIA",Amarres S01 E10
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55735.mkv
+#EXTINF:-1 tvg-id="Blindspotting S01 E01" tvg-name="Blindspotting S01 E01"  group-title="SERIES COMEDIA",Blindspotting S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55757.mkv
+#EXTINF:-1 tvg-id="Blindspotting S01 E02" tvg-name="Blindspotting S01 E02"  group-title="SERIES COMEDIA",Blindspotting S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55758.mkv
+#EXTINF:-1 tvg-id="Blindspotting S01 E03" tvg-name="Blindspotting S01 E03"  group-title="SERIES COMEDIA",Blindspotting S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55759.mkv
+#EXTINF:-1 tvg-id="Blindspotting S01 E04" tvg-name="Blindspotting S01 E04"  group-title="SERIES COMEDIA",Blindspotting S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55760.mkv
+#EXTINF:-1 tvg-id="Blindspotting S01 E05" tvg-name="Blindspotting S01 E05"  group-title="SERIES COMEDIA",Blindspotting S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55761.mkv
+#EXTINF:-1 tvg-id="Blindspotting S01 E06" tvg-name="Blindspotting S01 E06"  group-title="SERIES COMEDIA",Blindspotting S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55762.mkv
+#EXTINF:-1 tvg-id="Blindspotting S01 E07" tvg-name="Blindspotting S01 E07"  group-title="SERIES COMEDIA",Blindspotting S01 E07
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55763.mkv
+#EXTINF:-1 tvg-id="Blindspotting S01 E08" tvg-name="Blindspotting S01 E08"  group-title="SERIES COMEDIA",Blindspotting S01 E08
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55764.mkv
+#EXTINF:-1 tvg-id="Run the World S01 E01" tvg-name="Run the World S01 E01"  group-title="SERIES COMEDIA",Run the World S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55976.mkv
+#EXTINF:-1 tvg-id="Run the World S01 E02" tvg-name="Run the World S01 E02"  group-title="SERIES COMEDIA",Run the World S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55977.mkv
+#EXTINF:-1 tvg-id="Run the World S01 E03" tvg-name="Run the World S01 E03"  group-title="SERIES COMEDIA",Run the World S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55978.mkv
+#EXTINF:-1 tvg-id="Run the World S01 E04" tvg-name="Run the World S01 E04"  group-title="SERIES COMEDIA",Run the World S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55979.mkv
+#EXTINF:-1 tvg-id="Run the World S01 E05" tvg-name="Run the World S01 E05"  group-title="SERIES COMEDIA",Run the World S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55980.mkv
+#EXTINF:-1 tvg-id="Run the World S01 E06" tvg-name="Run the World S01 E06"  group-title="SERIES COMEDIA",Run the World S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55981.mkv
+#EXTINF:-1 tvg-id="Run the World S01 E07" tvg-name="Run the World S01 E07"  group-title="SERIES COMEDIA",Run the World S01 E07
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55982.mkv
+#EXTINF:-1 tvg-id="Run the World S01 E08" tvg-name="Run the World S01 E08"  group-title="SERIES COMEDIA",Run the World S01 E08
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55983.mkv
+#EXTINF:-1 tvg-id="Schmigadoon! S01 E01" tvg-name="Schmigadoon! S01 E01"  group-title="SERIES COMEDIA",Schmigadoon! S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55992.mkv
+#EXTINF:-1 tvg-id="Schmigadoon! S01 E02" tvg-name="Schmigadoon! S01 E02"  group-title="SERIES COMEDIA",Schmigadoon! S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55993.mkv
+#EXTINF:-1 tvg-id="Schmigadoon! S01 E03" tvg-name="Schmigadoon! S01 E03"  group-title="SERIES COMEDIA",Schmigadoon! S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55994.mkv
+#EXTINF:-1 tvg-id="Schmigadoon! S01 E04" tvg-name="Schmigadoon! S01 E04"  group-title="SERIES COMEDIA",Schmigadoon! S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55995.mkv
+#EXTINF:-1 tvg-id="Schmigadoon! S01 E05" tvg-name="Schmigadoon! S01 E05"  group-title="SERIES COMEDIA",Schmigadoon! S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55996.mkv
+#EXTINF:-1 tvg-id="Schmigadoon! S01 E06" tvg-name="Schmigadoon! S01 E06"  group-title="SERIES COMEDIA",Schmigadoon! S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55997.mkv
+#EXTINF:-1 tvg-id="Starstruck S01 E01" tvg-name="Starstruck S01 E01"  group-title="SERIES COMEDIA",Starstruck S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56012.mkv
+#EXTINF:-1 tvg-id="Starstruck S01 E02" tvg-name="Starstruck S01 E02"  group-title="SERIES COMEDIA",Starstruck S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56013.mkv
+#EXTINF:-1 tvg-id="Starstruck S01 E03" tvg-name="Starstruck S01 E03"  group-title="SERIES COMEDIA",Starstruck S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56014.mkv
+#EXTINF:-1 tvg-id="Starstruck S01 E04" tvg-name="Starstruck S01 E04"  group-title="SERIES COMEDIA",Starstruck S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56015.mkv
+#EXTINF:-1 tvg-id="Starstruck S01 E05" tvg-name="Starstruck S01 E05"  group-title="SERIES COMEDIA",Starstruck S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56016.mkv
+#EXTINF:-1 tvg-id="Starstruck S01 E06" tvg-name="Starstruck S01 E06"  group-title="SERIES COMEDIA",Starstruck S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56017.mkv
+#EXTINF:-1 tvg-id="La Directora S01 E01" tvg-name="La Directora S01 E01"  group-title="SERIES COMEDIA",La Directora S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56018.mkv
+#EXTINF:-1 tvg-id="La Directora S01 E02" tvg-name="La Directora S01 E02"  group-title="SERIES COMEDIA",La Directora S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56019.mkv
+#EXTINF:-1 tvg-id="La Directora S01 E03" tvg-name="La Directora S01 E03"  group-title="SERIES COMEDIA",La Directora S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56020.mkv
+#EXTINF:-1 tvg-id="La Directora S01 E04" tvg-name="La Directora S01 E04"  group-title="SERIES COMEDIA",La Directora S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56021.mkv
+#EXTINF:-1 tvg-id="La Directora S01 E05" tvg-name="La Directora S01 E05"  group-title="SERIES COMEDIA",La Directora S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56022.mkv
+#EXTINF:-1 tvg-id="La Directora S01 E06" tvg-name="La Directora S01 E06"  group-title="SERIES COMEDIA",La Directora S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56023.mkv
 #EXTINF:-1 tvg-id="Hannibal S01 E01" tvg-name="Hannibal S01 E01"  group-title="SERIES DRAMA",Hannibal S01 E01
 http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/6691.mkv
 #EXTINF:-1 tvg-id="Hannibal S01 E02" tvg-name="Hannibal S01 E02"  group-title="SERIES DRAMA",Hannibal S01 E02
@@ -21461,6 +21795,26 @@ http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/20168.mkv
 http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/20169.mkv
 #EXTINF:-1 tvg-id="You S02 E10" tvg-name="You S02 E10"  group-title="SERIES DRAMA",You S02 E10
 http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/20170.mkv
+#EXTINF:-1 tvg-id="You S03 E01" tvg-name="You S03 E01"  group-title="SERIES DRAMA",You S03 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55661.mkv
+#EXTINF:-1 tvg-id="You S03 E02" tvg-name="You S03 E02"  group-title="SERIES DRAMA",You S03 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55662.mkv
+#EXTINF:-1 tvg-id="You S03 E03" tvg-name="You S03 E03"  group-title="SERIES DRAMA",You S03 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55663.mkv
+#EXTINF:-1 tvg-id="You S03 E04" tvg-name="You S03 E04"  group-title="SERIES DRAMA",You S03 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55664.mkv
+#EXTINF:-1 tvg-id="You S03 E05" tvg-name="You S03 E05"  group-title="SERIES DRAMA",You S03 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55665.mkv
+#EXTINF:-1 tvg-id="You S03 E06" tvg-name="You S03 E06"  group-title="SERIES DRAMA",You S03 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55666.mkv
+#EXTINF:-1 tvg-id="You S03 E07" tvg-name="You S03 E07"  group-title="SERIES DRAMA",You S03 E07
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55667.mkv
+#EXTINF:-1 tvg-id="You S03 E08" tvg-name="You S03 E08"  group-title="SERIES DRAMA",You S03 E08
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55668.mkv
+#EXTINF:-1 tvg-id="You S03 E09" tvg-name="You S03 E09"  group-title="SERIES DRAMA",You S03 E09
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55669.mkv
+#EXTINF:-1 tvg-id="You S03 E10" tvg-name="You S03 E10"  group-title="SERIES DRAMA",You S03 E10
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55670.mkv
 #EXTINF:-1 tvg-id="El Bazar de la Caridad S01 E01" tvg-name="El Bazar de la Caridad S01 E01"  group-title="SERIES DRAMA",El Bazar de la Caridad S01 E01
 http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/20956.mkv
 #EXTINF:-1 tvg-id="El Bazar de la Caridad S01 E02" tvg-name="El Bazar de la Caridad S01 E02"  group-title="SERIES DRAMA",El Bazar de la Caridad S01 E02
@@ -24285,6 +24639,246 @@ http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55479.mkv
 http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55480.mkv
 #EXTINF:-1 tvg-id="Power Book III Raising Kanan S01 E10" tvg-name="Power Book III Raising Kanan S01 E10"  group-title="SERIES DRAMA",Power Book III Raising Kanan S01 E10
 http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55481.mkv
+#EXTINF:-1 tvg-id="Secretos de un matrimonio S01 E01" tvg-name="Secretos de un matrimonio S01 E01"  group-title="SERIES DRAMA",Secretos de un matrimonio S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55512.mkv
+#EXTINF:-1 tvg-id="Secretos de un matrimonio S01 E02" tvg-name="Secretos de un matrimonio S01 E02"  group-title="SERIES DRAMA",Secretos de un matrimonio S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55513.mkv
+#EXTINF:-1 tvg-id="Secretos de un matrimonio S01 E03" tvg-name="Secretos de un matrimonio S01 E03"  group-title="SERIES DRAMA",Secretos de un matrimonio S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55514.mkv
+#EXTINF:-1 tvg-id="Secretos de un matrimonio S01 E04" tvg-name="Secretos de un matrimonio S01 E04"  group-title="SERIES DRAMA",Secretos de un matrimonio S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55515.mkv
+#EXTINF:-1 tvg-id="Secretos de un matrimonio S01 E05" tvg-name="Secretos de un matrimonio S01 E05"  group-title="SERIES DRAMA",Secretos de un matrimonio S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55516.mkv
+#EXTINF:-1 tvg-id="El codigo que valia millones S01 E01" tvg-name="El codigo que valia millones S01 E01"  group-title="SERIES DRAMA",El codigo que valia millones S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55576.mkv
+#EXTINF:-1 tvg-id="El codigo que valia millones S01 E02" tvg-name="El codigo que valia millones S01 E02"  group-title="SERIES DRAMA",El codigo que valia millones S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55577.mkv
+#EXTINF:-1 tvg-id="El codigo que valia millones S01 E03" tvg-name="El codigo que valia millones S01 E03"  group-title="SERIES DRAMA",El codigo que valia millones S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55578.mkv
+#EXTINF:-1 tvg-id="El codigo que valia millones S01 E04" tvg-name="El codigo que valia millones S01 E04"  group-title="SERIES DRAMA",El codigo que valia millones S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55579.mkv
+#EXTINF:-1 tvg-id="El caso Hartung S01 E01" tvg-name="El caso Hartung S01 E01"  group-title="SERIES DRAMA",El caso Hartung S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55580.mkv
+#EXTINF:-1 tvg-id="El caso Hartung S01 E02" tvg-name="El caso Hartung S01 E02"  group-title="SERIES DRAMA",El caso Hartung S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55581.mkv
+#EXTINF:-1 tvg-id="El caso Hartung S01 E03" tvg-name="El caso Hartung S01 E03"  group-title="SERIES DRAMA",El caso Hartung S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55582.mkv
+#EXTINF:-1 tvg-id="El caso Hartung S01 E04" tvg-name="El caso Hartung S01 E04"  group-title="SERIES DRAMA",El caso Hartung S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55583.mkv
+#EXTINF:-1 tvg-id="El caso Hartung S01 E05" tvg-name="El caso Hartung S01 E05"  group-title="SERIES DRAMA",El caso Hartung S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55584.mkv
+#EXTINF:-1 tvg-id="El caso Hartung S01 E06" tvg-name="El caso Hartung S01 E06"  group-title="SERIES DRAMA",El caso Hartung S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55585.mkv
+#EXTINF:-1 tvg-id="La venganza de las Juanas S01 E01" tvg-name="La venganza de las Juanas S01 E01"  group-title="SERIES DRAMA",La venganza de las Juanas S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55586.mkv
+#EXTINF:-1 tvg-id="La venganza de las Juanas S01 E02" tvg-name="La venganza de las Juanas S01 E02"  group-title="SERIES DRAMA",La venganza de las Juanas S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55587.mkv
+#EXTINF:-1 tvg-id="La venganza de las Juanas S01 E03" tvg-name="La venganza de las Juanas S01 E03"  group-title="SERIES DRAMA",La venganza de las Juanas S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55588.mkv
+#EXTINF:-1 tvg-id="La venganza de las Juanas S01 E04" tvg-name="La venganza de las Juanas S01 E04"  group-title="SERIES DRAMA",La venganza de las Juanas S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55589.mkv
+#EXTINF:-1 tvg-id="La venganza de las Juanas S01 E05" tvg-name="La venganza de las Juanas S01 E05"  group-title="SERIES DRAMA",La venganza de las Juanas S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55590.mkv
+#EXTINF:-1 tvg-id="La venganza de las Juanas S01 E06" tvg-name="La venganza de las Juanas S01 E06"  group-title="SERIES DRAMA",La venganza de las Juanas S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55591.mkv
+#EXTINF:-1 tvg-id="La venganza de las Juanas S01 E07" tvg-name="La venganza de las Juanas S01 E07"  group-title="SERIES DRAMA",La venganza de las Juanas S01 E07
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55592.mkv
+#EXTINF:-1 tvg-id="La venganza de las Juanas S01 E08" tvg-name="La venganza de las Juanas S01 E08"  group-title="SERIES DRAMA",La venganza de las Juanas S01 E08
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55593.mkv
+#EXTINF:-1 tvg-id="La venganza de las Juanas S01 E09" tvg-name="La venganza de las Juanas S01 E09"  group-title="SERIES DRAMA",La venganza de las Juanas S01 E09
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55594.mkv
+#EXTINF:-1 tvg-id="La venganza de las Juanas S01 E10" tvg-name="La venganza de las Juanas S01 E10"  group-title="SERIES DRAMA",La venganza de las Juanas S01 E10
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55595.mkv
+#EXTINF:-1 tvg-id="La venganza de las Juanas S01 E11" tvg-name="La venganza de las Juanas S01 E11"  group-title="SERIES DRAMA",La venganza de las Juanas S01 E11
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55596.mkv
+#EXTINF:-1 tvg-id="La venganza de las Juanas S01 E12" tvg-name="La venganza de las Juanas S01 E12"  group-title="SERIES DRAMA",La venganza de las Juanas S01 E12
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55597.mkv
+#EXTINF:-1 tvg-id="La venganza de las Juanas S01 E13" tvg-name="La venganza de las Juanas S01 E13"  group-title="SERIES DRAMA",La venganza de las Juanas S01 E13
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55598.mkv
+#EXTINF:-1 tvg-id="La venganza de las Juanas S01 E14" tvg-name="La venganza de las Juanas S01 E14"  group-title="SERIES DRAMA",La venganza de las Juanas S01 E14
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55599.mkv
+#EXTINF:-1 tvg-id="La venganza de las Juanas S01 E15" tvg-name="La venganza de las Juanas S01 E15"  group-title="SERIES DRAMA",La venganza de las Juanas S01 E15
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55600.mkv
+#EXTINF:-1 tvg-id="La venganza de las Juanas S01 E16" tvg-name="La venganza de las Juanas S01 E16"  group-title="SERIES DRAMA",La venganza de las Juanas S01 E16
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55601.mkv
+#EXTINF:-1 tvg-id="La venganza de las Juanas S01 E17" tvg-name="La venganza de las Juanas S01 E17"  group-title="SERIES DRAMA",La venganza de las Juanas S01 E17
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55602.mkv
+#EXTINF:-1 tvg-id="La venganza de las Juanas S01 E18" tvg-name="La venganza de las Juanas S01 E18"  group-title="SERIES DRAMA",La venganza de las Juanas S01 E18
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55603.mkv
+#EXTINF:-1 tvg-id="Escuela para senoritas Al Rawabi S01 E01" tvg-name="Escuela para senoritas Al Rawabi S01 E01"  group-title="SERIES DRAMA",Escuela para senoritas Al Rawabi S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55720.mkv
+#EXTINF:-1 tvg-id="Escuela para senoritas Al Rawabi S01 E02" tvg-name="Escuela para senoritas Al Rawabi S01 E02"  group-title="SERIES DRAMA",Escuela para senoritas Al Rawabi S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55721.mkv
+#EXTINF:-1 tvg-id="Escuela para senoritas Al Rawabi S01 E03" tvg-name="Escuela para senoritas Al Rawabi S01 E03"  group-title="SERIES DRAMA",Escuela para senoritas Al Rawabi S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55722.mkv
+#EXTINF:-1 tvg-id="Escuela para senoritas Al Rawabi S01 E04" tvg-name="Escuela para senoritas Al Rawabi S01 E04"  group-title="SERIES DRAMA",Escuela para senoritas Al Rawabi S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55723.mkv
+#EXTINF:-1 tvg-id="Escuela para senoritas Al Rawabi S01 E05" tvg-name="Escuela para senoritas Al Rawabi S01 E05"  group-title="SERIES DRAMA",Escuela para senoritas Al Rawabi S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55724.mkv
+#EXTINF:-1 tvg-id="Escuela para senoritas Al Rawabi S01 E06" tvg-name="Escuela para senoritas Al Rawabi S01 E06"  group-title="SERIES DRAMA",Escuela para senoritas Al Rawabi S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55725.mkv
+#EXTINF:-1 tvg-id="Black Space S01 E01" tvg-name="Black Space S01 E01"  group-title="SERIES DRAMA",Black Space S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55749.mkv
+#EXTINF:-1 tvg-id="Black Space S01 E02" tvg-name="Black Space S01 E02"  group-title="SERIES DRAMA",Black Space S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55750.mkv
+#EXTINF:-1 tvg-id="Black Space S01 E03" tvg-name="Black Space S01 E03"  group-title="SERIES DRAMA",Black Space S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55751.mkv
+#EXTINF:-1 tvg-id="Black Space S01 E04" tvg-name="Black Space S01 E04"  group-title="SERIES DRAMA",Black Space S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55752.mkv
+#EXTINF:-1 tvg-id="Black Space S01 E05" tvg-name="Black Space S01 E05"  group-title="SERIES DRAMA",Black Space S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55753.mkv
+#EXTINF:-1 tvg-id="Black Space S01 E06" tvg-name="Black Space S01 E06"  group-title="SERIES DRAMA",Black Space S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55754.mkv
+#EXTINF:-1 tvg-id="Black Space S01 E07" tvg-name="Black Space S01 E07"  group-title="SERIES DRAMA",Black Space S01 E07
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55755.mkv
+#EXTINF:-1 tvg-id="Black Space S01 E08" tvg-name="Black Space S01 E08"  group-title="SERIES DRAMA",Black Space S01 E08
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55756.mkv
+#EXTINF:-1 tvg-id="Nuevo sabor a cereza S01 E01" tvg-name="Nuevo sabor a cereza S01 E01"  group-title="SERIES DRAMA",Nuevo sabor a cereza S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55765.mkv
+#EXTINF:-1 tvg-id="Nuevo sabor a cereza S01 E02" tvg-name="Nuevo sabor a cereza S01 E02"  group-title="SERIES DRAMA",Nuevo sabor a cereza S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55766.mkv
+#EXTINF:-1 tvg-id="Nuevo sabor a cereza S01 E03" tvg-name="Nuevo sabor a cereza S01 E03"  group-title="SERIES DRAMA",Nuevo sabor a cereza S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55767.mkv
+#EXTINF:-1 tvg-id="Nuevo sabor a cereza S01 E04" tvg-name="Nuevo sabor a cereza S01 E04"  group-title="SERIES DRAMA",Nuevo sabor a cereza S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55768.mkv
+#EXTINF:-1 tvg-id="Nuevo sabor a cereza S01 E05" tvg-name="Nuevo sabor a cereza S01 E05"  group-title="SERIES DRAMA",Nuevo sabor a cereza S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55769.mkv
+#EXTINF:-1 tvg-id="Nuevo sabor a cereza S01 E06" tvg-name="Nuevo sabor a cereza S01 E06"  group-title="SERIES DRAMA",Nuevo sabor a cereza S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55770.mkv
+#EXTINF:-1 tvg-id="Nuevo sabor a cereza S01 E07" tvg-name="Nuevo sabor a cereza S01 E07"  group-title="SERIES DRAMA",Nuevo sabor a cereza S01 E07
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55771.mkv
+#EXTINF:-1 tvg-id="Nuevo sabor a cereza S01 E08" tvg-name="Nuevo sabor a cereza S01 E08"  group-title="SERIES DRAMA",Nuevo sabor a cereza S01 E08
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55772.mkv
+#EXTINF:-1 tvg-id="Clickbait S01 E01" tvg-name="Clickbait S01 E01"  group-title="SERIES DRAMA",Clickbait S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55783.mkv
+#EXTINF:-1 tvg-id="Clickbait S01 E02" tvg-name="Clickbait S01 E02"  group-title="SERIES DRAMA",Clickbait S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55784.mkv
+#EXTINF:-1 tvg-id="Clickbait S01 E03" tvg-name="Clickbait S01 E03"  group-title="SERIES DRAMA",Clickbait S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55785.mkv
+#EXTINF:-1 tvg-id="Clickbait S01 E04" tvg-name="Clickbait S01 E04"  group-title="SERIES DRAMA",Clickbait S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55786.mkv
+#EXTINF:-1 tvg-id="Clickbait S01 E05" tvg-name="Clickbait S01 E05"  group-title="SERIES DRAMA",Clickbait S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55787.mkv
+#EXTINF:-1 tvg-id="Clickbait S01 E06" tvg-name="Clickbait S01 E06"  group-title="SERIES DRAMA",Clickbait S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55788.mkv
+#EXTINF:-1 tvg-id="Clickbait S01 E07" tvg-name="Clickbait S01 E07"  group-title="SERIES DRAMA",Clickbait S01 E07
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55789.mkv
+#EXTINF:-1 tvg-id="Clickbait S01 E08" tvg-name="Clickbait S01 E08"  group-title="SERIES DRAMA",Clickbait S01 E08
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55790.mkv
+#EXTINF:-1 tvg-id="Cruel Summer S01 E01" tvg-name="Cruel Summer S01 E01"  group-title="SERIES DRAMA",Cruel Summer S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55791.mkv
+#EXTINF:-1 tvg-id="Cruel Summer S01 E02" tvg-name="Cruel Summer S01 E02"  group-title="SERIES DRAMA",Cruel Summer S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55792.mkv
+#EXTINF:-1 tvg-id="Cruel Summer S01 E03" tvg-name="Cruel Summer S01 E03"  group-title="SERIES DRAMA",Cruel Summer S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55793.mkv
+#EXTINF:-1 tvg-id="Cruel Summer S01 E04" tvg-name="Cruel Summer S01 E04"  group-title="SERIES DRAMA",Cruel Summer S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55794.mkv
+#EXTINF:-1 tvg-id="Cruel Summer S01 E05" tvg-name="Cruel Summer S01 E05"  group-title="SERIES DRAMA",Cruel Summer S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55795.mkv
+#EXTINF:-1 tvg-id="Cruel Summer S01 E06" tvg-name="Cruel Summer S01 E06"  group-title="SERIES DRAMA",Cruel Summer S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55796.mkv
+#EXTINF:-1 tvg-id="Cruel Summer S01 E07" tvg-name="Cruel Summer S01 E07"  group-title="SERIES DRAMA",Cruel Summer S01 E07
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55797.mkv
+#EXTINF:-1 tvg-id="Cruel Summer S01 E08" tvg-name="Cruel Summer S01 E08"  group-title="SERIES DRAMA",Cruel Summer S01 E08
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55798.mkv
+#EXTINF:-1 tvg-id="Cruel Summer S01 E09" tvg-name="Cruel Summer S01 E09"  group-title="SERIES DRAMA",Cruel Summer S01 E09
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55799.mkv
+#EXTINF:-1 tvg-id="Cruel Summer S01 E10" tvg-name="Cruel Summer S01 E10"  group-title="SERIES DRAMA",Cruel Summer S01 E10
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55800.mkv
+#EXTINF:-1 tvg-id="Todo va a estar bien S01 E01" tvg-name="Todo va a estar bien S01 E01"  group-title="SERIES DRAMA",Todo va a estar bien S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55829.mkv
+#EXTINF:-1 tvg-id="Todo va a estar bien S01 E02" tvg-name="Todo va a estar bien S01 E02"  group-title="SERIES DRAMA",Todo va a estar bien S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55830.mkv
+#EXTINF:-1 tvg-id="Todo va a estar bien S01 E03" tvg-name="Todo va a estar bien S01 E03"  group-title="SERIES DRAMA",Todo va a estar bien S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55831.mkv
+#EXTINF:-1 tvg-id="Todo va a estar bien S01 E04" tvg-name="Todo va a estar bien S01 E04"  group-title="SERIES DRAMA",Todo va a estar bien S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55832.mkv
+#EXTINF:-1 tvg-id="Todo va a estar bien S01 E05" tvg-name="Todo va a estar bien S01 E05"  group-title="SERIES DRAMA",Todo va a estar bien S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55833.mkv
+#EXTINF:-1 tvg-id="Todo va a estar bien S01 E06" tvg-name="Todo va a estar bien S01 E06"  group-title="SERIES DRAMA",Todo va a estar bien S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55834.mkv
+#EXTINF:-1 tvg-id="Todo va a estar bien S01 E07" tvg-name="Todo va a estar bien S01 E07"  group-title="SERIES DRAMA",Todo va a estar bien S01 E07
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55835.mkv
+#EXTINF:-1 tvg-id="Todo va a estar bien S01 E08" tvg-name="Todo va a estar bien S01 E08"  group-title="SERIES DRAMA",Todo va a estar bien S01 E08
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55836.mkv
+#EXTINF:-1 tvg-id="Por siempre jamas S01 E01" tvg-name="Por siempre jamas S01 E01"  group-title="SERIES DRAMA",Por siempre jamas S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55861.mkv
+#EXTINF:-1 tvg-id="Por siempre jamas S01 E02" tvg-name="Por siempre jamas S01 E02"  group-title="SERIES DRAMA",Por siempre jamas S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55862.mkv
+#EXTINF:-1 tvg-id="Por siempre jamas S01 E03" tvg-name="Por siempre jamas S01 E03"  group-title="SERIES DRAMA",Por siempre jamas S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55863.mkv
+#EXTINF:-1 tvg-id="Por siempre jamas S01 E04" tvg-name="Por siempre jamas S01 E04"  group-title="SERIES DRAMA",Por siempre jamas S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55864.mkv
+#EXTINF:-1 tvg-id="Por siempre jamas S01 E05" tvg-name="Por siempre jamas S01 E05"  group-title="SERIES DRAMA",Por siempre jamas S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55865.mkv
+#EXTINF:-1 tvg-id="Regreso a Howards End S01 E01" tvg-name="Regreso a Howards End S01 E01"  group-title="SERIES DRAMA",Regreso a Howards End S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55866.mkv
+#EXTINF:-1 tvg-id="Regreso a Howards End S01 E02" tvg-name="Regreso a Howards End S01 E02"  group-title="SERIES DRAMA",Regreso a Howards End S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55867.mkv
+#EXTINF:-1 tvg-id="Regreso a Howards End S01 E03" tvg-name="Regreso a Howards End S01 E03"  group-title="SERIES DRAMA",Regreso a Howards End S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55868.mkv
+#EXTINF:-1 tvg-id="Regreso a Howards End S01 E04" tvg-name="Regreso a Howards End S01 E04"  group-title="SERIES DRAMA",Regreso a Howards End S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55869.mkv
+#EXTINF:-1 tvg-id="Que te den, Kevin S01 E01" tvg-name="Que te den, Kevin S01 E01"  group-title="SERIES DRAMA",Que te den, Kevin S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55890.mkv
+#EXTINF:-1 tvg-id="Que te den, Kevin S01 E02" tvg-name="Que te den, Kevin S01 E02"  group-title="SERIES DRAMA",Que te den, Kevin S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55891.mkv
+#EXTINF:-1 tvg-id="Que te den, Kevin S01 E03" tvg-name="Que te den, Kevin S01 E03"  group-title="SERIES DRAMA",Que te den, Kevin S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55892.mkv
+#EXTINF:-1 tvg-id="Que te den, Kevin S01 E04" tvg-name="Que te den, Kevin S01 E04"  group-title="SERIES DRAMA",Que te den, Kevin S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55893.mkv
+#EXTINF:-1 tvg-id="Que te den, Kevin S01 E05" tvg-name="Que te den, Kevin S01 E05"  group-title="SERIES DRAMA",Que te den, Kevin S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55894.mkv
+#EXTINF:-1 tvg-id="Que te den, Kevin S01 E06" tvg-name="Que te den, Kevin S01 E06"  group-title="SERIES DRAMA",Que te den, Kevin S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55895.mkv
+#EXTINF:-1 tvg-id="Que te den, Kevin S01 E07" tvg-name="Que te den, Kevin S01 E07"  group-title="SERIES DRAMA",Que te den, Kevin S01 E07
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55896.mkv
+#EXTINF:-1 tvg-id="Que te den, Kevin S01 E08" tvg-name="Que te den, Kevin S01 E08"  group-title="SERIES DRAMA",Que te den, Kevin S01 E08
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55897.mkv
+#EXTINF:-1 tvg-id="Post mortem Nadie muere en Skarnes S01 E01" tvg-name="Post mortem Nadie muere en Skarnes S01 E01"  group-title="SERIES DRAMA",Post mortem Nadie muere en Skarnes S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55970.mkv
+#EXTINF:-1 tvg-id="Post mortem Nadie muere en Skarnes S01 E02" tvg-name="Post mortem Nadie muere en Skarnes S01 E02"  group-title="SERIES DRAMA",Post mortem Nadie muere en Skarnes S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55971.mkv
+#EXTINF:-1 tvg-id="Post mortem Nadie muere en Skarnes S01 E03" tvg-name="Post mortem Nadie muere en Skarnes S01 E03"  group-title="SERIES DRAMA",Post mortem Nadie muere en Skarnes S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55972.mkv
+#EXTINF:-1 tvg-id="Post mortem Nadie muere en Skarnes S01 E04" tvg-name="Post mortem Nadie muere en Skarnes S01 E04"  group-title="SERIES DRAMA",Post mortem Nadie muere en Skarnes S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55973.mkv
+#EXTINF:-1 tvg-id="Post mortem Nadie muere en Skarnes S01 E05" tvg-name="Post mortem Nadie muere en Skarnes S01 E05"  group-title="SERIES DRAMA",Post mortem Nadie muere en Skarnes S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55974.mkv
+#EXTINF:-1 tvg-id="Post mortem Nadie muere en Skarnes S01 E06" tvg-name="Post mortem Nadie muere en Skarnes S01 E06"  group-title="SERIES DRAMA",Post mortem Nadie muere en Skarnes S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55975.mkv
+#EXTINF:-1 tvg-id="Los Vencidos S01 E01" tvg-name="Los Vencidos S01 E01"  group-title="SERIES DRAMA",Los Vencidos S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56004.mkv
+#EXTINF:-1 tvg-id="Los Vencidos S01 E02" tvg-name="Los Vencidos S01 E02"  group-title="SERIES DRAMA",Los Vencidos S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56005.mkv
+#EXTINF:-1 tvg-id="Los Vencidos S01 E03" tvg-name="Los Vencidos S01 E03"  group-title="SERIES DRAMA",Los Vencidos S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56006.mkv
+#EXTINF:-1 tvg-id="Los Vencidos S01 E04" tvg-name="Los Vencidos S01 E04"  group-title="SERIES DRAMA",Los Vencidos S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56007.mkv
+#EXTINF:-1 tvg-id="Los Vencidos S01 E05" tvg-name="Los Vencidos S01 E05"  group-title="SERIES DRAMA",Los Vencidos S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56008.mkv
+#EXTINF:-1 tvg-id="Los Vencidos S01 E06" tvg-name="Los Vencidos S01 E06"  group-title="SERIES DRAMA",Los Vencidos S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56009.mkv
+#EXTINF:-1 tvg-id="Los Vencidos S01 E07" tvg-name="Los Vencidos S01 E07"  group-title="SERIES DRAMA",Los Vencidos S01 E07
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56010.mkv
+#EXTINF:-1 tvg-id="Los Vencidos S01 E08" tvg-name="Los Vencidos S01 E08"  group-title="SERIES DRAMA",Los Vencidos S01 E08
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56011.mkv
+#EXTINF:-1 tvg-id="El Reino S01 E01" tvg-name="El Reino S01 E01"  group-title="SERIES DRAMA",El Reino S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56024.mkv
+#EXTINF:-1 tvg-id="El Reino S01 E02" tvg-name="El Reino S01 E02"  group-title="SERIES DRAMA",El Reino S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56025.mkv
+#EXTINF:-1 tvg-id="El Reino S01 E03" tvg-name="El Reino S01 E03"  group-title="SERIES DRAMA",El Reino S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56026.mkv
+#EXTINF:-1 tvg-id="El Reino S01 E04" tvg-name="El Reino S01 E04"  group-title="SERIES DRAMA",El Reino S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56027.mkv
+#EXTINF:-1 tvg-id="El Reino S01 E05" tvg-name="El Reino S01 E05"  group-title="SERIES DRAMA",El Reino S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56028.mkv
+#EXTINF:-1 tvg-id="El Reino S01 E06" tvg-name="El Reino S01 E06"  group-title="SERIES DRAMA",El Reino S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56029.mkv
+#EXTINF:-1 tvg-id="El Reino S01 E07" tvg-name="El Reino S01 E07"  group-title="SERIES DRAMA",El Reino S01 E07
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56030.mkv
+#EXTINF:-1 tvg-id="El Reino S01 E08" tvg-name="El Reino S01 E08"  group-title="SERIES DRAMA",El Reino S01 E08
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56031.mkv
 #EXTINF:-1 tvg-id="Game of Thrones S01 E01" tvg-name="Game of Thrones S01 E01"  group-title="SERIES FICCION - FANTASIA",Game of Thrones S01 E01
 http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/6124.avi
 #EXTINF:-1 tvg-id="Game of Thrones S01 E02" tvg-name="Game of Thrones S01 E02"  group-title="SERIES FICCION - FANTASIA",Game of Thrones S01 E02
@@ -27377,6 +27971,96 @@ http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55509.mkv
 http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55510.mkv
 #EXTINF:-1 tvg-id="Resident Alien S01 E10" tvg-name="Resident Alien S01 E10"  group-title="SERIES FICCION - FANTASIA",Resident Alien S01 E10
 http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55511.mkv
+#EXTINF:-1 tvg-id="Star Trek Lower Decks S01 E01" tvg-name="Star Trek Lower Decks S01 E01"  group-title="SERIES FICCION - FANTASIA",Star Trek Lower Decks S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55534.mkv
+#EXTINF:-1 tvg-id="Star Trek Lower Decks S01 E02" tvg-name="Star Trek Lower Decks S01 E02"  group-title="SERIES FICCION - FANTASIA",Star Trek Lower Decks S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55535.mkv
+#EXTINF:-1 tvg-id="Star Trek Lower Decks S01 E03" tvg-name="Star Trek Lower Decks S01 E03"  group-title="SERIES FICCION - FANTASIA",Star Trek Lower Decks S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55536.mkv
+#EXTINF:-1 tvg-id="Star Trek Lower Decks S01 E04" tvg-name="Star Trek Lower Decks S01 E04"  group-title="SERIES FICCION - FANTASIA",Star Trek Lower Decks S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55537.mkv
+#EXTINF:-1 tvg-id="Star Trek Lower Decks S01 E05" tvg-name="Star Trek Lower Decks S01 E05"  group-title="SERIES FICCION - FANTASIA",Star Trek Lower Decks S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55538.mkv
+#EXTINF:-1 tvg-id="Star Trek Lower Decks S01 E06" tvg-name="Star Trek Lower Decks S01 E06"  group-title="SERIES FICCION - FANTASIA",Star Trek Lower Decks S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55539.mkv
+#EXTINF:-1 tvg-id="Star Trek Lower Decks S01 E07" tvg-name="Star Trek Lower Decks S01 E07"  group-title="SERIES FICCION - FANTASIA",Star Trek Lower Decks S01 E07
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55540.mkv
+#EXTINF:-1 tvg-id="Star Trek Lower Decks S01 E08" tvg-name="Star Trek Lower Decks S01 E08"  group-title="SERIES FICCION - FANTASIA",Star Trek Lower Decks S01 E08
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55541.mkv
+#EXTINF:-1 tvg-id="Star Trek Lower Decks S01 E09" tvg-name="Star Trek Lower Decks S01 E09"  group-title="SERIES FICCION - FANTASIA",Star Trek Lower Decks S01 E09
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55542.mkv
+#EXTINF:-1 tvg-id="Star Trek Lower Decks S01 E10" tvg-name="Star Trek Lower Decks S01 E10"  group-title="SERIES FICCION - FANTASIA",Star Trek Lower Decks S01 E10
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55543.mkv
+#EXTINF:-1 tvg-id="Kung Fu S01 E01" tvg-name="Kung Fu S01 E01"  group-title="SERIES FICCION - FANTASIA",Kung Fu S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55898.mkv
+#EXTINF:-1 tvg-id="Kung Fu S01 E02" tvg-name="Kung Fu S01 E02"  group-title="SERIES FICCION - FANTASIA",Kung Fu S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55899.mkv
+#EXTINF:-1 tvg-id="Kung Fu S01 E03" tvg-name="Kung Fu S01 E03"  group-title="SERIES FICCION - FANTASIA",Kung Fu S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55900.mkv
+#EXTINF:-1 tvg-id="Kung Fu S01 E04" tvg-name="Kung Fu S01 E04"  group-title="SERIES FICCION - FANTASIA",Kung Fu S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55901.mkv
+#EXTINF:-1 tvg-id="Kung Fu S01 E05" tvg-name="Kung Fu S01 E05"  group-title="SERIES FICCION - FANTASIA",Kung Fu S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55902.mkv
+#EXTINF:-1 tvg-id="Kung Fu S01 E06" tvg-name="Kung Fu S01 E06"  group-title="SERIES FICCION - FANTASIA",Kung Fu S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55903.mkv
+#EXTINF:-1 tvg-id="Kung Fu S01 E07" tvg-name="Kung Fu S01 E07"  group-title="SERIES FICCION - FANTASIA",Kung Fu S01 E07
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55904.mkv
+#EXTINF:-1 tvg-id="Kung Fu S01 E08" tvg-name="Kung Fu S01 E08"  group-title="SERIES FICCION - FANTASIA",Kung Fu S01 E08
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55905.mkv
+#EXTINF:-1 tvg-id="Kung Fu S01 E09" tvg-name="Kung Fu S01 E09"  group-title="SERIES FICCION - FANTASIA",Kung Fu S01 E09
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55906.mkv
+#EXTINF:-1 tvg-id="Kung Fu S01 E10" tvg-name="Kung Fu S01 E10"  group-title="SERIES FICCION - FANTASIA",Kung Fu S01 E10
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55907.mkv
+#EXTINF:-1 tvg-id="Kung Fu S01 E11" tvg-name="Kung Fu S01 E11"  group-title="SERIES FICCION - FANTASIA",Kung Fu S01 E11
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55908.mkv
+#EXTINF:-1 tvg-id="Kung Fu S01 E12" tvg-name="Kung Fu S01 E12"  group-title="SERIES FICCION - FANTASIA",Kung Fu S01 E12
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55909.mkv
+#EXTINF:-1 tvg-id="Kung Fu S01 E13" tvg-name="Kung Fu S01 E13"  group-title="SERIES FICCION - FANTASIA",Kung Fu S01 E13
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55910.mkv
+#EXTINF:-1 tvg-id="Made for Love S01 E01" tvg-name="Made for Love S01 E01"  group-title="SERIES FICCION - FANTASIA",Made for Love S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55931.mkv
+#EXTINF:-1 tvg-id="Made for Love S01 E02" tvg-name="Made for Love S01 E02"  group-title="SERIES FICCION - FANTASIA",Made for Love S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55932.mkv
+#EXTINF:-1 tvg-id="Made for Love S01 E03" tvg-name="Made for Love S01 E03"  group-title="SERIES FICCION - FANTASIA",Made for Love S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55933.mkv
+#EXTINF:-1 tvg-id="Made for Love S01 E04" tvg-name="Made for Love S01 E04"  group-title="SERIES FICCION - FANTASIA",Made for Love S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55934.mkv
+#EXTINF:-1 tvg-id="Made for Love S01 E05" tvg-name="Made for Love S01 E05"  group-title="SERIES FICCION - FANTASIA",Made for Love S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55935.mkv
+#EXTINF:-1 tvg-id="Made for Love S01 E06" tvg-name="Made for Love S01 E06"  group-title="SERIES FICCION - FANTASIA",Made for Love S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55936.mkv
+#EXTINF:-1 tvg-id="Made for Love S01 E07" tvg-name="Made for Love S01 E07"  group-title="SERIES FICCION - FANTASIA",Made for Love S01 E07
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55937.mkv
+#EXTINF:-1 tvg-id="Made for Love S01 E08" tvg-name="Made for Love S01 E08"  group-title="SERIES FICCION - FANTASIA",Made for Love S01 E08
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55938.mkv
+#EXTINF:-1 tvg-id="Despiertate S01 E01" tvg-name="Despiertate S01 E01"  group-title="SERIES FICCION - FANTASIA",Despiertate S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55964.mkv
+#EXTINF:-1 tvg-id="Despiertate S01 E02" tvg-name="Despiertate S01 E02"  group-title="SERIES FICCION - FANTASIA",Despiertate S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55965.mkv
+#EXTINF:-1 tvg-id="Despiertate S01 E03" tvg-name="Despiertate S01 E03"  group-title="SERIES FICCION - FANTASIA",Despiertate S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55966.mkv
+#EXTINF:-1 tvg-id="Despiertate S01 E04" tvg-name="Despiertate S01 E04"  group-title="SERIES FICCION - FANTASIA",Despiertate S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55967.mkv
+#EXTINF:-1 tvg-id="Despiertate S01 E05" tvg-name="Despiertate S01 E05"  group-title="SERIES FICCION - FANTASIA",Despiertate S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55968.mkv
+#EXTINF:-1 tvg-id="Despiertate S01 E06" tvg-name="Despiertate S01 E06"  group-title="SERIES FICCION - FANTASIA",Despiertate S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55969.mkv
+#EXTINF:-1 tvg-id="La Guardia S01 E01" tvg-name="La Guardia S01 E01"  group-title="SERIES FICCION - FANTASIA",La Guardia S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56057.mkv
+#EXTINF:-1 tvg-id="La Guardia S01 E02" tvg-name="La Guardia S01 E02"  group-title="SERIES FICCION - FANTASIA",La Guardia S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56058.mkv
+#EXTINF:-1 tvg-id="La Guardia S01 E03" tvg-name="La Guardia S01 E03"  group-title="SERIES FICCION - FANTASIA",La Guardia S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56059.mkv
+#EXTINF:-1 tvg-id="La Guardia S01 E04" tvg-name="La Guardia S01 E04"  group-title="SERIES FICCION - FANTASIA",La Guardia S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56060.mkv
+#EXTINF:-1 tvg-id="La Guardia S01 E05" tvg-name="La Guardia S01 E05"  group-title="SERIES FICCION - FANTASIA",La Guardia S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56061.mkv
+#EXTINF:-1 tvg-id="La Guardia S01 E06" tvg-name="La Guardia S01 E06"  group-title="SERIES FICCION - FANTASIA",La Guardia S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56062.mkv
+#EXTINF:-1 tvg-id="La Guardia S01 E07" tvg-name="La Guardia S01 E07"  group-title="SERIES FICCION - FANTASIA",La Guardia S01 E07
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56063.mkv
+#EXTINF:-1 tvg-id="La Guardia S01 E08" tvg-name="La Guardia S01 E08"  group-title="SERIES FICCION - FANTASIA",La Guardia S01 E08
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56064.mkv
 #EXTINF:-1 tvg-id="Johnny Bravo S01 E01" tvg-name="Johnny Bravo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9Ug39KxbIt1opgXdJY3AJhAlGx.jpg" group-title="SERIES INFANTILES",Johnny Bravo S01 E01
 http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/6923.mp4
 #EXTINF:-1 tvg-id="Johnny Bravo S01 E02" tvg-name="Johnny Bravo S01 E02" tvg-logo="http://xdgo.live:8080/images/d7b2ea32f483aef63edf9412a3da3b79.jpg" group-title="SERIES INFANTILES",Johnny Bravo S01 E02
@@ -29491,6 +30175,290 @@ http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55499.mkv
 http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55500.mkv
 #EXTINF:-1 tvg-id="Comando Queer S01 E10" tvg-name="Comando Queer S01 E10" tvg-logo="http://xdgo.live:8080/images/974fb9d16390f4fb103787bdf199b590.jpg" group-title="SERIES INFANTILES",Comando Queer S01 E10
 http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55501.mkv
+#EXTINF:-1 tvg-id="Sharkdog S01 E01" tvg-name="Sharkdog S01 E01" tvg-logo="http://xdgo.live:8080/images/16ed65dbf0add42b25e26265c8dea06d.jpg" group-title="SERIES INFANTILES",Sharkdog S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55517.mkv
+#EXTINF:-1 tvg-id="Sharkdog S01 E02" tvg-name="Sharkdog S01 E02" tvg-logo="http://xdgo.live:8080/images/efffb22f3b20c1f51bed74df2e1a29ba.jpg" group-title="SERIES INFANTILES",Sharkdog S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55518.mkv
+#EXTINF:-1 tvg-id="Sharkdog S01 E03" tvg-name="Sharkdog S01 E03" tvg-logo="http://xdgo.live:8080/images/8177b11099d37fad269a813b8b878a61.jpg" group-title="SERIES INFANTILES",Sharkdog S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55519.mkv
+#EXTINF:-1 tvg-id="Sharkdog S01 E04" tvg-name="Sharkdog S01 E04" tvg-logo="http://xdgo.live:8080/images/5faecc0c230bb33f0ef654d93582022b.jpg" group-title="SERIES INFANTILES",Sharkdog S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55520.mkv
+#EXTINF:-1 tvg-id="Sharkdog S01 E05" tvg-name="Sharkdog S01 E05" tvg-logo="http://xdgo.live:8080/images/e4945a7ec0cbf8e9958c18b388bc9cda.jpg" group-title="SERIES INFANTILES",Sharkdog S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55521.mkv
+#EXTINF:-1 tvg-id="Sharkdog S01 E06" tvg-name="Sharkdog S01 E06" tvg-logo="http://xdgo.live:8080/images/ea58136e48a5c4d287838aa8dee60973.jpg" group-title="SERIES INFANTILES",Sharkdog S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55522.mkv
+#EXTINF:-1 tvg-id="Sharkdog S01 E07" tvg-name="Sharkdog S01 E07" tvg-logo="http://xdgo.live:8080/images/7266ecd7dbd5a12a798432b63979b469.jpg" group-title="SERIES INFANTILES",Sharkdog S01 E07
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55523.mkv
+#EXTINF:-1 tvg-id="Sherwood New S01 E01" tvg-name="Sherwood New S01 E01" tvg-logo="http://xdgo.live:8080/images/4e2f95dd3c9dcc5974cd222c2a661fdd.jpg" group-title="SERIES INFANTILES",Sherwood New S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55524.mkv
+#EXTINF:-1 tvg-id="Sherwood New S01 E02" tvg-name="Sherwood New S01 E02" tvg-logo="http://xdgo.live:8080/images/523edcc3a2f811eb7c21d26fe3e8b83b.jpg" group-title="SERIES INFANTILES",Sherwood New S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55525.mkv
+#EXTINF:-1 tvg-id="Sherwood New S01 E03" tvg-name="Sherwood New S01 E03" tvg-logo="http://xdgo.live:8080/images/c963adb28cfd1192c66bdbdb89607da2.jpg" group-title="SERIES INFANTILES",Sherwood New S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55526.mkv
+#EXTINF:-1 tvg-id="Sherwood New S01 E04" tvg-name="Sherwood New S01 E04" tvg-logo="http://xdgo.live:8080/images/46b1204cb151fbbb59b7bb2d3eab95b9.jpg" group-title="SERIES INFANTILES",Sherwood New S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55527.mkv
+#EXTINF:-1 tvg-id="Sherwood New S01 E05" tvg-name="Sherwood New S01 E05" tvg-logo="http://xdgo.live:8080/images/8f714dd956fd2c2d989cf423d37ead32.jpg" group-title="SERIES INFANTILES",Sherwood New S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55528.mkv
+#EXTINF:-1 tvg-id="Sherwood New S01 E06" tvg-name="Sherwood New S01 E06" tvg-logo="http://xdgo.live:8080/images/c0695e2d8faa344e18ef860dde514304.jpg" group-title="SERIES INFANTILES",Sherwood New S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55529.mkv
+#EXTINF:-1 tvg-id="Sherwood New S01 E07" tvg-name="Sherwood New S01 E07" tvg-logo="http://xdgo.live:8080/images/b24b051b950d4fdeced49d6c84838022.jpg" group-title="SERIES INFANTILES",Sherwood New S01 E07
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55530.mkv
+#EXTINF:-1 tvg-id="Sherwood New S01 E08" tvg-name="Sherwood New S01 E08" tvg-logo="http://xdgo.live:8080/images/4b6eb7938241dd646f6b13ef8574b87b.jpg" group-title="SERIES INFANTILES",Sherwood New S01 E08
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55531.mkv
+#EXTINF:-1 tvg-id="Sherwood New S01 E09" tvg-name="Sherwood New S01 E09" tvg-logo="http://xdgo.live:8080/images/d96211d9fa2d12d9d86dc153e6dc8677.jpg" group-title="SERIES INFANTILES",Sherwood New S01 E09
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55532.mkv
+#EXTINF:-1 tvg-id="Sherwood New S01 E10" tvg-name="Sherwood New S01 E10" tvg-logo="http://xdgo.live:8080/images/845529cdbe9a4a5e3f4b3f476fb5c0d4.jpg" group-title="SERIES INFANTILES",Sherwood New S01 E10
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55533.mkv
+#EXTINF:-1 tvg-id="Star Wars Visions S01 E01" tvg-name="Star Wars Visions S01 E01" tvg-logo="http://xdgo.live:8080/images/015d4b33e79143db855633199421c4e9.jpg" group-title="SERIES INFANTILES",Star Wars Visions S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55544.mkv
+#EXTINF:-1 tvg-id="Star Wars Visions S01 E02" tvg-name="Star Wars Visions S01 E02" tvg-logo="http://xdgo.live:8080/images/2fb23f1f08fb05833a5f3da73eb95389.jpg" group-title="SERIES INFANTILES",Star Wars Visions S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55545.mkv
+#EXTINF:-1 tvg-id="Star Wars Visions S01 E03" tvg-name="Star Wars Visions S01 E03" tvg-logo="http://xdgo.live:8080/images/38d0bb4e105b5eb59d566bf19ad380f2.jpg" group-title="SERIES INFANTILES",Star Wars Visions S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55546.mkv
+#EXTINF:-1 tvg-id="Star Wars Visions S01 E04" tvg-name="Star Wars Visions S01 E04" tvg-logo="http://xdgo.live:8080/images/b71b13099454fc636ffbcf1e5e668b58.jpg" group-title="SERIES INFANTILES",Star Wars Visions S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55547.mkv
+#EXTINF:-1 tvg-id="Star Wars Visions S01 E05" tvg-name="Star Wars Visions S01 E05" tvg-logo="http://xdgo.live:8080/images/b68f898967ddaa9fe476f848a26d4ebf.jpg" group-title="SERIES INFANTILES",Star Wars Visions S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55548.mkv
+#EXTINF:-1 tvg-id="Star Wars Visions S01 E06" tvg-name="Star Wars Visions S01 E06" tvg-logo="http://xdgo.live:8080/images/998df8bc026e58faf2c31e1d8814fe79.jpg" group-title="SERIES INFANTILES",Star Wars Visions S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55549.mkv
+#EXTINF:-1 tvg-id="Star Wars Visions S01 E07" tvg-name="Star Wars Visions S01 E07" tvg-logo="http://xdgo.live:8080/images/d25d61d86eab7a7c81b37b9f4d36ec4a.jpg" group-title="SERIES INFANTILES",Star Wars Visions S01 E07
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55550.mkv
+#EXTINF:-1 tvg-id="Star Wars Visions S01 E08" tvg-name="Star Wars Visions S01 E08" tvg-logo="http://xdgo.live:8080/images/3bea11bc7e44a9287925063db257a07f.jpg" group-title="SERIES INFANTILES",Star Wars Visions S01 E08
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55551.mkv
+#EXTINF:-1 tvg-id="Star Wars Visions S01 E09" tvg-name="Star Wars Visions S01 E09" tvg-logo="http://xdgo.live:8080/images/df8594415b134b8e0b3c4ea3a5a28be8.jpg" group-title="SERIES INFANTILES",Star Wars Visions S01 E09
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55552.mkv
+#EXTINF:-1 tvg-id="Pequenas historias zen S01 E01" tvg-name="Pequenas historias zen S01 E01" tvg-logo="http://xdgo.live:8080/images/92916abc87a15ace5a60d0b0dd976efa.jpg" group-title="SERIES INFANTILES",Pequenas historias zen S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55553.mkv
+#EXTINF:-1 tvg-id="Pequenas historias zen S01 E02" tvg-name="Pequenas historias zen S01 E02" tvg-logo="http://xdgo.live:8080/images/c54eb9b87cc2d2fe2d196929f55cd10a.jpg" group-title="SERIES INFANTILES",Pequenas historias zen S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55554.mkv
+#EXTINF:-1 tvg-id="Pequenas historias zen S01 E03" tvg-name="Pequenas historias zen S01 E03" tvg-logo="http://xdgo.live:8080/images/b89d484ecad888f3dd1703b7bc529945.jpg" group-title="SERIES INFANTILES",Pequenas historias zen S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55555.mkv
+#EXTINF:-1 tvg-id="Pequenas historias zen S01 E04" tvg-name="Pequenas historias zen S01 E04" tvg-logo="http://xdgo.live:8080/images/8a6cd15251f32452cfe7278f6442b674.jpg" group-title="SERIES INFANTILES",Pequenas historias zen S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55556.mkv
+#EXTINF:-1 tvg-id="Pequenas historias zen S01 E05" tvg-name="Pequenas historias zen S01 E05" tvg-logo="http://xdgo.live:8080/images/664572106386a00d11bc9a23d3f198af.jpg" group-title="SERIES INFANTILES",Pequenas historias zen S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55557.mkv
+#EXTINF:-1 tvg-id="Pequenas historias zen S01 E06" tvg-name="Pequenas historias zen S01 E06" tvg-logo="http://xdgo.live:8080/images/8fa3dece3278820656e69aa954a9fe79.jpg" group-title="SERIES INFANTILES",Pequenas historias zen S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55558.mkv
+#EXTINF:-1 tvg-id="Pequenas historias zen S01 E07" tvg-name="Pequenas historias zen S01 E07" tvg-logo="http://xdgo.live:8080/images/cad16f22c07463ad4815f73c29ed236f.jpg" group-title="SERIES INFANTILES",Pequenas historias zen S01 E07
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55559.mkv
+#EXTINF:-1 tvg-id="Pequenas historias zen S01 E08" tvg-name="Pequenas historias zen S01 E08" tvg-logo="http://xdgo.live:8080/images/b1f8070eb33b0fb829d9c4403134c30a.jpg" group-title="SERIES INFANTILES",Pequenas historias zen S01 E08
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55560.mkv
+#EXTINF:-1 tvg-id="Pequenas historias zen S01 E09" tvg-name="Pequenas historias zen S01 E09" tvg-logo="http://xdgo.live:8080/images/96e30535a22d008f3b93b84eaefafe6f.jpg" group-title="SERIES INFANTILES",Pequenas historias zen S01 E09
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55561.mkv
+#EXTINF:-1 tvg-id="Pequenas historias zen S01 E10" tvg-name="Pequenas historias zen S01 E10" tvg-logo="http://xdgo.live:8080/images/96e30535a22d008f3b93b84eaefafe6f.jpg" group-title="SERIES INFANTILES",Pequenas historias zen S01 E10
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55562.mkv
+#EXTINF:-1 tvg-id="Pequenas historias zen S01 E11" tvg-name="Pequenas historias zen S01 E11" tvg-logo="http://xdgo.live:8080/images/343db0971dc802902237a05019ef8f1b.jpg" group-title="SERIES INFANTILES",Pequenas historias zen S01 E11
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55563.mkv
+#EXTINF:-1 tvg-id="Wolfboy y la fabrica del Todo S01 E01" tvg-name="Wolfboy y la fabrica del Todo S01 E01" tvg-logo="http://xdgo.live:8080/images/ad82192cd414f3cfac82d5a7a8735c04.jpg" group-title="SERIES INFANTILES",Wolfboy y la fabrica del Todo S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55651.mkv
+#EXTINF:-1 tvg-id="Wolfboy y la fabrica del Todo S01 E02" tvg-name="Wolfboy y la fabrica del Todo S01 E02" tvg-logo="http://xdgo.live:8080/images/2f369d1e17cda56b4564e39824629823.jpg" group-title="SERIES INFANTILES",Wolfboy y la fabrica del Todo S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55652.mkv
+#EXTINF:-1 tvg-id="Wolfboy y la fabrica del Todo S01 E03" tvg-name="Wolfboy y la fabrica del Todo S01 E03" tvg-logo="http://xdgo.live:8080/images/2f369d1e17cda56b4564e39824629823.jpg" group-title="SERIES INFANTILES",Wolfboy y la fabrica del Todo S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55653.mkv
+#EXTINF:-1 tvg-id="Wolfboy y la fabrica del Todo S01 E04" tvg-name="Wolfboy y la fabrica del Todo S01 E04" tvg-logo="http://xdgo.live:8080/images/2f369d1e17cda56b4564e39824629823.jpg" group-title="SERIES INFANTILES",Wolfboy y la fabrica del Todo S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55654.mkv
+#EXTINF:-1 tvg-id="Wolfboy y la fabrica del Todo S01 E05" tvg-name="Wolfboy y la fabrica del Todo S01 E05" tvg-logo="http://xdgo.live:8080/images/2f369d1e17cda56b4564e39824629823.jpg" group-title="SERIES INFANTILES",Wolfboy y la fabrica del Todo S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55655.mkv
+#EXTINF:-1 tvg-id="Wolfboy y la fabrica del Todo S01 E06" tvg-name="Wolfboy y la fabrica del Todo S01 E06" tvg-logo="http://xdgo.live:8080/images/2f369d1e17cda56b4564e39824629823.jpg" group-title="SERIES INFANTILES",Wolfboy y la fabrica del Todo S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55656.mkv
+#EXTINF:-1 tvg-id="Wolfboy y la fabrica del Todo S01 E07" tvg-name="Wolfboy y la fabrica del Todo S01 E07" tvg-logo="http://xdgo.live:8080/images/2f369d1e17cda56b4564e39824629823.jpg" group-title="SERIES INFANTILES",Wolfboy y la fabrica del Todo S01 E07
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55657.mkv
+#EXTINF:-1 tvg-id="Wolfboy y la fabrica del Todo S01 E08" tvg-name="Wolfboy y la fabrica del Todo S01 E08" tvg-logo="http://xdgo.live:8080/images/2f369d1e17cda56b4564e39824629823.jpg" group-title="SERIES INFANTILES",Wolfboy y la fabrica del Todo S01 E08
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55658.mkv
+#EXTINF:-1 tvg-id="Wolfboy y la fabrica del Todo S01 E09" tvg-name="Wolfboy y la fabrica del Todo S01 E09" tvg-logo="http://xdgo.live:8080/images/2f369d1e17cda56b4564e39824629823.jpg" group-title="SERIES INFANTILES",Wolfboy y la fabrica del Todo S01 E09
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55659.mkv
+#EXTINF:-1 tvg-id="Wolfboy y la fabrica del Todo S01 E10" tvg-name="Wolfboy y la fabrica del Todo S01 E10" tvg-logo="http://xdgo.live:8080/images/2f369d1e17cda56b4564e39824629823.jpg" group-title="SERIES INFANTILES",Wolfboy y la fabrica del Todo S01 E10
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55660.mkv
+#EXTINF:-1 tvg-id="Animaniacs S01 E01" tvg-name="Animaniacs S01 E01" tvg-logo="http://xdgo.live:8080/images/ced1192132d800a539a0a3d892020743.jpg" group-title="SERIES INFANTILES",Animaniacs S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55736.mkv
+#EXTINF:-1 tvg-id="Animaniacs S01 E02" tvg-name="Animaniacs S01 E02" tvg-logo="http://xdgo.live:8080/images/276e98384b0fa29a6b5e32a3e640d3cb.jpg" group-title="SERIES INFANTILES",Animaniacs S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55737.mkv
+#EXTINF:-1 tvg-id="Animaniacs S01 E03" tvg-name="Animaniacs S01 E03" tvg-logo="http://xdgo.live:8080/images/0c681b05bd2c32b8c388ced3d60a412e.jpg" group-title="SERIES INFANTILES",Animaniacs S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55738.mkv
+#EXTINF:-1 tvg-id="Animaniacs S01 E04" tvg-name="Animaniacs S01 E04" tvg-logo="http://xdgo.live:8080/images/66401b67584ed32375bca1d9385a5ed1.jpg" group-title="SERIES INFANTILES",Animaniacs S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55739.mkv
+#EXTINF:-1 tvg-id="Animaniacs S01 E05" tvg-name="Animaniacs S01 E05" tvg-logo="http://xdgo.live:8080/images/f41e5eec529dd272821890294a8a8c14.jpg" group-title="SERIES INFANTILES",Animaniacs S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55740.mkv
+#EXTINF:-1 tvg-id="Animaniacs S01 E06" tvg-name="Animaniacs S01 E06" tvg-logo="http://xdgo.live:8080/images/764a5de32f2cc5fcfcaef37d1eabd06c.jpg" group-title="SERIES INFANTILES",Animaniacs S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55741.mkv
+#EXTINF:-1 tvg-id="Animaniacs S01 E07" tvg-name="Animaniacs S01 E07" tvg-logo="http://xdgo.live:8080/images/a5b6576985afceb28df2aae3fe62ba8d.jpg" group-title="SERIES INFANTILES",Animaniacs S01 E07
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55742.mkv
+#EXTINF:-1 tvg-id="Animaniacs S01 E08" tvg-name="Animaniacs S01 E08" tvg-logo="http://xdgo.live:8080/images/c4cdd82361fc97d44d7a6cfd89976c9c.jpg" group-title="SERIES INFANTILES",Animaniacs S01 E08
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55743.mkv
+#EXTINF:-1 tvg-id="Animaniacs S01 E09" tvg-name="Animaniacs S01 E09" tvg-logo="http://xdgo.live:8080/images/7b1f7240c25803215becd89c28c073d1.jpg" group-title="SERIES INFANTILES",Animaniacs S01 E09
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55744.mkv
+#EXTINF:-1 tvg-id="Animaniacs S01 E10" tvg-name="Animaniacs S01 E10" tvg-logo="http://xdgo.live:8080/images/6374b8f8e605b23edcc12e40e522ca1d.jpg" group-title="SERIES INFANTILES",Animaniacs S01 E10
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55745.mkv
+#EXTINF:-1 tvg-id="Animaniacs S01 E11" tvg-name="Animaniacs S01 E11" tvg-logo="http://xdgo.live:8080/images/9363817fac5971f14b4e2c881ebfa2f9.jpg" group-title="SERIES INFANTILES",Animaniacs S01 E11
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55746.mkv
+#EXTINF:-1 tvg-id="Animaniacs S01 E12" tvg-name="Animaniacs S01 E12" tvg-logo="http://xdgo.live:8080/images/9ae453a610367418d3743b5feb9d6bc7.jpg" group-title="SERIES INFANTILES",Animaniacs S01 E12
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55747.mkv
+#EXTINF:-1 tvg-id="Animaniacs S01 E13" tvg-name="Animaniacs S01 E13" tvg-logo="http://xdgo.live:8080/images/45574a027489c55ee10ee3a549ca0dd0.jpg" group-title="SERIES INFANTILES",Animaniacs S01 E13
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55748.mkv
+#EXTINF:-1 tvg-id="Centauria S01 E01" tvg-name="Centauria S01 E01" tvg-logo="http://xdgo.live:8080/images/327b2655e8a26083fc91fa312f5ea8dc.jpg" group-title="SERIES INFANTILES",Centauria S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55773.mkv
+#EXTINF:-1 tvg-id="Centauria S01 E02" tvg-name="Centauria S01 E02" tvg-logo="http://xdgo.live:8080/images/c32e23498cde949318007cfc035fe694.jpg" group-title="SERIES INFANTILES",Centauria S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55774.mkv
+#EXTINF:-1 tvg-id="Centauria S01 E03" tvg-name="Centauria S01 E03" tvg-logo="http://xdgo.live:8080/images/cb54b53b7d4c0d9a27924a4929621be4.jpg" group-title="SERIES INFANTILES",Centauria S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55775.mkv
+#EXTINF:-1 tvg-id="Centauria S01 E04" tvg-name="Centauria S01 E04" tvg-logo="http://xdgo.live:8080/images/960768213e1eaf40b62a5b59f3e1a01e.jpg" group-title="SERIES INFANTILES",Centauria S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55776.mkv
+#EXTINF:-1 tvg-id="Centauria S01 E05" tvg-name="Centauria S01 E05" tvg-logo="http://xdgo.live:8080/images/9ad6f2e0facf5cd2e98a4573a5d3b908.jpg" group-title="SERIES INFANTILES",Centauria S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55777.mkv
+#EXTINF:-1 tvg-id="Centauria S01 E06" tvg-name="Centauria S01 E06" tvg-logo="http://xdgo.live:8080/images/b0d0a5ba609843577ac10b98c3cf2a4f.jpg" group-title="SERIES INFANTILES",Centauria S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55778.mkv
+#EXTINF:-1 tvg-id="Centauria S01 E07" tvg-name="Centauria S01 E07" tvg-logo="http://xdgo.live:8080/images/b5ef2e030ed908be733870f6c7f6985c.jpg" group-title="SERIES INFANTILES",Centauria S01 E07
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55779.mkv
+#EXTINF:-1 tvg-id="Centauria S01 E08" tvg-name="Centauria S01 E08" tvg-logo="http://xdgo.live:8080/images/b8d5e2f3b48f4aa45aa6c1b254d77526.jpg" group-title="SERIES INFANTILES",Centauria S01 E08
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55780.mkv
+#EXTINF:-1 tvg-id="Centauria S01 E09" tvg-name="Centauria S01 E09" tvg-logo="http://xdgo.live:8080/images/3c8c761c3dfde94d52c255615473fd94.jpg" group-title="SERIES INFANTILES",Centauria S01 E09
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55781.mkv
+#EXTINF:-1 tvg-id="Centauria S01 E10" tvg-name="Centauria S01 E10" tvg-logo="http://xdgo.live:8080/images/1ae868fd56c1b2ff19beaed7c61c2110.jpg" group-title="SERIES INFANTILES",Centauria S01 E10
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55782.mkv
+#EXTINF:-1 tvg-id="Elliot, el terricola S01 E01" tvg-name="Elliot, el terricola S01 E01" tvg-logo="http://xdgo.live:8080/images/3f9c72f7059bc0192726ded35dd56650.jpg" group-title="SERIES INFANTILES",Elliot, el terricola S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55813.mkv
+#EXTINF:-1 tvg-id="Elliot, el terricola S01 E02" tvg-name="Elliot, el terricola S01 E02" tvg-logo="http://xdgo.live:8080/images/952d146065ea702be6f484419035586c.jpg" group-title="SERIES INFANTILES",Elliot, el terricola S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55814.mkv
+#EXTINF:-1 tvg-id="Elliot, el terricola S01 E03" tvg-name="Elliot, el terricola S01 E03" tvg-logo="http://xdgo.live:8080/images/50ab4985981927c0596b88b95cc3af0f.jpg" group-title="SERIES INFANTILES",Elliot, el terricola S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55815.mkv
+#EXTINF:-1 tvg-id="Elliot, el terricola S01 E04" tvg-name="Elliot, el terricola S01 E04" tvg-logo="http://xdgo.live:8080/images/291b550f68ea4511ca70abb91e773636.jpg" group-title="SERIES INFANTILES",Elliot, el terricola S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55816.mkv
+#EXTINF:-1 tvg-id="Elliot, el terricola S01 E05" tvg-name="Elliot, el terricola S01 E05" tvg-logo="http://xdgo.live:8080/images/0309a44947111e7e5207dde6c54b8080.jpg" group-title="SERIES INFANTILES",Elliot, el terricola S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55817.mkv
+#EXTINF:-1 tvg-id="Elliot, el terricola S01 E06" tvg-name="Elliot, el terricola S01 E06" tvg-logo="http://xdgo.live:8080/images/323749617a9b6950fcf6aff04b796bcd.jpg" group-title="SERIES INFANTILES",Elliot, el terricola S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55818.mkv
+#EXTINF:-1 tvg-id="Elliot, el terricola S01 E07" tvg-name="Elliot, el terricola S01 E07" tvg-logo="http://xdgo.live:8080/images/fedcaa2685024aacb7f38085d2bb79e7.jpg" group-title="SERIES INFANTILES",Elliot, el terricola S01 E07
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55819.mkv
+#EXTINF:-1 tvg-id="Elliot, el terricola S01 E08" tvg-name="Elliot, el terricola S01 E08" tvg-logo="http://xdgo.live:8080/images/b7c191f8f34258d34c17e0380716c365.jpg" group-title="SERIES INFANTILES",Elliot, el terricola S01 E08
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55820.mkv
+#EXTINF:-1 tvg-id="Elliot, el terricola S01 E09" tvg-name="Elliot, el terricola S01 E09" tvg-logo="http://xdgo.live:8080/images/5ec03e89f376cc721ab36de3e3cb0e95.jpg" group-title="SERIES INFANTILES",Elliot, el terricola S01 E09
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55821.mkv
+#EXTINF:-1 tvg-id="Elliot, el terricola S01 E10" tvg-name="Elliot, el terricola S01 E10" tvg-logo="http://xdgo.live:8080/images/12ba433c28c33edd174a5ba45c89a785.jpg" group-title="SERIES INFANTILES",Elliot, el terricola S01 E10
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55822.mkv
+#EXTINF:-1 tvg-id="Elliot, el terricola S01 E11" tvg-name="Elliot, el terricola S01 E11" tvg-logo="http://xdgo.live:8080/images/c77b85b31ecfbb0c4f34a2b9de4bfb2a.jpg" group-title="SERIES INFANTILES",Elliot, el terricola S01 E11
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55823.mkv
+#EXTINF:-1 tvg-id="Elliot, el terricola S01 E12" tvg-name="Elliot, el terricola S01 E12" tvg-logo="http://xdgo.live:8080/images/63a899549162532e18e58cfb93ff5f09.jpg" group-title="SERIES INFANTILES",Elliot, el terricola S01 E12
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55824.mkv
+#EXTINF:-1 tvg-id="Elliot, el terricola S01 E13" tvg-name="Elliot, el terricola S01 E13" tvg-logo="http://xdgo.live:8080/images/fa51a671afbfcb3042bb64c243d2e75c.jpg" group-title="SERIES INFANTILES",Elliot, el terricola S01 E13
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55825.mkv
+#EXTINF:-1 tvg-id="Elliot, el terricola S01 E14" tvg-name="Elliot, el terricola S01 E14" tvg-logo="http://xdgo.live:8080/images/2a5cf8a3deeca55276d53a13f5d4efa0.jpg" group-title="SERIES INFANTILES",Elliot, el terricola S01 E14
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55826.mkv
+#EXTINF:-1 tvg-id="Elliot, el terricola S01 E15" tvg-name="Elliot, el terricola S01 E15" tvg-logo="http://xdgo.live:8080/images/5edd2749fecdd02fb72fdc3f5679fdf3.jpg" group-title="SERIES INFANTILES",Elliot, el terricola S01 E15
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55827.mkv
+#EXTINF:-1 tvg-id="Elliot, el terricola S01 E16" tvg-name="Elliot, el terricola S01 E16" tvg-logo="http://xdgo.live:8080/images/8af9d116a95271f9ce8fa237a72b5021.jpg" group-title="SERIES INFANTILES",Elliot, el terricola S01 E16
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55828.mkv
+#EXTINF:-1 tvg-id="Johnny Test S01 E01" tvg-name="Johnny Test S01 E01" tvg-logo="http://xdgo.live:8080/images/7f6d3cd716efedeaa5b8cedfe1d72883.jpg" group-title="SERIES INFANTILES",Johnny Test S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55870.mkv
+#EXTINF:-1 tvg-id="Johnny Test S01 E02" tvg-name="Johnny Test S01 E02" tvg-logo="http://xdgo.live:8080/images/3e25934195d112d0f375e8974e61b6a1.jpg" group-title="SERIES INFANTILES",Johnny Test S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55871.mkv
+#EXTINF:-1 tvg-id="Johnny Test S01 E03" tvg-name="Johnny Test S01 E03" tvg-logo="http://xdgo.live:8080/images/e2754b354ca036fd87106d652b3ccb81.jpg" group-title="SERIES INFANTILES",Johnny Test S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55872.mkv
+#EXTINF:-1 tvg-id="Johnny Test S01 E04" tvg-name="Johnny Test S01 E04" tvg-logo="http://xdgo.live:8080/images/0af96f80c94a836b30f29bd00f083d88.jpg" group-title="SERIES INFANTILES",Johnny Test S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55873.mkv
+#EXTINF:-1 tvg-id="Johnny Test S01 E05" tvg-name="Johnny Test S01 E05" tvg-logo="http://xdgo.live:8080/images/e4b9d4d9472f96ef43b863892aa40e1b.jpg" group-title="SERIES INFANTILES",Johnny Test S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55874.mkv
+#EXTINF:-1 tvg-id="Johnny Test S01 E06" tvg-name="Johnny Test S01 E06" tvg-logo="http://xdgo.live:8080/images/388779421cb082f8170f55e6b43f2293.jpg" group-title="SERIES INFANTILES",Johnny Test S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55875.mkv
+#EXTINF:-1 tvg-id="Johnny Test S01 E07" tvg-name="Johnny Test S01 E07" tvg-logo="http://xdgo.live:8080/images/b8ccf142ec4469b5cfd9781ebb8d0432.jpg" group-title="SERIES INFANTILES",Johnny Test S01 E07
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55876.mkv
+#EXTINF:-1 tvg-id="Johnny Test S01 E08" tvg-name="Johnny Test S01 E08" tvg-logo="http://xdgo.live:8080/images/f494287638136eb2cdd76fd6f65ff019.jpg" group-title="SERIES INFANTILES",Johnny Test S01 E08
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55877.mkv
+#EXTINF:-1 tvg-id="Johnny Test S01 E09" tvg-name="Johnny Test S01 E09" tvg-logo="http://xdgo.live:8080/images/fcc2b4352251dd2abe6030c8ba0dc995.jpg" group-title="SERIES INFANTILES",Johnny Test S01 E09
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55878.mkv
+#EXTINF:-1 tvg-id="Johnny Test S01 E10" tvg-name="Johnny Test S01 E10" tvg-logo="http://xdgo.live:8080/images/fc8b99289595c6d1f5ceaffdb0aadbc8.jpg" group-title="SERIES INFANTILES",Johnny Test S01 E10
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55879.mkv
+#EXTINF:-1 tvg-id="Johnny Test S01 E11" tvg-name="Johnny Test S01 E11" tvg-logo="http://xdgo.live:8080/images/85f7f84d9ee3b4000f315d05680cc132.jpg" group-title="SERIES INFANTILES",Johnny Test S01 E11
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55880.mkv
+#EXTINF:-1 tvg-id="Johnny Test S01 E12" tvg-name="Johnny Test S01 E12" tvg-logo="http://xdgo.live:8080/images/bffee041956a40409341e68138471516.jpg" group-title="SERIES INFANTILES",Johnny Test S01 E12
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55881.mkv
+#EXTINF:-1 tvg-id="Johnny Test S01 E13" tvg-name="Johnny Test S01 E13" tvg-logo="http://xdgo.live:8080/images/313391702e96d67322017cd915e1e479.jpg" group-title="SERIES INFANTILES",Johnny Test S01 E13
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55882.mkv
+#EXTINF:-1 tvg-id="Johnny Test S01 E14" tvg-name="Johnny Test S01 E14" tvg-logo="http://xdgo.live:8080/images/f0a211283e139432893bdf40da267883.jpg" group-title="SERIES INFANTILES",Johnny Test S01 E14
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55883.mkv
+#EXTINF:-1 tvg-id="Johnny Test S01 E15" tvg-name="Johnny Test S01 E15" tvg-logo="http://xdgo.live:8080/images/bfda22cd3d4195d286110bbf72811d30.jpg" group-title="SERIES INFANTILES",Johnny Test S01 E15
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55884.mkv
+#EXTINF:-1 tvg-id="Johnny Test S01 E16" tvg-name="Johnny Test S01 E16" tvg-logo="http://xdgo.live:8080/images/6c9e61e92ba2c1e9dd8daf1bd38109b1.jpg" group-title="SERIES INFANTILES",Johnny Test S01 E16
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55885.mkv
+#EXTINF:-1 tvg-id="Johnny Test S01 E17" tvg-name="Johnny Test S01 E17" tvg-logo="http://xdgo.live:8080/images/43b2826b0438f37e3031242afcf19e1a.jpg" group-title="SERIES INFANTILES",Johnny Test S01 E17
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55886.mkv
+#EXTINF:-1 tvg-id="Johnny Test S01 E18" tvg-name="Johnny Test S01 E18" tvg-logo="http://xdgo.live:8080/images/95eeaff2492ea8918a833a51236ced08.jpg" group-title="SERIES INFANTILES",Johnny Test S01 E18
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55887.mkv
+#EXTINF:-1 tvg-id="Johnny Test S01 E19" tvg-name="Johnny Test S01 E19" tvg-logo="http://xdgo.live:8080/images/febf46f77590105f11fb3db392d3d872.jpg" group-title="SERIES INFANTILES",Johnny Test S01 E19
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55888.mkv
+#EXTINF:-1 tvg-id="Johnny Test S01 E20" tvg-name="Johnny Test S01 E20" tvg-logo="http://xdgo.live:8080/images/1a13fc58a34f7f9f3c3ec4ae0cfecf52.jpg" group-title="SERIES INFANTILES",Johnny Test S01 E20
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55889.mkv
+#EXTINF:-1 tvg-id="Looney Tunes Cartoons S01 E01" tvg-name="Looney Tunes Cartoons S01 E01" tvg-logo="http://xdgo.live:8080/images/be3599a27bbf1459f1006339d491465f.jpg" group-title="SERIES INFANTILES",Looney Tunes Cartoons S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55911.mkv
+#EXTINF:-1 tvg-id="Looney Tunes Cartoons S01 E02" tvg-name="Looney Tunes Cartoons S01 E02" tvg-logo="http://xdgo.live:8080/images/59ed0bc6173adc688d86e5c39ffe1ac2.jpg" group-title="SERIES INFANTILES",Looney Tunes Cartoons S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55912.mkv
+#EXTINF:-1 tvg-id="Looney Tunes Cartoons S01 E03" tvg-name="Looney Tunes Cartoons S01 E03" tvg-logo="http://xdgo.live:8080/images/9607bdb515ad3a2bb3063ad5943241d2.jpg" group-title="SERIES INFANTILES",Looney Tunes Cartoons S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55913.mkv
+#EXTINF:-1 tvg-id="Looney Tunes Cartoons S01 E04" tvg-name="Looney Tunes Cartoons S01 E04" tvg-logo="http://xdgo.live:8080/images/28b20c1886a398c20a2790388fb1b143.jpg" group-title="SERIES INFANTILES",Looney Tunes Cartoons S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55914.mkv
+#EXTINF:-1 tvg-id="Looney Tunes Cartoons S01 E05" tvg-name="Looney Tunes Cartoons S01 E05" tvg-logo="http://xdgo.live:8080/images/c02bfcc4519859c1c36dd1777019f807.jpg" group-title="SERIES INFANTILES",Looney Tunes Cartoons S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55915.mkv
+#EXTINF:-1 tvg-id="Looney Tunes Cartoons S01 E06" tvg-name="Looney Tunes Cartoons S01 E06" tvg-logo="http://xdgo.live:8080/images/cd85999ab655a8bee5574fde441c5f32.jpg" group-title="SERIES INFANTILES",Looney Tunes Cartoons S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55916.mkv
+#EXTINF:-1 tvg-id="Looney Tunes Cartoons S01 E07" tvg-name="Looney Tunes Cartoons S01 E07" tvg-logo="http://xdgo.live:8080/images/e2ac3ea143dce0c0e1b4238c95aee6af.jpg" group-title="SERIES INFANTILES",Looney Tunes Cartoons S01 E07
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55917.mkv
+#EXTINF:-1 tvg-id="Looney Tunes Cartoons S01 E08" tvg-name="Looney Tunes Cartoons S01 E08" tvg-logo="http://xdgo.live:8080/images/28fb7e5af12505485da4067116ff3bb8.jpg" group-title="SERIES INFANTILES",Looney Tunes Cartoons S01 E08
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55918.mkv
+#EXTINF:-1 tvg-id="Looney Tunes Cartoons S01 E09" tvg-name="Looney Tunes Cartoons S01 E09" tvg-logo="http://xdgo.live:8080/images/6f7620a994784a2640b7133674c17365.jpg" group-title="SERIES INFANTILES",Looney Tunes Cartoons S01 E09
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55919.mkv
+#EXTINF:-1 tvg-id="Looney Tunes Cartoons S01 E10" tvg-name="Looney Tunes Cartoons S01 E10" tvg-logo="http://xdgo.live:8080/images/f60cae9b4b602242933ce24f63d43012.jpg" group-title="SERIES INFANTILES",Looney Tunes Cartoons S01 E10
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55920.mkv
+#EXTINF:-1 tvg-id="Looney Tunes Cartoons S01 E11" tvg-name="Looney Tunes Cartoons S01 E11" tvg-logo="http://xdgo.live:8080/images/e819c802c62f54a4ab2eb57912947765.jpg" group-title="SERIES INFANTILES",Looney Tunes Cartoons S01 E11
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55921.mkv
+#EXTINF:-1 tvg-id="Looney Tunes Cartoons S01 E12" tvg-name="Looney Tunes Cartoons S01 E12" tvg-logo="http://xdgo.live:8080/images/e819c802c62f54a4ab2eb57912947765.jpg" group-title="SERIES INFANTILES",Looney Tunes Cartoons S01 E12
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55922.mkv
+#EXTINF:-1 tvg-id="Looney Tunes Cartoons S01 E13" tvg-name="Looney Tunes Cartoons S01 E13" tvg-logo="http://xdgo.live:8080/images/a225579c61ab04e66bbc5c2cd1762594.jpg" group-title="SERIES INFANTILES",Looney Tunes Cartoons S01 E13
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55923.mkv
+#EXTINF:-1 tvg-id="Looney Tunes Cartoons S01 E14" tvg-name="Looney Tunes Cartoons S01 E14" tvg-logo="http://xdgo.live:8080/images/e819c802c62f54a4ab2eb57912947765.jpg" group-title="SERIES INFANTILES",Looney Tunes Cartoons S01 E14
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55924.mkv
+#EXTINF:-1 tvg-id="Looney Tunes Cartoons S01 E15" tvg-name="Looney Tunes Cartoons S01 E15" tvg-logo="http://xdgo.live:8080/images/7d6a6972bbddc7868f5f403235b9b882.jpg" group-title="SERIES INFANTILES",Looney Tunes Cartoons S01 E15
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55925.mkv
+#EXTINF:-1 tvg-id="Looney Tunes Cartoons S01 E16" tvg-name="Looney Tunes Cartoons S01 E16" tvg-logo="http://xdgo.live:8080/images/e819c802c62f54a4ab2eb57912947765.jpg" group-title="SERIES INFANTILES",Looney Tunes Cartoons S01 E16
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55926.mkv
+#EXTINF:-1 tvg-id="Looney Tunes Cartoons S01 E17" tvg-name="Looney Tunes Cartoons S01 E17" tvg-logo="http://xdgo.live:8080/images/e819c802c62f54a4ab2eb57912947765.jpg" group-title="SERIES INFANTILES",Looney Tunes Cartoons S01 E17
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55927.mkv
+#EXTINF:-1 tvg-id="Looney Tunes Cartoons S01 E18" tvg-name="Looney Tunes Cartoons S01 E18" tvg-logo="http://xdgo.live:8080/images/116408c767f1e61f03b2ea46eabd32eb.jpg" group-title="SERIES INFANTILES",Looney Tunes Cartoons S01 E18
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55928.mkv
+#EXTINF:-1 tvg-id="Looney Tunes Cartoons S01 E19" tvg-name="Looney Tunes Cartoons S01 E19" tvg-logo="http://xdgo.live:8080/images/e819c802c62f54a4ab2eb57912947765.jpg" group-title="SERIES INFANTILES",Looney Tunes Cartoons S01 E19
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55929.mkv
+#EXTINF:-1 tvg-id="Looney Tunes Cartoons S01 E20" tvg-name="Looney Tunes Cartoons S01 E20" tvg-logo="http://xdgo.live:8080/images/e819c802c62f54a4ab2eb57912947765.jpg" group-title="SERIES INFANTILES",Looney Tunes Cartoons S01 E20
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55930.mkv
+#EXTINF:-1 tvg-id="Spidey y su superequipo S01 E01" tvg-name="Spidey y su superequipo S01 E01" tvg-logo="http://xdgo.live:8080/images/425be829c80e22baefa1745190a4c11e.jpg" group-title="SERIES INFANTILES",Spidey y su superequipo S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55942.mkv
+#EXTINF:-1 tvg-id="Spidey y su superequipo S01 E02" tvg-name="Spidey y su superequipo S01 E02" tvg-logo="http://xdgo.live:8080/images/425be829c80e22baefa1745190a4c11e.jpg" group-title="SERIES INFANTILES",Spidey y su superequipo S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55943.mkv
+#EXTINF:-1 tvg-id="Spidey y su superequipo S01 E03" tvg-name="Spidey y su superequipo S01 E03" tvg-logo="http://xdgo.live:8080/images/425be829c80e22baefa1745190a4c11e.jpg" group-title="SERIES INFANTILES",Spidey y su superequipo S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55944.mkv
+#EXTINF:-1 tvg-id="Spidey y su superequipo S01 E04" tvg-name="Spidey y su superequipo S01 E04" tvg-logo="http://xdgo.live:8080/images/425be829c80e22baefa1745190a4c11e.jpg" group-title="SERIES INFANTILES",Spidey y su superequipo S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55945.mkv
+#EXTINF:-1 tvg-id="Spidey y su superequipo S01 E05" tvg-name="Spidey y su superequipo S01 E05" tvg-logo="http://xdgo.live:8080/images/425be829c80e22baefa1745190a4c11e.jpg" group-title="SERIES INFANTILES",Spidey y su superequipo S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55946.mkv
+#EXTINF:-1 tvg-id="Spidey y su superequipo S01 E06" tvg-name="Spidey y su superequipo S01 E06" tvg-logo="http://xdgo.live:8080/images/425be829c80e22baefa1745190a4c11e.jpg" group-title="SERIES INFANTILES",Spidey y su superequipo S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55947.mkv
+#EXTINF:-1 tvg-id="Spidey y su superequipo S01 E07" tvg-name="Spidey y su superequipo S01 E07" tvg-logo="http://xdgo.live:8080/images/425be829c80e22baefa1745190a4c11e.jpg" group-title="SERIES INFANTILES",Spidey y su superequipo S01 E07
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55948.mkv
+#EXTINF:-1 tvg-id="Spidey y su superequipo S01 E08" tvg-name="Spidey y su superequipo S01 E08" tvg-logo="http://xdgo.live:8080/images/425be829c80e22baefa1745190a4c11e.jpg" group-title="SERIES INFANTILES",Spidey y su superequipo S01 E08
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55949.mkv
+#EXTINF:-1 tvg-id="Spidey y su superequipo S01 E09" tvg-name="Spidey y su superequipo S01 E09" tvg-logo="http://xdgo.live:8080/images/425be829c80e22baefa1745190a4c11e.jpg" group-title="SERIES INFANTILES",Spidey y su superequipo S01 E09
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55950.mkv
+#EXTINF:-1 tvg-id="Spidey y su superequipo S01 E10" tvg-name="Spidey y su superequipo S01 E10" tvg-logo="http://xdgo.live:8080/images/425be829c80e22baefa1745190a4c11e.jpg" group-title="SERIES INFANTILES",Spidey y su superequipo S01 E10
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55951.mkv
+#EXTINF:-1 tvg-id="Spidey y su superequipo S01 E11" tvg-name="Spidey y su superequipo S01 E11" tvg-logo="http://xdgo.live:8080/images/425be829c80e22baefa1745190a4c11e.jpg" group-title="SERIES INFANTILES",Spidey y su superequipo S01 E11
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55952.mkv
+#EXTINF:-1 tvg-id="Masters del Universo Revelacion S01 E01" tvg-name="Masters del Universo Revelacion S01 E01" tvg-logo="http://xdgo.live:8080/images/0a15365c1d563999090a0183908af2df.jpg" group-title="SERIES INFANTILES",Masters del Universo Revelacion S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55953.mkv
+#EXTINF:-1 tvg-id="Masters del Universo Revelacion S01 E02" tvg-name="Masters del Universo Revelacion S01 E02" tvg-logo="http://xdgo.live:8080/images/7820634fc8a3f53a8347078624dc498c.jpg" group-title="SERIES INFANTILES",Masters del Universo Revelacion S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55954.mkv
+#EXTINF:-1 tvg-id="Masters del Universo Revelacion S01 E03" tvg-name="Masters del Universo Revelacion S01 E03" tvg-logo="http://xdgo.live:8080/images/e01088fceef00f9d5a4d5ea018c2f790.jpg" group-title="SERIES INFANTILES",Masters del Universo Revelacion S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55955.mkv
+#EXTINF:-1 tvg-id="Masters del Universo Revelacion S01 E04" tvg-name="Masters del Universo Revelacion S01 E04" tvg-logo="http://xdgo.live:8080/images/0ef87665a72377df38bc14762493a75b.jpg" group-title="SERIES INFANTILES",Masters del Universo Revelacion S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55956.mkv
+#EXTINF:-1 tvg-id="Masters del Universo Revelacion S01 E05" tvg-name="Masters del Universo Revelacion S01 E05" tvg-logo="http://xdgo.live:8080/images/afb2da0e545cd63f08d3add1deca4803.jpg" group-title="SERIES INFANTILES",Masters del Universo Revelacion S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55957.mkv
 #EXTINF:-1 tvg-id="Homecoming S01 E01" tvg-name="Homecoming S01 E01"  group-title="SERIES TERROR - THRILLER",Homecoming S01 E01
 http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/6816.mkv
 #EXTINF:-1 tvg-id="Homecoming S01 E02" tvg-name="Homecoming S01 E02"  group-title="SERIES TERROR - THRILLER",Homecoming S01 E02
@@ -29708,15 +30676,31 @@ http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/14485.mkv
 #EXTINF:-1 tvg-id="The Walking Dead S01 E01" tvg-name="The Walking Dead S01 E01"  group-title="SERIES TERROR - THRILLER",The Walking Dead S01 E01
 http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/14486.mkv
 #EXTINF:-1 tvg-id="The Walking Dead S01 E02" tvg-name="The Walking Dead S01 E02"  group-title="SERIES TERROR - THRILLER",The Walking Dead S01 E02
-http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/14487.mkv
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55604.mkv
 #EXTINF:-1 tvg-id="The Walking Dead S01 E03" tvg-name="The Walking Dead S01 E03"  group-title="SERIES TERROR - THRILLER",The Walking Dead S01 E03
-http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/14488.mkv
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/14487.mkv
 #EXTINF:-1 tvg-id="The Walking Dead S01 E04" tvg-name="The Walking Dead S01 E04"  group-title="SERIES TERROR - THRILLER",The Walking Dead S01 E04
-http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/14489.mkv
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55605.mkv
 #EXTINF:-1 tvg-id="The Walking Dead S01 E05" tvg-name="The Walking Dead S01 E05"  group-title="SERIES TERROR - THRILLER",The Walking Dead S01 E05
-http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/14490.mkv
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/14488.mkv
 #EXTINF:-1 tvg-id="The Walking Dead S01 E06" tvg-name="The Walking Dead S01 E06"  group-title="SERIES TERROR - THRILLER",The Walking Dead S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55606.mkv
+#EXTINF:-1 tvg-id="The Walking Dead S01 E07" tvg-name="The Walking Dead S01 E07"  group-title="SERIES TERROR - THRILLER",The Walking Dead S01 E07
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/14489.mkv
+#EXTINF:-1 tvg-id="The Walking Dead S01 E08" tvg-name="The Walking Dead S01 E08"  group-title="SERIES TERROR - THRILLER",The Walking Dead S01 E08
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55607.mkv
+#EXTINF:-1 tvg-id="The Walking Dead S01 E09" tvg-name="The Walking Dead S01 E09"  group-title="SERIES TERROR - THRILLER",The Walking Dead S01 E09
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/14490.mkv
+#EXTINF:-1 tvg-id="The Walking Dead S01 E10" tvg-name="The Walking Dead S01 E10"  group-title="SERIES TERROR - THRILLER",The Walking Dead S01 E10
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55608.mkv
+#EXTINF:-1 tvg-id="The Walking Dead S01 E11" tvg-name="The Walking Dead S01 E11"  group-title="SERIES TERROR - THRILLER",The Walking Dead S01 E11
 http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/14491.mkv
+#EXTINF:-1 tvg-id="The Walking Dead S01 E12" tvg-name="The Walking Dead S01 E12"  group-title="SERIES TERROR - THRILLER",The Walking Dead S01 E12
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55609.mkv
+#EXTINF:-1 tvg-id="The Walking Dead S01 E13" tvg-name="The Walking Dead S01 E13"  group-title="SERIES TERROR - THRILLER",The Walking Dead S01 E13
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55610.mkv
+#EXTINF:-1 tvg-id="The Walking Dead S01 E14" tvg-name="The Walking Dead S01 E14"  group-title="SERIES TERROR - THRILLER",The Walking Dead S01 E14
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55611.mkv
 #EXTINF:-1 tvg-id="The Walking Dead S02 E01" tvg-name="The Walking Dead S02 E01"  group-title="SERIES TERROR - THRILLER",The Walking Dead S02 E01
 http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/14492.mkv
 #EXTINF:-1 tvg-id="The Walking Dead S02 E02" tvg-name="The Walking Dead S02 E02"  group-title="SERIES TERROR - THRILLER",The Walking Dead S02 E02
@@ -30011,6 +30995,22 @@ http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/44425.mkv
 http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/44426.mkv
 #EXTINF:-1 tvg-id="The Walking Dead S10 E22" tvg-name="The Walking Dead S10 E22"  group-title="SERIES TERROR - THRILLER",The Walking Dead S10 E22
 http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/44427.mkv
+#EXTINF:-1 tvg-id="The Walking Dead S11 E01" tvg-name="The Walking Dead S11 E01"  group-title="SERIES TERROR - THRILLER",The Walking Dead S11 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56071.mkv
+#EXTINF:-1 tvg-id="The Walking Dead S11 E02" tvg-name="The Walking Dead S11 E02"  group-title="SERIES TERROR - THRILLER",The Walking Dead S11 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56072.mkv
+#EXTINF:-1 tvg-id="The Walking Dead S11 E03" tvg-name="The Walking Dead S11 E03"  group-title="SERIES TERROR - THRILLER",The Walking Dead S11 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56073.mkv
+#EXTINF:-1 tvg-id="The Walking Dead S11 E04" tvg-name="The Walking Dead S11 E04"  group-title="SERIES TERROR - THRILLER",The Walking Dead S11 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56074.mkv
+#EXTINF:-1 tvg-id="The Walking Dead S11 E05" tvg-name="The Walking Dead S11 E05"  group-title="SERIES TERROR - THRILLER",The Walking Dead S11 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56075.mkv
+#EXTINF:-1 tvg-id="The Walking Dead S11 E06" tvg-name="The Walking Dead S11 E06"  group-title="SERIES TERROR - THRILLER",The Walking Dead S11 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56076.mkv
+#EXTINF:-1 tvg-id="The Walking Dead S11 E07" tvg-name="The Walking Dead S11 E07"  group-title="SERIES TERROR - THRILLER",The Walking Dead S11 E07
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56077.mkv
+#EXTINF:-1 tvg-id="The Walking Dead S11 E08" tvg-name="The Walking Dead S11 E08"  group-title="SERIES TERROR - THRILLER",The Walking Dead S11 E08
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56078.mkv
 #EXTINF:-1 tvg-id="Alice in Borderland S01 E01" tvg-name="Alice in Borderland S01 E01"  group-title="SERIES TERROR - THRILLER",Alice in Borderland S01 E01
 http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/41949.mkv
 #EXTINF:-1 tvg-id="Alice in Borderland S01 E02" tvg-name="Alice in Borderland S01 E02"  group-title="SERIES TERROR - THRILLER",Alice in Borderland S01 E02
@@ -30049,6 +31049,34 @@ http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55235.mkv
 http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55236.mkv
 #EXTINF:-1 tvg-id="Dollface S01 E10" tvg-name="Dollface S01 E10"  group-title="SERIES TERROR - THRILLER",Dollface S01 E10
 http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55237.mkv
+#EXTINF:-1 tvg-id="S.O.Z Soldados o Zombies S01 E01" tvg-name="S.O.Z Soldados o Zombies S01 E01"  group-title="SERIES TERROR - THRILLER",S.O.Z Soldados o Zombies S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55984.mkv
+#EXTINF:-1 tvg-id="S.O.Z Soldados o Zombies S01 E02" tvg-name="S.O.Z Soldados o Zombies S01 E02"  group-title="SERIES TERROR - THRILLER",S.O.Z Soldados o Zombies S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55985.mkv
+#EXTINF:-1 tvg-id="S.O.Z Soldados o Zombies S01 E03" tvg-name="S.O.Z Soldados o Zombies S01 E03"  group-title="SERIES TERROR - THRILLER",S.O.Z Soldados o Zombies S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55986.mkv
+#EXTINF:-1 tvg-id="S.O.Z Soldados o Zombies S01 E04" tvg-name="S.O.Z Soldados o Zombies S01 E04"  group-title="SERIES TERROR - THRILLER",S.O.Z Soldados o Zombies S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55987.mkv
+#EXTINF:-1 tvg-id="S.O.Z Soldados o Zombies S01 E05" tvg-name="S.O.Z Soldados o Zombies S01 E05"  group-title="SERIES TERROR - THRILLER",S.O.Z Soldados o Zombies S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55988.mkv
+#EXTINF:-1 tvg-id="S.O.Z Soldados o Zombies S01 E06" tvg-name="S.O.Z Soldados o Zombies S01 E06"  group-title="SERIES TERROR - THRILLER",S.O.Z Soldados o Zombies S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55989.mkv
+#EXTINF:-1 tvg-id="S.O.Z Soldados o Zombies S01 E07" tvg-name="S.O.Z Soldados o Zombies S01 E07"  group-title="SERIES TERROR - THRILLER",S.O.Z Soldados o Zombies S01 E07
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55990.mkv
+#EXTINF:-1 tvg-id="S.O.Z Soldados o Zombies S01 E08" tvg-name="S.O.Z Soldados o Zombies S01 E08"  group-title="SERIES TERROR - THRILLER",S.O.Z Soldados o Zombies S01 E08
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55991.mkv
+#EXTINF:-1 tvg-id="Sexy a lo bestia S01 E01" tvg-name="Sexy a lo bestia S01 E01"  group-title="SERIES TERROR - THRILLER",Sexy a lo bestia S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55998.mkv
+#EXTINF:-1 tvg-id="Sexy a lo bestia S01 E02" tvg-name="Sexy a lo bestia S01 E02"  group-title="SERIES TERROR - THRILLER",Sexy a lo bestia S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55999.mkv
+#EXTINF:-1 tvg-id="Sexy a lo bestia S01 E03" tvg-name="Sexy a lo bestia S01 E03"  group-title="SERIES TERROR - THRILLER",Sexy a lo bestia S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56000.mkv
+#EXTINF:-1 tvg-id="Sexy a lo bestia S01 E04" tvg-name="Sexy a lo bestia S01 E04"  group-title="SERIES TERROR - THRILLER",Sexy a lo bestia S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56001.mkv
+#EXTINF:-1 tvg-id="Sexy a lo bestia S01 E05" tvg-name="Sexy a lo bestia S01 E05"  group-title="SERIES TERROR - THRILLER",Sexy a lo bestia S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56002.mkv
+#EXTINF:-1 tvg-id="Sexy a lo bestia S01 E06" tvg-name="Sexy a lo bestia S01 E06"  group-title="SERIES TERROR - THRILLER",Sexy a lo bestia S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56003.mkv
 #EXTINF:-1 tvg-id="Soulmates S01 E01" tvg-name="Soulmates S01 E01"  group-title="SOULMATES",Soulmates S01 E01
 http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/41467.mkv
 #EXTINF:-1 tvg-id="Soulmates S01 E02" tvg-name="Soulmates S01 E02"  group-title="SOULMATES",Soulmates S01 E02
@@ -30133,6 +31161,54 @@ http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/41776.mkv
 http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/42114.mkv
 #EXTINF:-1 tvg-id="WandaVision S01 E09" tvg-name="WandaVision S01 E09"  group-title="WANDAVISION",WandaVision S01 E09
 http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/42412.mkv
+#EXTINF:-1 tvg-id="Finch (2021)" tvg-name="Finch (2021)" tvg-logo="http://xdgo.live:8080/images/b5530e74620d51f201e70205311dc29a.jpg" group-title="VFLIX ESTRENOS",Finch (2021)
+http://xdgo.live:8080/movie/58_felipeparra_m/eUAfZ6QnUQ/56350.mkv
+#EXTINF:-1 tvg-id="007: Sin Tiempo Para Morir (2021)" tvg-name="007: Sin Tiempo Para Morir (2021)" tvg-logo="http://xdgo.live:8080/images/4bdf46d633bc6468c0bfa2b9e30b98d0.jpg" group-title="VFLIX ESTRENOS",007: Sin Tiempo Para Morir (2021)
+http://xdgo.live:8080/movie/58_felipeparra_m/eUAfZ6QnUQ/56352.mkv
+#EXTINF:-1 tvg-id="Venom: Habrá Matanza (2021) (ingles)" tvg-name="Venom: Habrá Matanza (2021) (ingles)" tvg-logo="http://xdgo.live:8080/images/37df8c5557eb26e6ab226dc9b0dddae7.jpg" group-title="VFLIX ESTRENOS",Venom: Habrá Matanza (2021) (ingles)
+http://xdgo.live:8080/movie/58_felipeparra_m/eUAfZ6QnUQ/56355.mkv
+#EXTINF:-1 tvg-id="Ainbo: La Guerrera Del Amazonas (2021)" tvg-name="Ainbo: La Guerrera Del Amazonas (2021)" tvg-logo="http://xdgo.live:8080/images/c2cc1b86515a4347dd12698ece8df7e1.jpg" group-title="VFLIX ESTRENOS",Ainbo: La Guerrera Del Amazonas (2021)
+http://xdgo.live:8080/movie/58_felipeparra_m/eUAfZ6QnUQ/56346.mkv
+#EXTINF:-1 tvg-id="Descendants: The Royal Wedding (2021)" tvg-name="Descendants: The Royal Wedding (2021)" tvg-logo="http://xdgo.live:8080/images/d367244425bcffa43a8d1d353d8a9c60.jpg" group-title="VFLIX ESTRENOS",Descendants: The Royal Wedding (2021)
+http://xdgo.live:8080/movie/58_felipeparra_m/eUAfZ6QnUQ/56347.mkv
+#EXTINF:-1 tvg-id="Divorzio a Las Vegas (2020)" tvg-name="Divorzio a Las Vegas (2020)" tvg-logo="http://xdgo.live:8080/images/74ecd344575e0e41efcfe6ef54dc9710.jpg" group-title="VFLIX ESTRENOS",Divorzio a Las Vegas (2020)
+http://xdgo.live:8080/movie/58_felipeparra_m/eUAfZ6QnUQ/56348.mkv
+#EXTINF:-1 tvg-id="Un padre por Navidad (2021)" tvg-name="Un padre por Navidad (2021)" tvg-logo="http://xdgo.live:8080/images/8c728a0ef9c232e1a8e9b396c0049c00.jpg" group-title="VFLIX ESTRENOS",Un padre por Navidad (2021)
+http://xdgo.live:8080/movie/58_felipeparra_m/eUAfZ6QnUQ/56349.mkv
+#EXTINF:-1 tvg-id="¡Qué duro es el amor! (2021)" tvg-name="¡Qué duro es el amor! (2021)" tvg-logo="http://xdgo.live:8080/images/cebeb7d0f312b516c5818d8735de05cf.jpg" group-title="VFLIX ESTRENOS",¡Qué duro es el amor! (2021)
+http://xdgo.live:8080/movie/58_felipeparra_m/eUAfZ6QnUQ/56351.mkv
+#EXTINF:-1 tvg-id="The Electrical Life of Louis Wain (2021)" tvg-name="The Electrical Life of Louis Wain (2021)" tvg-logo="http://xdgo.live:8080/images/fd689b8ca1d2d85fb77ad589a42e0336.jpg" group-title="VFLIX ESTRENOS",The Electrical Life of Louis Wain (2021)
+http://xdgo.live:8080/movie/58_felipeparra_m/eUAfZ6QnUQ/56353.mkv
+#EXTINF:-1 tvg-id="Riesgo Bajo Cero (2021)" tvg-name="Riesgo Bajo Cero (2021)" tvg-logo="http://xdgo.live:8080/images/e057200587643d2fee62da383383b9b7.jpg" group-title="VFLIX ESTRENOS",Riesgo Bajo Cero (2021)
+http://xdgo.live:8080/movie/58_felipeparra_m/eUAfZ6QnUQ/56354.mkv
+#EXTINF:-1 tvg-id="Apex (2021)" tvg-name="Apex (2021)" tvg-logo="http://xdgo.live:8080/images/4d2e74f23745af8708c5af1fefbbe0e2.jpg" group-title="VFLIX ESTRENOS",Apex (2021)
+http://xdgo.live:8080/movie/58_felipeparra_m/eUAfZ6QnUQ/56130.mkv
+#EXTINF:-1 tvg-id="Dangerous (2021)" tvg-name="Dangerous (2021)" tvg-logo="http://xdgo.live:8080/images/db47ad1e45ce031fa921b084b9422b2a.jpg" group-title="VFLIX ESTRENOS",Dangerous (2021)
+http://xdgo.live:8080/movie/58_felipeparra_m/eUAfZ6QnUQ/56133.mkv
+#EXTINF:-1 tvg-id="Los reyes de la estafa (2021)" tvg-name="Los reyes de la estafa (2021)" tvg-logo="http://xdgo.live:8080/images/c4c5bc66e7640bca4f2412ecda8d1bbd.jpg" group-title="VFLIX ESTRENOS",Los reyes de la estafa (2021)
+http://xdgo.live:8080/movie/58_felipeparra_m/eUAfZ6QnUQ/56135.mkv
+#EXTINF:-1 tvg-id="The Eyes of Tammy Faye (2021)" tvg-name="The Eyes of Tammy Faye (2021)" tvg-logo="http://xdgo.live:8080/images/fd00dabf35d34b6312daf1900e148d75.jpg" group-title="VFLIX ESTRENOS",The Eyes of Tammy Faye (2021)
+http://xdgo.live:8080/movie/58_felipeparra_m/eUAfZ6QnUQ/56136.mkv
+#EXTINF:-1 tvg-id="Más dura será la caída (2021)" tvg-name="Más dura será la caída (2021)" tvg-logo="http://xdgo.live:8080/images/e2565ff8fae59402de49db499fa9d2e6.jpg" group-title="VFLIX ESTRENOS",Más dura será la caída (2021)
+http://xdgo.live:8080/movie/58_felipeparra_m/eUAfZ6QnUQ/56138.mkv
+#EXTINF:-1 tvg-id="Triggered (2020)" tvg-name="Triggered (2020)" tvg-logo="http://xdgo.live:8080/images/7d2c6ac66b3dfaddf0ec345b121f5e14.jpg" group-title="VFLIX ESTRENOS",Triggered (2020)
+http://xdgo.live:8080/movie/58_felipeparra_m/eUAfZ6QnUQ/56139.mkv
+#EXTINF:-1 tvg-id="No todos pudimos madurar (2021)" tvg-name="No todos pudimos madurar (2021)" tvg-logo="http://xdgo.live:8080/images/b55caa1329d1102e91423408ddee59f0.jpg" group-title="VFLIX ESTRENOS",No todos pudimos madurar (2021)
+http://xdgo.live:8080/movie/58_felipeparra_m/eUAfZ6QnUQ/56140.mkv
+#EXTINF:-1 tvg-id="Yara (2021)" tvg-name="Yara (2021)" tvg-logo="http://xdgo.live:8080/images/62296c750ecf5d2ed3c91cc033a3cdef.jpg" group-title="VFLIX ESTRENOS",Yara (2021)
+http://xdgo.live:8080/movie/58_felipeparra_m/eUAfZ6QnUQ/56141.mkv
+#EXTINF:-1 tvg-id="Una película de policías (2021)" tvg-name="Una película de policías (2021)" tvg-logo="http://xdgo.live:8080/images/8e44e9fd985d7421e0b50ea27c1f7d78.jpg" group-title="VFLIX ESTRENOS",Una película de policías (2021)
+http://xdgo.live:8080/movie/58_felipeparra_m/eUAfZ6QnUQ/56128.mkv
+#EXTINF:-1 tvg-id="Amina (2021)" tvg-name="Amina (2021)" tvg-logo="http://xdgo.live:8080/images/ed6e060bfbcf6be2e7f297e9fd260606.jpg" group-title="VFLIX ESTRENOS",Amina (2021)
+http://xdgo.live:8080/movie/58_felipeparra_m/eUAfZ6QnUQ/56129.mkv
+#EXTINF:-1 tvg-id="Cagefighter: Worlds Collide (2020)" tvg-name="Cagefighter: Worlds Collide (2020)" tvg-logo="http://xdgo.live:8080/images/33e88bfcc6b37d730f039b8056ee4d13.jpg" group-title="VFLIX ESTRENOS",Cagefighter: Worlds Collide (2020)
+http://xdgo.live:8080/movie/58_felipeparra_m/eUAfZ6QnUQ/56131.mkv
+#EXTINF:-1 tvg-id="Campo secreto: Nazis en EE. UU. (2021)" tvg-name="Campo secreto: Nazis en EE. UU. (2021)" tvg-logo="http://xdgo.live:8080/images/d87685e56319a9ea7ba92d955f879851.jpg" group-title="VFLIX ESTRENOS",Campo secreto: Nazis en EE. UU. (2021)
+http://xdgo.live:8080/movie/58_felipeparra_m/eUAfZ6QnUQ/56132.mkv
+#EXTINF:-1 tvg-id="De Expeditie van Familie Vos (2020)" tvg-name="De Expeditie van Familie Vos (2020)" tvg-logo="http://xdgo.live:8080/images/8291636500a792e6c17326efcd1e7381.jpg" group-title="VFLIX ESTRENOS",De Expeditie van Familie Vos (2020)
+http://xdgo.live:8080/movie/58_felipeparra_m/eUAfZ6QnUQ/56134.mkv
+#EXTINF:-1 tvg-id="Comité de dioses (2021)" tvg-name="Comité de dioses (2021)" tvg-logo="http://xdgo.live:8080/images/71d34fb8fca5f3310d0a3312d90254cd.jpg" group-title="VFLIX ESTRENOS",Comité de dioses (2021)
+http://xdgo.live:8080/movie/58_felipeparra_m/eUAfZ6QnUQ/56137.mkv
 #EXTINF:-1 tvg-id="Ejército de los ladrones (2021)" tvg-name="Ejército de los ladrones (2021)" tvg-logo="http://xdgo.live:8080/images/ff835e3db01c53b2287913b237c4a7c1.jpg" group-title="VFLIX ESTRENOS",Ejército de los ladrones (2021)
 http://xdgo.live:8080/movie/58_felipeparra_m/eUAfZ6QnUQ/55040.mkv
 #EXTINF:-1 tvg-id="La noche mágica (2021)" tvg-name="La noche mágica (2021)" tvg-logo="http://xdgo.live:8080/images/a29694caa53faa97c8e466b90cb3b281.jpg" group-title="VFLIX ESTRENOS",La noche mágica (2021)
@@ -30783,6 +31859,58 @@ http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55420.mkv
 http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55421.mkv
 #EXTINF:-1 tvg-id="Monstruos internos Las 24 caras de Billy Milligan S01 E04" tvg-name="Monstruos internos Las 24 caras de Billy Milligan S01 E04"  group-title="SERIES DOCUMENTALES",Monstruos internos Las 24 caras de Billy Milligan S01 E04
 http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55422.mkv
+#EXTINF:-1 tvg-id="Momentos decisivos El 11-S y la guerra contra el terrorismo S01 E01" tvg-name="Momentos decisivos El 11-S y la guerra contra el terrorismo S01 E01"  group-title="SERIES DOCUMENTALES",Momentos decisivos El 11-S y la guerra contra el terrorismo S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55622.mkv
+#EXTINF:-1 tvg-id="Momentos decisivos El 11-S y la guerra contra el terrorismo S01 E02" tvg-name="Momentos decisivos El 11-S y la guerra contra el terrorismo S01 E02"  group-title="SERIES DOCUMENTALES",Momentos decisivos El 11-S y la guerra contra el terrorismo S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55623.mkv
+#EXTINF:-1 tvg-id="Momentos decisivos El 11-S y la guerra contra el terrorismo S01 E03" tvg-name="Momentos decisivos El 11-S y la guerra contra el terrorismo S01 E03"  group-title="SERIES DOCUMENTALES",Momentos decisivos El 11-S y la guerra contra el terrorismo S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55624.mkv
+#EXTINF:-1 tvg-id="Momentos decisivos El 11-S y la guerra contra el terrorismo S01 E04" tvg-name="Momentos decisivos El 11-S y la guerra contra el terrorismo S01 E04"  group-title="SERIES DOCUMENTALES",Momentos decisivos El 11-S y la guerra contra el terrorismo S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55625.mkv
+#EXTINF:-1 tvg-id="Momentos decisivos El 11-S y la guerra contra el terrorismo S01 E05" tvg-name="Momentos decisivos El 11-S y la guerra contra el terrorismo S01 E05"  group-title="SERIES DOCUMENTALES",Momentos decisivos El 11-S y la guerra contra el terrorismo S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55626.mkv
+#EXTINF:-1 tvg-id="Vendetta Verdades, mentiras y la mafia S01 E01" tvg-name="Vendetta Verdades, mentiras y la mafia S01 E01"  group-title="SERIES DOCUMENTALES",Vendetta Verdades, mentiras y la mafia S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55627.mkv
+#EXTINF:-1 tvg-id="Vendetta Verdades, mentiras y la mafia S01 E02" tvg-name="Vendetta Verdades, mentiras y la mafia S01 E02"  group-title="SERIES DOCUMENTALES",Vendetta Verdades, mentiras y la mafia S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55628.mkv
+#EXTINF:-1 tvg-id="Vendetta Verdades, mentiras y la mafia S01 E03" tvg-name="Vendetta Verdades, mentiras y la mafia S01 E03"  group-title="SERIES DOCUMENTALES",Vendetta Verdades, mentiras y la mafia S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55629.mkv
+#EXTINF:-1 tvg-id="Vendetta Verdades, mentiras y la mafia S01 E04" tvg-name="Vendetta Verdades, mentiras y la mafia S01 E04"  group-title="SERIES DOCUMENTALES",Vendetta Verdades, mentiras y la mafia S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55630.mkv
+#EXTINF:-1 tvg-id="Vendetta Verdades, mentiras y la mafia S01 E05" tvg-name="Vendetta Verdades, mentiras y la mafia S01 E05"  group-title="SERIES DOCUMENTALES",Vendetta Verdades, mentiras y la mafia S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55631.mkv
+#EXTINF:-1 tvg-id="Vendetta Verdades, mentiras y la mafia S01 E06" tvg-name="Vendetta Verdades, mentiras y la mafia S01 E06"  group-title="SERIES DOCUMENTALES",Vendetta Verdades, mentiras y la mafia S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55632.mkv
+#EXTINF:-1 tvg-id="Marvel Studios Reunidos S01 E01" tvg-name="Marvel Studios Reunidos S01 E01"  group-title="SERIES DOCUMENTALES",Marvel Studios Reunidos S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55939.mkv
+#EXTINF:-1 tvg-id="Marvel Studios Reunidos S01 E02" tvg-name="Marvel Studios Reunidos S01 E02"  group-title="SERIES DOCUMENTALES",Marvel Studios Reunidos S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55940.mkv
+#EXTINF:-1 tvg-id="Marvel Studios Reunidos S01 E03" tvg-name="Marvel Studios Reunidos S01 E03"  group-title="SERIES DOCUMENTALES",Marvel Studios Reunidos S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55941.mkv
+#EXTINF:-1 tvg-id="John DeLorean Un magnate de leyenda S01 E01" tvg-name="John DeLorean Un magnate de leyenda S01 E01"  group-title="SERIES DOCUMENTALES",John DeLorean Un magnate de leyenda S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55958.mkv
+#EXTINF:-1 tvg-id="John DeLorean Un magnate de leyenda S01 E02" tvg-name="John DeLorean Un magnate de leyenda S01 E02"  group-title="SERIES DOCUMENTALES",John DeLorean Un magnate de leyenda S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55959.mkv
+#EXTINF:-1 tvg-id="John DeLorean Un magnate de leyenda S01 E03" tvg-name="John DeLorean Un magnate de leyenda S01 E03"  group-title="SERIES DOCUMENTALES",John DeLorean Un magnate de leyenda S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55960.mkv
+#EXTINF:-1 tvg-id="Naomi Osaka S01 E01" tvg-name="Naomi Osaka S01 E01"  group-title="SERIES DOCUMENTALES",Naomi Osaka S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55961.mkv
+#EXTINF:-1 tvg-id="Naomi Osaka S01 E02" tvg-name="Naomi Osaka S01 E02"  group-title="SERIES DOCUMENTALES",Naomi Osaka S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55962.mkv
+#EXTINF:-1 tvg-id="Naomi Osaka S01 E03" tvg-name="Naomi Osaka S01 E03"  group-title="SERIES DOCUMENTALES",Naomi Osaka S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/55963.mkv
+#EXTINF:-1 tvg-id="OVNIS Proyectos de alto secreto desclasificados S01 E01" tvg-name="OVNIS Proyectos de alto secreto desclasificados S01 E01"  group-title="SERIES DOCUMENTALES",OVNIS Proyectos de alto secreto desclasificados S01 E01
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56065.mkv
+#EXTINF:-1 tvg-id="OVNIS Proyectos de alto secreto desclasificados S01 E02" tvg-name="OVNIS Proyectos de alto secreto desclasificados S01 E02"  group-title="SERIES DOCUMENTALES",OVNIS Proyectos de alto secreto desclasificados S01 E02
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56066.mkv
+#EXTINF:-1 tvg-id="OVNIS Proyectos de alto secreto desclasificados S01 E03" tvg-name="OVNIS Proyectos de alto secreto desclasificados S01 E03"  group-title="SERIES DOCUMENTALES",OVNIS Proyectos de alto secreto desclasificados S01 E03
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56067.mkv
+#EXTINF:-1 tvg-id="OVNIS Proyectos de alto secreto desclasificados S01 E04" tvg-name="OVNIS Proyectos de alto secreto desclasificados S01 E04"  group-title="SERIES DOCUMENTALES",OVNIS Proyectos de alto secreto desclasificados S01 E04
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56068.mkv
+#EXTINF:-1 tvg-id="OVNIS Proyectos de alto secreto desclasificados S01 E05" tvg-name="OVNIS Proyectos de alto secreto desclasificados S01 E05"  group-title="SERIES DOCUMENTALES",OVNIS Proyectos de alto secreto desclasificados S01 E05
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56069.mkv
+#EXTINF:-1 tvg-id="OVNIS Proyectos de alto secreto desclasificados S01 E06" tvg-name="OVNIS Proyectos de alto secreto desclasificados S01 E06"  group-title="SERIES DOCUMENTALES",OVNIS Proyectos de alto secreto desclasificados S01 E06
+http://xdgo.live:8080/series/58_felipeparra_m/eUAfZ6QnUQ/56070.mkv
 #EXTINF:-1 tvg-id="Nose (2021)" tvg-name="Nose (2021)"  group-title="VFLIX DOCUMENTALES",Nose (2021)
 http://xdgo.live:8080/movie/58_felipeparra_m/eUAfZ6QnUQ/52309.mkv
 #EXTINF:-1 tvg-id="Pray Away Reza y dejaras de ser gay (2021)" tvg-name="Pray Away Reza y dejaras de ser gay (2021)"  group-title="VFLIX DOCUMENTALES",Pray Away Reza y dejaras de ser gay (2021)
