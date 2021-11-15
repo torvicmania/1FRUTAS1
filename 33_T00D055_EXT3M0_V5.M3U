@@ -379,9 +379,9 @@ http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/1851
 http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/53209
 #EXTINF:-1 tvg-id="CARACOL SPORTS HD" tvg-name="CARACOL SPORTS HD" tvg-logo="http://xdgo.live:8080/images/f479dd7d705bfd17d51770edf3cca61d.jpg" group-title="DEPORTES",CARACOL SPORTS HD
 http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/52315
-#EXTINF:-1 tvg-id="CDF ESTADIO HD" tvg-name="ESTADIO TNT SPORTS HQ" tvg-logo="https://pbs.twimg.com/media/Er5yR_-XEAAU3Jj.jpg" group-title="DEPORTES",ESTADIO TNT SPORTS HQ
+#EXTINF:-1 tvg-id="CDF ESTADIO HD" tvg-name="ESTADIO TNT SPORTS HQ" tvg-logo="http://xdgo.live:8080/images/2f969e2ee7ec1eb035112370801c459a.jpg" group-title="DEPORTES",ESTADIO TNT SPORTS HQ
 http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/40737
-#EXTINF:-1 tvg-id="CDF ESTADIO HD" tvg-name="ESTADIO TNT SPORTS HD" tvg-logo="https://pbs.twimg.com/media/Er5yR_-XEAAU3Jj.jpg" group-title="DEPORTES",ESTADIO TNT SPORTS HD
+#EXTINF:-1 tvg-id="CDF ESTADIO HD" tvg-name="ESTADIO TNT SPORTS HD" tvg-logo="http://xdgo.live:8080/images/2f969e2ee7ec1eb035112370801c459a.jpg" group-title="DEPORTES",ESTADIO TNT SPORTS HD
 http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/40736
 #EXTINF:-1 tvg-id="CDO BASICO HD" tvg-name="CDO BASICO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/2013-09-04_JJDDNN_en_directo_a_traves_de_CDO.jpg/245px-2013-09-04_JJDDNN_en_directo_a_traves_de_CDO.jpg" group-title="DEPORTES",CDO BASICO HD
 http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/1839
@@ -1493,7 +1493,7 @@ http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/53381
 http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/806
 #EXTINF:-1 tvg-id="ANTENA 3 FHD" tvg-name="ANTENA 3 FHD" tvg-logo="http://xdgo.live:8080/images/8bfd2a57fca0b5eca63b154f62a164b1.png" group-title="CINE FHD",ANTENA 3 FHD
 http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/805
-#EXTINF:-1 tvg-id="AXN FHD" tvg-name="AXN FHD" tvg-logo="https://images.istreamplanet.net/w_222.22222222222223,c_limit/dtv-latam-prod/bdf3962c-10e6-4241-8d6a-00420cf74b79.png" group-title="CINE FHD",AXN FHD
+#EXTINF:-1 tvg-id="AXN FHD" tvg-name="AXN FHD" tvg-logo="http://xdgo.live:8080/images/8b2c805f7c822897299e6bb9174e089b.png" group-title="CINE FHD",AXN FHD
 http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/804
 #EXTINF:-1 tvg-id="CINECANAL FHD" tvg-name="CINECANAL FHD" tvg-logo="https://zpapi.zetatv.com.uy/media/images/1.82.8.png" group-title="CINE FHD",CINECANAL FHD
 http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/802
@@ -1519,7 +1519,7 @@ http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/45257
 http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/795
 #EXTINF:-1 tvg-id="FOX FHD" tvg-name="STAR CHANNEL FHD" tvg-logo="http://xdgo.live:8080/images/7f971f9e4c6de836b7b4b97720f3e1be.png" group-title="CINE FHD",STAR CHANNEL FHD
 http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/792
-#EXTINF:-1 tvg-id="FOX LIFE FHD" tvg-name="STAR LIFE FHD" tvg-logo="https://zpapi.zetatv.com.uy/media/images/Star_Life.png" group-title="CINE FHD",STAR LIFE FHD
+#EXTINF:-1 tvg-id="FOX LIFE FHD" tvg-name="STAR LIFE FHD" tvg-logo="http://xdgo.live:8080/images/9d74a044f66eefeb3d7a070b4555c523.png" group-title="CINE FHD",STAR LIFE FHD
 http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/793
 #EXTINF:-1 tvg-id="FOX PREMIUM ACTION FHD" tvg-name="STAR ACTION FHD" tvg-logo="https://zpapi.zetatv.com.uy/media/images/Star_Action.png" group-title="CINE FHD",STAR ACTION FHD
 http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/784
@@ -1561,7 +1561,7 @@ http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/811
 http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/847
 #EXTINF:-1 tvg-id="HBO MUNDI HD" tvg-name="HBO MUNDI FHD" tvg-logo="http://89.187.177.132/icon/hbo-mundi.png" group-title="CINE FHD",HBO MUNDI FHD
 http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/27529
-#EXTINF:-1 tvg-id="HBO POP FHD" tvg-name="HBO POP FHD" tvg-logo="http://89.187.177.132/icon/hbo-pop.png" group-title="CINE FHD",HBO POP FHD
+#EXTINF:-1 tvg-id="HBO POP FHD" tvg-name="HBO POP FHD" tvg-logo="http://xdgo.live:8080/images/a2716bfb54cf2bf28a66f98d2076b9a0.png" group-title="CINE FHD",HBO POP FHD
 http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/815
 #EXTINF:-1 tvg-id="HBO XTREME LQ" tvg-name="HBO XTREME FHD" tvg-logo="http://89.187.177.132/icon/hbo-xtreme.png" group-title="CINE FHD",HBO XTREME FHD
 http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/809
@@ -2111,50 +2111,6 @@ http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/54379
 http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/54393
 #EXTINF:-1 tvg-id="DIRECTV SPORTS PPV 7" tvg-name="DIRECTV SPORTS PPV 7"  group-title="EVENTOS PPV",DIRECTV SPORTS PPV 7
 http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/54394
-#EXTINF:-1 tvg-id="Basketball (NCAA Men) Lafayette College at Syracuse 7:00 PM EST ( ECE)" tvg-name="Basketball (NCAA Men) Lafayette College at Syracuse 7:00 PM EST ( ECE)"  group-title="EVENTOS PPV",Basketball (NCAA Men) Lafayette College at Syracuse 7:00 PM EST ( ECE)
-http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/56324
-#EXTINF:-1 tvg-id="Basketball (NBA) Milwaukee Bucks at Philadelphia 76ers 7:30 PM EST ( TNT)" tvg-name="Basketball (NBA) Milwaukee Bucks at Philadelphia 76ers 7:30 PM EST ( TNT)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Milwaukee Bucks at Philadelphia 76ers 7:30 PM EST ( TNT)
-http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/56325
-#EXTINF:-1 tvg-id="Hockey (NHL) Edmonton Oilers at Detroit Red Wings 7:30 PM EST ( NHL)" tvg-name="Hockey (NHL) Edmonton Oilers at Detroit Red Wings 7:30 PM EST ( NHL)"  group-title="EVENTOS PPV",Hockey (NHL) Edmonton Oilers at Detroit Red Wings 7:30 PM EST ( NHL)
-http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/56326
-#EXTINF:-1 tvg-id="Basketball (NCAA Men) Miami Univ. (Ohio) at Georgia Tech 7:30 PM EST ( ECE)" tvg-name="Basketball (NCAA Men) Miami Univ. (Ohio) at Georgia Tech 7:30 PM EST ( ECE)"  group-title="EVENTOS PPV",Basketball (NCAA Men) Miami Univ. (Ohio) at Georgia Tech 7:30 PM EST ( ECE)
-http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/56327
-#EXTINF:-1 tvg-id="Football (NCAA) Ohio at Eastern Michigan 8:00 PM EST ( ESPN2)" tvg-name="Football (NCAA) Ohio at Eastern Michigan 8:00 PM EST ( ESPN2)"  group-title="EVENTOS PPV",Football (NCAA) Ohio at Eastern Michigan 8:00 PM EST ( ESPN2)
-http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/56328
-#EXTINF:-1 tvg-id="Wrestling WWE NXT 8:00 PM EST ( USA)" tvg-name="Wrestling WWE NXT 8:00 PM EST ( USA)" tvg-logo="" group-title="EVENTOS PPV",Wrestling WWE NXT 8:00 PM EST ( USA)
-http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/56329
-#EXTINF:-1 tvg-id="Basketball (NCAA Men) Jackson State at Illinois 8:00 PM EST ( BTN)" tvg-name="Basketball (NCAA Men) Jackson State at Illinois 8:00 PM EST ( BTN)"  group-title="EVENTOS PPV",Basketball (NCAA Men) Jackson State at Illinois 8:00 PM EST ( BTN)
-http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/56330
-#EXTINF:-1 tvg-id="Hockey (NHL) St. Louis Blues at Winnipeg Jets 8:00 PM EST ( NHL)" tvg-name="Hockey (NHL) St. Louis Blues at Winnipeg Jets 8:00 PM EST ( NHL)"  group-title="EVENTOS PPV",Hockey (NHL) St. Louis Blues at Winnipeg Jets 8:00 PM EST ( NHL)
-http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/56331
-#EXTINF:-1 tvg-id="Basketball (NCAA Men) Maine at Virginia Tech 8:00 PM EST ( ECE)" tvg-name="Basketball (NCAA Men) Maine at Virginia Tech 8:00 PM EST ( ECE)"  group-title="EVENTOS PPV",Basketball (NCAA Men) Maine at Virginia Tech 8:00 PM EST ( ECE)
-http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/56332
-#EXTINF:-1 tvg-id="Basketball (NCAA Men) Southern Illinois Edwardsville at Marquette 8:30 PM EST ( FS2)" tvg-name="Basketball (NCAA Men) Southern Illinois Edwardsville at Marquette 8:30 PM EST ( FS2)"  group-title="EVENTOS PPV",Basketball (NCAA Men) Southern Illinois Edwardsville at Marquette 8:30 PM EST ( FS2)
-http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/56333
-#EXTINF:-1 tvg-id="Basketball (NCAA Men) Louisiana Tech at Alabama 9:00 PM EST ( SEC)" tvg-name="Basketball (NCAA Men) Louisiana Tech at Alabama 9:00 PM EST ( SEC)"  group-title="EVENTOS PPV",Basketball (NCAA Men) Louisiana Tech at Alabama 9:00 PM EST ( SEC)
-http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/56334
-#EXTINF:-1 tvg-id="Basketball (NCAA Men) Navy at Virginia 9:00 PM EST ( ACCN)" tvg-name="Basketball (NCAA Men) Navy at Virginia 9:00 PM EST ( ACCN)"  group-title="EVENTOS PPV",Basketball (NCAA Men) Navy at Virginia 9:00 PM EST ( ACCN)
-http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/56335
-#EXTINF:-1 tvg-id="Basketball (NBA) Atlanta Hawks at Utah Jazz 9:00 PM EST ( NBA)" tvg-name="Basketball (NBA) Atlanta Hawks at Utah Jazz 9:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Atlanta Hawks at Utah Jazz 9:00 PM EST ( NBA)
-http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/56336
-#EXTINF:-1 tvg-id="Hockey (NHL) San Jose Sharks at Calgary Flames 9:00 PM EST ( NHL)" tvg-name="Hockey (NHL) San Jose Sharks at Calgary Flames 9:00 PM EST ( NHL)"  group-title="EVENTOS PPV",Hockey (NHL) San Jose Sharks at Calgary Flames 9:00 PM EST ( NHL)
-http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/56337
-#EXTINF:-1 tvg-id="Basketball (NCAA Men) Southern at Louisville 9:00 PM EST ( ECE)" tvg-name="Basketball (NCAA Men) Southern at Louisville 9:00 PM EST ( ECE)"  group-title="EVENTOS PPV",Basketball (NCAA Men) Southern at Louisville 9:00 PM EST ( ECE)
-http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/56338
-#EXTINF:-1 tvg-id="Basketball (NCAA Men) Kentucky at Duke 9:30 PM EST ( ESPN)" tvg-name="Basketball (NCAA Men) Kentucky at Duke 9:30 PM EST ( ESPN)"  group-title="EVENTOS PPV",Basketball (NCAA Men) Kentucky at Duke 9:30 PM EST ( ESPN)
-http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/56339
-#EXTINF:-1 tvg-id="Basketball (NBA) Portland Trail Blazers at Los Angeles Clippers 10:00 PM EST ( TNT)" tvg-name="Basketball (NBA) Portland Trail Blazers at Los Angeles Clippers 10:00 PM EST ( TNT)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Portland Trail Blazers at Los Angeles Clippers 10:00 PM EST ( TNT)
-http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/56340
-#EXTINF:-1 tvg-id="Basketball (NCAA Men) Cleveland State at Brigham Young 10:00 PM EST ( BYU)" tvg-name="Basketball (NCAA Men) Cleveland State at Brigham Young 10:00 PM EST ( BYU)"  group-title="EVENTOS PPV",Basketball (NCAA Men) Cleveland State at Brigham Young 10:00 PM EST ( BYU)
-http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/56341
-#EXTINF:-1 tvg-id="Basketball (NCAA Men) Longwood at Iowa 10:00 PM EST ( BTN)" tvg-name="Basketball (NCAA Men) Longwood at Iowa 10:00 PM EST ( BTN)"  group-title="EVENTOS PPV",Basketball (NCAA Men) Longwood at Iowa 10:00 PM EST ( BTN)
-http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/56342
-#EXTINF:-1 tvg-id="Hockey (NHL) Anaheim Ducks at Vancouver Canucks 10:00 PM EST ( NHL)" tvg-name="Hockey (NHL) Anaheim Ducks at Vancouver Canucks 10:00 PM EST ( NHL)"  group-title="EVENTOS PPV",Hockey (NHL) Anaheim Ducks at Vancouver Canucks 10:00 PM EST ( NHL)
-http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/56343
-#EXTINF:-1 tvg-id="Basketball (NBA) Charlotte Hornets at Los Angeles Lakers 10:30 PM EST ( NBA)" tvg-name="Basketball (NBA) Charlotte Hornets at Los Angeles Lakers 10:30 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Charlotte Hornets at Los Angeles Lakers 10:30 PM EST ( NBA)
-http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/56344
-#EXTINF:-1 tvg-id="Hockey (NHL) Pittsburgh Penguins at Chicago Blackhawks 8:30 PM EST ( NHL)" tvg-name="Hockey (NHL) Pittsburgh Penguins at Chicago Blackhawks 8:30 PM EST ( NHL)"  group-title="EVENTOS PPV",Hockey (NHL) Pittsburgh Penguins at Chicago Blackhawks 8:30 PM EST ( NHL)
-http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/56345
 #EXTINF:-1 tvg-id="GUA Canal 4" tvg-name="GUA VEA CANAL" group-title="GUATEMALA",GUA VEA CANAL
 http://xdgo.live:8080/33_ndrscamilo_g/NJkcj5JLTX/2597
 #EXTINF:-1 tvg-id="GUA CANAL 11" tvg-name="GUA CANAL 11" group-title="GUATEMALA",GUA CANAL 11
@@ -5227,7 +5183,7 @@ http://xdgo.live:8080/movie/33_ndrscamilo_g/NJkcj5JLTX/22949.mp4
 http://xdgo.live:8080/movie/33_ndrscamilo_g/NJkcj5JLTX/22950.mp4
 #EXTINF:-1 tvg-id="Los juegos del hambre Sinsajo. Parte 2 (2015)" tvg-name="Los juegos del hambre Sinsajo. Parte 2 (2015)"  group-title="VFLIX ACCION",Los juegos del hambre Sinsajo. Parte 2 (2015)
 http://xdgo.live:8080/movie/33_ndrscamilo_g/NJkcj5JLTX/22951.mp4
-#EXTINF:-1 tvg-id="Los siete magnificos (2016)" tvg-name="Los siete magnificos (2016)"  group-title="VFLIX ACCION",Los siete magnificos (2016)
+#EXTINF:-1 tvg-id="El equipo A (2010)" tvg-name="El equipo A (2010)"  group-title="VFLIX ACCION",El equipo A (2010)
 http://xdgo.live:8080/movie/33_ndrscamilo_g/NJkcj5JLTX/22952.avi
 #EXTINF:-1 tvg-id="Los mercenarios (2010)" tvg-name="Los mercenarios (2010)"  group-title="VFLIX ACCION",Los mercenarios (2010)
 http://xdgo.live:8080/movie/33_ndrscamilo_g/NJkcj5JLTX/22953.avi
@@ -5243,7 +5199,7 @@ http://xdgo.live:8080/movie/33_ndrscamilo_g/NJkcj5JLTX/22957.mp4
 http://xdgo.live:8080/movie/33_ndrscamilo_g/NJkcj5JLTX/22958.avi
 #EXTINF:-1 tvg-id="Los reyes del crimen (2001)" tvg-name="Los reyes del crimen (2001)"  group-title="VFLIX ACCION",Los reyes del crimen (2001)
 http://xdgo.live:8080/movie/33_ndrscamilo_g/NJkcj5JLTX/22959.mp4
-#EXTINF:-1 tvg-id="Los siete magnificos (2016)" tvg-name="Los siete magnificos (2016)"  group-title="VFLIX ACCION",Los siete magnificos (2016)
+#EXTINF:-1 tvg-id="Los siete magnificos (1960)" tvg-name="Los siete magnificos (1960)"  group-title="VFLIX ACCION",Los siete magnificos (1960)
 http://xdgo.live:8080/movie/33_ndrscamilo_g/NJkcj5JLTX/22960.mp4
 #EXTINF:-1 tvg-id="Los Tres Mosqueteros (1942)" tvg-name="Los Tres Mosqueteros (1942)"  group-title="VFLIX ACCION",Los Tres Mosqueteros (1942)
 http://xdgo.live:8080/movie/33_ndrscamilo_g/NJkcj5JLTX/22961.avi
@@ -31161,6 +31117,20 @@ http://xdgo.live:8080/series/33_ndrscamilo_g/NJkcj5JLTX/41776.mkv
 http://xdgo.live:8080/series/33_ndrscamilo_g/NJkcj5JLTX/42114.mkv
 #EXTINF:-1 tvg-id="WandaVision S01 E09" tvg-name="WandaVision S01 E09"  group-title="WANDAVISION",WandaVision S01 E09
 http://xdgo.live:8080/series/33_ndrscamilo_g/NJkcj5JLTX/42412.mkv
+#EXTINF:-1 tvg-id="Shang-Chi y la leyenda de los Diez Anillos (2021)" tvg-name="Shang-Chi y la leyenda de los Diez Anillos (2021)" tvg-logo="http://xdgo.live:8080/images/827e92cb4471ac6b2b4ccbf2ff4fee19.jpg" group-title="VFLIX ESTRENOS",Shang-Chi y la leyenda de los Diez Anillos (2021)
+http://xdgo.live:8080/movie/33_ndrscamilo_g/NJkcj5JLTX/56465.mkv
+#EXTINF:-1 tvg-id="Alerta roja (2021)" tvg-name="Alerta roja (2021)" tvg-logo="http://xdgo.live:8080/images/f02bcabdb0cbf181be780cfc474ee0c6.jpg" group-title="VFLIX ESTRENOS",Alerta roja (2021)
+http://xdgo.live:8080/movie/33_ndrscamilo_g/NJkcj5JLTX/56464.mkv
+#EXTINF:-1 tvg-id="7 prisioneros (2021)" tvg-name="7 prisioneros (2021)" tvg-logo="http://xdgo.live:8080/images/eb15f614992068a22a6635f04e141c10.jpg" group-title="VFLIX ESTRENOS",7 prisioneros (2021)
+http://xdgo.live:8080/movie/33_ndrscamilo_g/NJkcj5JLTX/56461.mkv
+#EXTINF:-1 tvg-id="Driven New (2019)" tvg-name="Driven New (2019)" tvg-logo="http://xdgo.live:8080/images/b75036a799b114ec7009e6ab306de6c7.jpg" group-title="VFLIX ESTRENOS",Driven New (2019)
+http://xdgo.live:8080/movie/33_ndrscamilo_g/NJkcj5JLTX/56462.mkv
+#EXTINF:-1 tvg-id="Happiness Ever After (2021)" tvg-name="Happiness Ever After (2021)" tvg-logo="http://xdgo.live:8080/images/c834dc51cd5bfed1489bd936a998ed5a.jpg" group-title="VFLIX ESTRENOS",Happiness Ever After (2021)
+http://xdgo.live:8080/movie/33_ndrscamilo_g/NJkcj5JLTX/56463.mkv
+#EXTINF:-1 tvg-id="Hunter's Moon (2020)" tvg-name="Hunter's Moon (2020)" tvg-logo="http://xdgo.live:8080/images/df729df190c2184d4dafffd03a29cd0d.jpg" group-title="VFLIX ESTRENOS",Hunter's Moon (2020)
+http://xdgo.live:8080/movie/33_ndrscamilo_g/NJkcj5JLTX/56466.mkv
+#EXTINF:-1 tvg-id="Claroscuro (2021)" tvg-name="Claroscuro (2021)" tvg-logo="http://xdgo.live:8080/images/d36df3b04e2c8ef3b9e5166d3daa45e5.jpg" group-title="VFLIX ESTRENOS",Claroscuro (2021)
+http://xdgo.live:8080/movie/33_ndrscamilo_g/NJkcj5JLTX/56356.mkv
 #EXTINF:-1 tvg-id="Finch (2021)" tvg-name="Finch (2021)" tvg-logo="http://xdgo.live:8080/images/b5530e74620d51f201e70205311dc29a.jpg" group-title="VFLIX ESTRENOS",Finch (2021)
 http://xdgo.live:8080/movie/33_ndrscamilo_g/NJkcj5JLTX/56350.mkv
 #EXTINF:-1 tvg-id="007: Sin Tiempo Para Morir (2021)" tvg-name="007: Sin Tiempo Para Morir (2021)" tvg-logo="http://xdgo.live:8080/images/4bdf46d633bc6468c0bfa2b9e30b98d0.jpg" group-title="VFLIX ESTRENOS",007: Sin Tiempo Para Morir (2021)
