@@ -303,10 +303,6 @@ http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/1123
 http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/53884
 #EXTINF:-1 tvg-id="CO RCN NUESTRA TELE HD" tvg-name="CO RCN INTERNACIONAL HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/7104/brand.gif?itok=a-dvuqrh" group-title="COLOMBIA",CO RCN INTERNACIONAL HQ
 http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/40087
-#EXTINF:-1 tvg-id="CO RCN NUESTRA TELE HD" tvg-name="CO RCN INTERNACIONAL HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/7104/brand.gif?itok=a-dvuqrh" group-title="COLOMBIA",CO RCN INTERNACIONAL HD
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/51909
-#EXTINF:-1 tvg-id="CO RCN NUESTRA TELE HD" tvg-name="CO RCN INTERNACIONAL FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/7104/brand.gif?itok=a-dvuqrh" group-title="COLOMBIA",CO RCN INTERNACIONAL FHD
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/51908
 #EXTINF:-1 tvg-id="CO RCN NOVELAS HD" tvg-name="CO RCN NOVELAS HD" tvg-logo="http://xdgo.live:8080/images/b79e044a419ff2b118784ff46c3d9b35.jpg" group-title="COLOMBIA",CO RCN NOVELAS HD
 http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/24478
 #EXTINF:-1 tvg-id="CO RED  PLUS  HQ" tvg-name="CO RED  PLUS  HQ" tvg-logo="http://xdgo.live:8080/images/37598e5f77442136535c40aaadcee1af.png" group-title="COLOMBIA",CO RED  PLUS  HQ
@@ -393,7 +389,7 @@ http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/2351
 http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/2352
 #EXTINF:-1 tvg-id="CLARO SPORTS HQ" tvg-name="CLARO SPORTS FHD" tvg-logo="https://www.elimparcial.com/__export/1554579865733/sites/elimparcial/img/2018/04/06/1838753-N.JPG_1359985867.jpg" group-title="DEPORTES",CLARO SPORTS FHD
 http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/2353
-#EXTINF:-1 tvg-id="COMBATE HD" tvg-name="COMBATE HD" tvg-logo="http://s2.glbimg.com/nWiPzL7WGQSduafJ9Z0jLcO7-Og=/200x0/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/f/k/PGAPBBQeGWVAMkqdUQsw/logo-combate.png" group-title="DEPORTES",COMBATE HD
+#EXTINF:-1 tvg-id="COMBATE HD" tvg-name="COMBATE HD" tvg-logo="http://xdgo.live:8080/images/c2f618802ab845459d5f3fbe61cdf099.png" group-title="DEPORTES",COMBATE HD
 http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/2330
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 1 HQ" tvg-name="DIRECTV SPORTS 1 HQ" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 HQ
 http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/1784
@@ -581,7 +577,7 @@ http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/1790
 http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/2333
 #EXTINF:-1 tvg-id="FOX DEPORTES FHD" tvg-name="FOX DEPORTES FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX DEPORTES FHD
 http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/1838
-#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="FOX SPORTS BR HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS BR HD
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="FOX SPORTS BR HD" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS BR HD
 http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/2336
 #EXTINF:-1 tvg-id="FOX SPORTS CL HQ" tvg-name="FOX SPORTS CL HQ" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS CL HQ
 http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/52715
@@ -623,7 +619,7 @@ http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/1772
 http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/1766
 #EXTINF:-1 tvg-id="FOX SPORTS 1 CO HD" tvg-name="FOX SPORTS 1 PE FHD" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 1 PE FHD
 http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/41770
-#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="FOX SPORTS 2 BR HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 2 BR HD
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="FOX SPORTS 2 BR HD" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 2 BR HD
 http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/2335
 #EXTINF:-1 tvg-id="FOX SPORTS 2 CL FHD" tvg-name="FOX SPORTS 2 CL HQ" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 2 CL HQ
 http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/40150
@@ -703,7 +699,7 @@ http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/40101
 http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/1833
 #EXTINF:-1 tvg-id="GOL TV Ecuador FHD" tvg-name="GOL TV ECUADOR HD op2" tvg-logo="http://xdgo.live:8080/images/99ae7a1be23b775839ad45be02d5006e.jpg" group-title="DEPORTES",GOL TV ECUADOR HD op2
 http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/46734
-#EXTINF:-1 tvg-id="GOL TV Ecuador FHD" tvg-name="GOL TV ECUADOR FHD" tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf_400x400.jpg" group-title="DEPORTES",GOL TV ECUADOR FHD
+#EXTINF:-1 tvg-id="GOL TV Ecuador FHD" tvg-name="GOL TV ECUADOR FHD" tvg-logo="http://xdgo.live:8080/images/99ae7a1be23b775839ad45be02d5006e.jpg" group-title="DEPORTES",GOL TV ECUADOR FHD
 http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/1834
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="GOLF CHANNEL HD" tvg-logo="https://images.mi.tv/channels/co_golf-channel_m.png" group-title="DEPORTES",GOLF CHANNEL HD
 http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/1831
@@ -1119,10 +1115,10 @@ http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/2049
 http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/30196
 #EXTINF:-1 tvg-id="BEIN SPORTS NBA" tvg-name="BEIN SPORTS NBA" tvg-logo="http://hadarasport.com/wp-content/uploads/2018/05/bein-NBA.gif" group-title="DEPORTES INTERNACIONALES",BEIN SPORTS NBA
 http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/52689
-#EXTINF:-1 tvg-id="PPV || Soccer (Colombia Primera) Deportivo Cali vs. Deportivo Pereira 6:00 PM EST ( NTEL)" tvg-name="PPV || Soccer (Colombia Primera) Deportivo Cali vs. Deportivo Pereira 6:00 PM EST ( NTEL)"  group-title="EVENTOS PPV",PPV || Soccer (Colombia Primera) Deportivo Cali vs. Deportivo Pereira 6:00 PM EST ( NTEL)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57205
-#EXTINF:-1 tvg-id="PPV || Soccer (Colombia Primera) AtlÃ©tico Nacional vs. Junior 8:00 PM EST ( NTEL)" tvg-name="PPV || Soccer (Colombia Primera) AtlÃ©tico Nacional vs. Junior 8:00 PM EST ( NTEL)"  group-title="EVENTOS PPV",PPV || Soccer (Colombia Primera) AtlÃ©tico Nacional vs. Junior 8:00 PM EST ( NTEL)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57226
+#EXTINF:-1 tvg-id="PPV || Soccer (Colombia Primera) Alianza Petrolera vs. Millonarios 5:00 PM EST ( NTEL)" tvg-name="PPV || Soccer (Colombia Primera) Alianza Petrolera vs. Millonarios 5:00 PM EST ( NTEL)"  group-title="EVENTOS PPV",PPV || Soccer (Colombia Primera) Alianza Petrolera vs. Millonarios 5:00 PM EST ( NTEL)
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57674
+#EXTINF:-1 tvg-id="PPV || Soccer (Colombia Primera) AmÃ©rica de Cali vs. Deportes Tolima 7:30 PM EST ( NTEL)" tvg-name="PPV || Soccer (Colombia Primera) AmÃ©rica de Cali vs. Deportes Tolima 7:30 PM EST ( NTEL)"  group-title="EVENTOS PPV",PPV || Soccer (Colombia Primera) AmÃ©rica de Cali vs. Deportes Tolima 7:30 PM EST ( NTEL)
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57685
 #EXTINF:-1 tvg-id="Colombiana (2011)" tvg-name="Colombiana (2011)"  group-title="VFLIX ACCION",Colombiana (2011)
 http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/22733.mp4
 #EXTINF:-1 tvg-id="Alberto Barros - Tributo A La Salsa Colombiana 2" tvg-name="Alberto Barros - Tributo A La Salsa Colombiana 2"  group-title="VFLIX CONCIERTOS",Alberto Barros - Tributo A La Salsa Colombiana 2
@@ -1609,7 +1605,7 @@ http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/820
 http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/832
 #EXTINF:-1 tvg-id="STARZ COMEDY FHD" tvg-name="STARZ COMEDY FHD" tvg-logo="https://www.thewrap.com/wp-content/uploads/2013/11/starz-logo.jpg" group-title="CINE FHD",STARZ COMEDY FHD
 http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/831
-#EXTINF:-1 tvg-id="STARZ EAST FHD" tvg-name="STARZ EAST FHD" tvg-logo="https://www.thewrap.com/wp-content/uploads/2013/11/starz-logo.jpg" group-title="CINE FHD",STARZ EAST FHD
+#EXTINF:-1 tvg-id="STARZ EAST FHD" tvg-name="STARZ EAST FHD" tvg-logo="http://xdgo.live:8080/images/bb468ab387ff1475531e2d7ba46b6053.jpg" group-title="CINE FHD",STARZ EAST FHD
 http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/830
 #EXTINF:-1 tvg-id="STARZ EDGE FHD" tvg-name="STARZ EDGE FHD" tvg-logo="https://www.thewrap.com/wp-content/uploads/2013/11/starz-logo.jpg" group-title="CINE FHD",STARZ EDGE FHD
 http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/829
@@ -2119,108 +2115,112 @@ http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/54379
 http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/54393
 #EXTINF:-1 tvg-id="DIRECTV SPORTS PPV 7" tvg-name="DIRECTV SPORTS PPV 7"  group-title="EVENTOS PPV",DIRECTV SPORTS PPV 7
 http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/54394
-#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Women) Maryland-BC at Wake Forest 4:00 PM EST ( ECE)" tvg-name="PPV || Basketball (NCAA Women) Maryland-BC at Wake Forest 4:00 PM EST ( ECE)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Women) Maryland-BC at Wake Forest 4:00 PM EST ( ECE)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57201
-#EXTINF:-1 tvg-id="PPV || Football (NCAA) Grambling State at Southern 5:00 PM EST ( NBCS)" tvg-name="PPV || Football (NCAA) Grambling State at Southern 5:00 PM EST ( NBCS)"  group-title="EVENTOS PPV",PPV || Football (NCAA) Grambling State at Southern 5:00 PM EST ( NBCS)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57202
-#EXTINF:-1 tvg-id="PPV || Soccer (Argentina Primera) Quilmes at Deportivo Moron 5:00 PM EST ( TYC)" tvg-name="PPV || Soccer (Argentina Primera) Quilmes at Deportivo Moron 5:00 PM EST ( TYC)"  group-title="EVENTOS PPV",PPV || Soccer (Argentina Primera) Quilmes at Deportivo Moron 5:00 PM EST ( TYC)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57203
-#EXTINF:-1 tvg-id="PPV || Tennis (Pro) World Team Tennis 6:00 PM EST ( TNNS)" tvg-name="PPV || Tennis (Pro) World Team Tennis 6:00 PM EST ( TNNS)"  group-title="EVENTOS PPV",PPV || Tennis (Pro) World Team Tennis 6:00 PM EST ( TNNS)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57204
-#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) Southern Illinois Edwardsville at Creighton 6:00 PM EST ( FS2)" tvg-name="PPV || Basketball (NCAA Men) Southern Illinois Edwardsville at Creighton 6:00 PM EST ( FS2)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) Southern Illinois Edwardsville at Creighton 6:00 PM EST ( FS2)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57206
-#EXTINF:-1 tvg-id="PPV || Basketball (NBA) Minnesota Timberwolves at Philadelphia 76ers 6:00 PM EST ( NBA)" tvg-name="PPV || Basketball (NBA) Minnesota Timberwolves at Philadelphia 76ers 6:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",PPV || Basketball (NBA) Minnesota Timberwolves at Philadelphia 76ers 6:00 PM EST ( NBA)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57207
-#EXTINF:-1 tvg-id="PPV || Hockey (NHL) Seattle Kraken at Florida Panthers 6:00 PM EST ( NHL)" tvg-name="PPV || Hockey (NHL) Seattle Kraken at Florida Panthers 6:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) Seattle Kraken at Florida Panthers 6:00 PM EST ( NHL)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57208
-#EXTINF:-1 tvg-id="PPV || Football (NCAA) Texas A&M at Louisiana State 7:00 PM EST ( ESPN)" tvg-name="PPV || Football (NCAA) Texas A&M at Louisiana State 7:00 PM EST ( ESPN)"  group-title="EVENTOS PPV",PPV || Football (NCAA) Texas A&M at Louisiana State 7:00 PM EST ( ESPN)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57209
-#EXTINF:-1 tvg-id="PPV || Hockey (NHL) Edmonton Oilers at Vegas Golden Knights 7:00 PM EST ( NHL)" tvg-name="PPV || Hockey (NHL) Edmonton Oilers at Vegas Golden Knights 7:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) Edmonton Oilers at Vegas Golden Knights 7:00 PM EST ( NHL)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57210
-#EXTINF:-1 tvg-id="PPV || Hockey (NHL) Montreal Canadiens at Pittsburgh Penguins 7:00 PM EST ( NHLa)" tvg-name="PPV || Hockey (NHL) Montreal Canadiens at Pittsburgh Penguins 7:00 PM EST ( NHLa)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) Montreal Canadiens at Pittsburgh Penguins 7:00 PM EST ( NHLa)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57211
-#EXTINF:-1 tvg-id="PPV || Football (NCAA) West Virginia at Kansas 7:00 PM EST ( FS1)" tvg-name="PPV || Football (NCAA) West Virginia at Kansas 7:00 PM EST ( FS1)"  group-title="EVENTOS PPV",PPV || Football (NCAA) West Virginia at Kansas 7:00 PM EST ( FS1)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57212
-#EXTINF:-1 tvg-id="PPV || Soccer (NCAA Women) NCAA Tournament,PPV || PLUS Quarterfinal South Carolina at BYU 7:00 PM EST ( BYU)" tvg-name="PPV || Soccer (NCAA Women) NCAA Tournament,PPV || PLUS Quarterfinal South Carolina at BYU 7:00 PM EST ( BYU)"  group-title="EVENTOS PPV",PPV || Soccer (NCAA Women) NCAA Tournament,PPV || PLUS Quarterfinal South Carolina at BYU 7:00 PM EST ( BYU)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57213
-#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) Marshall at Indiana 7:00 PM EST ( BTN)" tvg-name="PPV || Basketball (NCAA Men) Marshall at Indiana 7:00 PM EST ( BTN)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) Marshall at Indiana 7:00 PM EST ( BTN)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57214
-#EXTINF:-1 tvg-id="PPV || Hockey (NHL) Buffalo Sabres at Detroit Red Wings 7:00 PM EST ( NHL)" tvg-name="PPV || Hockey (NHL) Buffalo Sabres at Detroit Red Wings 7:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) Buffalo Sabres at Detroit Red Wings 7:00 PM EST ( NHL)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57215
-#EXTINF:-1 tvg-id="PPV || Hockey (NHL) Ottawa Senators at Los Angeles Kings 7:00 PM EST ( NHL)" tvg-name="PPV || Hockey (NHL) Ottawa Senators at Los Angeles Kings 7:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) Ottawa Senators at Los Angeles Kings 7:00 PM EST ( NHL)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57216
-#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) Trinity Christian at Valparaiso 7:00 PM EST ( ECE)" tvg-name="PPV || Basketball (NCAA Men) Trinity Christian at Valparaiso 7:00 PM EST ( ECE)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) Trinity Christian at Valparaiso 7:00 PM EST ( ECE)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57217
-#EXTINF:-1 tvg-id="PPV || Football (NCAA) Tulane at Memphis 7:30 PM EST ( ESPNU)" tvg-name="PPV || Football (NCAA) Tulane at Memphis 7:30 PM EST ( ESPNU)"  group-title="EVENTOS PPV",PPV || Football (NCAA) Tulane at Memphis 7:30 PM EST ( ESPNU)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57218
-#EXTINF:-1 tvg-id="PPV || Football (NCAA) Kentucky at Louisville 7:30 PM EST ( ESPN2)" tvg-name="PPV || Football (NCAA) Kentucky at Louisville 7:30 PM EST ( ESPN2)"  group-title="EVENTOS PPV",PPV || Football (NCAA) Kentucky at Louisville 7:30 PM EST ( ESPN2)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57219
-#EXTINF:-1 tvg-id="PPV || Basketball (NBA) Phoenix Suns at Brooklyn Nets 7:30 PM EST ( NBA)" tvg-name="PPV || Basketball (NBA) Phoenix Suns at Brooklyn Nets 7:30 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",PPV || Basketball (NBA) Phoenix Suns at Brooklyn Nets 7:30 PM EST ( NBA)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57220
-#EXTINF:-1 tvg-id="PPV || Football (NCAA) Clemson at South Carolina 7:30 PM EST ( SEC)" tvg-name="PPV || Football (NCAA) Clemson at South Carolina 7:30 PM EST ( SEC)"  group-title="EVENTOS PPV",PPV || Football (NCAA) Clemson at South Carolina 7:30 PM EST ( SEC)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57221
-#EXTINF:-1 tvg-id="PPV || Football (NCAA) Pittsburgh at Syracuse 7:30 PM EST ( ACCN)" tvg-name="PPV || Football (NCAA) Pittsburgh at Syracuse 7:30 PM EST ( ACCN)"  group-title="EVENTOS PPV",PPV || Football (NCAA) Pittsburgh at Syracuse 7:30 PM EST ( ACCN)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57222
-#EXTINF:-1 tvg-id="PPV || Basketball (NBA) New York Knicks at Atlanta Hawks 7:30 PM EST ( NBA)" tvg-name="PPV || Basketball (NBA) New York Knicks at Atlanta Hawks 7:30 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",PPV || Basketball (NBA) New York Knicks at Atlanta Hawks 7:30 PM EST ( NBA)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57223
-#EXTINF:-1 tvg-id="PPV || Soccer (Liga MX) Pumas UNAM at America 8:00 PM EST ( TUDN)" tvg-name="PPV || Soccer (Liga MX) Pumas UNAM at America 8:00 PM EST ( TUDN)"  group-title="EVENTOS PPV",PPV || Soccer (Liga MX) Pumas UNAM at America 8:00 PM EST ( TUDN)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57224
-#EXTINF:-1 tvg-id="PPV || Soccer (Liga MX) Pumas UNAM at America 8:00 PM EST ( UNIe)" tvg-name="PPV || Soccer (Liga MX) Pumas UNAM at America 8:00 PM EST ( UNIe)"  group-title="EVENTOS PPV",PPV || Soccer (Liga MX) Pumas UNAM at America 8:00 PM EST ( UNIe)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57225
-#EXTINF:-1 tvg-id="PPV || Football (NCAA) Notre Dame at Stanford 8:00 PM EST ( FOXD)" tvg-name="PPV || Football (NCAA) Notre Dame at Stanford 8:00 PM EST ( FOXD)"  group-title="EVENTOS PPV",PPV || Football (NCAA) Notre Dame at Stanford 8:00 PM EST ( FOXD)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57227
-#EXTINF:-1 tvg-id="PPV || Soccer (Ecuador Serie A) Deportivo Cuenca at Independiente del Valle 8:00 PM EST ( GOL)" tvg-name="PPV || Soccer (Ecuador Serie A) Deportivo Cuenca at Independiente del Valle 8:00 PM EST ( GOL)"  group-title="EVENTOS PPV",PPV || Soccer (Ecuador Serie A) Deportivo Cuenca at Independiente del Valle 8:00 PM EST ( GOL)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57228
-#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) Northern Illinois University at Marquette 8:00 PM EST ( FS2)" tvg-name="PPV || Basketball (NCAA Men) Northern Illinois University at Marquette 8:00 PM EST ( FS2)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) Northern Illinois University at Marquette 8:00 PM EST ( FS2)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57229
-#EXTINF:-1 tvg-id="PPV || Basketball (NBA) Miami Heat at Chicago Bulls 8:00 PM EST ( NBA)" tvg-name="PPV || Basketball (NBA) Miami Heat at Chicago Bulls 8:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",PPV || Basketball (NBA) Miami Heat at Chicago Bulls 8:00 PM EST ( NBA)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57230
-#EXTINF:-1 tvg-id="PPV || Basketball (NBA) Orlando Magic at Cleveland Cavaliers 8:00 PM EST ( NBA)" tvg-name="PPV || Basketball (NBA) Orlando Magic at Cleveland Cavaliers 8:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",PPV || Basketball (NBA) Orlando Magic at Cleveland Cavaliers 8:00 PM EST ( NBA)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57231
-#EXTINF:-1 tvg-id="PPV || Basketball (NBA) Charlotte Hornets at Houston Rockets 8:00 PM EST ( NBA)" tvg-name="PPV || Basketball (NBA) Charlotte Hornets at Houston Rockets 8:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",PPV || Basketball (NBA) Charlotte Hornets at Houston Rockets 8:00 PM EST ( NBA)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57232
-#EXTINF:-1 tvg-id="PPV || Hockey (NHL) Columbus Blue Jackets at St. Louis Blues 8:00 PM EST ( NHL)" tvg-name="PPV || Hockey (NHL) Columbus Blue Jackets at St. Louis Blues 8:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) Columbus Blue Jackets at St. Louis Blues 8:00 PM EST ( NHL)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57233
-#EXTINF:-1 tvg-id="PPV || Hockey (NHL) Dallas Stars at Arizona Coyotes 8:00 PM EST ( NHL)" tvg-name="PPV || Hockey (NHL) Dallas Stars at Arizona Coyotes 8:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) Dallas Stars at Arizona Coyotes 8:00 PM EST ( NHL)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57234
-#EXTINF:-1 tvg-id="PPV || Basketball (NBA) Washington Wizards at Dallas Mavericks 8:30 PM EST ( NBA)" tvg-name="PPV || Basketball (NBA) Washington Wizards at Dallas Mavericks 8:30 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",PPV || Basketball (NBA) Washington Wizards at Dallas Mavericks 8:30 PM EST ( NBA)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57235
-#EXTINF:-1 tvg-id="PPV || Hockey (NHL) Nashville Predators at Colorado Avalanche 9:00 PM EST ( NHL)" tvg-name="PPV || Hockey (NHL) Nashville Predators at Colorado Avalanche 9:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) Nashville Predators at Colorado Avalanche 9:00 PM EST ( NHL)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57236
-#EXTINF:-1 tvg-id="PPV || Football (NCAA) Nevada at Colorado State 9:00 PM EST ( CBSSN)" tvg-name="PPV || Football (NCAA) Nevada at Colorado State 9:00 PM EST ( CBSSN)"  group-title="EVENTOS PPV",PPV || Football (NCAA) Nevada at Colorado State 9:00 PM EST ( CBSSN)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57237
-#EXTINF:-1 tvg-id="PPV || Volleyball (NCAA Women) Nebraska at Purdue 9:00 PM EST ( BTN)" tvg-name="PPV || Volleyball (NCAA Women) Nebraska at Purdue 9:00 PM EST ( BTN)"  group-title="EVENTOS PPV",PPV || Volleyball (NCAA Women) Nebraska at Purdue 9:00 PM EST ( BTN)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57238
-#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) Purdue Northwest at Illinois State 9:00 PM EST ( ECE)" tvg-name="PPV || Basketball (NCAA Men) Purdue Northwest at Illinois State 9:00 PM EST ( ECE)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) Purdue Northwest at Illinois State 9:00 PM EST ( ECE)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57239
-#EXTINF:-1 tvg-id="PPV || Hockey (NHL) Winnipeg Jets at Calgary Flames 10:00 PM EST ( NHL)" tvg-name="PPV || Hockey (NHL) Winnipeg Jets at Calgary Flames 10:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) Winnipeg Jets at Calgary Flames 10:00 PM EST ( NHL)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57240
-#EXTINF:-1 tvg-id="PPV || Soccer (Liga MX) Monterrey at Atlas 10:05 PM EST ( TUDN)" tvg-name="PPV || Soccer (Liga MX) Monterrey at Atlas 10:05 PM EST ( TUDN)"  group-title="EVENTOS PPV",PPV || Soccer (Liga MX) Monterrey at Atlas 10:05 PM EST ( TUDN)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57241
-#EXTINF:-1 tvg-id="PPV || Football (NCAA) Brigham Young at USC 10:30 PM EST ( ESPN)" tvg-name="PPV || Football (NCAA) Brigham Young at USC 10:30 PM EST ( ESPN)"  group-title="EVENTOS PPV",PPV || Football (NCAA) Brigham Young at USC 10:30 PM EST ( ESPN)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57242
-#EXTINF:-1 tvg-id="PPV || Football (NCAA) California at UCLA 10:30 PM EST ( FS1)" tvg-name="PPV || Football (NCAA) California at UCLA 10:30 PM EST ( FS1)"  group-title="EVENTOS PPV",PPV || Football (NCAA) California at UCLA 10:30 PM EST ( FS1)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57243
-#EXTINF:-1 tvg-id="PPV || Polaris 18 2:00 PM EST (HD)" tvg-name="PPV || Polaris 18 2:00 PM EST (HD)"  group-title="EVENTOS PPV",PPV || Polaris 18 2:00 PM EST (HD)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57244
-#EXTINF:-1 tvg-id="PPV || Polaris 18 2:00 PM EST (SD)" tvg-name="PPV || Polaris 18 2:00 PM EST (SD)"  group-title="EVENTOS PPV",PPV || Polaris 18 2:00 PM EST (SD)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57245
-#EXTINF:-1 tvg-id="PPV || Triller Fight Club Triad Combat with Metallica 8:00 PM EST (HD)" tvg-name="PPV || Triller Fight Club Triad Combat with Metallica 8:00 PM EST (HD)"  group-title="EVENTOS PPV",PPV || Triller Fight Club Triad Combat with Metallica 8:00 PM EST (HD)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57246
-#EXTINF:-1 tvg-id="PPV || Triller Fight Club Triad Combat with Metallica 8:00 PM EST (SD)" tvg-name="PPV || Triller Fight Club Triad Combat with Metallica 8:00 PM EST (SD)"  group-title="EVENTOS PPV",PPV || Triller Fight Club Triad Combat with Metallica 8:00 PM EST (SD)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57247
-#EXTINF:-1 tvg-id="PPV || Boxing Teofimo Lopez vs George Kambosos 8:00 PM EST (HD)" tvg-name="PPV || Boxing Teofimo Lopez vs George Kambosos 8:00 PM EST (HD)"  group-title="EVENTOS PPV",PPV || Boxing Teofimo Lopez vs George Kambosos 8:00 PM EST (HD)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57248
-#EXTINF:-1 tvg-id="PPV || Boxing Teofimo Lopez vs George Kambosos 8:00 PM EST (ESP)" tvg-name="PPV || Boxing Teofimo Lopez vs George Kambosos 8:00 PM EST (ESP)"  group-title="EVENTOS PPV",PPV || Boxing Teofimo Lopez vs George Kambosos 8:00 PM EST (ESP)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57249
-#EXTINF:-1 tvg-id="PPV || Boxing Teofimo Lopez vs George Kambosos 8:00 PM EST (SD)" tvg-name="PPV || Boxing Teofimo Lopez vs George Kambosos 8:00 PM EST (SD)"  group-title="EVENTOS PPV",PPV || Boxing Teofimo Lopez vs George Kambosos 8:00 PM EST (SD)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57250
-#EXTINF:-1 tvg-id="PPV || Boxing Stephen Fulton vs Brandon Figueroa 10:00 PM EST (HD)" tvg-name="PPV || Boxing Stephen Fulton vs Brandon Figueroa 10:00 PM EST (HD)"  group-title="EVENTOS PPV",PPV || Boxing Stephen Fulton vs Brandon Figueroa 10:00 PM EST (HD)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57251
-#EXTINF:-1 tvg-id="PPV || Boxing Stephen Fulton vs Brandon Figueroa 10:00 PM EST (ESP)" tvg-name="PPV || Boxing Stephen Fulton vs Brandon Figueroa 10:00 PM EST (ESP)"  group-title="EVENTOS PPV",PPV || Boxing Stephen Fulton vs Brandon Figueroa 10:00 PM EST (ESP)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57252
-#EXTINF:-1 tvg-id="PPV || Boxing Stephen Fulton vs Brandon Figueroa 10:00 PM EST (SD)" tvg-name="PPV || Boxing Stephen Fulton vs Brandon Figueroa 10:00 PM EST (SD)"  group-title="EVENTOS PPV",PPV || Boxing Stephen Fulton vs Brandon Figueroa 10:00 PM EST (SD)
-http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57253
+#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Women) Kentucky at Louisville 1:00 PM EST ( ESPN)" tvg-name="PPV || Basketball (NCAA Women) Kentucky at Louisville 1:00 PM EST ( ESPN)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Women) Kentucky at Louisville 1:00 PM EST ( ESPN)
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57654
+#EXTINF:-1 tvg-id="PPV || Soccer (Portugal) Famalicao at SL Benfica 1:00 PM EST ( GOL)" tvg-name="PPV || Soccer (Portugal) Famalicao at SL Benfica 1:00 PM EST ( GOL)"  group-title="EVENTOS PPV",PPV || Soccer (Portugal) Famalicao at SL Benfica 1:00 PM EST ( GOL)
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57655
+#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Women) Florida State at Florida 1:00 PM EST ( SEC)" tvg-name="PPV || Basketball (NCAA Women) Florida State at Florida 1:00 PM EST ( SEC)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Women) Florida State at Florida 1:00 PM EST ( SEC)
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57656
+#EXTINF:-1 tvg-id="PPV || Football (NFL) Baltimore Ravens at Cleveland Browns 1:00 PM EST ( NFL)" tvg-name="PPV || Football (NFL) Baltimore Ravens at Cleveland Browns 1:00 PM EST ( NFL)"  group-title="EVENTOS PPV",PPV || Football (NFL) Baltimore Ravens at Cleveland Browns 1:00 PM EST ( NFL)
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57657
+#EXTINF:-1 tvg-id="PPV || Football (NFL) Las Vegas Raiders at Kansas City Chiefs 1:00 PM EST ( NFL)" tvg-name="PPV || Football (NFL) Las Vegas Raiders at Kansas City Chiefs 1:00 PM EST ( NFL)"  group-title="EVENTOS PPV",PPV || Football (NFL) Las Vegas Raiders at Kansas City Chiefs 1:00 PM EST ( NFL)
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57658
+#EXTINF:-1 tvg-id="PPV || Football (NFL) Dallas Cowboys at Washington Football Team 1:00 PM EST ( NFL)" tvg-name="PPV || Football (NFL) Dallas Cowboys at Washington Football Team 1:00 PM EST ( NFL)"  group-title="EVENTOS PPV",PPV || Football (NFL) Dallas Cowboys at Washington Football Team 1:00 PM EST ( NFL)
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57659
+#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) Virginia Tech at Dayton 2:00 PM EST ( ESPN2)" tvg-name="PPV || Basketball (NCAA Men) Virginia Tech at Dayton 2:00 PM EST ( ESPN2)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) Virginia Tech at Dayton 2:00 PM EST ( ESPN2)
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57660
+#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) Purdue at North Carolina State 2:00 PM EST ( BTN)" tvg-name="PPV || Basketball (NCAA Men) Purdue at North Carolina State 2:00 PM EST ( BTN)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) Purdue at North Carolina State 2:00 PM EST ( BTN)
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57661
+#EXTINF:-1 tvg-id="PPV || Soccer (Serie A) Cagliari at Inter Milan 2:45 PM EST ( CBSSN)" tvg-name="PPV || Soccer (Serie A) Cagliari at Inter Milan 2:45 PM EST ( CBSSN)"  group-title="EVENTOS PPV",PPV || Soccer (Serie A) Cagliari at Inter Milan 2:45 PM EST ( CBSSN)
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57662
+#EXTINF:-1 tvg-id="PPV || Soccer (LaLiga) Real Madrid vs Atletico Madrid 3:00 PM EST ( ESP)" tvg-name="PPV || Soccer (LaLiga) Real Madrid vs Atletico Madrid 3:00 PM EST ( ESP)"  group-title="EVENTOS PPV",PPV || Soccer (LaLiga) Real Madrid vs Atletico Madrid 3:00 PM EST ( ESP)
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57663
+#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Women) Maryland at South Carolina 3:00 PM EST ( ESPN)" tvg-name="PPV || Basketball (NCAA Women) Maryland at South Carolina 3:00 PM EST ( ESPN)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Women) Maryland at South Carolina 3:00 PM EST ( ESPN)
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57664
+#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Women) New Orleans at Auburn 3:00 PM EST ( SEC)" tvg-name="PPV || Basketball (NCAA Women) New Orleans at Auburn 3:00 PM EST ( SEC)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Women) New Orleans at Auburn 3:00 PM EST ( SEC)
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57665
+#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Women) Quincy at Southern Illinois Carbondale 3:00 PM EST ( ECE)" tvg-name="PPV || Basketball (NCAA Women) Quincy at Southern Illinois Carbondale 3:00 PM EST ( ECE)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Women) Quincy at Southern Illinois Carbondale 3:00 PM EST ( ECE)
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57666
+#EXTINF:-1 tvg-id="PPV || Soccer (Portugal) Porto vs. SC Braga 3:30 PM EST ( GOL)" tvg-name="PPV || Soccer (Portugal) Porto vs. SC Braga 3:30 PM EST ( GOL)"  group-title="EVENTOS PPV",PPV || Soccer (Portugal) Porto vs. SC Braga 3:30 PM EST ( GOL)
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57667
+#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) NJ Institute of Technology at Northwestern 4:00 PM EST ( ESPNU)" tvg-name="PPV || Basketball (NCAA Men) NJ Institute of Technology at Northwestern 4:00 PM EST ( ESPNU)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) NJ Institute of Technology at Northwestern 4:00 PM EST ( ESPNU)
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57668
+#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) Kent State at West Virginia 4:00 PM EST ( ESPN2)" tvg-name="PPV || Basketball (NCAA Men) Kent State at West Virginia 4:00 PM EST ( ESPN2)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) Kent State at West Virginia 4:00 PM EST ( ESPN2)
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57669
+#EXTINF:-1 tvg-id="PPV || Football (NFL) New York Giants at Los Angeles Chargers 4:05 PM EST ( NFL)" tvg-name="PPV || Football (NFL) New York Giants at Los Angeles Chargers 4:05 PM EST ( NFL)"  group-title="EVENTOS PPV",PPV || Football (NFL) New York Giants at Los Angeles Chargers 4:05 PM EST ( NFL)
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57670
+#EXTINF:-1 tvg-id="PPV || Football (NFL) San Francisco 49ers at Cincinnati Bengals 4:25 PM EST ( NFL)" tvg-name="PPV || Football (NFL) San Francisco 49ers at Cincinnati Bengals 4:25 PM EST ( NFL)"  group-title="EVENTOS PPV",PPV || Football (NFL) San Francisco 49ers at Cincinnati Bengals 4:25 PM EST ( NFL)
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57671
+#EXTINF:-1 tvg-id="PPV || Football (NFL) Buffalo Bills at Tampa Bay Buccaneers 4:25 PM EST ( NFL)" tvg-name="PPV || Football (NFL) Buffalo Bills at Tampa Bay Buccaneers 4:25 PM EST ( NFL)"  group-title="EVENTOS PPV",PPV || Football (NFL) Buffalo Bills at Tampa Bay Buccaneers 4:25 PM EST ( NFL)
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57672
+#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) Florida at Maryland 4:30 PM EST ( BTN)" tvg-name="PPV || Basketball (NCAA Men) Florida at Maryland 4:30 PM EST ( BTN)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) Florida at Maryland 4:30 PM EST ( BTN)
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57673
+#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Women) Arkansas-Little Rock at Arkansas 5:00 PM EST ( SEC)" tvg-name="PPV || Basketball (NCAA Women) Arkansas-Little Rock at Arkansas 5:00 PM EST ( SEC)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Women) Arkansas-Little Rock at Arkansas 5:00 PM EST ( SEC)
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57675
+#EXTINF:-1 tvg-id="PPV || Basketball (NBA) Brooklyn Nets at Detroit Pistons 6:00 PM EST ( NBA)" tvg-name="PPV || Basketball (NBA) Brooklyn Nets at Detroit Pistons 6:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",PPV || Basketball (NBA) Brooklyn Nets at Detroit Pistons 6:00 PM EST ( NBA)
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57676
+#EXTINF:-1 tvg-id="PPV || Soccer (Ecuador Serie A) Emelec at Independiente del Valle 7:00 PM EST ( GOL)" tvg-name="PPV || Soccer (Ecuador Serie A) Emelec at Independiente del Valle 7:00 PM EST ( GOL)"  group-title="EVENTOS PPV",PPV || Soccer (Ecuador Serie A) Emelec at Independiente del Valle 7:00 PM EST ( GOL)
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57677
+#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Women) Indiana at Ohio State 7:00 PM EST ( BTN)" tvg-name="PPV || Basketball (NCAA Women) Indiana at Ohio State 7:00 PM EST ( BTN)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Women) Indiana at Ohio State 7:00 PM EST ( BTN)
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57678
+#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) Monmouth at Pittsburgh 7:00 PM EST ( ACCN)" tvg-name="PPV || Basketball (NCAA Men) Monmouth at Pittsburgh 7:00 PM EST ( ACCN)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) Monmouth at Pittsburgh 7:00 PM EST ( ACCN)
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57679
+#EXTINF:-1 tvg-id="PPV || Basketball (NBA) Dallas Mavericks at Oklahoma City Thunder 7:00 PM EST ( NBA)" tvg-name="PPV || Basketball (NBA) Dallas Mavericks at Oklahoma City Thunder 7:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",PPV || Basketball (NBA) Dallas Mavericks at Oklahoma City Thunder 7:00 PM EST ( NBA)
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57680
+#EXTINF:-1 tvg-id="PPV || Basketball (NBA) New Orleans Pelicans at San Antonio Spurs 7:00 PM EST ( NBA)" tvg-name="PPV || Basketball (NBA) New Orleans Pelicans at San Antonio Spurs 7:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",PPV || Basketball (NBA) New Orleans Pelicans at San Antonio Spurs 7:00 PM EST ( NBA)
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57681
+#EXTINF:-1 tvg-id="PPV || Hockey (NHL) Nashville Predators at New York Rangers 7:00 PM EST ( NHL)" tvg-name="PPV || Hockey (NHL) Nashville Predators at New York Rangers 7:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) Nashville Predators at New York Rangers 7:00 PM EST ( NHL)
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57682
+#EXTINF:-1 tvg-id="PPV || Hockey (NHL) Anaheim Ducks at St. Louis Blues 7:00 PM EST ( NHL)" tvg-name="PPV || Hockey (NHL) Anaheim Ducks at St. Louis Blues 7:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) Anaheim Ducks at St. Louis Blues 7:00 PM EST ( NHL)
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57683
+#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) Rutgers at Seton Hall 7:30 PM EST ( FS1)" tvg-name="PPV || Basketball (NCAA Men) Rutgers at Seton Hall 7:30 PM EST ( FS1)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) Rutgers at Seton Hall 7:30 PM EST ( FS1)
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57684
+#EXTINF:-1 tvg-id="PPV || Hockey (NHL) Florida Panthers at Colorado Avalanche 8:00 PM EST ( NHL)" tvg-name="PPV || Hockey (NHL) Florida Panthers at Colorado Avalanche 8:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) Florida Panthers at Colorado Avalanche 8:00 PM EST ( NHL)
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57686
+#EXTINF:-1 tvg-id="PPV || Football (NFL) Chicago Bears at Green Bay Packers 8:20 PM EST ( UVSO)" tvg-name="PPV || Football (NFL) Chicago Bears at Green Bay Packers 8:20 PM EST ( UVSO)"  group-title="EVENTOS PPV",PPV || Football (NFL) Chicago Bears at Green Bay Packers 8:20 PM EST ( UVSO)
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57687
+#EXTINF:-1 tvg-id="PPV || Basketball (NBA) Minnesota Timberwolves at Portland Trail Blazers 9:00 PM EST ( NBA)" tvg-name="PPV || Basketball (NBA) Minnesota Timberwolves at Portland Trail Blazers 9:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",PPV || Basketball (NBA) Minnesota Timberwolves at Portland Trail Blazers 9:00 PM EST ( NBA)
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57688
+#EXTINF:-1 tvg-id="PPV || Hockey (NHL) Minnesota Wild at Vegas Golden Knights 9:00 PM EST ( NHL)" tvg-name="PPV || Hockey (NHL) Minnesota Wild at Vegas Golden Knights 9:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) Minnesota Wild at Vegas Golden Knights 9:00 PM EST ( NHL)
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57689
+#EXTINF:-1 tvg-id="PPV || Soccer (Liga MX) Leon at Atlas 9:15 PM EST ( UNIe)" tvg-name="PPV || Soccer (Liga MX) Leon at Atlas 9:15 PM EST ( UNIe)"  group-title="EVENTOS PPV",PPV || Soccer (Liga MX) Leon at Atlas 9:15 PM EST ( UNIe)
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57690
+#EXTINF:-1 tvg-id="PPV || Basketball (NBA) Orlando Magic at Los Angeles Lakers 9:30 PM EST ( NBA)" tvg-name="PPV || Basketball (NBA) Orlando Magic at Los Angeles Lakers 9:30 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",PPV || Basketball (NBA) Orlando Magic at Los Angeles Lakers 9:30 PM EST ( NBA)
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57691
+#EXTINF:-1 tvg-id="PPV || Hockey (NHL) Carolina Hurricanes at Vancouver Canucks 10:00 PM EST ( NHL)" tvg-name="PPV || Hockey (NHL) Carolina Hurricanes at Vancouver Canucks 10:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) Carolina Hurricanes at Vancouver Canucks 10:00 PM EST ( NHL)
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57692
+#EXTINF:-1 tvg-id="PPV || Martial Arts Copa Combate 11:30 PM EST ( UNIe)" tvg-name="PPV || Martial Arts Copa Combate 11:30 PM EST ( UNIe)"  group-title="EVENTOS PPV",PPV || Martial Arts Copa Combate 11:30 PM EST ( UNIe)
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57693
+#EXTINF:-1 tvg-id="PPV || Dallas Cowboys vs Washington Football Team (SD) 1:00pm" tvg-name="PPV || Dallas Cowboys vs Washington Football Team (SD) 1:00pm"  group-title="EVENTOS PPV",PPV || Dallas Cowboys vs Washington Football Team (SD) 1:00pm
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57694
+#EXTINF:-1 tvg-id="PPV || Jacksonville Jaguars vs Tennessee Titans (HD) 1:00pm" tvg-name="PPV || Jacksonville Jaguars vs Tennessee Titans (HD) 1:00pm"  group-title="EVENTOS PPV",PPV || Jacksonville Jaguars vs Tennessee Titans (HD) 1:00pm
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57695
+#EXTINF:-1 tvg-id="PPV || Jacksonville Jaguars vs Tennessee Titans (SD) 1:00pm" tvg-name="PPV || Jacksonville Jaguars vs Tennessee Titans (SD) 1:00pm"  group-title="EVENTOS PPV",PPV || Jacksonville Jaguars vs Tennessee Titans (SD) 1:00pm
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57696
+#EXTINF:-1 tvg-id="PPV || Seattle Seahawks vs Houston Texans (SD) 1:00pm" tvg-name="PPV || Seattle Seahawks vs Houston Texans (SD) 1:00pm"  group-title="EVENTOS PPV",PPV || Seattle Seahawks vs Houston Texans (SD) 1:00pm
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57697
+#EXTINF:-1 tvg-id="PPV || Las Vegas Raiders vs Kansas City Chiefs (SD) 1:00pm" tvg-name="PPV || Las Vegas Raiders vs Kansas City Chiefs (SD) 1:00pm"  group-title="EVENTOS PPV",PPV || Las Vegas Raiders vs Kansas City Chiefs (SD) 1:00pm
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57698
+#EXTINF:-1 tvg-id="PPV || New Orleans Saints vs New York Jets (SD) 1:00pm" tvg-name="PPV || New Orleans Saints vs New York Jets (SD) 1:00pm"  group-title="EVENTOS PPV",PPV || New Orleans Saints vs New York Jets (SD) 1:00pm
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57699
+#EXTINF:-1 tvg-id="PPV || Atlanta Falcons vs Carolina Panthers (SD) 1:00pm" tvg-name="PPV || Atlanta Falcons vs Carolina Panthers (SD) 1:00pm"  group-title="EVENTOS PPV",PPV || Atlanta Falcons vs Carolina Panthers (SD) 1:00pm
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57700
+#EXTINF:-1 tvg-id="PPV || Baltimore Ravens vs Cleveland Browns (SD) 1:00pm" tvg-name="PPV || Baltimore Ravens vs Cleveland Browns (SD) 1:00pm"  group-title="EVENTOS PPV",PPV || Baltimore Ravens vs Cleveland Browns (SD) 1:00pm
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57701
+#EXTINF:-1 tvg-id="PPV || New York Giants vs Los Angeles Chargers (SD) 4:05pm" tvg-name="PPV || New York Giants vs Los Angeles Chargers (SD) 4:05pm"  group-title="EVENTOS PPV",PPV || New York Giants vs Los Angeles Chargers (SD) 4:05pm
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57702
+#EXTINF:-1 tvg-id="PPV || Detroit Lions vs Denver Broncos (HD) 4:05pm" tvg-name="PPV || Detroit Lions vs Denver Broncos (HD) 4:05pm"  group-title="EVENTOS PPV",PPV || Detroit Lions vs Denver Broncos (HD) 4:05pm
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57703
+#EXTINF:-1 tvg-id="PPV || San Francisco 49ers vs Cincinnati Bengals (SD) 4:25pm" tvg-name="PPV || San Francisco 49ers vs Cincinnati Bengals (SD) 4:25pm"  group-title="EVENTOS PPV",PPV || San Francisco 49ers vs Cincinnati Bengals (SD) 4:25pm
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57704
+#EXTINF:-1 tvg-id="PPV || Buffalo Bills vs Tampa Bay Buccaneers (SD) 4:25pm" tvg-name="PPV || Buffalo Bills vs Tampa Bay Buccaneers (SD) 4:25pm"  group-title="EVENTOS PPV",PPV || Buffalo Bills vs Tampa Bay Buccaneers (SD) 4:25pm
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57705
+#EXTINF:-1 tvg-id="PPV || Chicago Bears vs Green Bay Packers (SD) 8:20pm" tvg-name="PPV || Chicago Bears vs Green Bay Packers (SD) 8:20pm"  group-title="EVENTOS PPV",PPV || Chicago Bears vs Green Bay Packers (SD) 8:20pm
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57706
+#EXTINF:-1 tvg-id="PPV || Chael Sonnen's SUG 29 6:00 PM EST (HD)" tvg-name="PPV || Chael Sonnen's SUG 29 6:00 PM EST (HD)"  group-title="EVENTOS PPV",PPV || Chael Sonnen's SUG 29 6:00 PM EST (HD)
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57707
+#EXTINF:-1 tvg-id="PPV || Chael Sonnen's SUG 29 6:00 PM EST (SD)" tvg-name="PPV || Chael Sonnen's SUG 29 6:00 PM EST (SD)"  group-title="EVENTOS PPV",PPV || Chael Sonnen's SUG 29 6:00 PM EST (SD)
+http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/57708
 #EXTINF:-1 tvg-id="GUA Canal 4" tvg-name="GUA VEA CANAL" group-title="GUATEMALA",GUA VEA CANAL
 http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/2597
 #EXTINF:-1 tvg-id="GUA CANAL 11" tvg-name="GUA CANAL 11" group-title="GUATEMALA",GUA CANAL 11
@@ -3675,7 +3675,7 @@ http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/2211
 http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/47183
 #EXTINF:-1 tvg-id="USA TRAVEL CHANNEL" tvg-name="USA TRAVEL CHANNEL" tvg-logo="" group-title="USA",USA TRAVEL CHANNEL
 http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/2204
-#EXTINF:-1 tvg-id="USA TRU TV" tvg-name="USA TRU TV" tvg-logo="https://pbs.twimg.com/profile_images/783396433022058496/Du8u4Xxe_400x400.jpg" group-title="USA",USA TRU TV
+#EXTINF:-1 tvg-id="USA TRU TV" tvg-name="USA TRU TV" tvg-logo="http://xdgo.live:8080/images/cc2cf543520ba75e55b88223b529e5cd.jpg" group-title="USA",USA TRU TV
 http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/2203
 #EXTINF:-1 tvg-id="USA USA NETWORK" tvg-name="USA USA NETWORK" tvg-logo="" group-title="USA",USA USA NETWORK
 http://xdgo.live:8080/49_vAngelapaisa_d/Ppv9GFEHxD/22264
@@ -11281,7 +11281,7 @@ http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/21948.mkv
 http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/21949.mkv
 #EXTINF:-1 tvg-id="El gigante de hierro (1999)" tvg-name="El gigante de hierro (1999)" tvg-logo="http://xdgo.live:8080/images/48ad04cbd5d3186eb83ee662c134c05d.jpg" group-title="VFLIX INFANTILES",El gigante de hierro (1999)
 http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/21950.mkv
-#EXTINF:-1 tvg-id="El Grinch (2018)" tvg-name="El Grinch (2018)" tvg-logo="http://xdgo.live:8080/images/aa620d223d908ca191700be4b1000894.jpg" group-title="VFLIX INFANTILES",El Grinch (2018)
+#EXTINF:-1 tvg-id="El Grinch (2000)" tvg-name="El Grinch (2000)" tvg-logo="http://xdgo.live:8080/images/dce09bdd3af01ad410d9c7fe6dd979f1.jpg" group-title="VFLIX INFANTILES",El Grinch (2000)
 http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/21951.mkv
 #EXTINF:-1 tvg-id="El libro de la selva (1967)" tvg-name="El libro de la selva (1967)" tvg-logo="http://xdgo.live:8080/images/ceb0d1f26060edbad5877e641dfcf873.jpg" group-title="VFLIX INFANTILES",El libro de la selva (1967)
 http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/21952.mkv
@@ -19521,92 +19521,102 @@ http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/6995.mkv
 http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/6996.mkv
 #EXTINF:-1 tvg-id="Jinn S01 E05" tvg-name="Jinn S01 E05"  group-title="SERIES DRAMA",Jinn S01 E05
 http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/6997.mkv
-#EXTINF:-1 tvg-id="La casa de papel S01 E01" tvg-name="La casa de papel S01 E01"  group-title="SERIES DRAMA",La casa de papel S01 E01
-http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/7095.mkv
-#EXTINF:-1 tvg-id="La casa de papel S01 E02" tvg-name="La casa de papel S01 E02"  group-title="SERIES DRAMA",La casa de papel S01 E02
-http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/7094.mkv
-#EXTINF:-1 tvg-id="La casa de papel S01 E03" tvg-name="La casa de papel S01 E03"  group-title="SERIES DRAMA",La casa de papel S01 E03
+#EXTINF:-1 tvg-id="La Casa de Papel S01 E01" tvg-name="La Casa de Papel S01 E01"  group-title="SERIES DRAMA",La Casa de Papel S01 E01
 http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/7106.mkv
-#EXTINF:-1 tvg-id="La casa de papel S01 E04" tvg-name="La casa de papel S01 E04"  group-title="SERIES DRAMA",La casa de papel S01 E04
+#EXTINF:-1 tvg-id="La Casa de Papel S01 E02" tvg-name="La Casa de Papel S01 E02"  group-title="SERIES DRAMA",La Casa de Papel S01 E02
+http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/7094.mkv
+#EXTINF:-1 tvg-id="La Casa de Papel S01 E03" tvg-name="La Casa de Papel S01 E03"  group-title="SERIES DRAMA",La Casa de Papel S01 E03
 http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/7105.mkv
-#EXTINF:-1 tvg-id="La casa de papel S01 E05" tvg-name="La casa de papel S01 E05"  group-title="SERIES DRAMA",La casa de papel S01 E05
+#EXTINF:-1 tvg-id="La Casa de Papel S01 E04" tvg-name="La Casa de Papel S01 E04"  group-title="SERIES DRAMA",La Casa de Papel S01 E04
 http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/7104.mkv
-#EXTINF:-1 tvg-id="La casa de papel S01 E06" tvg-name="La casa de papel S01 E06"  group-title="SERIES DRAMA",La casa de papel S01 E06
+#EXTINF:-1 tvg-id="La Casa de Papel S01 E05" tvg-name="La Casa de Papel S01 E05"  group-title="SERIES DRAMA",La Casa de Papel S01 E05
 http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/7103.mkv
-#EXTINF:-1 tvg-id="La casa de papel S01 E07" tvg-name="La casa de papel S01 E07"  group-title="SERIES DRAMA",La casa de papel S01 E07
+#EXTINF:-1 tvg-id="La Casa de Papel S01 E06" tvg-name="La Casa de Papel S01 E06"  group-title="SERIES DRAMA",La Casa de Papel S01 E06
 http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/7102.mkv
-#EXTINF:-1 tvg-id="La casa de papel S01 E08" tvg-name="La casa de papel S01 E08"  group-title="SERIES DRAMA",La casa de papel S01 E08
+#EXTINF:-1 tvg-id="La Casa de Papel S01 E07" tvg-name="La Casa de Papel S01 E07"  group-title="SERIES DRAMA",La Casa de Papel S01 E07
 http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/7101.mkv
-#EXTINF:-1 tvg-id="La casa de papel S01 E09" tvg-name="La casa de papel S01 E09"  group-title="SERIES DRAMA",La casa de papel S01 E09
-http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/7100.mkv
-#EXTINF:-1 tvg-id="La casa de papel S01 E10" tvg-name="La casa de papel S01 E10"  group-title="SERIES DRAMA",La casa de papel S01 E10
+#EXTINF:-1 tvg-id="La Casa de Papel S01 E08" tvg-name="La Casa de Papel S01 E08"  group-title="SERIES DRAMA",La Casa de Papel S01 E08
 http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/7099.mkv
-#EXTINF:-1 tvg-id="La casa de papel S01 E11" tvg-name="La casa de papel S01 E11"  group-title="SERIES DRAMA",La casa de papel S01 E11
-http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/7098.mkv
-#EXTINF:-1 tvg-id="La casa de papel S01 E12" tvg-name="La casa de papel S01 E12"  group-title="SERIES DRAMA",La casa de papel S01 E12
-http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/7097.mkv
-#EXTINF:-1 tvg-id="La casa de papel S01 E13" tvg-name="La casa de papel S01 E13"  group-title="SERIES DRAMA",La casa de papel S01 E13
+#EXTINF:-1 tvg-id="La Casa de Papel S01 E09" tvg-name="La Casa de Papel S01 E09"  group-title="SERIES DRAMA",La Casa de Papel S01 E09
+http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/7095.mkv
+#EXTINF:-1 tvg-id="La Casa de Papel S01 E10" tvg-name="La Casa de Papel S01 E10"  group-title="SERIES DRAMA",La Casa de Papel S01 E10
 http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/7096.mkv
-#EXTINF:-1 tvg-id="La casa de papel S02 E01" tvg-name="La casa de papel S02 E01"  group-title="SERIES DRAMA",La casa de papel S02 E01
-http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/7115.mkv
-#EXTINF:-1 tvg-id="La casa de papel S02 E02" tvg-name="La casa de papel S02 E02"  group-title="SERIES DRAMA",La casa de papel S02 E02
-http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/7114.mkv
-#EXTINF:-1 tvg-id="La casa de papel S02 E03" tvg-name="La casa de papel S02 E03"  group-title="SERIES DRAMA",La casa de papel S02 E03
-http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/7113.mkv
-#EXTINF:-1 tvg-id="La casa de papel S02 E04" tvg-name="La casa de papel S02 E04"  group-title="SERIES DRAMA",La casa de papel S02 E04
-http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/7112.mkv
-#EXTINF:-1 tvg-id="La casa de papel S02 E05" tvg-name="La casa de papel S02 E05"  group-title="SERIES DRAMA",La casa de papel S02 E05
-http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/7110.mkv
-#EXTINF:-1 tvg-id="La casa de papel S02 E06" tvg-name="La casa de papel S02 E06"  group-title="SERIES DRAMA",La casa de papel S02 E06
-http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/7109.mkv
-#EXTINF:-1 tvg-id="La casa de papel S02 E07" tvg-name="La casa de papel S02 E07"  group-title="SERIES DRAMA",La casa de papel S02 E07
-http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/7108.mkv
-#EXTINF:-1 tvg-id="La casa de papel S02 E08" tvg-name="La casa de papel S02 E08"  group-title="SERIES DRAMA",La casa de papel S02 E08
+#EXTINF:-1 tvg-id="La Casa de Papel S01 E11" tvg-name="La Casa de Papel S01 E11"  group-title="SERIES DRAMA",La Casa de Papel S01 E11
+http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/7097.mkv
+#EXTINF:-1 tvg-id="La Casa de Papel S01 E12" tvg-name="La Casa de Papel S01 E12"  group-title="SERIES DRAMA",La Casa de Papel S01 E12
+http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/7098.mkv
+#EXTINF:-1 tvg-id="La Casa de Papel S01 E13" tvg-name="La Casa de Papel S01 E13"  group-title="SERIES DRAMA",La Casa de Papel S01 E13
+http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/7100.mkv
+#EXTINF:-1 tvg-id="La Casa de Papel S02 E01" tvg-name="La Casa de Papel S02 E01"  group-title="SERIES DRAMA",La Casa de Papel S02 E01
 http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/7107.mkv
-#EXTINF:-1 tvg-id="La casa de papel S02 E09" tvg-name="La casa de papel S02 E09"  group-title="SERIES DRAMA",La casa de papel S02 E09
+#EXTINF:-1 tvg-id="La Casa de Papel S02 E02" tvg-name="La Casa de Papel S02 E02"  group-title="SERIES DRAMA",La Casa de Papel S02 E02
+http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/7108.mkv
+#EXTINF:-1 tvg-id="La Casa de Papel S02 E03" tvg-name="La Casa de Papel S02 E03"  group-title="SERIES DRAMA",La Casa de Papel S02 E03
+http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/7109.mkv
+#EXTINF:-1 tvg-id="La Casa de Papel S02 E04" tvg-name="La Casa de Papel S02 E04"  group-title="SERIES DRAMA",La Casa de Papel S02 E04
+http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/7110.mkv
+#EXTINF:-1 tvg-id="La Casa de Papel S02 E05" tvg-name="La Casa de Papel S02 E05"  group-title="SERIES DRAMA",La Casa de Papel S02 E05
 http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/7111.mkv
-#EXTINF:-1 tvg-id="La casa de papel S03 E01" tvg-name="La casa de papel S03 E01"  group-title="SERIES DRAMA",La casa de papel S03 E01
+#EXTINF:-1 tvg-id="La Casa de Papel S02 E06" tvg-name="La Casa de Papel S02 E06"  group-title="SERIES DRAMA",La Casa de Papel S02 E06
+http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/7112.mkv
+#EXTINF:-1 tvg-id="La Casa de Papel S02 E07" tvg-name="La Casa de Papel S02 E07"  group-title="SERIES DRAMA",La Casa de Papel S02 E07
+http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/7113.mkv
+#EXTINF:-1 tvg-id="La Casa de Papel S02 E08" tvg-name="La Casa de Papel S02 E08"  group-title="SERIES DRAMA",La Casa de Papel S02 E08
+http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/7114.mkv
+#EXTINF:-1 tvg-id="La Casa de Papel S02 E09" tvg-name="La Casa de Papel S02 E09"  group-title="SERIES DRAMA",La Casa de Papel S02 E09
+http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/7115.mkv
+#EXTINF:-1 tvg-id="La Casa de Papel S03 E01" tvg-name="La Casa de Papel S03 E01"  group-title="SERIES DRAMA",La Casa de Papel S03 E01
 http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/21273.mkv
-#EXTINF:-1 tvg-id="La casa de papel S03 E02" tvg-name="La casa de papel S03 E02"  group-title="SERIES DRAMA",La casa de papel S03 E02
+#EXTINF:-1 tvg-id="La Casa de Papel S03 E02" tvg-name="La Casa de Papel S03 E02"  group-title="SERIES DRAMA",La Casa de Papel S03 E02
 http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/21274.mkv
-#EXTINF:-1 tvg-id="La casa de papel S03 E03" tvg-name="La casa de papel S03 E03"  group-title="SERIES DRAMA",La casa de papel S03 E03
+#EXTINF:-1 tvg-id="La Casa de Papel S03 E03" tvg-name="La Casa de Papel S03 E03"  group-title="SERIES DRAMA",La Casa de Papel S03 E03
 http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/21275.mkv
-#EXTINF:-1 tvg-id="La casa de papel S03 E04" tvg-name="La casa de papel S03 E04"  group-title="SERIES DRAMA",La casa de papel S03 E04
+#EXTINF:-1 tvg-id="La Casa de Papel S03 E04" tvg-name="La Casa de Papel S03 E04"  group-title="SERIES DRAMA",La Casa de Papel S03 E04
 http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/21276.mkv
-#EXTINF:-1 tvg-id="La casa de papel S03 E05" tvg-name="La casa de papel S03 E05"  group-title="SERIES DRAMA",La casa de papel S03 E05
+#EXTINF:-1 tvg-id="La Casa de Papel S03 E05" tvg-name="La Casa de Papel S03 E05"  group-title="SERIES DRAMA",La Casa de Papel S03 E05
 http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/21277.mkv
-#EXTINF:-1 tvg-id="La casa de papel S03 E06" tvg-name="La casa de papel S03 E06"  group-title="SERIES DRAMA",La casa de papel S03 E06
+#EXTINF:-1 tvg-id="La Casa de Papel S03 E06" tvg-name="La Casa de Papel S03 E06"  group-title="SERIES DRAMA",La Casa de Papel S03 E06
 http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/21278.mkv
-#EXTINF:-1 tvg-id="La casa de papel S03 E07" tvg-name="La casa de papel S03 E07"  group-title="SERIES DRAMA",La casa de papel S03 E07
+#EXTINF:-1 tvg-id="La Casa de Papel S03 E07" tvg-name="La Casa de Papel S03 E07"  group-title="SERIES DRAMA",La Casa de Papel S03 E07
 http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/21279.mkv
-#EXTINF:-1 tvg-id="La casa de papel S03 E08" tvg-name="La casa de papel S03 E08"  group-title="SERIES DRAMA",La casa de papel S03 E08
+#EXTINF:-1 tvg-id="La Casa de Papel S03 E08" tvg-name="La Casa de Papel S03 E08"  group-title="SERIES DRAMA",La Casa de Papel S03 E08
 http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/21280.mkv
-#EXTINF:-1 tvg-id="La casa de papel S04 E01" tvg-name="La casa de papel S04 E01"  group-title="SERIES DRAMA",La casa de papel S04 E01
+#EXTINF:-1 tvg-id="La Casa de Papel S04 E01" tvg-name="La Casa de Papel S04 E01"  group-title="SERIES DRAMA",La Casa de Papel S04 E01
 http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/27186.mkv
-#EXTINF:-1 tvg-id="La casa de papel S04 E02" tvg-name="La casa de papel S04 E02"  group-title="SERIES DRAMA",La casa de papel S04 E02
+#EXTINF:-1 tvg-id="La Casa de Papel S04 E02" tvg-name="La Casa de Papel S04 E02"  group-title="SERIES DRAMA",La Casa de Papel S04 E02
 http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/27187.mkv
-#EXTINF:-1 tvg-id="La casa de papel S04 E03" tvg-name="La casa de papel S04 E03"  group-title="SERIES DRAMA",La casa de papel S04 E03
+#EXTINF:-1 tvg-id="La Casa de Papel S04 E03" tvg-name="La Casa de Papel S04 E03"  group-title="SERIES DRAMA",La Casa de Papel S04 E03
 http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/27188.mkv
-#EXTINF:-1 tvg-id="La casa de papel S04 E04" tvg-name="La casa de papel S04 E04"  group-title="SERIES DRAMA",La casa de papel S04 E04
+#EXTINF:-1 tvg-id="La Casa de Papel S04 E04" tvg-name="La Casa de Papel S04 E04"  group-title="SERIES DRAMA",La Casa de Papel S04 E04
 http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/27189.mkv
-#EXTINF:-1 tvg-id="La casa de papel S04 E05" tvg-name="La casa de papel S04 E05"  group-title="SERIES DRAMA",La casa de papel S04 E05
+#EXTINF:-1 tvg-id="La Casa de Papel S04 E05" tvg-name="La Casa de Papel S04 E05"  group-title="SERIES DRAMA",La Casa de Papel S04 E05
 http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/27190.mkv
-#EXTINF:-1 tvg-id="La casa de papel S04 E06" tvg-name="La casa de papel S04 E06"  group-title="SERIES DRAMA",La casa de papel S04 E06
+#EXTINF:-1 tvg-id="La Casa de Papel S04 E06" tvg-name="La Casa de Papel S04 E06"  group-title="SERIES DRAMA",La Casa de Papel S04 E06
 http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/27191.mkv
-#EXTINF:-1 tvg-id="La casa de papel S04 E07" tvg-name="La casa de papel S04 E07"  group-title="SERIES DRAMA",La casa de papel S04 E07
+#EXTINF:-1 tvg-id="La Casa de Papel S04 E07" tvg-name="La Casa de Papel S04 E07"  group-title="SERIES DRAMA",La Casa de Papel S04 E07
 http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/27192.mkv
-#EXTINF:-1 tvg-id="La casa de papel S04 E08" tvg-name="La casa de papel S04 E08"  group-title="SERIES DRAMA",La casa de papel S04 E08
+#EXTINF:-1 tvg-id="La Casa de Papel S04 E08" tvg-name="La Casa de Papel S04 E08"  group-title="SERIES DRAMA",La Casa de Papel S04 E08
 http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/27193.mkv
-#EXTINF:-1 tvg-id="La casa de papel S05 E01" tvg-name="La casa de papel S05 E01"  group-title="SERIES DRAMA",La casa de papel S05 E01
+#EXTINF:-1 tvg-id="La Casa de Papel S05 E01" tvg-name="La Casa de Papel S05 E01"  group-title="SERIES DRAMA",La Casa de Papel S05 E01
 http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/52778.mkv
-#EXTINF:-1 tvg-id="La casa de papel S05 E02" tvg-name="La casa de papel S05 E02"  group-title="SERIES DRAMA",La casa de papel S05 E02
+#EXTINF:-1 tvg-id="La Casa de Papel S05 E02" tvg-name="La Casa de Papel S05 E02"  group-title="SERIES DRAMA",La Casa de Papel S05 E02
 http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/52779.mkv
-#EXTINF:-1 tvg-id="La casa de papel S05 E03" tvg-name="La casa de papel S05 E03"  group-title="SERIES DRAMA",La casa de papel S05 E03
+#EXTINF:-1 tvg-id="La Casa de Papel S05 E03" tvg-name="La Casa de Papel S05 E03"  group-title="SERIES DRAMA",La Casa de Papel S05 E03
 http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/52780.mkv
-#EXTINF:-1 tvg-id="La casa de papel S05 E04" tvg-name="La casa de papel S05 E04"  group-title="SERIES DRAMA",La casa de papel S05 E04
+#EXTINF:-1 tvg-id="La Casa de Papel S05 E04" tvg-name="La Casa de Papel S05 E04"  group-title="SERIES DRAMA",La Casa de Papel S05 E04
 http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/52781.mkv
-#EXTINF:-1 tvg-id="La casa de papel S05 E05" tvg-name="La casa de papel S05 E05"  group-title="SERIES DRAMA",La casa de papel S05 E05
+#EXTINF:-1 tvg-id="La Casa de Papel S05 E05" tvg-name="La Casa de Papel S05 E05"  group-title="SERIES DRAMA",La Casa de Papel S05 E05
 http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/52782.mkv
+#EXTINF:-1 tvg-id="La Casa de Papel S05 E06" tvg-name="La Casa de Papel S05 E06"  group-title="SERIES DRAMA",La Casa de Papel S05 E06
+http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/57394.mkv
+#EXTINF:-1 tvg-id="La Casa de Papel S05 E07" tvg-name="La Casa de Papel S05 E07"  group-title="SERIES DRAMA",La Casa de Papel S05 E07
+http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/57395.mkv
+#EXTINF:-1 tvg-id="La Casa de Papel S05 E08" tvg-name="La Casa de Papel S05 E08"  group-title="SERIES DRAMA",La Casa de Papel S05 E08
+http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/57396.mkv
+#EXTINF:-1 tvg-id="La Casa de Papel S05 E09" tvg-name="La Casa de Papel S05 E09"  group-title="SERIES DRAMA",La Casa de Papel S05 E09
+http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/57397.mkv
+#EXTINF:-1 tvg-id="La Casa de Papel S05 E10" tvg-name="La Casa de Papel S05 E10"  group-title="SERIES DRAMA",La Casa de Papel S05 E10
+http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/57398.mkv
 #EXTINF:-1 tvg-id="La Purga S01 E01" tvg-name="La Purga S01 E01"  group-title="SERIES DRAMA",La Purga S01 E01
 http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/7126.mp4
 #EXTINF:-1 tvg-id="La Purga S01 E02" tvg-name="La Purga S01 E02"  group-title="SERIES DRAMA",La Purga S01 E02
@@ -31271,6 +31281,82 @@ http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/41776.mkv
 http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/42114.mkv
 #EXTINF:-1 tvg-id="WandaVision S01 E09" tvg-name="WandaVision S01 E09"  group-title="WANDAVISION",WandaVision S01 E09
 http://xdgo.live:8080/series/49_vAngelapaisa_d/Ppv9GFEHxD/42412.mkv
+#EXTINF:-1 tvg-id="Anónima (2021)" tvg-name="Anónima (2021)" tvg-logo="http://xdgo.live:8080/images/ab42ab963725c24bc82ba0bee92b49e7.jpg" group-title="VFLIX ESTRENOS",Anónima (2021)
+http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/57574.mkv
+#EXTINF:-1 tvg-id="El chico de Asakusa (2021)" tvg-name="El chico de Asakusa (2021)" tvg-logo="http://xdgo.live:8080/images/9d672d8098199937781d546a73d1b1d6.jpg" group-title="VFLIX ESTRENOS",El chico de Asakusa (2021)
+http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/57575.mkv
+#EXTINF:-1 tvg-id="Azor (2021)" tvg-name="Azor (2021)" tvg-logo="http://xdgo.live:8080/images/b9f37fd3e2c432a912cc4829e34bb0da.jpg" group-title="VFLIX ESTRENOS",Azor (2021)
+http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/57576.mkv
+#EXTINF:-1 tvg-id="¡Nos Volvemos a Casa! (2021)" tvg-name="¡Nos Volvemos a Casa! (2021)" tvg-logo="http://xdgo.live:8080/images/3b7e92f9026815d7c84c45cf7de1b92d.jpg" group-title="VFLIX ESTRENOS",¡Nos Volvemos a Casa! (2021)
+http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/57577.mkv
+#EXTINF:-1 tvg-id="David y los Elfos (2021)" tvg-name="David y los Elfos (2021)" tvg-logo="http://xdgo.live:8080/images/12e49fd8eb1791426ed8fc63c9b3f0f7.jpg" group-title="VFLIX ESTRENOS",David y los Elfos (2021)
+http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/57578.mkv
+#EXTINF:-1 tvg-id="Encounter (2021)" tvg-name="Encounter (2021)" tvg-logo="http://xdgo.live:8080/images/5d6b23b6d62bb8983a329d4de6ad9f56.jpg" group-title="VFLIX ESTRENOS",Encounter (2021)
+http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/57579.mkv
+#EXTINF:-1 tvg-id="Mickey and Minnie Wish Upon a Christmas (2021)" tvg-name="Mickey and Minnie Wish Upon a Christmas (2021)" tvg-logo="http://xdgo.live:8080/images/af90de73a7f8171d612b2e2f82b533ad.jpg" group-title="VFLIX ESTRENOS",Mickey and Minnie Wish Upon a Christmas (2021)
+http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/57580.mkv
+#EXTINF:-1 tvg-id="Phobias (2021)" tvg-name="Phobias (2021)" tvg-logo="http://xdgo.live:8080/images/e828a460e7537fd1544abb278e11c3fa.jpg" group-title="VFLIX ESTRENOS",Phobias (2021)
+http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/57581.mkv
+#EXTINF:-1 tvg-id="Shithouse (2020)" tvg-name="Shithouse (2020)" tvg-logo="http://xdgo.live:8080/images/ff56ce43b38bd1bd96823ebe5dd08c38.jpg" group-title="VFLIX ESTRENOS",Shithouse (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/57582.mkv
+#EXTINF:-1 tvg-id="South Park: Post Covid (2021)" tvg-name="South Park: Post Covid (2021)" tvg-logo="http://xdgo.live:8080/images/cee99cbbeccfc3b15ab3f0847b741175.jpg" group-title="VFLIX ESTRENOS",South Park: Post Covid (2021)
+http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/57583.mkv
+#EXTINF:-1 tvg-id="En un momento aún mejor (2021)" tvg-name="En un momento aún mejor (2021)" tvg-logo="http://xdgo.live:8080/images/1cd7b7d02e0b9ef3a9f1959e8329074d.jpg" group-title="VFLIX ESTRENOS",En un momento aún mejor (2021)
+http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/57584.mkv
+#EXTINF:-1 tvg-id="Imperdonable (2021)" tvg-name="Imperdonable (2021)" tvg-logo="http://xdgo.live:8080/images/f688a80ab77ad0cd78800af54e1ca829.jpg" group-title="VFLIX ESTRENOS",Imperdonable (2021)
+http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/57585.mkv
+#EXTINF:-1 tvg-id="Witch Hunt (2021)" tvg-name="Witch Hunt (2021)" tvg-logo="http://xdgo.live:8080/images/33157239b5eddef6b1c7a3018e1833b8.jpg" group-title="VFLIX ESTRENOS",Witch Hunt (2021)
+http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/57586.mkv
+#EXTINF:-1 tvg-id="Bordertown: Murales de sangre (2021)" tvg-name="Bordertown: Murales de sangre (2021)" tvg-logo="http://xdgo.live:8080/images/a94a2bbb1c85ca0ae571bf7e9d0aa283.jpg" group-title="VFLIX ESTRENOS",Bordertown: Murales de sangre (2021)
+http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/57525.mkv
+#EXTINF:-1 tvg-id="Christmas ...Again?! (2021)" tvg-name="Christmas ...Again?! (2021)" tvg-logo="http://xdgo.live:8080/images/dd8bb61b4d50bcb07cd01949625c9594.jpg" group-title="VFLIX ESTRENOS",Christmas ...Again?! (2021)
+http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/57526.mkv
+#EXTINF:-1 tvg-id="El Diario de Greg (2021)" tvg-name="El Diario de Greg (2021)" tvg-logo="http://xdgo.live:8080/images/4db1034808aa3eb4fabde648938d91a4.jpg" group-title="VFLIX ESTRENOS",El Diario de Greg (2021)
+http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/57527.mkv
+#EXTINF:-1 tvg-id="Elyse (2020)" tvg-name="Elyse (2020)" tvg-logo="http://xdgo.live:8080/images/2acd962ca8c3e5903a01d0079d7a3573.jpg" group-title="VFLIX ESTRENOS",Elyse (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/57528.mkv
+#EXTINF:-1 tvg-id="La Serpiente Blanca 2 (2021)" tvg-name="La Serpiente Blanca 2 (2021)" tvg-logo="http://xdgo.live:8080/images/9502fcafe9a68be555f43e786a168a1d.jpg" group-title="VFLIX ESTRENOS",La Serpiente Blanca 2 (2021)
+http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/57529.mkv
+#EXTINF:-1 tvg-id="Last Shoot Out (2021)" tvg-name="Last Shoot Out (2021)" tvg-logo="http://xdgo.live:8080/images/ece0a46a2328452f721136593e0d8bef.jpg" group-title="VFLIX ESTRENOS",Last Shoot Out (2021)
+http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/57530.mkv
+#EXTINF:-1 tvg-id="La cinta de música (2021)" tvg-name="La cinta de música (2021)" tvg-logo="http://xdgo.live:8080/images/75f85f335495c14867fbe0e5f34c39cd.jpg" group-title="VFLIX ESTRENOS",La cinta de música (2021)
+http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/57531.mkv
+#EXTINF:-1 tvg-id="Shaun el cordero: El vuelo antes de Navidad (2021)" tvg-name="Shaun el cordero: El vuelo antes de Navidad (2021)" tvg-logo="http://xdgo.live:8080/images/00765214c567f2db241f74ec9b2be07a.jpg" group-title="VFLIX ESTRENOS",Shaun el cordero: El vuelo antes de Navidad (2021)
+http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/57532.mkv
+#EXTINF:-1 tvg-id="Silent Night (2021)" tvg-name="Silent Night (2021)" tvg-logo="http://xdgo.live:8080/images/80775531d602516b2f21a6662237b343.jpg" group-title="VFLIX ESTRENOS",Silent Night (2021)
+http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/57533.mkv
+#EXTINF:-1 tvg-id="Soltero hasta Navidad (2021)" tvg-name="Soltero hasta Navidad (2021)" tvg-logo="http://xdgo.live:8080/images/8676a3aaa1585186b78eef5fa13edb04.jpg" group-title="VFLIX ESTRENOS",Soltero hasta Navidad (2021)
+http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/57534.mkv
+#EXTINF:-1 tvg-id="Sooryavanshi (2021)" tvg-name="Sooryavanshi (2021)" tvg-logo="http://xdgo.live:8080/images/423929d40a041de4986fd07e691e87fc.jpg" group-title="VFLIX ESTRENOS",Sooryavanshi (2021)
+http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/57535.mkv
+#EXTINF:-1 tvg-id="El poder del perro (2021)" tvg-name="El poder del perro (2021)" tvg-logo="http://xdgo.live:8080/images/f14bf2c7312db1de6ad77374c7c3d14c.jpg" group-title="VFLIX ESTRENOS",El poder del perro (2021)
+http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/57536.mkv
+#EXTINF:-1 tvg-id="La casa de los abuelos (2021)" tvg-name="La casa de los abuelos (2021)" tvg-logo="http://xdgo.live:8080/images/defcd0cc0494169cb78b376fe432c227.jpg" group-title="VFLIX ESTRENOS",La casa de los abuelos (2021)
+http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/57537.mkv
+#EXTINF:-1 tvg-id="Your Eyes Tell (2020)" tvg-name="Your Eyes Tell (2020)" tvg-logo="http://xdgo.live:8080/images/a8420dbd51dabd6fe7eaff65ba8b5465.jpg" group-title="VFLIX ESTRENOS",Your Eyes Tell (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/57538.mkv
+#EXTINF:-1 tvg-id="Querido Evan Hansen (2021)" tvg-name="Querido Evan Hansen (2021)" tvg-logo="http://xdgo.live:8080/images/b410a434aed09412459d25cb653476ac.jpg" group-title="VFLIX ESTRENOS",Querido Evan Hansen (2021)
+http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/57340.mkv
+#EXTINF:-1 tvg-id="El Amarre (2021)" tvg-name="El Amarre (2021)" tvg-logo="http://xdgo.live:8080/images/c11fc4701f26da1e5385aa8e65198ce3.jpg" group-title="VFLIX ESTRENOS",El Amarre (2021)
+http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/57341.mkv
+#EXTINF:-1 tvg-id="Lead Me Home (2021)" tvg-name="Lead Me Home (2021)" tvg-logo="http://xdgo.live:8080/images/95ce61baabdeaf5b6bdc71ec71109334.jpg" group-title="VFLIX ESTRENOS",Lead Me Home (2021)
+http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/57342.mkv
+#EXTINF:-1 tvg-id="Donde caben dos (2021)" tvg-name="Donde caben dos (2021)" tvg-logo="http://xdgo.live:8080/images/694e138bb7b99cb164eb3ca16d2355e6.jpg" group-title="VFLIX ESTRENOS",Donde caben dos (2021)
+http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/57343.mkv
+#EXTINF:-1 tvg-id="Paranormal Activity: Next of Kin (2021)" tvg-name="Paranormal Activity: Next of Kin (2021)" tvg-logo="http://xdgo.live:8080/images/52612a1b5683164ec24d60d8c634a11a.jpg" group-title="VFLIX ESTRENOS",Paranormal Activity: Next of Kin (2021)
+http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/57344.mkv
+#EXTINF:-1 tvg-id="Ron da Error (2021)" tvg-name="Ron da Error (2021)" tvg-logo="http://xdgo.live:8080/images/dee550c52666473f6283aa3d66d14c10.jpg" group-title="VFLIX ESTRENOS",Ron da Error (2021)
+http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/57345.mkv
+#EXTINF:-1 tvg-id="Quédate conmigo Doraemon 2 (2020)" tvg-name="Quédate conmigo Doraemon 2 (2020)" tvg-logo="http://xdgo.live:8080/images/a824d307795289d113f9ddac6a5fd7e5.jpg" group-title="VFLIX ESTRENOS",Quédate conmigo Doraemon 2 (2020)
+http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/57346.mkv
+#EXTINF:-1 tvg-id="The Humans (2021)" tvg-name="The Humans (2021)" tvg-logo="http://xdgo.live:8080/images/d25cc85d94f3b28286538eb518f28c0e.jpg" group-title="VFLIX ESTRENOS",The Humans (2021)
+http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/57347.mkv
+#EXTINF:-1 tvg-id="El último duelo (2021)" tvg-name="El último duelo (2021)" tvg-logo="http://xdgo.live:8080/images/38f46433c2c46c4059549d385394449d.jpg" group-title="VFLIX ESTRENOS",El último duelo (2021)
+http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/57348.mkv
+#EXTINF:-1 tvg-id="El poder del perro (2021)" tvg-name="El poder del perro (2021)" tvg-logo="http://xdgo.live:8080/images/8292991f58497885af9c747b28dc49e6.jpg" group-title="VFLIX ESTRENOS",El poder del perro (2021)
+http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/57349.mkv
+#EXTINF:-1 tvg-id="La cumbre de los dioses (2021)" tvg-name="La cumbre de los dioses (2021)" tvg-logo="http://xdgo.live:8080/images/915f70dba7301dbf287d26a7fd93f593.jpg" group-title="VFLIX ESTRENOS",La cumbre de los dioses (2021)
+http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/57350.mkv
 #EXTINF:-1 tvg-id="Diego El último adiós (2021)" tvg-name="Diego El último adiós (2021)" tvg-logo="http://xdgo.live:8080/images/d7be11e2a6058a922f645659fdfd1573.jpg" group-title="VFLIX ESTRENOS",Diego El último adiós (2021)
 http://xdgo.live:8080/movie/49_vAngelapaisa_d/Ppv9GFEHxD/57190.mkv
 #EXTINF:-1 tvg-id="Navidad en 8 bits (2021)" tvg-name="Navidad en 8 bits (2021)" tvg-logo="http://xdgo.live:8080/images/17c8f9c2865def647de85eda2bcc75ef.jpg" group-title="VFLIX ESTRENOS",Navidad en 8 bits (2021)
