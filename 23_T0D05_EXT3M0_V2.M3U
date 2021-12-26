@@ -1633,6 +1633,16 @@ http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/771
 http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/765
 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL FHD" tvg-name="UNIVERSAL CHANNEL FHD" tvg-logo="https://images.istreamplanet.net/w_222.22222222222223,c_limit/dtv-latam-prod/26b9a8063be67e2349166b84c8bfc944" group-title="CINE FHD",UNIVERSAL CHANNEL FHD
 http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/816
+#EXTINF:-1 tvg-id="UNIVERSAL COMEDY FHD" tvg-name="UNIVERSAL COMEDY FHD" tvg-logo="http://xdgo.live:8080/images/8b135f0f8bde7ed387e2e716e0d44e3f.png" group-title="CINE FHD",UNIVERSAL COMEDY FHD
+http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/58276
+#EXTINF:-1 tvg-id="UNIVERSAL CINE FHD" tvg-name="UNIVERSAL CINE FHD" tvg-logo="http://xdgo.live:8080/images/76e1d964c158498e38464847467bbaef.png" group-title="CINE FHD",UNIVERSAL CINE FHD
+http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/58280
+#EXTINF:-1 tvg-id="UNIVERSAL CRIME FHD" tvg-name="UNIVERSAL CRIME FHD" tvg-logo="http://xdgo.live:8080/images/1168a0547fd7328e921b40232086aba1.png" group-title="CINE FHD",UNIVERSAL CRIME FHD
+http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/58283
+#EXTINF:-1 tvg-id="UNIVERSAL PREMIERE FHD" tvg-name="UNIVERSAL PREMIERE FHD" tvg-logo="http://xdgo.live:8080/images/bdc47b4aed9e5d2dc73fe91f930eedae.png" group-title="CINE FHD",UNIVERSAL PREMIERE FHD
+http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/58286
+#EXTINF:-1 tvg-id="UNIVERSAL REALITY FHD" tvg-name="UNIVERSAL REALITY FHD" tvg-logo="http://xdgo.live:8080/images/919cf326dd99334b2735df8d52433a8e.png" group-title="CINE FHD",UNIVERSAL REALITY FHD
+http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/58289
 #EXTINF:-1 tvg-id="WARNER CHANNEL FHD" tvg-name="WARNER CHANNEL FHD" tvg-logo="http://xdgo.live:8080/images/15b1dd7f2f174f4e005b796ae210d025.png" group-title="CINE FHD",WARNER CHANNEL FHD
 http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/764
 #EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="https://images.istreamplanet.net/w_222.22222222222223,c_limit/dtv-latam-prod/7ccd90e70bdc68ed0f3c8046e75b6e03" group-title="CINE HD",A&E HD
@@ -1819,6 +1829,26 @@ http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/855
 http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/883
 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL HQ" tvg-name="UNIVERSAL CHANNEL HQ" tvg-logo="https://images.istreamplanet.net/w_222.22222222222223,c_limit/dtv-latam-prod/26b9a8063be67e2349166b84c8bfc944" group-title="CINE HD",UNIVERSAL CHANNEL HQ
 http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/853
+#EXTINF:-1 tvg-id="UNIVERSAL COMEDY HD" tvg-name="UNIVERSAL COMEDY HD" tvg-logo="http://xdgo.live:8080/images/8b135f0f8bde7ed387e2e716e0d44e3f.png" group-title="CINE HD",UNIVERSAL COMEDY HD
+http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/58278
+#EXTINF:-1 tvg-id="UNIVERSAL COMEDY HQ" tvg-name="UNIVERSAL COMEDY HQ" tvg-logo="http://xdgo.live:8080/images/8b135f0f8bde7ed387e2e716e0d44e3f.png" group-title="CINE HD",UNIVERSAL COMEDY HQ
+http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/58277
+#EXTINF:-1 tvg-id="UNIVERSAL CINEMA HD" tvg-name="UNIVERSAL CINEMA HD" tvg-logo="http://xdgo.live:8080/images/76e1d964c158498e38464847467bbaef.png" group-title="CINE HD",UNIVERSAL CINEMA HD
+http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/58279
+#EXTINF:-1 tvg-id="UNIVERSAL CINEMA HQ" tvg-name="UNIVERSAL CINEMA HQ" tvg-logo="http://xdgo.live:8080/images/76e1d964c158498e38464847467bbaef.png" group-title="CINE HD",UNIVERSAL CINEMA HQ
+http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/58281
+#EXTINF:-1 tvg-id="UNIVERSAL CRIME HD" tvg-name="UNIVERSAL CRIME HD" tvg-logo="http://xdgo.live:8080/images/1168a0547fd7328e921b40232086aba1.png" group-title="CINE HD",UNIVERSAL CRIME HD
+http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/58282
+#EXTINF:-1 tvg-id="UNIVERSAL CRIME HQ" tvg-name="UNIVERSAL CRIME HQ" tvg-logo="http://xdgo.live:8080/images/1168a0547fd7328e921b40232086aba1.png" group-title="CINE HD",UNIVERSAL CRIME HQ
+http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/58284
+#EXTINF:-1 tvg-id="UNIVERSAL PREMIERE HD" tvg-name="UNIVERSAL PREMIERE HD" tvg-logo="http://xdgo.live:8080/images/bdc47b4aed9e5d2dc73fe91f930eedae.png" group-title="CINE HD",UNIVERSAL PREMIERE HD
+http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/58285
+#EXTINF:-1 tvg-id="UNIVERSAL PREMIERE HQ" tvg-name="UNIVERSAL PREMIERE HQ" tvg-logo="http://xdgo.live:8080/images/bdc47b4aed9e5d2dc73fe91f930eedae.png" group-title="CINE HD",UNIVERSAL PREMIERE HQ
+http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/58287
+#EXTINF:-1 tvg-id="UNIVERSAL REALITY HD" tvg-name="UNIVERSAL REALITY HD" tvg-logo="http://xdgo.live:8080/images/919cf326dd99334b2735df8d52433a8e.png" group-title="CINE HD",UNIVERSAL REALITY HD
+http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/58288
+#EXTINF:-1 tvg-id="UNIVERSAL REALITY HQ" tvg-name="UNIVERSAL REALITY HQ" tvg-logo="http://xdgo.live:8080/images/919cf326dd99334b2735df8d52433a8e.png" group-title="CINE HD",UNIVERSAL REALITY HQ
+http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/58290
 #EXTINF:-1 tvg-id="WARNER CHANNEL HD" tvg-name="WARNER CHANNEL HD" tvg-logo="http://xdgo.live:8080/images/15b1dd7f2f174f4e005b796ae210d025.png" group-title="CINE HD",WARNER CHANNEL HD
 http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/949
 #EXTINF:-1 tvg-id="WARNER CHANNEL HQ" tvg-name="WARNER CHANNEL HQ" tvg-logo="http://xdgo.live:8080/images/15b1dd7f2f174f4e005b796ae210d025.png" group-title="CINE HD",WARNER CHANNEL HQ
@@ -1835,12 +1865,6 @@ http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/1004
 http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/1016
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL FHD" tvg-name="DISCOVERY CHANNEL FHD" group-title="CULTURA ",DISCOVERY CHANNEL FHD
 http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/978
-#EXTINF:-1 tvg-id="DISCOVERY CIVILIZATION HQ" tvg-name="DISCOVERY CIVILIZATION HQ" group-title="CULTURA ",DISCOVERY CIVILIZATION HQ
-http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/1003
-#EXTINF:-1 tvg-id="DISCOVERY CIVILIZATION HD" tvg-name="DISCOVERY CIVILIZATION HD" group-title="CULTURA ",DISCOVERY CIVILIZATION HD
-http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/1027
-#EXTINF:-1 tvg-id="DISCOVERY CIVILIZATION HD" tvg-name="DISCOVERY CIVILIZATION FHD" group-title="CULTURA ",DISCOVERY CIVILIZATION FHD
-http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/977
 #EXTINF:-1 tvg-id="DISCOVERY H&H HQ" tvg-name="DISCOVERY H&H HQ" group-title="CULTURA ",DISCOVERY H&H HQ
 http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/1002
 #EXTINF:-1 tvg-id="DISCOVERY H&H HD" tvg-name="DISCOVERY H&H HD" group-title="CULTURA ",DISCOVERY H&H HD
@@ -2111,6 +2135,52 @@ http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/54379
 http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/54393
 #EXTINF:-1 tvg-id="DIRECTV SPORTS PPV 7" tvg-name="DIRECTV SPORTS PPV 7"  group-title="EVENTOS PPV",DIRECTV SPORTS PPV 7
 http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/54394
+#EXTINF:-1 tvg-id="Basketball (NBA) Atlanta Hawks at New York Knicks 12:00 PM EST ( ESPN)" tvg-name="Basketball (NBA) Atlanta Hawks at New York Knicks 12:00 PM EST ( ESPN)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Atlanta Hawks at New York Knicks 12:00 PM EST ( ESPN)
+http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/58291
+#EXTINF:-1 tvg-id="Basketball (NCAA Men) Wyoming at South Florida 1:30 PM EST ( ESPNU)" tvg-name="Basketball (NCAA Men) Wyoming at South Florida 1:30 PM EST ( ESPNU)"  group-title="EVENTOS PPV",Basketball (NCAA Men) Wyoming at South Florida 1:30 PM EST ( ESPNU)
+http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/58292
+#EXTINF:-1 tvg-id="Football (NCAA) Georgia State at Ball State 2:30 PM EST ( ESPN)" tvg-name="Football (NCAA) Georgia State at Ball State 2:30 PM EST ( ESPN)"  group-title="EVENTOS PPV",Football (NCAA) Georgia State at Ball State 2:30 PM EST ( ESPN)
+http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/58293
+#EXTINF:-1 tvg-id="Basketball (NBA) Boston Celtics at Milwaukee Bucks 2:30 PM EST ( ESPDR)" tvg-name="Basketball (NBA) Boston Celtics at Milwaukee Bucks 2:30 PM EST ( ESPDR)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Boston Celtics at Milwaukee Bucks 2:30 PM EST ( ESPDR)
+http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/58294
+#EXTINF:-1 tvg-id="Basketball (NCAA Men) Northern Iowa at Hawaii 3:30 PM EST ( ESPNU)" tvg-name="Basketball (NCAA Men) Northern Iowa at Hawaii 3:30 PM EST ( ESPNU)"  group-title="EVENTOS PPV",Basketball (NCAA Men) Northern Iowa at Hawaii 3:30 PM EST ( ESPNU)
+http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/58295
+#EXTINF:-1 tvg-id="Football (NFL) Cleveland Browns at Green Bay Packers 4:30 PM EST ( NFL)" tvg-name="Football (NFL) Cleveland Browns at Green Bay Packers 4:30 PM EST ( NFL)"  group-title="EVENTOS PPV",Football (NFL) Cleveland Browns at Green Bay Packers 4:30 PM EST ( NFL)
+http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/58296
+#EXTINF:-1 tvg-id="Basketball (NBA) Golden State Warriors at Phoenix Suns 5:00 PM EST ( ESPDR)" tvg-name="Basketball (NBA) Golden State Warriors at Phoenix Suns 5:00 PM EST ( ESPDR)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Golden State Warriors at Phoenix Suns 5:00 PM EST ( ESPDR)
+http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/58297
+#EXTINF:-1 tvg-id="Basketball (NCAA Men) Liberty at Brigham Young 6:30 PM EST ( ESPN2)" tvg-name="Basketball (NCAA Men) Liberty at Brigham Young 6:30 PM EST ( ESPN2)"  group-title="EVENTOS PPV",Basketball (NCAA Men) Liberty at Brigham Young 6:30 PM EST ( ESPN2)
+http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/58298
+#EXTINF:-1 tvg-id="Basketball (NBA) Brooklyn Nets at Los Angeles Lakers 8:00 PM EST ( ESPN)" tvg-name="Basketball (NBA) Brooklyn Nets at Los Angeles Lakers 8:00 PM EST ( ESPN)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Brooklyn Nets at Los Angeles Lakers 8:00 PM EST ( ESPN)
+http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/58299
+#EXTINF:-1 tvg-id="Football (NFL) Indianapolis Colts at Arizona Cardinals 8:15 PM EST ( NFL)" tvg-name="Football (NFL) Indianapolis Colts at Arizona Cardinals 8:15 PM EST ( NFL)"  group-title="EVENTOS PPV",Football (NFL) Indianapolis Colts at Arizona Cardinals 8:15 PM EST ( NFL)
+http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/58300
+#EXTINF:-1 tvg-id="Basketball (NCAA Men) Stanford at Vanderbilt 8:30 PM EST ( ESPN2)" tvg-name="Basketball (NCAA Men) Stanford at Vanderbilt 8:30 PM EST ( ESPN2)"  group-title="EVENTOS PPV",Basketball (NCAA Men) Stanford at Vanderbilt 8:30 PM EST ( ESPN2)
+http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/58301
+#EXTINF:-1 tvg-id="Basketball (NBA) Dallas Mavericks at Utah Jazz 10:30 PM EST ( ESPN)" tvg-name="Basketball (NBA) Dallas Mavericks at Utah Jazz 10:30 PM EST ( ESPN)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Dallas Mavericks at Utah Jazz 10:30 PM EST ( ESPN)
+http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/58302
+#EXTINF:-1 tvg-id="Football (NCAA) North Texas at Miami Univ. (Ohio) 3:30 PM EST ( ESPN)" tvg-name="Football (NCAA) North Texas at Miami Univ. (Ohio) 3:30 PM EST ( ESPN)"  group-title="EVENTOS PPV",Football (NCAA) North Texas at Miami Univ. (Ohio) 3:30 PM EST ( ESPN)
+http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/58303
+#EXTINF:-1 tvg-id="Soccer (Pro) Porto vs Benfica 3:45 PM EST (ENG)" tvg-name="Soccer (Pro) Porto vs Benfica 3:45 PM EST (ENG)"  group-title="EVENTOS PPV",Soccer (Pro) Porto vs Benfica 3:45 PM EST (ENG)
+http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/58304
+#EXTINF:-1 tvg-id="Basketball (NCAA Men) Butler at St. John's 6:30 PM EST ( FS1)" tvg-name="Basketball (NCAA Men) Butler at St. John's 6:30 PM EST ( FS1)"  group-title="EVENTOS PPV",Basketball (NCAA Men) Butler at St. John's 6:30 PM EST ( FS1)
+http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/58305
+#EXTINF:-1 tvg-id="Football (NCAA) Central Florida at Florida 7:00 PM EST ( ESPN)" tvg-name="Football (NCAA) Central Florida at Florida 7:00 PM EST ( ESPN)"  group-title="EVENTOS PPV",Football (NCAA) Central Florida at Florida 7:00 PM EST ( ESPN)
+http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/58306
+#EXTINF:-1 tvg-id="Basketball (NCAA Men) Morgan State at Wisconsin 7:00 PM EST ( BTN)" tvg-name="Basketball (NCAA Men) Morgan State at Wisconsin 7:00 PM EST ( BTN)"  group-title="EVENTOS PPV",Basketball (NCAA Men) Morgan State at Wisconsin 7:00 PM EST ( BTN)
+http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/58307
+#EXTINF:-1 tvg-id="Basketball (NBA) Houston Rockets at Indiana Pacers 7:00 PM EST ( NBA)" tvg-name="Basketball (NBA) Houston Rockets at Indiana Pacers 7:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Houston Rockets at Indiana Pacers 7:00 PM EST ( NBA)
+http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/58308
+#EXTINF:-1 tvg-id="Basketball (NBA) New Orleans Pelicans at Orlando Magic 7:00 PM EST ( NBA)" tvg-name="Basketball (NBA) New Orleans Pelicans at Orlando Magic 7:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) New Orleans Pelicans at Orlando Magic 7:00 PM EST ( NBA)
+http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/58309
+#EXTINF:-1 tvg-id="Basketball (NBA) Atlanta Hawks at Philadelphia 76ers 7:00 PM EST ( NBA)" tvg-name="Basketball (NBA) Atlanta Hawks at Philadelphia 76ers 7:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Atlanta Hawks at Philadelphia 76ers 7:00 PM EST ( NBA)
+http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/58310
+#EXTINF:-1 tvg-id="Basketball (NBA) Detroit Pistons at Miami Heat 7:30 PM EST ( NBA)" tvg-name="Basketball (NBA) Detroit Pistons at Miami Heat 7:30 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Detroit Pistons at Miami Heat 7:30 PM EST ( NBA)
+http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/58311
+#EXTINF:-1 tvg-id="Basketball (NBA) Washington Wizards at New York Knicks 7:30 PM EST ( NBA)" tvg-name="Basketball (NBA) Washington Wizards at New York Knicks 7:30 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Washington Wizards at New York Knicks 7:30 PM EST ( NBA)
+http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/58312
+#EXTINF:-1 tvg-id="Football (NFL) San Francisco 49ers at Tennessee Titans 8:20 PM EST ( NFL)" tvg-name="Football (NFL) San Francisco 49ers at Tennessee Titans 8:20 PM EST ( NFL)"  group-title="EVENTOS PPV",Football (NFL) San Francisco 49ers at Tennessee Titans 8:20 PM EST ( NFL)
+http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/58313
 #EXTINF:-1 tvg-id="GUA Canal 4" tvg-name="GUA VEA CANAL" group-title="GUATEMALA",GUA VEA CANAL
 http://xdgo.live:8080/23_vNancyRem_c/VXnD4AV5eY/2597
 #EXTINF:-1 tvg-id="GUA CANAL 11" tvg-name="GUA CANAL 11" group-title="GUATEMALA",GUA CANAL 11
@@ -31695,6 +31765,20 @@ http://xdgo.live:8080/series/23_vNancyRem_c/VXnD4AV5eY/41776.mkv
 http://xdgo.live:8080/series/23_vNancyRem_c/VXnD4AV5eY/42114.mkv
 #EXTINF:-1 tvg-id="WandaVision S01 E09" tvg-name="WandaVision S01 E09"  group-title="WANDAVISION",WandaVision S01 E09
 http://xdgo.live:8080/series/23_vNancyRem_c/VXnD4AV5eY/42412.mkv
+#EXTINF:-1 tvg-id="Encanto (2021)" tvg-name="Encanto (2021)" tvg-logo="http://xdgo.live:8080/images/46f97429852791959976a49c5c32cf77.jpg" group-title="VFLIX ESTRENOS",Encanto (2021)
+http://xdgo.live:8080/movie/23_vNancyRem_c/VXnD4AV5eY/58250.mkv
+#EXTINF:-1 tvg-id="A mil kilómetros de la Navidad (2021)" tvg-name="A mil kilómetros de la Navidad (2021)" tvg-logo="http://xdgo.live:8080/images/e0e5a27dc190bd72e7a2116ba6889ff4.jpg" group-title="VFLIX ESTRENOS",A mil kilómetros de la Navidad (2021)
+http://xdgo.live:8080/movie/23_vNancyRem_c/VXnD4AV5eY/58248.mkv
+#EXTINF:-1 tvg-id="No mires arriba (2021)" tvg-name="No mires arriba (2021)" tvg-logo="http://xdgo.live:8080/images/9e12efa346bc8c0726cefe663893815b.jpg" group-title="VFLIX ESTRENOS",No mires arriba (2021)
+http://xdgo.live:8080/movie/23_vNancyRem_c/VXnD4AV5eY/58249.mkv
+#EXTINF:-1 tvg-id="Far From the Tree (2021)" tvg-name="Far From the Tree (2021)" tvg-logo="http://xdgo.live:8080/images/8a33f017399ca67478df10c7bb012d2a.jpg" group-title="VFLIX ESTRENOS",Far From the Tree (2021)
+http://xdgo.live:8080/movie/23_vNancyRem_c/VXnD4AV5eY/58251.mkv
+#EXTINF:-1 tvg-id="മിന്നൽ മുരളി (2021)" tvg-name="മിന്നൽ മുരളി (2021)" tvg-logo="http://xdgo.live:8080/images/f66d12a986353a60c20c7ffe33015c12.jpg" group-title="VFLIX ESTRENOS",മിന്നൽ മുരളി (2021)
+http://xdgo.live:8080/movie/23_vNancyRem_c/VXnD4AV5eY/58252.mkv
+#EXTINF:-1 tvg-id="El secreto de Vicky (2021)" tvg-name="El secreto de Vicky (2021)" tvg-logo="http://xdgo.live:8080/images/61c49d4c3ce2b8cb39bb22f87d469cb6.jpg" group-title="VFLIX ESTRENOS",El secreto de Vicky (2021)
+http://xdgo.live:8080/movie/23_vNancyRem_c/VXnD4AV5eY/58253.mkv
+#EXTINF:-1 tvg-id="Mamá o papá (2021)" tvg-name="Mamá o papá (2021)" tvg-logo="http://xdgo.live:8080/images/fc364f1eee3d288172eef1623245c8f3.jpg" group-title="VFLIX ESTRENOS",Mamá o papá (2021)
+http://xdgo.live:8080/movie/23_vNancyRem_c/VXnD4AV5eY/58254.mkv
 #EXTINF:-1 tvg-id="Matrix 4: Resurrecciones (2021)" tvg-name="Matrix 4: Resurrecciones (2021)" tvg-logo="http://xdgo.live:8080/images/71d581d78a6492308f60a85510855155.jpg" group-title="VFLIX ESTRENOS",Matrix 4: Resurrecciones (2021)
 http://xdgo.live:8080/movie/23_vNancyRem_c/VXnD4AV5eY/58247.mkv
 #EXTINF:-1 tvg-id="A Choice of Weapons: Inspired by Gordon Parks (2021)" tvg-name="A Choice of Weapons: Inspired by Gordon Parks (2021)" tvg-logo="http://xdgo.live:8080/images/dfee4de6d81f36f036e255fc420a8a34.jpg" group-title="VFLIX ESTRENOS",A Choice of Weapons: Inspired by Gordon Parks (2021)

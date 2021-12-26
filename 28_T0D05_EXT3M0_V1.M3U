@@ -303,10 +303,6 @@ http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/1123
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/53884
 #EXTINF:-1 tvg-id="CO RCN NUESTRA TELE HD" tvg-name="CO RCN INTERNACIONAL HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/7104/brand.gif?itok=a-dvuqrh" group-title="COLOMBIA",CO RCN INTERNACIONAL HQ
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/40087
-#EXTINF:-1 tvg-id="CO RCN NUESTRA TELE HD" tvg-name="CO RCN INTERNACIONAL HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/7104/brand.gif?itok=a-dvuqrh" group-title="COLOMBIA",CO RCN INTERNACIONAL HD
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/51909
-#EXTINF:-1 tvg-id="CO RCN NUESTRA TELE HD" tvg-name="CO RCN INTERNACIONAL FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/7104/brand.gif?itok=a-dvuqrh" group-title="COLOMBIA",CO RCN INTERNACIONAL FHD
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/51908
 #EXTINF:-1 tvg-id="CO RCN NOVELAS HD" tvg-name="CO RCN NOVELAS HD" tvg-logo="http://xdgo.live:8080/images/b79e044a419ff2b118784ff46c3d9b35.jpg" group-title="COLOMBIA",CO RCN NOVELAS HD
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/24478
 #EXTINF:-1 tvg-id="CO RED  PLUS  HQ" tvg-name="CO RED  PLUS  HQ" tvg-logo="http://xdgo.live:8080/images/37598e5f77442136535c40aaadcee1af.png" group-title="COLOMBIA",CO RED  PLUS  HQ
@@ -393,7 +389,7 @@ http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/2351
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/2352
 #EXTINF:-1 tvg-id="CLARO SPORTS HQ" tvg-name="CLARO SPORTS FHD" tvg-logo="https://www.elimparcial.com/__export/1554579865733/sites/elimparcial/img/2018/04/06/1838753-N.JPG_1359985867.jpg" group-title="DEPORTES",CLARO SPORTS FHD
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/2353
-#EXTINF:-1 tvg-id="COMBATE HD" tvg-name="COMBATE HD" tvg-logo="http://s2.glbimg.com/nWiPzL7WGQSduafJ9Z0jLcO7-Og=/200x0/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/f/k/PGAPBBQeGWVAMkqdUQsw/logo-combate.png" group-title="DEPORTES",COMBATE HD
+#EXTINF:-1 tvg-id="COMBATE HD" tvg-name="COMBATE HD" tvg-logo="http://xdgo.live:8080/images/c2f618802ab845459d5f3fbe61cdf099.png" group-title="DEPORTES",COMBATE HD
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/2330
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 1 HQ" tvg-name="DIRECTV SPORTS 1 HQ" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 HQ
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/1784
@@ -581,7 +577,7 @@ http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/1790
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/2333
 #EXTINF:-1 tvg-id="FOX DEPORTES FHD" tvg-name="FOX DEPORTES FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX DEPORTES FHD
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/1838
-#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="FOX SPORTS BR HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS BR HD
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="FOX SPORTS BR HD" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS BR HD
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/2336
 #EXTINF:-1 tvg-id="FOX SPORTS CL HQ" tvg-name="FOX SPORTS CL HQ" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS CL HQ
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/52715
@@ -623,7 +619,7 @@ http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/1772
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/1766
 #EXTINF:-1 tvg-id="FOX SPORTS 1 CO HD" tvg-name="FOX SPORTS 1 PE FHD" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 1 PE FHD
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/41770
-#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="FOX SPORTS 2 BR HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 2 BR HD
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="FOX SPORTS 2 BR HD" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 2 BR HD
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/2335
 #EXTINF:-1 tvg-id="FOX SPORTS 2 CL FHD" tvg-name="FOX SPORTS 2 CL HQ" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 2 CL HQ
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/40150
@@ -703,7 +699,7 @@ http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/40101
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/1833
 #EXTINF:-1 tvg-id="GOL TV Ecuador FHD" tvg-name="GOL TV ECUADOR HD op2" tvg-logo="http://xdgo.live:8080/images/99ae7a1be23b775839ad45be02d5006e.jpg" group-title="DEPORTES",GOL TV ECUADOR HD op2
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/46734
-#EXTINF:-1 tvg-id="GOL TV Ecuador FHD" tvg-name="GOL TV ECUADOR FHD" tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf_400x400.jpg" group-title="DEPORTES",GOL TV ECUADOR FHD
+#EXTINF:-1 tvg-id="GOL TV Ecuador FHD" tvg-name="GOL TV ECUADOR FHD" tvg-logo="http://xdgo.live:8080/images/99ae7a1be23b775839ad45be02d5006e.jpg" group-title="DEPORTES",GOL TV ECUADOR FHD
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/1834
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="GOLF CHANNEL HD" tvg-logo="https://images.mi.tv/channels/co_golf-channel_m.png" group-title="DEPORTES",GOLF CHANNEL HD
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/1831
@@ -1605,7 +1601,7 @@ http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/820
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/832
 #EXTINF:-1 tvg-id="STARZ COMEDY FHD" tvg-name="STARZ COMEDY FHD" tvg-logo="https://www.thewrap.com/wp-content/uploads/2013/11/starz-logo.jpg" group-title="CINE FHD",STARZ COMEDY FHD
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/831
-#EXTINF:-1 tvg-id="STARZ EAST FHD" tvg-name="STARZ EAST FHD" tvg-logo="https://www.thewrap.com/wp-content/uploads/2013/11/starz-logo.jpg" group-title="CINE FHD",STARZ EAST FHD
+#EXTINF:-1 tvg-id="STARZ EAST FHD" tvg-name="STARZ EAST FHD" tvg-logo="http://xdgo.live:8080/images/bb468ab387ff1475531e2d7ba46b6053.jpg" group-title="CINE FHD",STARZ EAST FHD
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/830
 #EXTINF:-1 tvg-id="STARZ EDGE FHD" tvg-name="STARZ EDGE FHD" tvg-logo="https://www.thewrap.com/wp-content/uploads/2013/11/starz-logo.jpg" group-title="CINE FHD",STARZ EDGE FHD
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/829
@@ -1637,6 +1633,16 @@ http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/771
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/765
 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL FHD" tvg-name="UNIVERSAL CHANNEL FHD" tvg-logo="https://images.istreamplanet.net/w_222.22222222222223,c_limit/dtv-latam-prod/26b9a8063be67e2349166b84c8bfc944" group-title="CINE FHD",UNIVERSAL CHANNEL FHD
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/816
+#EXTINF:-1 tvg-id="UNIVERSAL COMEDY FHD" tvg-name="UNIVERSAL COMEDY FHD" tvg-logo="http://xdgo.live:8080/images/8b135f0f8bde7ed387e2e716e0d44e3f.png" group-title="CINE FHD",UNIVERSAL COMEDY FHD
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58276
+#EXTINF:-1 tvg-id="UNIVERSAL CINE FHD" tvg-name="UNIVERSAL CINE FHD" tvg-logo="http://xdgo.live:8080/images/76e1d964c158498e38464847467bbaef.png" group-title="CINE FHD",UNIVERSAL CINE FHD
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58280
+#EXTINF:-1 tvg-id="UNIVERSAL CRIME FHD" tvg-name="UNIVERSAL CRIME FHD" tvg-logo="http://xdgo.live:8080/images/1168a0547fd7328e921b40232086aba1.png" group-title="CINE FHD",UNIVERSAL CRIME FHD
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58283
+#EXTINF:-1 tvg-id="UNIVERSAL PREMIERE FHD" tvg-name="UNIVERSAL PREMIERE FHD" tvg-logo="http://xdgo.live:8080/images/bdc47b4aed9e5d2dc73fe91f930eedae.png" group-title="CINE FHD",UNIVERSAL PREMIERE FHD
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58286
+#EXTINF:-1 tvg-id="UNIVERSAL REALITY FHD" tvg-name="UNIVERSAL REALITY FHD" tvg-logo="http://xdgo.live:8080/images/919cf326dd99334b2735df8d52433a8e.png" group-title="CINE FHD",UNIVERSAL REALITY FHD
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58289
 #EXTINF:-1 tvg-id="WARNER CHANNEL FHD" tvg-name="WARNER CHANNEL FHD" tvg-logo="http://xdgo.live:8080/images/15b1dd7f2f174f4e005b796ae210d025.png" group-title="CINE FHD",WARNER CHANNEL FHD
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/764
 #EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="https://images.istreamplanet.net/w_222.22222222222223,c_limit/dtv-latam-prod/7ccd90e70bdc68ed0f3c8046e75b6e03" group-title="CINE HD",A&E HD
@@ -1823,6 +1829,26 @@ http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/855
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/883
 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL HQ" tvg-name="UNIVERSAL CHANNEL HQ" tvg-logo="https://images.istreamplanet.net/w_222.22222222222223,c_limit/dtv-latam-prod/26b9a8063be67e2349166b84c8bfc944" group-title="CINE HD",UNIVERSAL CHANNEL HQ
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/853
+#EXTINF:-1 tvg-id="UNIVERSAL COMEDY HD" tvg-name="UNIVERSAL COMEDY HD" tvg-logo="http://xdgo.live:8080/images/8b135f0f8bde7ed387e2e716e0d44e3f.png" group-title="CINE HD",UNIVERSAL COMEDY HD
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58278
+#EXTINF:-1 tvg-id="UNIVERSAL COMEDY HQ" tvg-name="UNIVERSAL COMEDY HQ" tvg-logo="http://xdgo.live:8080/images/8b135f0f8bde7ed387e2e716e0d44e3f.png" group-title="CINE HD",UNIVERSAL COMEDY HQ
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58277
+#EXTINF:-1 tvg-id="UNIVERSAL CINEMA HD" tvg-name="UNIVERSAL CINEMA HD" tvg-logo="http://xdgo.live:8080/images/76e1d964c158498e38464847467bbaef.png" group-title="CINE HD",UNIVERSAL CINEMA HD
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58279
+#EXTINF:-1 tvg-id="UNIVERSAL CINEMA HQ" tvg-name="UNIVERSAL CINEMA HQ" tvg-logo="http://xdgo.live:8080/images/76e1d964c158498e38464847467bbaef.png" group-title="CINE HD",UNIVERSAL CINEMA HQ
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58281
+#EXTINF:-1 tvg-id="UNIVERSAL CRIME HD" tvg-name="UNIVERSAL CRIME HD" tvg-logo="http://xdgo.live:8080/images/1168a0547fd7328e921b40232086aba1.png" group-title="CINE HD",UNIVERSAL CRIME HD
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58282
+#EXTINF:-1 tvg-id="UNIVERSAL CRIME HQ" tvg-name="UNIVERSAL CRIME HQ" tvg-logo="http://xdgo.live:8080/images/1168a0547fd7328e921b40232086aba1.png" group-title="CINE HD",UNIVERSAL CRIME HQ
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58284
+#EXTINF:-1 tvg-id="UNIVERSAL PREMIERE HD" tvg-name="UNIVERSAL PREMIERE HD" tvg-logo="http://xdgo.live:8080/images/bdc47b4aed9e5d2dc73fe91f930eedae.png" group-title="CINE HD",UNIVERSAL PREMIERE HD
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58285
+#EXTINF:-1 tvg-id="UNIVERSAL PREMIERE HQ" tvg-name="UNIVERSAL PREMIERE HQ" tvg-logo="http://xdgo.live:8080/images/bdc47b4aed9e5d2dc73fe91f930eedae.png" group-title="CINE HD",UNIVERSAL PREMIERE HQ
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58287
+#EXTINF:-1 tvg-id="UNIVERSAL REALITY HD" tvg-name="UNIVERSAL REALITY HD" tvg-logo="http://xdgo.live:8080/images/919cf326dd99334b2735df8d52433a8e.png" group-title="CINE HD",UNIVERSAL REALITY HD
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58288
+#EXTINF:-1 tvg-id="UNIVERSAL REALITY HQ" tvg-name="UNIVERSAL REALITY HQ" tvg-logo="http://xdgo.live:8080/images/919cf326dd99334b2735df8d52433a8e.png" group-title="CINE HD",UNIVERSAL REALITY HQ
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58290
 #EXTINF:-1 tvg-id="WARNER CHANNEL HD" tvg-name="WARNER CHANNEL HD" tvg-logo="http://xdgo.live:8080/images/15b1dd7f2f174f4e005b796ae210d025.png" group-title="CINE HD",WARNER CHANNEL HD
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/949
 #EXTINF:-1 tvg-id="WARNER CHANNEL HQ" tvg-name="WARNER CHANNEL HQ" tvg-logo="http://xdgo.live:8080/images/15b1dd7f2f174f4e005b796ae210d025.png" group-title="CINE HD",WARNER CHANNEL HQ
@@ -1839,12 +1865,6 @@ http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/1004
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/1016
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL FHD" tvg-name="DISCOVERY CHANNEL FHD" group-title="CULTURA ",DISCOVERY CHANNEL FHD
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/978
-#EXTINF:-1 tvg-id="DISCOVERY CIVILIZATION HQ" tvg-name="DISCOVERY CIVILIZATION HQ" group-title="CULTURA ",DISCOVERY CIVILIZATION HQ
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/1003
-#EXTINF:-1 tvg-id="DISCOVERY CIVILIZATION HD" tvg-name="DISCOVERY CIVILIZATION HD" group-title="CULTURA ",DISCOVERY CIVILIZATION HD
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/1027
-#EXTINF:-1 tvg-id="DISCOVERY CIVILIZATION HD" tvg-name="DISCOVERY CIVILIZATION FHD" group-title="CULTURA ",DISCOVERY CIVILIZATION FHD
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/977
 #EXTINF:-1 tvg-id="DISCOVERY H&H HQ" tvg-name="DISCOVERY H&H HQ" group-title="CULTURA ",DISCOVERY H&H HQ
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/1002
 #EXTINF:-1 tvg-id="DISCOVERY H&H HD" tvg-name="DISCOVERY H&H HD" group-title="CULTURA ",DISCOVERY H&H HD
@@ -2115,6 +2135,52 @@ http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/54379
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/54393
 #EXTINF:-1 tvg-id="DIRECTV SPORTS PPV 7" tvg-name="DIRECTV SPORTS PPV 7"  group-title="EVENTOS PPV",DIRECTV SPORTS PPV 7
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/54394
+#EXTINF:-1 tvg-id="Basketball (NBA) Atlanta Hawks at New York Knicks 12:00 PM EST ( ESPN)" tvg-name="Basketball (NBA) Atlanta Hawks at New York Knicks 12:00 PM EST ( ESPN)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Atlanta Hawks at New York Knicks 12:00 PM EST ( ESPN)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58291
+#EXTINF:-1 tvg-id="Basketball (NCAA Men) Wyoming at South Florida 1:30 PM EST ( ESPNU)" tvg-name="Basketball (NCAA Men) Wyoming at South Florida 1:30 PM EST ( ESPNU)"  group-title="EVENTOS PPV",Basketball (NCAA Men) Wyoming at South Florida 1:30 PM EST ( ESPNU)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58292
+#EXTINF:-1 tvg-id="Football (NCAA) Georgia State at Ball State 2:30 PM EST ( ESPN)" tvg-name="Football (NCAA) Georgia State at Ball State 2:30 PM EST ( ESPN)"  group-title="EVENTOS PPV",Football (NCAA) Georgia State at Ball State 2:30 PM EST ( ESPN)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58293
+#EXTINF:-1 tvg-id="Basketball (NBA) Boston Celtics at Milwaukee Bucks 2:30 PM EST ( ESPDR)" tvg-name="Basketball (NBA) Boston Celtics at Milwaukee Bucks 2:30 PM EST ( ESPDR)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Boston Celtics at Milwaukee Bucks 2:30 PM EST ( ESPDR)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58294
+#EXTINF:-1 tvg-id="Basketball (NCAA Men) Northern Iowa at Hawaii 3:30 PM EST ( ESPNU)" tvg-name="Basketball (NCAA Men) Northern Iowa at Hawaii 3:30 PM EST ( ESPNU)"  group-title="EVENTOS PPV",Basketball (NCAA Men) Northern Iowa at Hawaii 3:30 PM EST ( ESPNU)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58295
+#EXTINF:-1 tvg-id="Football (NFL) Cleveland Browns at Green Bay Packers 4:30 PM EST ( NFL)" tvg-name="Football (NFL) Cleveland Browns at Green Bay Packers 4:30 PM EST ( NFL)"  group-title="EVENTOS PPV",Football (NFL) Cleveland Browns at Green Bay Packers 4:30 PM EST ( NFL)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58296
+#EXTINF:-1 tvg-id="Basketball (NBA) Golden State Warriors at Phoenix Suns 5:00 PM EST ( ESPDR)" tvg-name="Basketball (NBA) Golden State Warriors at Phoenix Suns 5:00 PM EST ( ESPDR)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Golden State Warriors at Phoenix Suns 5:00 PM EST ( ESPDR)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58297
+#EXTINF:-1 tvg-id="Basketball (NCAA Men) Liberty at Brigham Young 6:30 PM EST ( ESPN2)" tvg-name="Basketball (NCAA Men) Liberty at Brigham Young 6:30 PM EST ( ESPN2)"  group-title="EVENTOS PPV",Basketball (NCAA Men) Liberty at Brigham Young 6:30 PM EST ( ESPN2)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58298
+#EXTINF:-1 tvg-id="Basketball (NBA) Brooklyn Nets at Los Angeles Lakers 8:00 PM EST ( ESPN)" tvg-name="Basketball (NBA) Brooklyn Nets at Los Angeles Lakers 8:00 PM EST ( ESPN)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Brooklyn Nets at Los Angeles Lakers 8:00 PM EST ( ESPN)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58299
+#EXTINF:-1 tvg-id="Football (NFL) Indianapolis Colts at Arizona Cardinals 8:15 PM EST ( NFL)" tvg-name="Football (NFL) Indianapolis Colts at Arizona Cardinals 8:15 PM EST ( NFL)"  group-title="EVENTOS PPV",Football (NFL) Indianapolis Colts at Arizona Cardinals 8:15 PM EST ( NFL)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58300
+#EXTINF:-1 tvg-id="Basketball (NCAA Men) Stanford at Vanderbilt 8:30 PM EST ( ESPN2)" tvg-name="Basketball (NCAA Men) Stanford at Vanderbilt 8:30 PM EST ( ESPN2)"  group-title="EVENTOS PPV",Basketball (NCAA Men) Stanford at Vanderbilt 8:30 PM EST ( ESPN2)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58301
+#EXTINF:-1 tvg-id="Basketball (NBA) Dallas Mavericks at Utah Jazz 10:30 PM EST ( ESPN)" tvg-name="Basketball (NBA) Dallas Mavericks at Utah Jazz 10:30 PM EST ( ESPN)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Dallas Mavericks at Utah Jazz 10:30 PM EST ( ESPN)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58302
+#EXTINF:-1 tvg-id="Football (NCAA) North Texas at Miami Univ. (Ohio) 3:30 PM EST ( ESPN)" tvg-name="Football (NCAA) North Texas at Miami Univ. (Ohio) 3:30 PM EST ( ESPN)"  group-title="EVENTOS PPV",Football (NCAA) North Texas at Miami Univ. (Ohio) 3:30 PM EST ( ESPN)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58303
+#EXTINF:-1 tvg-id="Soccer (Pro) Porto vs Benfica 3:45 PM EST (ENG)" tvg-name="Soccer (Pro) Porto vs Benfica 3:45 PM EST (ENG)"  group-title="EVENTOS PPV",Soccer (Pro) Porto vs Benfica 3:45 PM EST (ENG)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58304
+#EXTINF:-1 tvg-id="Basketball (NCAA Men) Butler at St. John's 6:30 PM EST ( FS1)" tvg-name="Basketball (NCAA Men) Butler at St. John's 6:30 PM EST ( FS1)"  group-title="EVENTOS PPV",Basketball (NCAA Men) Butler at St. John's 6:30 PM EST ( FS1)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58305
+#EXTINF:-1 tvg-id="Football (NCAA) Central Florida at Florida 7:00 PM EST ( ESPN)" tvg-name="Football (NCAA) Central Florida at Florida 7:00 PM EST ( ESPN)"  group-title="EVENTOS PPV",Football (NCAA) Central Florida at Florida 7:00 PM EST ( ESPN)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58306
+#EXTINF:-1 tvg-id="Basketball (NCAA Men) Morgan State at Wisconsin 7:00 PM EST ( BTN)" tvg-name="Basketball (NCAA Men) Morgan State at Wisconsin 7:00 PM EST ( BTN)"  group-title="EVENTOS PPV",Basketball (NCAA Men) Morgan State at Wisconsin 7:00 PM EST ( BTN)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58307
+#EXTINF:-1 tvg-id="Basketball (NBA) Houston Rockets at Indiana Pacers 7:00 PM EST ( NBA)" tvg-name="Basketball (NBA) Houston Rockets at Indiana Pacers 7:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Houston Rockets at Indiana Pacers 7:00 PM EST ( NBA)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58308
+#EXTINF:-1 tvg-id="Basketball (NBA) New Orleans Pelicans at Orlando Magic 7:00 PM EST ( NBA)" tvg-name="Basketball (NBA) New Orleans Pelicans at Orlando Magic 7:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) New Orleans Pelicans at Orlando Magic 7:00 PM EST ( NBA)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58309
+#EXTINF:-1 tvg-id="Basketball (NBA) Atlanta Hawks at Philadelphia 76ers 7:00 PM EST ( NBA)" tvg-name="Basketball (NBA) Atlanta Hawks at Philadelphia 76ers 7:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Atlanta Hawks at Philadelphia 76ers 7:00 PM EST ( NBA)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58310
+#EXTINF:-1 tvg-id="Basketball (NBA) Detroit Pistons at Miami Heat 7:30 PM EST ( NBA)" tvg-name="Basketball (NBA) Detroit Pistons at Miami Heat 7:30 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Detroit Pistons at Miami Heat 7:30 PM EST ( NBA)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58311
+#EXTINF:-1 tvg-id="Basketball (NBA) Washington Wizards at New York Knicks 7:30 PM EST ( NBA)" tvg-name="Basketball (NBA) Washington Wizards at New York Knicks 7:30 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Washington Wizards at New York Knicks 7:30 PM EST ( NBA)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58312
+#EXTINF:-1 tvg-id="Football (NFL) San Francisco 49ers at Tennessee Titans 8:20 PM EST ( NFL)" tvg-name="Football (NFL) San Francisco 49ers at Tennessee Titans 8:20 PM EST ( NFL)"  group-title="EVENTOS PPV",Football (NFL) San Francisco 49ers at Tennessee Titans 8:20 PM EST ( NFL)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58313
 #EXTINF:-1 tvg-id="GUA Canal 4" tvg-name="GUA VEA CANAL" group-title="GUATEMALA",GUA VEA CANAL
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/2597
 #EXTINF:-1 tvg-id="GUA CANAL 11" tvg-name="GUA CANAL 11" group-title="GUATEMALA",GUA CANAL 11
@@ -2189,8 +2255,6 @@ http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/52078
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/52079
 #EXTINF:-1 tvg-id="HN ATV HONDURAS" tvg-name="HN ATV HONDURAS"  group-title="HONDURAS",HN ATV HONDURAS
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/52080
-#EXTINF:-1 tvg-id="HN CHOLUSAT-SUR" tvg-name="HN CHOLUSAT-SUR" tvg-logo="" group-title="HONDURAS",HN CHOLUSAT-SUR
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/52082
 #EXTINF:-1 tvg-id="HN EDN TV" tvg-name="HN EDN TV"  group-title="HONDURAS",HN EDN TV
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/52083
 #EXTINF:-1 tvg-id="HN GO-TV" tvg-name="HN GO-TV"  group-title="HONDURAS",HN GO-TV
@@ -2217,8 +2281,6 @@ http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/52102
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/52103
 #EXTINF:-1 tvg-id="HN HONDURED 13" tvg-name="HN HONDURED 13"  group-title="HONDURAS",HN HONDURED 13
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/52104
-#EXTINF:-1 tvg-id="HN GLOBO TV" tvg-name="HN GLOBO TV"  group-title="HONDURAS",HN GLOBO TV
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/52105
 #EXTINF:-1 tvg-id="HN DTELEVISION" tvg-name="HN DTELEVISION"  group-title="HONDURAS",HN DTELEVISION
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/52106
 #EXTINF:-1 tvg-id="HN CANAL 15" tvg-name="HN CANAL 15"  group-title="HONDURAS",HN CANAL 15
@@ -3469,7 +3531,7 @@ http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/2245
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/2244
 #EXTINF:-1 tvg-id="USA Nicktoons." tvg-name="USA Nicktoons." tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1159.1405279210.png" group-title="USA",USA Nicktoons.
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/2243
-#EXTINF:-1 tvg-id="USA One American News Network" tvg-name="USA One American News Network" tvg-logo="https://politicon.com/wp-content/uploads/2018/10/OAN.jpg" group-title="USA",USA One American News Network
+#EXTINF:-1 tvg-id="USA One American News Network" tvg-name="USA One American News Network" tvg-logo="http://xdgo.live:8080/images/f69445f496b0a6ed82a3e4bfca5eb550.jpg" group-title="USA",USA One American News Network
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/40738
 #EXTINF:-1 tvg-id="USA OUTDOOR CHANNEL" tvg-name="USA OUTDOOR CHANNEL" tvg-logo="" group-title="USA",USA OUTDOOR CHANNEL
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/2242
@@ -3569,7 +3631,7 @@ http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/2211
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/47183
 #EXTINF:-1 tvg-id="USA TRAVEL CHANNEL" tvg-name="USA TRAVEL CHANNEL" tvg-logo="" group-title="USA",USA TRAVEL CHANNEL
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/2204
-#EXTINF:-1 tvg-id="USA TRU TV" tvg-name="USA TRU TV" tvg-logo="https://pbs.twimg.com/profile_images/783396433022058496/Du8u4Xxe_400x400.jpg" group-title="USA",USA TRU TV
+#EXTINF:-1 tvg-id="USA TRU TV" tvg-name="USA TRU TV" tvg-logo="http://xdgo.live:8080/images/cc2cf543520ba75e55b88223b529e5cd.jpg" group-title="USA",USA TRU TV
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/2203
 #EXTINF:-1 tvg-id="USA USA NETWORK" tvg-name="USA USA NETWORK" tvg-logo="" group-title="USA",USA USA NETWORK
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/22264
@@ -3687,7 +3749,7 @@ http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/367
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/5907
 #EXTINF:-1 tvg-id="Unimas Cleveland" tvg-name="Unimas Cleveland" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/23_es.png" group-title="USA LATINO",Unimas Cleveland
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/5902
-#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="Unimas Dallas" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/11_es.png" group-title="USA LATINO",Unimas Dallas
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="Unimas Dallas" tvg-logo="http://xdgo.live:8080/images/57399f0f0e283da20e1125b57aee6184.png" group-title="USA LATINO",Unimas Dallas
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/5908
 #EXTINF:-1 tvg-id="Unimas East" tvg-name="Unimas East" tvg-logo="http://xdgo.live:8080/images/f7908d2bf1b93574556158438e65c058.png" group-title="USA LATINO",Unimas East
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/5910
@@ -11175,7 +11237,7 @@ http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/21948.mkv
 http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/21949.mkv
 #EXTINF:-1 tvg-id="El gigante de hierro (1999)" tvg-name="El gigante de hierro (1999)" tvg-logo="http://xdgo.live:8080/images/48ad04cbd5d3186eb83ee662c134c05d.jpg" group-title="VFLIX INFANTILES",El gigante de hierro (1999)
 http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/21950.mkv
-#EXTINF:-1 tvg-id="El Grinch (2018)" tvg-name="El Grinch (2018)" tvg-logo="http://xdgo.live:8080/images/aa620d223d908ca191700be4b1000894.jpg" group-title="VFLIX INFANTILES",El Grinch (2018)
+#EXTINF:-1 tvg-id="El Grinch (2000)" tvg-name="El Grinch (2000)" tvg-logo="http://xdgo.live:8080/images/dce09bdd3af01ad410d9c7fe6dd979f1.jpg" group-title="VFLIX INFANTILES",El Grinch (2000)
 http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/21951.mkv
 #EXTINF:-1 tvg-id="El libro de la selva (1967)" tvg-name="El libro de la selva (1967)" tvg-logo="http://xdgo.live:8080/images/ceb0d1f26060edbad5877e641dfcf873.jpg" group-title="VFLIX INFANTILES",El libro de la selva (1967)
 http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/21952.mkv
@@ -19415,92 +19477,102 @@ http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6995.mkv
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6996.mkv
 #EXTINF:-1 tvg-id="Jinn S01 E05" tvg-name="Jinn S01 E05"  group-title="SERIES DRAMA",Jinn S01 E05
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6997.mkv
-#EXTINF:-1 tvg-id="La casa de papel S01 E01" tvg-name="La casa de papel S01 E01"  group-title="SERIES DRAMA",La casa de papel S01 E01
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/7095.mkv
-#EXTINF:-1 tvg-id="La casa de papel S01 E02" tvg-name="La casa de papel S01 E02"  group-title="SERIES DRAMA",La casa de papel S01 E02
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/7094.mkv
-#EXTINF:-1 tvg-id="La casa de papel S01 E03" tvg-name="La casa de papel S01 E03"  group-title="SERIES DRAMA",La casa de papel S01 E03
+#EXTINF:-1 tvg-id="La Casa de Papel S01 E01" tvg-name="La Casa de Papel S01 E01"  group-title="SERIES DRAMA",La Casa de Papel S01 E01
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/7106.mkv
-#EXTINF:-1 tvg-id="La casa de papel S01 E04" tvg-name="La casa de papel S01 E04"  group-title="SERIES DRAMA",La casa de papel S01 E04
+#EXTINF:-1 tvg-id="La Casa de Papel S01 E02" tvg-name="La Casa de Papel S01 E02"  group-title="SERIES DRAMA",La Casa de Papel S01 E02
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/7094.mkv
+#EXTINF:-1 tvg-id="La Casa de Papel S01 E03" tvg-name="La Casa de Papel S01 E03"  group-title="SERIES DRAMA",La Casa de Papel S01 E03
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/7105.mkv
-#EXTINF:-1 tvg-id="La casa de papel S01 E05" tvg-name="La casa de papel S01 E05"  group-title="SERIES DRAMA",La casa de papel S01 E05
+#EXTINF:-1 tvg-id="La Casa de Papel S01 E04" tvg-name="La Casa de Papel S01 E04"  group-title="SERIES DRAMA",La Casa de Papel S01 E04
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/7104.mkv
-#EXTINF:-1 tvg-id="La casa de papel S01 E06" tvg-name="La casa de papel S01 E06"  group-title="SERIES DRAMA",La casa de papel S01 E06
+#EXTINF:-1 tvg-id="La Casa de Papel S01 E05" tvg-name="La Casa de Papel S01 E05"  group-title="SERIES DRAMA",La Casa de Papel S01 E05
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/7103.mkv
-#EXTINF:-1 tvg-id="La casa de papel S01 E07" tvg-name="La casa de papel S01 E07"  group-title="SERIES DRAMA",La casa de papel S01 E07
+#EXTINF:-1 tvg-id="La Casa de Papel S01 E06" tvg-name="La Casa de Papel S01 E06"  group-title="SERIES DRAMA",La Casa de Papel S01 E06
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/7102.mkv
-#EXTINF:-1 tvg-id="La casa de papel S01 E08" tvg-name="La casa de papel S01 E08"  group-title="SERIES DRAMA",La casa de papel S01 E08
+#EXTINF:-1 tvg-id="La Casa de Papel S01 E07" tvg-name="La Casa de Papel S01 E07"  group-title="SERIES DRAMA",La Casa de Papel S01 E07
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/7101.mkv
-#EXTINF:-1 tvg-id="La casa de papel S01 E09" tvg-name="La casa de papel S01 E09"  group-title="SERIES DRAMA",La casa de papel S01 E09
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/7100.mkv
-#EXTINF:-1 tvg-id="La casa de papel S01 E10" tvg-name="La casa de papel S01 E10"  group-title="SERIES DRAMA",La casa de papel S01 E10
+#EXTINF:-1 tvg-id="La Casa de Papel S01 E08" tvg-name="La Casa de Papel S01 E08"  group-title="SERIES DRAMA",La Casa de Papel S01 E08
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/7099.mkv
-#EXTINF:-1 tvg-id="La casa de papel S01 E11" tvg-name="La casa de papel S01 E11"  group-title="SERIES DRAMA",La casa de papel S01 E11
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/7098.mkv
-#EXTINF:-1 tvg-id="La casa de papel S01 E12" tvg-name="La casa de papel S01 E12"  group-title="SERIES DRAMA",La casa de papel S01 E12
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/7097.mkv
-#EXTINF:-1 tvg-id="La casa de papel S01 E13" tvg-name="La casa de papel S01 E13"  group-title="SERIES DRAMA",La casa de papel S01 E13
+#EXTINF:-1 tvg-id="La Casa de Papel S01 E09" tvg-name="La Casa de Papel S01 E09"  group-title="SERIES DRAMA",La Casa de Papel S01 E09
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/7095.mkv
+#EXTINF:-1 tvg-id="La Casa de Papel S01 E10" tvg-name="La Casa de Papel S01 E10"  group-title="SERIES DRAMA",La Casa de Papel S01 E10
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/7096.mkv
-#EXTINF:-1 tvg-id="La casa de papel S02 E01" tvg-name="La casa de papel S02 E01"  group-title="SERIES DRAMA",La casa de papel S02 E01
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/7115.mkv
-#EXTINF:-1 tvg-id="La casa de papel S02 E02" tvg-name="La casa de papel S02 E02"  group-title="SERIES DRAMA",La casa de papel S02 E02
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/7114.mkv
-#EXTINF:-1 tvg-id="La casa de papel S02 E03" tvg-name="La casa de papel S02 E03"  group-title="SERIES DRAMA",La casa de papel S02 E03
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/7113.mkv
-#EXTINF:-1 tvg-id="La casa de papel S02 E04" tvg-name="La casa de papel S02 E04"  group-title="SERIES DRAMA",La casa de papel S02 E04
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/7112.mkv
-#EXTINF:-1 tvg-id="La casa de papel S02 E05" tvg-name="La casa de papel S02 E05"  group-title="SERIES DRAMA",La casa de papel S02 E05
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/7110.mkv
-#EXTINF:-1 tvg-id="La casa de papel S02 E06" tvg-name="La casa de papel S02 E06"  group-title="SERIES DRAMA",La casa de papel S02 E06
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/7109.mkv
-#EXTINF:-1 tvg-id="La casa de papel S02 E07" tvg-name="La casa de papel S02 E07"  group-title="SERIES DRAMA",La casa de papel S02 E07
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/7108.mkv
-#EXTINF:-1 tvg-id="La casa de papel S02 E08" tvg-name="La casa de papel S02 E08"  group-title="SERIES DRAMA",La casa de papel S02 E08
+#EXTINF:-1 tvg-id="La Casa de Papel S01 E11" tvg-name="La Casa de Papel S01 E11"  group-title="SERIES DRAMA",La Casa de Papel S01 E11
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/7097.mkv
+#EXTINF:-1 tvg-id="La Casa de Papel S01 E12" tvg-name="La Casa de Papel S01 E12"  group-title="SERIES DRAMA",La Casa de Papel S01 E12
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/7098.mkv
+#EXTINF:-1 tvg-id="La Casa de Papel S01 E13" tvg-name="La Casa de Papel S01 E13"  group-title="SERIES DRAMA",La Casa de Papel S01 E13
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/7100.mkv
+#EXTINF:-1 tvg-id="La Casa de Papel S02 E01" tvg-name="La Casa de Papel S02 E01"  group-title="SERIES DRAMA",La Casa de Papel S02 E01
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/7107.mkv
-#EXTINF:-1 tvg-id="La casa de papel S02 E09" tvg-name="La casa de papel S02 E09"  group-title="SERIES DRAMA",La casa de papel S02 E09
+#EXTINF:-1 tvg-id="La Casa de Papel S02 E02" tvg-name="La Casa de Papel S02 E02"  group-title="SERIES DRAMA",La Casa de Papel S02 E02
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/7108.mkv
+#EXTINF:-1 tvg-id="La Casa de Papel S02 E03" tvg-name="La Casa de Papel S02 E03"  group-title="SERIES DRAMA",La Casa de Papel S02 E03
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/7109.mkv
+#EXTINF:-1 tvg-id="La Casa de Papel S02 E04" tvg-name="La Casa de Papel S02 E04"  group-title="SERIES DRAMA",La Casa de Papel S02 E04
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/7110.mkv
+#EXTINF:-1 tvg-id="La Casa de Papel S02 E05" tvg-name="La Casa de Papel S02 E05"  group-title="SERIES DRAMA",La Casa de Papel S02 E05
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/7111.mkv
-#EXTINF:-1 tvg-id="La casa de papel S03 E01" tvg-name="La casa de papel S03 E01"  group-title="SERIES DRAMA",La casa de papel S03 E01
+#EXTINF:-1 tvg-id="La Casa de Papel S02 E06" tvg-name="La Casa de Papel S02 E06"  group-title="SERIES DRAMA",La Casa de Papel S02 E06
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/7112.mkv
+#EXTINF:-1 tvg-id="La Casa de Papel S02 E07" tvg-name="La Casa de Papel S02 E07"  group-title="SERIES DRAMA",La Casa de Papel S02 E07
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/7113.mkv
+#EXTINF:-1 tvg-id="La Casa de Papel S02 E08" tvg-name="La Casa de Papel S02 E08"  group-title="SERIES DRAMA",La Casa de Papel S02 E08
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/7114.mkv
+#EXTINF:-1 tvg-id="La Casa de Papel S02 E09" tvg-name="La Casa de Papel S02 E09"  group-title="SERIES DRAMA",La Casa de Papel S02 E09
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/7115.mkv
+#EXTINF:-1 tvg-id="La Casa de Papel S03 E01" tvg-name="La Casa de Papel S03 E01"  group-title="SERIES DRAMA",La Casa de Papel S03 E01
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/21273.mkv
-#EXTINF:-1 tvg-id="La casa de papel S03 E02" tvg-name="La casa de papel S03 E02"  group-title="SERIES DRAMA",La casa de papel S03 E02
+#EXTINF:-1 tvg-id="La Casa de Papel S03 E02" tvg-name="La Casa de Papel S03 E02"  group-title="SERIES DRAMA",La Casa de Papel S03 E02
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/21274.mkv
-#EXTINF:-1 tvg-id="La casa de papel S03 E03" tvg-name="La casa de papel S03 E03"  group-title="SERIES DRAMA",La casa de papel S03 E03
+#EXTINF:-1 tvg-id="La Casa de Papel S03 E03" tvg-name="La Casa de Papel S03 E03"  group-title="SERIES DRAMA",La Casa de Papel S03 E03
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/21275.mkv
-#EXTINF:-1 tvg-id="La casa de papel S03 E04" tvg-name="La casa de papel S03 E04"  group-title="SERIES DRAMA",La casa de papel S03 E04
+#EXTINF:-1 tvg-id="La Casa de Papel S03 E04" tvg-name="La Casa de Papel S03 E04"  group-title="SERIES DRAMA",La Casa de Papel S03 E04
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/21276.mkv
-#EXTINF:-1 tvg-id="La casa de papel S03 E05" tvg-name="La casa de papel S03 E05"  group-title="SERIES DRAMA",La casa de papel S03 E05
+#EXTINF:-1 tvg-id="La Casa de Papel S03 E05" tvg-name="La Casa de Papel S03 E05"  group-title="SERIES DRAMA",La Casa de Papel S03 E05
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/21277.mkv
-#EXTINF:-1 tvg-id="La casa de papel S03 E06" tvg-name="La casa de papel S03 E06"  group-title="SERIES DRAMA",La casa de papel S03 E06
+#EXTINF:-1 tvg-id="La Casa de Papel S03 E06" tvg-name="La Casa de Papel S03 E06"  group-title="SERIES DRAMA",La Casa de Papel S03 E06
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/21278.mkv
-#EXTINF:-1 tvg-id="La casa de papel S03 E07" tvg-name="La casa de papel S03 E07"  group-title="SERIES DRAMA",La casa de papel S03 E07
+#EXTINF:-1 tvg-id="La Casa de Papel S03 E07" tvg-name="La Casa de Papel S03 E07"  group-title="SERIES DRAMA",La Casa de Papel S03 E07
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/21279.mkv
-#EXTINF:-1 tvg-id="La casa de papel S03 E08" tvg-name="La casa de papel S03 E08"  group-title="SERIES DRAMA",La casa de papel S03 E08
+#EXTINF:-1 tvg-id="La Casa de Papel S03 E08" tvg-name="La Casa de Papel S03 E08"  group-title="SERIES DRAMA",La Casa de Papel S03 E08
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/21280.mkv
-#EXTINF:-1 tvg-id="La casa de papel S04 E01" tvg-name="La casa de papel S04 E01"  group-title="SERIES DRAMA",La casa de papel S04 E01
+#EXTINF:-1 tvg-id="La Casa de Papel S04 E01" tvg-name="La Casa de Papel S04 E01"  group-title="SERIES DRAMA",La Casa de Papel S04 E01
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/27186.mkv
-#EXTINF:-1 tvg-id="La casa de papel S04 E02" tvg-name="La casa de papel S04 E02"  group-title="SERIES DRAMA",La casa de papel S04 E02
+#EXTINF:-1 tvg-id="La Casa de Papel S04 E02" tvg-name="La Casa de Papel S04 E02"  group-title="SERIES DRAMA",La Casa de Papel S04 E02
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/27187.mkv
-#EXTINF:-1 tvg-id="La casa de papel S04 E03" tvg-name="La casa de papel S04 E03"  group-title="SERIES DRAMA",La casa de papel S04 E03
+#EXTINF:-1 tvg-id="La Casa de Papel S04 E03" tvg-name="La Casa de Papel S04 E03"  group-title="SERIES DRAMA",La Casa de Papel S04 E03
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/27188.mkv
-#EXTINF:-1 tvg-id="La casa de papel S04 E04" tvg-name="La casa de papel S04 E04"  group-title="SERIES DRAMA",La casa de papel S04 E04
+#EXTINF:-1 tvg-id="La Casa de Papel S04 E04" tvg-name="La Casa de Papel S04 E04"  group-title="SERIES DRAMA",La Casa de Papel S04 E04
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/27189.mkv
-#EXTINF:-1 tvg-id="La casa de papel S04 E05" tvg-name="La casa de papel S04 E05"  group-title="SERIES DRAMA",La casa de papel S04 E05
+#EXTINF:-1 tvg-id="La Casa de Papel S04 E05" tvg-name="La Casa de Papel S04 E05"  group-title="SERIES DRAMA",La Casa de Papel S04 E05
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/27190.mkv
-#EXTINF:-1 tvg-id="La casa de papel S04 E06" tvg-name="La casa de papel S04 E06"  group-title="SERIES DRAMA",La casa de papel S04 E06
+#EXTINF:-1 tvg-id="La Casa de Papel S04 E06" tvg-name="La Casa de Papel S04 E06"  group-title="SERIES DRAMA",La Casa de Papel S04 E06
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/27191.mkv
-#EXTINF:-1 tvg-id="La casa de papel S04 E07" tvg-name="La casa de papel S04 E07"  group-title="SERIES DRAMA",La casa de papel S04 E07
+#EXTINF:-1 tvg-id="La Casa de Papel S04 E07" tvg-name="La Casa de Papel S04 E07"  group-title="SERIES DRAMA",La Casa de Papel S04 E07
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/27192.mkv
-#EXTINF:-1 tvg-id="La casa de papel S04 E08" tvg-name="La casa de papel S04 E08"  group-title="SERIES DRAMA",La casa de papel S04 E08
+#EXTINF:-1 tvg-id="La Casa de Papel S04 E08" tvg-name="La Casa de Papel S04 E08"  group-title="SERIES DRAMA",La Casa de Papel S04 E08
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/27193.mkv
-#EXTINF:-1 tvg-id="La casa de papel S05 E01" tvg-name="La casa de papel S05 E01"  group-title="SERIES DRAMA",La casa de papel S05 E01
+#EXTINF:-1 tvg-id="La Casa de Papel S05 E01" tvg-name="La Casa de Papel S05 E01"  group-title="SERIES DRAMA",La Casa de Papel S05 E01
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/52778.mkv
-#EXTINF:-1 tvg-id="La casa de papel S05 E02" tvg-name="La casa de papel S05 E02"  group-title="SERIES DRAMA",La casa de papel S05 E02
+#EXTINF:-1 tvg-id="La Casa de Papel S05 E02" tvg-name="La Casa de Papel S05 E02"  group-title="SERIES DRAMA",La Casa de Papel S05 E02
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/52779.mkv
-#EXTINF:-1 tvg-id="La casa de papel S05 E03" tvg-name="La casa de papel S05 E03"  group-title="SERIES DRAMA",La casa de papel S05 E03
+#EXTINF:-1 tvg-id="La Casa de Papel S05 E03" tvg-name="La Casa de Papel S05 E03"  group-title="SERIES DRAMA",La Casa de Papel S05 E03
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/52780.mkv
-#EXTINF:-1 tvg-id="La casa de papel S05 E04" tvg-name="La casa de papel S05 E04"  group-title="SERIES DRAMA",La casa de papel S05 E04
+#EXTINF:-1 tvg-id="La Casa de Papel S05 E04" tvg-name="La Casa de Papel S05 E04"  group-title="SERIES DRAMA",La Casa de Papel S05 E04
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/52781.mkv
-#EXTINF:-1 tvg-id="La casa de papel S05 E05" tvg-name="La casa de papel S05 E05"  group-title="SERIES DRAMA",La casa de papel S05 E05
+#EXTINF:-1 tvg-id="La Casa de Papel S05 E05" tvg-name="La Casa de Papel S05 E05"  group-title="SERIES DRAMA",La Casa de Papel S05 E05
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/52782.mkv
+#EXTINF:-1 tvg-id="La Casa de Papel S05 E06" tvg-name="La Casa de Papel S05 E06"  group-title="SERIES DRAMA",La Casa de Papel S05 E06
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57394.mkv
+#EXTINF:-1 tvg-id="La Casa de Papel S05 E07" tvg-name="La Casa de Papel S05 E07"  group-title="SERIES DRAMA",La Casa de Papel S05 E07
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57395.mkv
+#EXTINF:-1 tvg-id="La Casa de Papel S05 E08" tvg-name="La Casa de Papel S05 E08"  group-title="SERIES DRAMA",La Casa de Papel S05 E08
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57396.mkv
+#EXTINF:-1 tvg-id="La Casa de Papel S05 E09" tvg-name="La Casa de Papel S05 E09"  group-title="SERIES DRAMA",La Casa de Papel S05 E09
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57397.mkv
+#EXTINF:-1 tvg-id="La Casa de Papel S05 E10" tvg-name="La Casa de Papel S05 E10"  group-title="SERIES DRAMA",La Casa de Papel S05 E10
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57398.mkv
 #EXTINF:-1 tvg-id="La Purga S01 E01" tvg-name="La Purga S01 E01"  group-title="SERIES DRAMA",La Purga S01 E01
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/7126.mp4
 #EXTINF:-1 tvg-id="La Purga S01 E02" tvg-name="La Purga S01 E02"  group-title="SERIES DRAMA",La Purga S01 E02
@@ -30455,6 +30527,534 @@ http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/55955.mkv
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/55956.mkv
 #EXTINF:-1 tvg-id="Masters del Universo Revelacion S01 E05" tvg-name="Masters del Universo Revelacion S01 E05" tvg-logo="http://xdgo.live:8080/images/afb2da0e545cd63f08d3add1deca4803.jpg" group-title="SERIES INFANTILES",Masters del Universo Revelacion S01 E05
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/55957.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S01 E01" tvg-name="Bob Esponja S01 E01" tvg-logo="http://xdgo.live:8080/images/328455e15d65ba9b5e869b4bfcb9ae24.jpg" group-title="SERIES INFANTILES",Bob Esponja S01 E01
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57812.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S01 E02" tvg-name="Bob Esponja S01 E02" tvg-logo="http://xdgo.live:8080/images/c09335297304a49b121667021c2220d4.jpg" group-title="SERIES INFANTILES",Bob Esponja S01 E02
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57813.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S01 E03" tvg-name="Bob Esponja S01 E03" tvg-logo="http://xdgo.live:8080/images/8250bc5adb6162d04d32ec8dbef6ceb2.jpg" group-title="SERIES INFANTILES",Bob Esponja S01 E03
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57814.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S01 E04" tvg-name="Bob Esponja S01 E04" tvg-logo="http://xdgo.live:8080/images/9efa798fa1a332fe7bbfbb4af8079640.jpg" group-title="SERIES INFANTILES",Bob Esponja S01 E04
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57815.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S01 E05" tvg-name="Bob Esponja S01 E05" tvg-logo="http://xdgo.live:8080/images/e4e401b7f523b2d75b8ab6ab5fad535f.jpg" group-title="SERIES INFANTILES",Bob Esponja S01 E05
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57816.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S01 E06" tvg-name="Bob Esponja S01 E06" tvg-logo="http://xdgo.live:8080/images/6c9dfffaa0da75cea9d676182507faa8.jpg" group-title="SERIES INFANTILES",Bob Esponja S01 E06
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57817.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S01 E07" tvg-name="Bob Esponja S01 E07" tvg-logo="http://xdgo.live:8080/images/9f7d2333439ae228337d9f91979ef880.jpg" group-title="SERIES INFANTILES",Bob Esponja S01 E07
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57818.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S01 E08" tvg-name="Bob Esponja S01 E08" tvg-logo="http://xdgo.live:8080/images/c598f6de291eb24a40018cb3bca629e5.jpg" group-title="SERIES INFANTILES",Bob Esponja S01 E08
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57819.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S01 E09" tvg-name="Bob Esponja S01 E09" tvg-logo="http://xdgo.live:8080/images/c0ba0fbdd74d0e32bc4ddedd2a4c4e67.jpg" group-title="SERIES INFANTILES",Bob Esponja S01 E09
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57820.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S01 E10" tvg-name="Bob Esponja S01 E10" tvg-logo="http://xdgo.live:8080/images/75eb07d0f4f5ad8e5ba2715f799ff30b.jpg" group-title="SERIES INFANTILES",Bob Esponja S01 E10
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57821.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S01 E11" tvg-name="Bob Esponja S01 E11" tvg-logo="http://xdgo.live:8080/images/f301a9d96fdee59ca03768b5b7864a0e.jpg" group-title="SERIES INFANTILES",Bob Esponja S01 E11
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57822.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S01 E12" tvg-name="Bob Esponja S01 E12" tvg-logo="http://xdgo.live:8080/images/5e9c291b4e7d8ff70464614a0353d57c.jpg" group-title="SERIES INFANTILES",Bob Esponja S01 E12
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57823.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S01 E13" tvg-name="Bob Esponja S01 E13" tvg-logo="http://xdgo.live:8080/images/80bf2016da48017cb0a74fd06160fddf.jpg" group-title="SERIES INFANTILES",Bob Esponja S01 E13
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57824.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S01 E14" tvg-name="Bob Esponja S01 E14" tvg-logo="http://xdgo.live:8080/images/5309140559afcfa7a91ab7a369b4a13e.jpg" group-title="SERIES INFANTILES",Bob Esponja S01 E14
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57825.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S01 E15" tvg-name="Bob Esponja S01 E15" tvg-logo="http://xdgo.live:8080/images/cc7cc8ef59f7e55868226e124b998c2b.jpg" group-title="SERIES INFANTILES",Bob Esponja S01 E15
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57826.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S01 E16" tvg-name="Bob Esponja S01 E16" tvg-logo="http://xdgo.live:8080/images/436e03b162201d0ba0dc7c41e0e7d349.jpg" group-title="SERIES INFANTILES",Bob Esponja S01 E16
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57827.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S01 E17" tvg-name="Bob Esponja S01 E17" tvg-logo="http://xdgo.live:8080/images/6439f3f8c4d67e8e1766463e46b96756.jpg" group-title="SERIES INFANTILES",Bob Esponja S01 E17
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57828.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S01 E18" tvg-name="Bob Esponja S01 E18" tvg-logo="http://xdgo.live:8080/images/d21e7f43945cd2b91fa5fe87190130e6.jpg" group-title="SERIES INFANTILES",Bob Esponja S01 E18
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57829.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S01 E19" tvg-name="Bob Esponja S01 E19" tvg-logo="http://xdgo.live:8080/images/324ba5066c4e25b3ef6b09b9812f7c4a.jpg" group-title="SERIES INFANTILES",Bob Esponja S01 E19
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57830.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S01 E20" tvg-name="Bob Esponja S01 E20" tvg-logo="http://xdgo.live:8080/images/e68670cbc09e1efd547c8986924251e4.jpg" group-title="SERIES INFANTILES",Bob Esponja S01 E20
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57831.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S02 E01" tvg-name="Bob Esponja S02 E01" tvg-logo="http://xdgo.live:8080/images/ca3e787d5d67e41b6e684bf59d5e43c4.jpg" group-title="SERIES INFANTILES",Bob Esponja S02 E01
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57878.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S02 E02" tvg-name="Bob Esponja S02 E02" tvg-logo="http://xdgo.live:8080/images/0bda560f89b1269bb92630ab59c04997.jpg" group-title="SERIES INFANTILES",Bob Esponja S02 E02
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57879.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S02 E03" tvg-name="Bob Esponja S02 E03" tvg-logo="http://xdgo.live:8080/images/02f92d19d9b97e89c0f6982feba301ad.jpg" group-title="SERIES INFANTILES",Bob Esponja S02 E03
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57880.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S02 E04" tvg-name="Bob Esponja S02 E04" tvg-logo="http://xdgo.live:8080/images/02d5230471c37588f2514723f6d1ccfc.jpg" group-title="SERIES INFANTILES",Bob Esponja S02 E04
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57881.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S02 E05" tvg-name="Bob Esponja S02 E05" tvg-logo="http://xdgo.live:8080/images/de0c1c2df309b078278aa4c0539b0ad1.jpg" group-title="SERIES INFANTILES",Bob Esponja S02 E05
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57882.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S02 E06" tvg-name="Bob Esponja S02 E06" tvg-logo="http://xdgo.live:8080/images/2401249c89fc3f66fa5d97eaba48ccba.jpg" group-title="SERIES INFANTILES",Bob Esponja S02 E06
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57883.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S02 E07" tvg-name="Bob Esponja S02 E07" tvg-logo="http://xdgo.live:8080/images/27a31ff4679275f1739fac471878e64c.jpg" group-title="SERIES INFANTILES",Bob Esponja S02 E07
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57884.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S02 E08" tvg-name="Bob Esponja S02 E08" tvg-logo="http://xdgo.live:8080/images/ac0f1a83648dcae8ebcec90f1b875947.jpg" group-title="SERIES INFANTILES",Bob Esponja S02 E08
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57885.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S02 E09" tvg-name="Bob Esponja S02 E09" tvg-logo="http://xdgo.live:8080/images/72ebfd9783c12c210b46f2b7e2e71730.jpg" group-title="SERIES INFANTILES",Bob Esponja S02 E09
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57886.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S02 E10" tvg-name="Bob Esponja S02 E10" tvg-logo="http://xdgo.live:8080/images/b4ed7b7f6ab0e0d70fff03a9a5a3dd7b.jpg" group-title="SERIES INFANTILES",Bob Esponja S02 E10
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57887.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S02 E11" tvg-name="Bob Esponja S02 E11" tvg-logo="http://xdgo.live:8080/images/0bf22f6524fc44f0179f1e6a73b7c447.jpg" group-title="SERIES INFANTILES",Bob Esponja S02 E11
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57888.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S02 E12" tvg-name="Bob Esponja S02 E12" tvg-logo="http://xdgo.live:8080/images/3b2191dd45170739337ca1be0418dc6c.jpg" group-title="SERIES INFANTILES",Bob Esponja S02 E12
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57889.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S02 E13" tvg-name="Bob Esponja S02 E13" tvg-logo="http://xdgo.live:8080/images/8a0207d7cfadc7cd7d10be723a35fc4a.jpg" group-title="SERIES INFANTILES",Bob Esponja S02 E13
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57890.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S02 E14" tvg-name="Bob Esponja S02 E14" tvg-logo="http://xdgo.live:8080/images/72c6496d7273a73e6b4aad8b7c8b8afd.jpg" group-title="SERIES INFANTILES",Bob Esponja S02 E14
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57891.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S02 E15" tvg-name="Bob Esponja S02 E15" tvg-logo="http://xdgo.live:8080/images/4363adb43e870e7b648c72c685df6aa3.jpg" group-title="SERIES INFANTILES",Bob Esponja S02 E15
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57892.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S02 E16" tvg-name="Bob Esponja S02 E16" tvg-logo="http://xdgo.live:8080/images/e494f27207c6b5d208f84b385067cd67.jpg" group-title="SERIES INFANTILES",Bob Esponja S02 E16
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57893.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S02 E17" tvg-name="Bob Esponja S02 E17" tvg-logo="http://xdgo.live:8080/images/52e85777ec8902e12b56b3902d73d5bb.jpg" group-title="SERIES INFANTILES",Bob Esponja S02 E17
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57894.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S02 E18" tvg-name="Bob Esponja S02 E18" tvg-logo="http://xdgo.live:8080/images/398690b808c9d794c686372ea130330e.jpg" group-title="SERIES INFANTILES",Bob Esponja S02 E18
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57895.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S02 E19" tvg-name="Bob Esponja S02 E19" tvg-logo="http://xdgo.live:8080/images/b59ba948529478b2c100bc22d43731a5.jpg" group-title="SERIES INFANTILES",Bob Esponja S02 E19
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57896.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S02 E20" tvg-name="Bob Esponja S02 E20" tvg-logo="http://xdgo.live:8080/images/a0f72d948534b19c32ae5ade4dda39e6.jpg" group-title="SERIES INFANTILES",Bob Esponja S02 E20
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57897.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S03 E01" tvg-name="Bob Esponja S03 E01" tvg-logo="http://xdgo.live:8080/images/7d263a046cc634ee615e7aca1d72c6a0.jpg" group-title="SERIES INFANTILES",Bob Esponja S03 E01
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57832.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S03 E02" tvg-name="Bob Esponja S03 E02" tvg-logo="http://xdgo.live:8080/images/2adfe4cc0571a3b2f353dca6eef86e40.jpg" group-title="SERIES INFANTILES",Bob Esponja S03 E02
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57833.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S03 E03" tvg-name="Bob Esponja S03 E03" tvg-logo="http://xdgo.live:8080/images/ed9e902c739cb7fe1c73cd03b8304c3b.jpg" group-title="SERIES INFANTILES",Bob Esponja S03 E03
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57834.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S03 E04" tvg-name="Bob Esponja S03 E04" tvg-logo="http://xdgo.live:8080/images/4d05ea2ee5fa4a9a3a612c5dc9663655.jpg" group-title="SERIES INFANTILES",Bob Esponja S03 E04
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57835.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S03 E05" tvg-name="Bob Esponja S03 E05" tvg-logo="http://xdgo.live:8080/images/f3b9b3d2f5611fa0ffd5fc8aecab6291.jpg" group-title="SERIES INFANTILES",Bob Esponja S03 E05
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57836.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S03 E06" tvg-name="Bob Esponja S03 E06" tvg-logo="http://xdgo.live:8080/images/99971329cd7fc8f4f1c840541fea3fed.jpg" group-title="SERIES INFANTILES",Bob Esponja S03 E06
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57837.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S03 E07" tvg-name="Bob Esponja S03 E07" tvg-logo="http://xdgo.live:8080/images/4cd9bae9d05dd49a9760723227decf0a.jpg" group-title="SERIES INFANTILES",Bob Esponja S03 E07
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57838.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S03 E08" tvg-name="Bob Esponja S03 E08" tvg-logo="http://xdgo.live:8080/images/fb0a0e15447162231419ed3d39a8cc66.jpg" group-title="SERIES INFANTILES",Bob Esponja S03 E08
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57839.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S03 E09" tvg-name="Bob Esponja S03 E09" tvg-logo="http://xdgo.live:8080/images/de5c1ab48fde67e23b0be990c9a24605.jpg" group-title="SERIES INFANTILES",Bob Esponja S03 E09
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57840.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S03 E10" tvg-name="Bob Esponja S03 E10" tvg-logo="http://xdgo.live:8080/images/6c01d0f6727c0309d54a65e3c0bc960e.jpg" group-title="SERIES INFANTILES",Bob Esponja S03 E10
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57841.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S03 E11" tvg-name="Bob Esponja S03 E11" tvg-logo="http://xdgo.live:8080/images/ce75be1ec5f94ebb3f408f48c0fe8510.jpg" group-title="SERIES INFANTILES",Bob Esponja S03 E11
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57842.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S03 E12" tvg-name="Bob Esponja S03 E12" tvg-logo="http://xdgo.live:8080/images/29ffc904257756b16a15cb643fdf4985.jpg" group-title="SERIES INFANTILES",Bob Esponja S03 E12
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57843.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S03 E13" tvg-name="Bob Esponja S03 E13" tvg-logo="http://xdgo.live:8080/images/1c859fd39c5b5bf6e4efe1a4b10bad7b.jpg" group-title="SERIES INFANTILES",Bob Esponja S03 E13
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57844.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S03 E14" tvg-name="Bob Esponja S03 E14" tvg-logo="http://xdgo.live:8080/images/01c5592c9757c147f81720ab77976297.jpg" group-title="SERIES INFANTILES",Bob Esponja S03 E14
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57845.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S03 E15" tvg-name="Bob Esponja S03 E15" tvg-logo="http://xdgo.live:8080/images/80bd8ec1dd52bc0d9301f80664f264e4.jpg" group-title="SERIES INFANTILES",Bob Esponja S03 E15
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57846.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S03 E16" tvg-name="Bob Esponja S03 E16" tvg-logo="http://xdgo.live:8080/images/161f721880a0c7417426943f458efef1.jpg" group-title="SERIES INFANTILES",Bob Esponja S03 E16
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57847.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S03 E17" tvg-name="Bob Esponja S03 E17" tvg-logo="http://xdgo.live:8080/images/fed33efd4870e88fae0c3099a05cd992.jpg" group-title="SERIES INFANTILES",Bob Esponja S03 E17
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57848.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S03 E18" tvg-name="Bob Esponja S03 E18" tvg-logo="http://xdgo.live:8080/images/f805e5661eb223f55046045f30665cf7.jpg" group-title="SERIES INFANTILES",Bob Esponja S03 E18
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57849.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S03 E19" tvg-name="Bob Esponja S03 E19" tvg-logo="http://xdgo.live:8080/images/76acff5785037071ba617c9b10794a73.jpg" group-title="SERIES INFANTILES",Bob Esponja S03 E19
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57850.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S03 E20" tvg-name="Bob Esponja S03 E20" tvg-logo="http://xdgo.live:8080/images/0fc75297079e98373d265f69f0b8367b.jpg" group-title="SERIES INFANTILES",Bob Esponja S03 E20
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57851.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S04 E01" tvg-name="Bob Esponja S04 E01" tvg-logo="http://xdgo.live:8080/images/de1aa0750f8091082b70fec99e031986.jpg" group-title="SERIES INFANTILES",Bob Esponja S04 E01
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57792.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S04 E02" tvg-name="Bob Esponja S04 E02" tvg-logo="http://xdgo.live:8080/images/a8842d44c70328fba705f47d874a61d9.jpg" group-title="SERIES INFANTILES",Bob Esponja S04 E02
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57793.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S04 E03" tvg-name="Bob Esponja S04 E03" tvg-logo="http://xdgo.live:8080/images/b064c9dcec0c0c08dfb7987d23d89c41.jpg" group-title="SERIES INFANTILES",Bob Esponja S04 E03
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57794.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S04 E04" tvg-name="Bob Esponja S04 E04" tvg-logo="http://xdgo.live:8080/images/c46e3961e710b3d3bfb1f8d2b4ee064d.jpg" group-title="SERIES INFANTILES",Bob Esponja S04 E04
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57795.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S04 E05" tvg-name="Bob Esponja S04 E05" tvg-logo="http://xdgo.live:8080/images/37b9cd32f502e49394df3f6f345e7a36.jpg" group-title="SERIES INFANTILES",Bob Esponja S04 E05
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57796.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S04 E06" tvg-name="Bob Esponja S04 E06" tvg-logo="http://xdgo.live:8080/images/9dbfab53f0c9375d54e815424a51f1c1.jpg" group-title="SERIES INFANTILES",Bob Esponja S04 E06
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57797.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S04 E07" tvg-name="Bob Esponja S04 E07" tvg-logo="http://xdgo.live:8080/images/42431e9ded3e3b9707857c03a6c1fde5.jpg" group-title="SERIES INFANTILES",Bob Esponja S04 E07
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57798.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S04 E08" tvg-name="Bob Esponja S04 E08" tvg-logo="http://xdgo.live:8080/images/dd4bb15942b4d740e2932adf5ef3d9aa.jpg" group-title="SERIES INFANTILES",Bob Esponja S04 E08
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57799.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S04 E09" tvg-name="Bob Esponja S04 E09" tvg-logo="http://xdgo.live:8080/images/caf6ba7f94f19daa5e3dd8bcb17355fd.jpg" group-title="SERIES INFANTILES",Bob Esponja S04 E09
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57800.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S04 E10" tvg-name="Bob Esponja S04 E10" tvg-logo="http://xdgo.live:8080/images/cb88e89ae6bc0a08b18b94942cf6446a.jpg" group-title="SERIES INFANTILES",Bob Esponja S04 E10
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57801.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S04 E11" tvg-name="Bob Esponja S04 E11" tvg-logo="http://xdgo.live:8080/images/f498ac3392c8bf56bc2eadfd1911cd94.jpg" group-title="SERIES INFANTILES",Bob Esponja S04 E11
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57802.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S04 E12" tvg-name="Bob Esponja S04 E12" tvg-logo="http://xdgo.live:8080/images/1162e22f9ec2f2df93304a27e2b81efc.jpg" group-title="SERIES INFANTILES",Bob Esponja S04 E12
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57803.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S04 E13" tvg-name="Bob Esponja S04 E13" tvg-logo="http://xdgo.live:8080/images/e4373cd5f7a510637f5de9ba84235fde.jpg" group-title="SERIES INFANTILES",Bob Esponja S04 E13
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57804.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S04 E14" tvg-name="Bob Esponja S04 E14" tvg-logo="http://xdgo.live:8080/images/033daec9d38e49e33502daf4d78cf3e8.jpg" group-title="SERIES INFANTILES",Bob Esponja S04 E14
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57805.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S04 E15" tvg-name="Bob Esponja S04 E15" tvg-logo="http://xdgo.live:8080/images/46347f618116baf05b2ff7a436d44106.jpg" group-title="SERIES INFANTILES",Bob Esponja S04 E15
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57806.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S04 E16" tvg-name="Bob Esponja S04 E16" tvg-logo="http://xdgo.live:8080/images/fc970b9950a67a52380d0ea426680715.jpg" group-title="SERIES INFANTILES",Bob Esponja S04 E16
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57807.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S04 E17" tvg-name="Bob Esponja S04 E17" tvg-logo="http://xdgo.live:8080/images/2c7fb57a49ec7a59bdda8341c12acb32.jpg" group-title="SERIES INFANTILES",Bob Esponja S04 E17
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57808.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S04 E18" tvg-name="Bob Esponja S04 E18" tvg-logo="http://xdgo.live:8080/images/ed6ac00552f37218406eb491d040eb75.jpg" group-title="SERIES INFANTILES",Bob Esponja S04 E18
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57809.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S04 E19" tvg-name="Bob Esponja S04 E19" tvg-logo="http://xdgo.live:8080/images/ff7f4a14404f3bc513b66d6022aabc48.jpg" group-title="SERIES INFANTILES",Bob Esponja S04 E19
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57810.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S04 E20" tvg-name="Bob Esponja S04 E20" tvg-logo="http://xdgo.live:8080/images/8481c58e19fa7e759cce34ed5aa383dc.jpg" group-title="SERIES INFANTILES",Bob Esponja S04 E20
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57811.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S05 E01" tvg-name="Bob Esponja S05 E01" tvg-logo="http://xdgo.live:8080/images/67463b316e53d75910a1bc0164d435b3.jpg" group-title="SERIES INFANTILES",Bob Esponja S05 E01
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57898.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S05 E02" tvg-name="Bob Esponja S05 E02" tvg-logo="http://xdgo.live:8080/images/f266ee8a66cb7747cd0a2e1ce8be013b.jpg" group-title="SERIES INFANTILES",Bob Esponja S05 E02
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57899.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S05 E03" tvg-name="Bob Esponja S05 E03" tvg-logo="http://xdgo.live:8080/images/6bb342af54b47f1450e7c827762f0422.jpg" group-title="SERIES INFANTILES",Bob Esponja S05 E03
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57900.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S05 E04" tvg-name="Bob Esponja S05 E04" tvg-logo="http://xdgo.live:8080/images/6d1a43f34d9ec67b8587662bb52732ed.jpg" group-title="SERIES INFANTILES",Bob Esponja S05 E04
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57901.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S05 E05" tvg-name="Bob Esponja S05 E05" tvg-logo="http://xdgo.live:8080/images/a715ee775a338682c76318b5d37f2fce.jpg" group-title="SERIES INFANTILES",Bob Esponja S05 E05
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57902.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S05 E06" tvg-name="Bob Esponja S05 E06" tvg-logo="http://xdgo.live:8080/images/e907ec861a55ba8b346b66ec3763d6ab.jpg" group-title="SERIES INFANTILES",Bob Esponja S05 E06
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57903.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S05 E07" tvg-name="Bob Esponja S05 E07" tvg-logo="http://xdgo.live:8080/images/bc14ddb6e724025df5ce1bf179188321.jpg" group-title="SERIES INFANTILES",Bob Esponja S05 E07
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57904.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S05 E08" tvg-name="Bob Esponja S05 E08" tvg-logo="http://xdgo.live:8080/images/9e025c4f920eabf44c0071f7762f789b.jpg" group-title="SERIES INFANTILES",Bob Esponja S05 E08
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57905.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S05 E09" tvg-name="Bob Esponja S05 E09" tvg-logo="http://xdgo.live:8080/images/9d6e1ce0f7db34c1d3ed27c07107eaa6.jpg" group-title="SERIES INFANTILES",Bob Esponja S05 E09
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57906.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S05 E10" tvg-name="Bob Esponja S05 E10" tvg-logo="http://xdgo.live:8080/images/3ae609cc129b976f4dda1efc32381025.jpg" group-title="SERIES INFANTILES",Bob Esponja S05 E10
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57907.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S05 E11" tvg-name="Bob Esponja S05 E11" tvg-logo="http://xdgo.live:8080/images/042ec5fd800f03cb2496a4b8030fd0ab.jpg" group-title="SERIES INFANTILES",Bob Esponja S05 E11
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57908.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S05 E12" tvg-name="Bob Esponja S05 E12" tvg-logo="http://xdgo.live:8080/images/e7c87dae2813ac54c1f82f5e3c4975ca.jpg" group-title="SERIES INFANTILES",Bob Esponja S05 E12
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57909.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S05 E13" tvg-name="Bob Esponja S05 E13" tvg-logo="http://xdgo.live:8080/images/5801f8f5fc511f74b45a85e472417b1c.jpg" group-title="SERIES INFANTILES",Bob Esponja S05 E13
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57910.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S05 E14" tvg-name="Bob Esponja S05 E14" tvg-logo="http://xdgo.live:8080/images/7b94e44ac6786dabf4bc510ba98c3b5d.jpg" group-title="SERIES INFANTILES",Bob Esponja S05 E14
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57911.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S05 E15" tvg-name="Bob Esponja S05 E15" tvg-logo="http://xdgo.live:8080/images/ec69d92af889a406f78d8412c9631be0.jpg" group-title="SERIES INFANTILES",Bob Esponja S05 E15
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57912.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S05 E16" tvg-name="Bob Esponja S05 E16" tvg-logo="http://xdgo.live:8080/images/82057d38604201cef6ad3511463cf890.jpg" group-title="SERIES INFANTILES",Bob Esponja S05 E16
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57913.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S05 E17" tvg-name="Bob Esponja S05 E17" tvg-logo="http://xdgo.live:8080/images/bf73ebf7def1fda3795cb347eeb741e5.jpg" group-title="SERIES INFANTILES",Bob Esponja S05 E17
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57914.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S05 E18" tvg-name="Bob Esponja S05 E18" tvg-logo="http://xdgo.live:8080/images/63f4fcbc8c9025da5ea5b2dce308cff9.jpg" group-title="SERIES INFANTILES",Bob Esponja S05 E18
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57915.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S05 E19" tvg-name="Bob Esponja S05 E19" tvg-logo="http://xdgo.live:8080/images/47a660f820dc68d6ebaf25091e81dc5e.jpg" group-title="SERIES INFANTILES",Bob Esponja S05 E19
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57916.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S05 E20" tvg-name="Bob Esponja S05 E20" tvg-logo="http://xdgo.live:8080/images/38fddfa8ae5e919bd2b214aafcafdb60.jpg" group-title="SERIES INFANTILES",Bob Esponja S05 E20
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57917.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S06 E01" tvg-name="Bob Esponja S06 E01" tvg-logo="http://xdgo.live:8080/images/d08c91338cc58de5bef8827e7a3cf270.jpg" group-title="SERIES INFANTILES",Bob Esponja S06 E01
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57918.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S06 E02" tvg-name="Bob Esponja S06 E02" tvg-logo="http://xdgo.live:8080/images/07a6dc250d571454fa750d3ffd484baa.jpg" group-title="SERIES INFANTILES",Bob Esponja S06 E02
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57919.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S06 E03" tvg-name="Bob Esponja S06 E03" tvg-logo="http://xdgo.live:8080/images/148bf2f1353911238b80d93a7dcce044.jpg" group-title="SERIES INFANTILES",Bob Esponja S06 E03
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57920.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S06 E04" tvg-name="Bob Esponja S06 E04" tvg-logo="http://xdgo.live:8080/images/070b98a60c9bd665920684d7b14b81a7.jpg" group-title="SERIES INFANTILES",Bob Esponja S06 E04
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57921.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S06 E05" tvg-name="Bob Esponja S06 E05" tvg-logo="http://xdgo.live:8080/images/46db48a7de089d82474a42a9444ac73f.jpg" group-title="SERIES INFANTILES",Bob Esponja S06 E05
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57922.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S06 E06" tvg-name="Bob Esponja S06 E06" tvg-logo="http://xdgo.live:8080/images/38b765ccb1cb5f0b9ff65c7decefac83.jpg" group-title="SERIES INFANTILES",Bob Esponja S06 E06
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57923.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S06 E07" tvg-name="Bob Esponja S06 E07" tvg-logo="http://xdgo.live:8080/images/77be4eb5c75710df0499f68b8066fec0.jpg" group-title="SERIES INFANTILES",Bob Esponja S06 E07
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57924.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S06 E08" tvg-name="Bob Esponja S06 E08" tvg-logo="http://xdgo.live:8080/images/7ff508873c0789286fee3891de84b2e6.jpg" group-title="SERIES INFANTILES",Bob Esponja S06 E08
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57925.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S06 E09" tvg-name="Bob Esponja S06 E09" tvg-logo="http://xdgo.live:8080/images/4e878340fa78553141e71feb2ffae599.jpg" group-title="SERIES INFANTILES",Bob Esponja S06 E09
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57926.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S06 E10" tvg-name="Bob Esponja S06 E10" tvg-logo="http://xdgo.live:8080/images/6967cdfd19438909dfeefa2dc5f83bb8.jpg" group-title="SERIES INFANTILES",Bob Esponja S06 E10
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57927.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S06 E11" tvg-name="Bob Esponja S06 E11" tvg-logo="http://xdgo.live:8080/images/f6035ce6de77f5d1707fa6f5c1165390.jpg" group-title="SERIES INFANTILES",Bob Esponja S06 E11
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57928.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S06 E12" tvg-name="Bob Esponja S06 E12" tvg-logo="http://xdgo.live:8080/images/dd9521f3b9f87400ee963cfbd86ec961.jpg" group-title="SERIES INFANTILES",Bob Esponja S06 E12
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57929.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S06 E13" tvg-name="Bob Esponja S06 E13" tvg-logo="http://xdgo.live:8080/images/ee09c1099e7dc46315e85f22cd5fdbdb.jpg" group-title="SERIES INFANTILES",Bob Esponja S06 E13
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57930.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S06 E14" tvg-name="Bob Esponja S06 E14" tvg-logo="http://xdgo.live:8080/images/45d72ad57851789cc142d49db276d2a8.jpg" group-title="SERIES INFANTILES",Bob Esponja S06 E14
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57931.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S06 E15" tvg-name="Bob Esponja S06 E15" tvg-logo="http://xdgo.live:8080/images/aab8018457a99a3130aeae6f2e559936.jpg" group-title="SERIES INFANTILES",Bob Esponja S06 E15
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57932.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S06 E16" tvg-name="Bob Esponja S06 E16" tvg-logo="http://xdgo.live:8080/images/1c4d2e866e71b44707b5d0bf60604e2c.jpg" group-title="SERIES INFANTILES",Bob Esponja S06 E16
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57933.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S06 E17" tvg-name="Bob Esponja S06 E17" tvg-logo="http://xdgo.live:8080/images/aef5dbf76f5401cc93ab578889472e40.jpg" group-title="SERIES INFANTILES",Bob Esponja S06 E17
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57934.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S06 E18" tvg-name="Bob Esponja S06 E18" tvg-logo="http://xdgo.live:8080/images/bf049f2835ade0ef40e432918be33cdc.jpg" group-title="SERIES INFANTILES",Bob Esponja S06 E18
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57935.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S06 E19" tvg-name="Bob Esponja S06 E19" tvg-logo="http://xdgo.live:8080/images/07df10d7395976ca2f89680486464777.jpg" group-title="SERIES INFANTILES",Bob Esponja S06 E19
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57936.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S06 E20" tvg-name="Bob Esponja S06 E20" tvg-logo="http://xdgo.live:8080/images/222c23c631a908f1bb370fa9c46d655a.jpg" group-title="SERIES INFANTILES",Bob Esponja S06 E20
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57937.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S06 E21" tvg-name="Bob Esponja S06 E21" tvg-logo="http://xdgo.live:8080/images/a319aa9db8eaa558e800c9bdd66f4647.jpg" group-title="SERIES INFANTILES",Bob Esponja S06 E21
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57938.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S06 E22" tvg-name="Bob Esponja S06 E22" tvg-logo="http://xdgo.live:8080/images/297925fa539347968355543e7f040960.jpg" group-title="SERIES INFANTILES",Bob Esponja S06 E22
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57939.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S06 E23" tvg-name="Bob Esponja S06 E23" tvg-logo="http://xdgo.live:8080/images/6c5ca5d3a5d47a4ab033cec5183e910f.jpg" group-title="SERIES INFANTILES",Bob Esponja S06 E23
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57940.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S06 E24" tvg-name="Bob Esponja S06 E24" tvg-logo="http://xdgo.live:8080/images/c7a07fe32ab0324ab1fbf39192e1333d.jpg" group-title="SERIES INFANTILES",Bob Esponja S06 E24
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57941.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S06 E25" tvg-name="Bob Esponja S06 E25" tvg-logo="http://xdgo.live:8080/images/cb4c883a53f8215a474b0ba091ad26db.jpg" group-title="SERIES INFANTILES",Bob Esponja S06 E25
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57942.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S06 E26" tvg-name="Bob Esponja S06 E26" tvg-logo="http://xdgo.live:8080/images/638bf1262d17fead59d13ef4e074663c.jpg" group-title="SERIES INFANTILES",Bob Esponja S06 E26
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57943.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S07 E01" tvg-name="Bob Esponja S07 E01" tvg-logo="http://xdgo.live:8080/images/dd934c12dd7e20eaa956a8f36c24e284.jpg" group-title="SERIES INFANTILES",Bob Esponja S07 E01
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57944.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S07 E02" tvg-name="Bob Esponja S07 E02" tvg-logo="http://xdgo.live:8080/images/bced9255166862e11a97e116dcbf4dd2.jpg" group-title="SERIES INFANTILES",Bob Esponja S07 E02
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57945.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S07 E03" tvg-name="Bob Esponja S07 E03" tvg-logo="http://xdgo.live:8080/images/dc2f66f9a389fa75b6a43512a0db234c.jpg" group-title="SERIES INFANTILES",Bob Esponja S07 E03
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57946.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S07 E04" tvg-name="Bob Esponja S07 E04" tvg-logo="http://xdgo.live:8080/images/c7019b822699f242f5e79c0e6788557f.jpg" group-title="SERIES INFANTILES",Bob Esponja S07 E04
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57947.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S07 E05" tvg-name="Bob Esponja S07 E05" tvg-logo="http://xdgo.live:8080/images/aef133d537c55617238ab6806ba27e49.jpg" group-title="SERIES INFANTILES",Bob Esponja S07 E05
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57948.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S07 E06" tvg-name="Bob Esponja S07 E06" tvg-logo="http://xdgo.live:8080/images/b90ed72c48fe4d12435e6810f20f7b99.jpg" group-title="SERIES INFANTILES",Bob Esponja S07 E06
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57949.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S07 E07" tvg-name="Bob Esponja S07 E07" tvg-logo="http://xdgo.live:8080/images/cfa9d2c3f56e8846cacfe65c3a52e6cd.jpg" group-title="SERIES INFANTILES",Bob Esponja S07 E07
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57950.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S07 E08" tvg-name="Bob Esponja S07 E08" tvg-logo="http://xdgo.live:8080/images/baa55f9b44089a06942a6e450c59baa8.jpg" group-title="SERIES INFANTILES",Bob Esponja S07 E08
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57951.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S07 E09" tvg-name="Bob Esponja S07 E09" tvg-logo="http://xdgo.live:8080/images/eef41b9a1f421553df781c1058372bcb.jpg" group-title="SERIES INFANTILES",Bob Esponja S07 E09
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57952.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S07 E10" tvg-name="Bob Esponja S07 E10" tvg-logo="http://xdgo.live:8080/images/dfb2e6880daf862da3a2e7da71e61fca.jpg" group-title="SERIES INFANTILES",Bob Esponja S07 E10
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57953.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S07 E11" tvg-name="Bob Esponja S07 E11" tvg-logo="http://xdgo.live:8080/images/58bbc931b90acab59d17f8e10231f7b6.jpg" group-title="SERIES INFANTILES",Bob Esponja S07 E11
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57954.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S07 E12" tvg-name="Bob Esponja S07 E12" tvg-logo="http://xdgo.live:8080/images/a6853b5428d2ad6d02194fd0044c5163.jpg" group-title="SERIES INFANTILES",Bob Esponja S07 E12
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57955.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S07 E13" tvg-name="Bob Esponja S07 E13" tvg-logo="http://xdgo.live:8080/images/4bec9e86e601084a4c996f089d5bc297.jpg" group-title="SERIES INFANTILES",Bob Esponja S07 E13
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57956.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S07 E14" tvg-name="Bob Esponja S07 E14" tvg-logo="http://xdgo.live:8080/images/a3ee981f43fe8384b5a1e1ddc6d8280e.jpg" group-title="SERIES INFANTILES",Bob Esponja S07 E14
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57957.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S07 E15" tvg-name="Bob Esponja S07 E15" tvg-logo="http://xdgo.live:8080/images/c81d1dd2d3b71fcc048d9675f87ab547.jpg" group-title="SERIES INFANTILES",Bob Esponja S07 E15
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57958.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S07 E16" tvg-name="Bob Esponja S07 E16" tvg-logo="http://xdgo.live:8080/images/86f1f8143bdf79b664c3d90086e6f49a.jpg" group-title="SERIES INFANTILES",Bob Esponja S07 E16
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57959.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S07 E17" tvg-name="Bob Esponja S07 E17" tvg-logo="http://xdgo.live:8080/images/e713c0cadc16c8fc160caaee7ea96575.jpg" group-title="SERIES INFANTILES",Bob Esponja S07 E17
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57960.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S07 E18" tvg-name="Bob Esponja S07 E18" tvg-logo="http://xdgo.live:8080/images/3ab9f73bb7cb377efcd1a20a4083e925.jpg" group-title="SERIES INFANTILES",Bob Esponja S07 E18
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57961.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S07 E19" tvg-name="Bob Esponja S07 E19" tvg-logo="http://xdgo.live:8080/images/7d40da97cf0b6fbdbd3c6c83f9c1d3ea.jpg" group-title="SERIES INFANTILES",Bob Esponja S07 E19
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57962.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S07 E20" tvg-name="Bob Esponja S07 E20" tvg-logo="http://xdgo.live:8080/images/5b5ac2f752b9247791d2e54d0b5ba650.jpg" group-title="SERIES INFANTILES",Bob Esponja S07 E20
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57963.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S07 E21" tvg-name="Bob Esponja S07 E21" tvg-logo="http://xdgo.live:8080/images/fd49d547b715d8f813847948ec5d88bb.jpg" group-title="SERIES INFANTILES",Bob Esponja S07 E21
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57964.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S07 E22" tvg-name="Bob Esponja S07 E22" tvg-logo="http://xdgo.live:8080/images/808ebfbe45404f31ce74fdf78fc7ecaf.jpg" group-title="SERIES INFANTILES",Bob Esponja S07 E22
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57965.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S07 E23" tvg-name="Bob Esponja S07 E23" tvg-logo="http://xdgo.live:8080/images/6dc6e8b9dfba39db1cce126c0a535590.jpg" group-title="SERIES INFANTILES",Bob Esponja S07 E23
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57966.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S07 E24" tvg-name="Bob Esponja S07 E24" tvg-logo="http://xdgo.live:8080/images/f4a20a0632a9cbb255cb2dc101dcc048.jpg" group-title="SERIES INFANTILES",Bob Esponja S07 E24
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57967.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S07 E25" tvg-name="Bob Esponja S07 E25" tvg-logo="http://xdgo.live:8080/images/b580343099ebea0272118f02b683e08a.jpg" group-title="SERIES INFANTILES",Bob Esponja S07 E25
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57968.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S07 E26" tvg-name="Bob Esponja S07 E26" tvg-logo="http://xdgo.live:8080/images/4bba391626521053e1598d68cdca6e20.jpg" group-title="SERIES INFANTILES",Bob Esponja S07 E26
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57969.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S08 E01" tvg-name="Bob Esponja S08 E01" tvg-logo="http://xdgo.live:8080/images/2bb9cc401f535fc00058b225c07c92ab.jpg" group-title="SERIES INFANTILES",Bob Esponja S08 E01
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57970.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S08 E02" tvg-name="Bob Esponja S08 E02" tvg-logo="http://xdgo.live:8080/images/a2bbf11fb319580ca6b7bdbb6c8de4de.jpg" group-title="SERIES INFANTILES",Bob Esponja S08 E02
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57971.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S08 E03" tvg-name="Bob Esponja S08 E03" tvg-logo="http://xdgo.live:8080/images/ac7b9ac23aee7b55e5d7f363fc794dc3.jpg" group-title="SERIES INFANTILES",Bob Esponja S08 E03
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57972.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S08 E04" tvg-name="Bob Esponja S08 E04" tvg-logo="http://xdgo.live:8080/images/28ac15acbe404924d7e8663d8adaafbd.jpg" group-title="SERIES INFANTILES",Bob Esponja S08 E04
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57973.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S08 E05" tvg-name="Bob Esponja S08 E05" tvg-logo="http://xdgo.live:8080/images/f61b8ca2a87d85912f2c518c69764745.jpg" group-title="SERIES INFANTILES",Bob Esponja S08 E05
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57974.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S08 E06" tvg-name="Bob Esponja S08 E06" tvg-logo="http://xdgo.live:8080/images/012951357cb6bda83c2fc959f802c8cc.jpg" group-title="SERIES INFANTILES",Bob Esponja S08 E06
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57975.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S08 E07" tvg-name="Bob Esponja S08 E07" tvg-logo="http://xdgo.live:8080/images/0e31e19da48907e16a8f38cddd49d159.jpg" group-title="SERIES INFANTILES",Bob Esponja S08 E07
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57976.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S08 E08" tvg-name="Bob Esponja S08 E08" tvg-logo="http://xdgo.live:8080/images/90a6934975ddd83e1730146b7986de2e.jpg" group-title="SERIES INFANTILES",Bob Esponja S08 E08
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57977.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S08 E09" tvg-name="Bob Esponja S08 E09" tvg-logo="http://xdgo.live:8080/images/c3b1c9a140aaae4e53d0fbeeed080731.jpg" group-title="SERIES INFANTILES",Bob Esponja S08 E09
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57978.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S08 E10" tvg-name="Bob Esponja S08 E10" tvg-logo="http://xdgo.live:8080/images/88f425faa16c1bfca40e0a8b68bec149.jpg" group-title="SERIES INFANTILES",Bob Esponja S08 E10
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57979.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S08 E11" tvg-name="Bob Esponja S08 E11" tvg-logo="http://xdgo.live:8080/images/bb8cee1012499c7f137e73bcf3d5e5d6.jpg" group-title="SERIES INFANTILES",Bob Esponja S08 E11
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57980.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S08 E12" tvg-name="Bob Esponja S08 E12" tvg-logo="http://xdgo.live:8080/images/a19ea9cf3a2c6b6a4ae060e451ee12e9.jpg" group-title="SERIES INFANTILES",Bob Esponja S08 E12
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57981.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S08 E13" tvg-name="Bob Esponja S08 E13" tvg-logo="http://xdgo.live:8080/images/725f356b8816caa6ec80b1e7ee245ce0.jpg" group-title="SERIES INFANTILES",Bob Esponja S08 E13
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57982.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S08 E14" tvg-name="Bob Esponja S08 E14" tvg-logo="http://xdgo.live:8080/images/b31f2a8fc508a382b4273aaa3d87fb16.jpg" group-title="SERIES INFANTILES",Bob Esponja S08 E14
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57983.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S08 E15" tvg-name="Bob Esponja S08 E15" tvg-logo="http://xdgo.live:8080/images/bfb95d1415ecd3adf539fded7c8dfa1c.jpg" group-title="SERIES INFANTILES",Bob Esponja S08 E15
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57984.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S08 E16" tvg-name="Bob Esponja S08 E16" tvg-logo="http://xdgo.live:8080/images/88ade00f142efab6d7909d25235c90e2.jpg" group-title="SERIES INFANTILES",Bob Esponja S08 E16
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57985.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S08 E17" tvg-name="Bob Esponja S08 E17" tvg-logo="http://xdgo.live:8080/images/0ed575f9c34ce42ad0c78669ec42a9ab.jpg" group-title="SERIES INFANTILES",Bob Esponja S08 E17
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57986.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S08 E18" tvg-name="Bob Esponja S08 E18" tvg-logo="http://xdgo.live:8080/images/db4dd4b7673911ad6da3c54c69b4d4d0.jpg" group-title="SERIES INFANTILES",Bob Esponja S08 E18
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57987.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S08 E19" tvg-name="Bob Esponja S08 E19" tvg-logo="http://xdgo.live:8080/images/c92aeae569abea2990fe3c3bc525063f.jpg" group-title="SERIES INFANTILES",Bob Esponja S08 E19
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57988.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S08 E20" tvg-name="Bob Esponja S08 E20" tvg-logo="http://xdgo.live:8080/images/b7960d24a1b32804308bf623325655eb.jpg" group-title="SERIES INFANTILES",Bob Esponja S08 E20
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57989.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S08 E21" tvg-name="Bob Esponja S08 E21" tvg-logo="http://xdgo.live:8080/images/ff3f31fd958ee1125337eba6c26664ca.jpg" group-title="SERIES INFANTILES",Bob Esponja S08 E21
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57990.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S08 E22" tvg-name="Bob Esponja S08 E22" tvg-logo="http://xdgo.live:8080/images/553c8640aa9fd186b8d177fba5d9007a.jpg" group-title="SERIES INFANTILES",Bob Esponja S08 E22
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57991.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S08 E23" tvg-name="Bob Esponja S08 E23" tvg-logo="http://xdgo.live:8080/images/82f6f7814c9840edced91acaf258c1aa.jpg" group-title="SERIES INFANTILES",Bob Esponja S08 E23
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57992.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S08 E24" tvg-name="Bob Esponja S08 E24" tvg-logo="http://xdgo.live:8080/images/c81a70c658fcaf7f2db8d2c30f248522.jpg" group-title="SERIES INFANTILES",Bob Esponja S08 E24
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57993.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S08 E25" tvg-name="Bob Esponja S08 E25" tvg-logo="http://xdgo.live:8080/images/3f676193f4e7f0fc67b461b50d0d0519.jpg" group-title="SERIES INFANTILES",Bob Esponja S08 E25
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57994.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S08 E26" tvg-name="Bob Esponja S08 E26" tvg-logo="http://xdgo.live:8080/images/fa0264d9f8c0a6182243a3beac9caed4.jpg" group-title="SERIES INFANTILES",Bob Esponja S08 E26
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57995.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S09 E01" tvg-name="Bob Esponja S09 E01" tvg-logo="http://xdgo.live:8080/images/c43081d77b135c1708cf65861c6f032d.jpg" group-title="SERIES INFANTILES",Bob Esponja S09 E01
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57852.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S09 E02" tvg-name="Bob Esponja S09 E02" tvg-logo="http://xdgo.live:8080/images/1cbc7e5f79fc542d1c9b290e1ab9bdf8.jpg" group-title="SERIES INFANTILES",Bob Esponja S09 E02
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57853.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S09 E03" tvg-name="Bob Esponja S09 E03" tvg-logo="http://xdgo.live:8080/images/cfd0c2311e67d845c943f9ff71eaa1fc.jpg" group-title="SERIES INFANTILES",Bob Esponja S09 E03
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57854.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S09 E04" tvg-name="Bob Esponja S09 E04" tvg-logo="http://xdgo.live:8080/images/ad409ba42651ee05d8138a08558ead63.jpg" group-title="SERIES INFANTILES",Bob Esponja S09 E04
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57855.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S09 E05" tvg-name="Bob Esponja S09 E05" tvg-logo="http://xdgo.live:8080/images/c412e800cda760e53f43da61d0dfd430.jpg" group-title="SERIES INFANTILES",Bob Esponja S09 E05
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57856.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S09 E06" tvg-name="Bob Esponja S09 E06" tvg-logo="http://xdgo.live:8080/images/e3f419aa037ffecaac24c114011972d3.jpg" group-title="SERIES INFANTILES",Bob Esponja S09 E06
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57857.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S09 E07" tvg-name="Bob Esponja S09 E07" tvg-logo="http://xdgo.live:8080/images/1906bb3bb27244261b690b0c8c7ac2cf.jpg" group-title="SERIES INFANTILES",Bob Esponja S09 E07
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57858.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S09 E08" tvg-name="Bob Esponja S09 E08" tvg-logo="http://xdgo.live:8080/images/beb319903566b139602e45aa66ecaea5.jpg" group-title="SERIES INFANTILES",Bob Esponja S09 E08
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57859.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S09 E09" tvg-name="Bob Esponja S09 E09" tvg-logo="http://xdgo.live:8080/images/3c967be4cab2fea8da80301f6657d0c3.jpg" group-title="SERIES INFANTILES",Bob Esponja S09 E09
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57860.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S09 E10" tvg-name="Bob Esponja S09 E10" tvg-logo="http://xdgo.live:8080/images/29358c564b2a888ebd1e41476e182dc5.jpg" group-title="SERIES INFANTILES",Bob Esponja S09 E10
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57861.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S09 E11" tvg-name="Bob Esponja S09 E11" tvg-logo="http://xdgo.live:8080/images/04c56de5a8f8117c0ec0b87149ef49df.jpg" group-title="SERIES INFANTILES",Bob Esponja S09 E11
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57862.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S09 E12" tvg-name="Bob Esponja S09 E12" tvg-logo="http://xdgo.live:8080/images/9b55d37994d39f3b8dd3d9e66f375970.jpg" group-title="SERIES INFANTILES",Bob Esponja S09 E12
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57863.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S09 E13" tvg-name="Bob Esponja S09 E13" tvg-logo="http://xdgo.live:8080/images/074aacf3024b0a11a27ec4284fa98a7d.jpg" group-title="SERIES INFANTILES",Bob Esponja S09 E13
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57864.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S09 E14" tvg-name="Bob Esponja S09 E14" tvg-logo="http://xdgo.live:8080/images/8d64bba5fecc2bed5e34b9da3638a583.jpg" group-title="SERIES INFANTILES",Bob Esponja S09 E14
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57865.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S09 E15" tvg-name="Bob Esponja S09 E15" tvg-logo="http://xdgo.live:8080/images/6fce4285d4bfc7c469dedbfa9fdb80b1.jpg" group-title="SERIES INFANTILES",Bob Esponja S09 E15
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57866.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S09 E16" tvg-name="Bob Esponja S09 E16" tvg-logo="http://xdgo.live:8080/images/e55e40afbd72024e2d07a7d6dadb35dd.jpg" group-title="SERIES INFANTILES",Bob Esponja S09 E16
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57867.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S09 E17" tvg-name="Bob Esponja S09 E17" tvg-logo="http://xdgo.live:8080/images/38b8e25df045e878529fd036b3437419.jpg" group-title="SERIES INFANTILES",Bob Esponja S09 E17
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57868.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S09 E18" tvg-name="Bob Esponja S09 E18" tvg-logo="http://xdgo.live:8080/images/aaaf640007ecd0c166f5fe10c5413155.jpg" group-title="SERIES INFANTILES",Bob Esponja S09 E18
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57869.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S09 E19" tvg-name="Bob Esponja S09 E19" tvg-logo="http://xdgo.live:8080/images/66c1178e20032087571597c2aea3178a.jpg" group-title="SERIES INFANTILES",Bob Esponja S09 E19
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57870.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S09 E20" tvg-name="Bob Esponja S09 E20" tvg-logo="http://xdgo.live:8080/images/8725600b0992e7a0949d040b3909f96b.jpg" group-title="SERIES INFANTILES",Bob Esponja S09 E20
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57871.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S09 E21" tvg-name="Bob Esponja S09 E21" tvg-logo="http://xdgo.live:8080/images/a0080339884ece38e43355e4de9c068c.jpg" group-title="SERIES INFANTILES",Bob Esponja S09 E21
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57872.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S09 E22" tvg-name="Bob Esponja S09 E22" tvg-logo="http://xdgo.live:8080/images/c70d1328c7d143c81ade9b70f8f9d232.jpg" group-title="SERIES INFANTILES",Bob Esponja S09 E22
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57873.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S09 E23" tvg-name="Bob Esponja S09 E23" tvg-logo="http://xdgo.live:8080/images/a9e24e8109bdc0fac6957b6489873fd9.jpg" group-title="SERIES INFANTILES",Bob Esponja S09 E23
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57874.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S09 E24" tvg-name="Bob Esponja S09 E24" tvg-logo="http://xdgo.live:8080/images/dc939a70d3aa8f41bbb498c2dd404daf.jpg" group-title="SERIES INFANTILES",Bob Esponja S09 E24
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57875.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S09 E25" tvg-name="Bob Esponja S09 E25" tvg-logo="http://xdgo.live:8080/images/df83e1f9815cce628b64f80d538132f2.jpg" group-title="SERIES INFANTILES",Bob Esponja S09 E25
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57876.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S09 E26" tvg-name="Bob Esponja S09 E26" tvg-logo="http://xdgo.live:8080/images/5fe3e3f54db6161af31e4dea29166a5b.jpg" group-title="SERIES INFANTILES",Bob Esponja S09 E26
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57877.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S10 E01" tvg-name="Bob Esponja S10 E01" tvg-logo="http://xdgo.live:8080/images/45d8b72e1f425a0e3e3194c8e7ba481f.jpg" group-title="SERIES INFANTILES",Bob Esponja S10 E01
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57781.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S10 E02" tvg-name="Bob Esponja S10 E02" tvg-logo="http://xdgo.live:8080/images/2a53d01521776325052d7ea8a170134d.jpg" group-title="SERIES INFANTILES",Bob Esponja S10 E02
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57782.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S10 E03" tvg-name="Bob Esponja S10 E03" tvg-logo="http://xdgo.live:8080/images/e2ac82046d231792ede203011c7feb8c.jpg" group-title="SERIES INFANTILES",Bob Esponja S10 E03
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57783.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S10 E04" tvg-name="Bob Esponja S10 E04" tvg-logo="http://xdgo.live:8080/images/bafb417be33a539b7ba1e14d228fbbdf.jpg" group-title="SERIES INFANTILES",Bob Esponja S10 E04
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57784.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S10 E05" tvg-name="Bob Esponja S10 E05" tvg-logo="http://xdgo.live:8080/images/db926c0b1f3ad6f37a0d7716d631f405.jpg" group-title="SERIES INFANTILES",Bob Esponja S10 E05
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57785.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S10 E06" tvg-name="Bob Esponja S10 E06" tvg-logo="http://xdgo.live:8080/images/44c021d8d7cd968b4317f89e0dc4a62e.jpg" group-title="SERIES INFANTILES",Bob Esponja S10 E06
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57786.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S10 E07" tvg-name="Bob Esponja S10 E07" tvg-logo="http://xdgo.live:8080/images/bcddd50a2c6c5a287640d833754c1fa1.jpg" group-title="SERIES INFANTILES",Bob Esponja S10 E07
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57787.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S10 E08" tvg-name="Bob Esponja S10 E08" tvg-logo="http://xdgo.live:8080/images/4a39dc98ca8b37dd5d7618b99b6b4247.jpg" group-title="SERIES INFANTILES",Bob Esponja S10 E08
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57788.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S10 E09" tvg-name="Bob Esponja S10 E09" tvg-logo="http://xdgo.live:8080/images/fd28749b49c4b72ad7ed57d74a5d1035.jpg" group-title="SERIES INFANTILES",Bob Esponja S10 E09
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57789.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S10 E10" tvg-name="Bob Esponja S10 E10" tvg-logo="http://xdgo.live:8080/images/a0e2e2ab1b9ccd60dc62dfa419c92d1c.jpg" group-title="SERIES INFANTILES",Bob Esponja S10 E10
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57790.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S10 E11" tvg-name="Bob Esponja S10 E11" tvg-logo="http://xdgo.live:8080/images/5b3a57d0837e3453772c298a92059f0a.jpg" group-title="SERIES INFANTILES",Bob Esponja S10 E11
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57791.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S11 E01" tvg-name="Bob Esponja S11 E01" tvg-logo="http://xdgo.live:8080/images/89bf818c5e37599461e2f74f37fa0bd9.jpg" group-title="SERIES INFANTILES",Bob Esponja S11 E01
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57755.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S11 E02" tvg-name="Bob Esponja S11 E02" tvg-logo="http://xdgo.live:8080/images/fd6af39370d06269750a10aad8f64a02.jpg" group-title="SERIES INFANTILES",Bob Esponja S11 E02
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57756.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S11 E03" tvg-name="Bob Esponja S11 E03" tvg-logo="http://xdgo.live:8080/images/d7586dc4379ec463594a4cec890ee8ca.jpg" group-title="SERIES INFANTILES",Bob Esponja S11 E03
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57757.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S11 E04" tvg-name="Bob Esponja S11 E04" tvg-logo="http://xdgo.live:8080/images/ec257214f8423f27a32b743002345ae5.jpg" group-title="SERIES INFANTILES",Bob Esponja S11 E04
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57758.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S11 E05" tvg-name="Bob Esponja S11 E05" tvg-logo="http://xdgo.live:8080/images/9cc99642e4d897d4b14a092a21bc0439.jpg" group-title="SERIES INFANTILES",Bob Esponja S11 E05
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57759.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S11 E06" tvg-name="Bob Esponja S11 E06" tvg-logo="http://xdgo.live:8080/images/40c698b372630b90b311ab8273925923.jpg" group-title="SERIES INFANTILES",Bob Esponja S11 E06
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57760.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S11 E07" tvg-name="Bob Esponja S11 E07" tvg-logo="http://xdgo.live:8080/images/2e92cd689b4f27c53d34927bfa0b09a2.jpg" group-title="SERIES INFANTILES",Bob Esponja S11 E07
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57761.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S11 E08" tvg-name="Bob Esponja S11 E08" tvg-logo="http://xdgo.live:8080/images/6913c8cc8724cbe49dde071c048eaf38.jpg" group-title="SERIES INFANTILES",Bob Esponja S11 E08
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57762.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S11 E09" tvg-name="Bob Esponja S11 E09" tvg-logo="http://xdgo.live:8080/images/d97d222fa60db1e9a447c5a617f2acde.jpg" group-title="SERIES INFANTILES",Bob Esponja S11 E09
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57763.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S11 E10" tvg-name="Bob Esponja S11 E10" tvg-logo="http://xdgo.live:8080/images/9b6c66139bff87b49e234010e6ebe400.jpg" group-title="SERIES INFANTILES",Bob Esponja S11 E10
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57764.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S11 E11" tvg-name="Bob Esponja S11 E11" tvg-logo="http://xdgo.live:8080/images/1111b089004b6285448c1ff35511c7bd.jpg" group-title="SERIES INFANTILES",Bob Esponja S11 E11
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57765.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S11 E12" tvg-name="Bob Esponja S11 E12" tvg-logo="http://xdgo.live:8080/images/7a3bd7228d219703718aedde772f2297.jpg" group-title="SERIES INFANTILES",Bob Esponja S11 E12
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57766.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S11 E13" tvg-name="Bob Esponja S11 E13" tvg-logo="http://xdgo.live:8080/images/54095980e8feb430223b9801f109a965.jpg" group-title="SERIES INFANTILES",Bob Esponja S11 E13
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57767.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S11 E14" tvg-name="Bob Esponja S11 E14" tvg-logo="http://xdgo.live:8080/images/8f010f09ac6bd74bd8c3efad18ad9840.jpg" group-title="SERIES INFANTILES",Bob Esponja S11 E14
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57768.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S11 E15" tvg-name="Bob Esponja S11 E15" tvg-logo="http://xdgo.live:8080/images/3038a01f78f52456eae4a9f10a21179e.jpg" group-title="SERIES INFANTILES",Bob Esponja S11 E15
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57769.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S11 E16" tvg-name="Bob Esponja S11 E16" tvg-logo="http://xdgo.live:8080/images/ce4d3bebb456adf1e30b1159b77a3401.jpg" group-title="SERIES INFANTILES",Bob Esponja S11 E16
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57770.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S11 E17" tvg-name="Bob Esponja S11 E17" tvg-logo="http://xdgo.live:8080/images/95e7bf20b1aa23f60ed6c82a8cae64ee.jpg" group-title="SERIES INFANTILES",Bob Esponja S11 E17
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57771.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S11 E18" tvg-name="Bob Esponja S11 E18" tvg-logo="http://xdgo.live:8080/images/687e737e93a4d126904433b53f833eb1.jpg" group-title="SERIES INFANTILES",Bob Esponja S11 E18
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57772.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S11 E19" tvg-name="Bob Esponja S11 E19" tvg-logo="http://xdgo.live:8080/images/bdea6793968ff1098b54f273fcbc3b63.jpg" group-title="SERIES INFANTILES",Bob Esponja S11 E19
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57773.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S11 E20" tvg-name="Bob Esponja S11 E20" tvg-logo="http://xdgo.live:8080/images/de19952e42edcdf029f840be11987e9f.jpg" group-title="SERIES INFANTILES",Bob Esponja S11 E20
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57774.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S11 E21" tvg-name="Bob Esponja S11 E21" tvg-logo="http://xdgo.live:8080/images/21113027600ac29bb0f29928bbbd7378.jpg" group-title="SERIES INFANTILES",Bob Esponja S11 E21
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57775.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S11 E22" tvg-name="Bob Esponja S11 E22" tvg-logo="http://xdgo.live:8080/images/27e68963bf3699fa06c70f6676153e82.jpg" group-title="SERIES INFANTILES",Bob Esponja S11 E22
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57776.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S11 E23" tvg-name="Bob Esponja S11 E23" tvg-logo="http://xdgo.live:8080/images/efd5ea6ab810777f2972c106c48dc035.jpg" group-title="SERIES INFANTILES",Bob Esponja S11 E23
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57777.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S11 E24" tvg-name="Bob Esponja S11 E24" tvg-logo="http://xdgo.live:8080/images/3f7dfd4c99811fabf4167ff36d023229.jpg" group-title="SERIES INFANTILES",Bob Esponja S11 E24
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57778.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S11 E25" tvg-name="Bob Esponja S11 E25" tvg-logo="http://xdgo.live:8080/images/dfa891fc29f09ce3f62541b1be7c96f4.jpg" group-title="SERIES INFANTILES",Bob Esponja S11 E25
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57779.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S11 E26" tvg-name="Bob Esponja S11 E26" tvg-logo="http://xdgo.live:8080/images/ec091e17000b31b5d47099de0dfebedc.jpg" group-title="SERIES INFANTILES",Bob Esponja S11 E26
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57780.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S12 E01" tvg-name="Bob Esponja S12 E01" tvg-logo="http://xdgo.live:8080/images/57191c416924d7ab365007ca01fbbb8c.jpg" group-title="SERIES INFANTILES",Bob Esponja S12 E01
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57732.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S12 E02" tvg-name="Bob Esponja S12 E02" tvg-logo="http://xdgo.live:8080/images/5cd793c4be1363e75bd12edc6af827c8.jpg" group-title="SERIES INFANTILES",Bob Esponja S12 E02
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57733.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S12 E03" tvg-name="Bob Esponja S12 E03" tvg-logo="http://xdgo.live:8080/images/52de20ff951417010b5f7b1c16d47b4a.jpg" group-title="SERIES INFANTILES",Bob Esponja S12 E03
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57734.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S12 E04" tvg-name="Bob Esponja S12 E04" tvg-logo="http://xdgo.live:8080/images/4c035a6486f1a0fa99a5e9d859f2643a.jpg" group-title="SERIES INFANTILES",Bob Esponja S12 E04
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57735.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S12 E05" tvg-name="Bob Esponja S12 E05" tvg-logo="http://xdgo.live:8080/images/99d1c478f42209a6bbc008a7e6ce54c7.jpg" group-title="SERIES INFANTILES",Bob Esponja S12 E05
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57736.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S12 E06" tvg-name="Bob Esponja S12 E06" tvg-logo="http://xdgo.live:8080/images/401a026aed42916da1e5ee7b93a4e5a0.jpg" group-title="SERIES INFANTILES",Bob Esponja S12 E06
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57737.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S12 E07" tvg-name="Bob Esponja S12 E07" tvg-logo="http://xdgo.live:8080/images/7d9e4974cc7933a85eb28c1fd86269b8.jpg" group-title="SERIES INFANTILES",Bob Esponja S12 E07
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57738.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S12 E08" tvg-name="Bob Esponja S12 E08" tvg-logo="http://xdgo.live:8080/images/78d9f425d02ea5b7ecb6e7a0beb8cf03.jpg" group-title="SERIES INFANTILES",Bob Esponja S12 E08
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57739.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S12 E09" tvg-name="Bob Esponja S12 E09" tvg-logo="http://xdgo.live:8080/images/cd820a3252c42167c538989202d1646f.jpg" group-title="SERIES INFANTILES",Bob Esponja S12 E09
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57740.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S12 E10" tvg-name="Bob Esponja S12 E10" tvg-logo="http://xdgo.live:8080/images/6e50e42f9f94832be5f27556f8ad01dd.jpg" group-title="SERIES INFANTILES",Bob Esponja S12 E10
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57741.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S12 E11" tvg-name="Bob Esponja S12 E11" tvg-logo="http://xdgo.live:8080/images/9c69b65553ac21f46d12c3a9edc72cf1.jpg" group-title="SERIES INFANTILES",Bob Esponja S12 E11
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57742.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S12 E12" tvg-name="Bob Esponja S12 E12" tvg-logo="http://xdgo.live:8080/images/1c9f11c6f434c5256b82228aa47d4382.jpg" group-title="SERIES INFANTILES",Bob Esponja S12 E12
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57743.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S12 E13" tvg-name="Bob Esponja S12 E13" tvg-logo="http://xdgo.live:8080/images/4f97a2e1ca6ba6678f470a36c72aa672.jpg" group-title="SERIES INFANTILES",Bob Esponja S12 E13
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57744.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S12 E14" tvg-name="Bob Esponja S12 E14" tvg-logo="http://xdgo.live:8080/images/e638e10714b7835a3839332c23287609.jpg" group-title="SERIES INFANTILES",Bob Esponja S12 E14
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57745.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S12 E15" tvg-name="Bob Esponja S12 E15" tvg-logo="http://xdgo.live:8080/images/9dae71c0579edd4b2f5ecb3b69130f88.jpg" group-title="SERIES INFANTILES",Bob Esponja S12 E15
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57746.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S12 E16" tvg-name="Bob Esponja S12 E16" tvg-logo="http://xdgo.live:8080/images/03eacd44e576dc9347ef3caffd0a9b3e.jpg" group-title="SERIES INFANTILES",Bob Esponja S12 E16
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57747.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S12 E17" tvg-name="Bob Esponja S12 E17" tvg-logo="http://xdgo.live:8080/images/c46638fa66492635e3030c659ea923e8.jpg" group-title="SERIES INFANTILES",Bob Esponja S12 E17
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57748.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S12 E18" tvg-name="Bob Esponja S12 E18" tvg-logo="http://xdgo.live:8080/images/6dc196310b73234c3ae6ce64056eaa4c.jpg" group-title="SERIES INFANTILES",Bob Esponja S12 E18
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57749.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S12 E19" tvg-name="Bob Esponja S12 E19" tvg-logo="http://xdgo.live:8080/images/1ba1aa2c82644817e097922a85291520.jpg" group-title="SERIES INFANTILES",Bob Esponja S12 E19
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57750.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S12 E20" tvg-name="Bob Esponja S12 E20" tvg-logo="http://xdgo.live:8080/images/531020c9c20d7e1212f3d8562c33e39a.jpg" group-title="SERIES INFANTILES",Bob Esponja S12 E20
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57751.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S12 E21" tvg-name="Bob Esponja S12 E21" tvg-logo="http://xdgo.live:8080/images/bad4e6488ae3ac7254d104ab453073fd.jpg" group-title="SERIES INFANTILES",Bob Esponja S12 E21
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57752.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S12 E22" tvg-name="Bob Esponja S12 E22" tvg-logo="http://xdgo.live:8080/images/78e36ad377726fc69c15df3a48a565d7.jpg" group-title="SERIES INFANTILES",Bob Esponja S12 E22
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57753.mkv
+#EXTINF:-1 tvg-id="Bob Esponja S12 E23" tvg-name="Bob Esponja S12 E23" tvg-logo="http://xdgo.live:8080/images/373b503188becc86c56467ca16ce68fb.jpg" group-title="SERIES INFANTILES",Bob Esponja S12 E23
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57754.mkv
 #EXTINF:-1 tvg-id="Homecoming S01 E01" tvg-name="Homecoming S01 E01"  group-title="SERIES TERROR - THRILLER",Homecoming S01 E01
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6816.mkv
 #EXTINF:-1 tvg-id="Homecoming S01 E02" tvg-name="Homecoming S01 E02"  group-title="SERIES TERROR - THRILLER",Homecoming S01 E02
@@ -31165,6 +31765,148 @@ http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/41776.mkv
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/42114.mkv
 #EXTINF:-1 tvg-id="WandaVision S01 E09" tvg-name="WandaVision S01 E09"  group-title="WANDAVISION",WandaVision S01 E09
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/42412.mkv
+#EXTINF:-1 tvg-id="Encanto (2021)" tvg-name="Encanto (2021)" tvg-logo="http://xdgo.live:8080/images/46f97429852791959976a49c5c32cf77.jpg" group-title="VFLIX ESTRENOS",Encanto (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/58250.mkv
+#EXTINF:-1 tvg-id="A mil kilómetros de la Navidad (2021)" tvg-name="A mil kilómetros de la Navidad (2021)" tvg-logo="http://xdgo.live:8080/images/e0e5a27dc190bd72e7a2116ba6889ff4.jpg" group-title="VFLIX ESTRENOS",A mil kilómetros de la Navidad (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/58248.mkv
+#EXTINF:-1 tvg-id="No mires arriba (2021)" tvg-name="No mires arriba (2021)" tvg-logo="http://xdgo.live:8080/images/9e12efa346bc8c0726cefe663893815b.jpg" group-title="VFLIX ESTRENOS",No mires arriba (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/58249.mkv
+#EXTINF:-1 tvg-id="Far From the Tree (2021)" tvg-name="Far From the Tree (2021)" tvg-logo="http://xdgo.live:8080/images/8a33f017399ca67478df10c7bb012d2a.jpg" group-title="VFLIX ESTRENOS",Far From the Tree (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/58251.mkv
+#EXTINF:-1 tvg-id="മിന്നൽ മുരളി (2021)" tvg-name="മിന്നൽ മുരളി (2021)" tvg-logo="http://xdgo.live:8080/images/f66d12a986353a60c20c7ffe33015c12.jpg" group-title="VFLIX ESTRENOS",മിന്നൽ മുരളി (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/58252.mkv
+#EXTINF:-1 tvg-id="El secreto de Vicky (2021)" tvg-name="El secreto de Vicky (2021)" tvg-logo="http://xdgo.live:8080/images/61c49d4c3ce2b8cb39bb22f87d469cb6.jpg" group-title="VFLIX ESTRENOS",El secreto de Vicky (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/58253.mkv
+#EXTINF:-1 tvg-id="Mamá o papá (2021)" tvg-name="Mamá o papá (2021)" tvg-logo="http://xdgo.live:8080/images/fc364f1eee3d288172eef1623245c8f3.jpg" group-title="VFLIX ESTRENOS",Mamá o papá (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/58254.mkv
+#EXTINF:-1 tvg-id="Matrix 4: Resurrecciones (2021)" tvg-name="Matrix 4: Resurrecciones (2021)" tvg-logo="http://xdgo.live:8080/images/71d581d78a6492308f60a85510855155.jpg" group-title="VFLIX ESTRENOS",Matrix 4: Resurrecciones (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/58247.mkv
+#EXTINF:-1 tvg-id="A Choice of Weapons: Inspired by Gordon Parks (2021)" tvg-name="A Choice of Weapons: Inspired by Gordon Parks (2021)" tvg-logo="http://xdgo.live:8080/images/dfee4de6d81f36f036e255fc420a8a34.jpg" group-title="VFLIX ESTRENOS",A Choice of Weapons: Inspired by Gordon Parks (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/58244.mkv
+#EXTINF:-1 tvg-id="Being the Ricardos (2021)" tvg-name="Being the Ricardos (2021)" tvg-logo="http://xdgo.live:8080/images/431cb3bdb3436610a5a9ec9f938da6a7.jpg" group-title="VFLIX ESTRENOS",Being the Ricardos (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/58245.mkv
+#EXTINF:-1 tvg-id="Una Navidad No Tan Padre (2021)" tvg-name="Una Navidad No Tan Padre (2021)" tvg-logo="http://xdgo.live:8080/images/05dd9eb76b9390c78edbc4f44ca25326.jpg" group-title="VFLIX ESTRENOS",Una Navidad No Tan Padre (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/58246.mkv
+#EXTINF:-1 tvg-id="10 palomas (2021)" tvg-name="10 palomas (2021)" tvg-logo="http://xdgo.live:8080/images/25a4fb155c2c8d5b15909e6c96b01299.jpg" group-title="VFLIX ESTRENOS",10 palomas (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/58126.mkv
+#EXTINF:-1 tvg-id="A Naija Christmas (2021)" tvg-name="A Naija Christmas (2021)" tvg-logo="http://xdgo.live:8080/images/16ffb72abe93acc7d176998a5928f903.jpg" group-title="VFLIX ESTRENOS",A Naija Christmas (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/58127.mkv
+#EXTINF:-1 tvg-id="A Matter of Causality (2021)" tvg-name="A Matter of Causality (2021)" tvg-logo="http://xdgo.live:8080/images/56454b77c87b4bf0fb4f8158be475e8e.jpg" group-title="VFLIX ESTRENOS",A Matter of Causality (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/58128.mkv
+#EXTINF:-1 tvg-id="La navidad esta cancelada (2021)" tvg-name="La navidad esta cancelada (2021)" tvg-logo="http://xdgo.live:8080/images/31f6ee25bab62e7e4cec0cf68b143247.jpg" group-title="VFLIX ESTRENOS",La navidad esta cancelada (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/58129.mkv
+#EXTINF:-1 tvg-id="Fortress (2021)" tvg-name="Fortress (2021)" tvg-logo="http://xdgo.live:8080/images/1191c14a98ef0d565d9cb4973c66a0ea.jpg" group-title="VFLIX ESTRENOS",Fortress (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/58130.mkv
+#EXTINF:-1 tvg-id="Mother/Android (2021)" tvg-name="Mother/Android (2021)" tvg-logo="http://xdgo.live:8080/images/0d083c0f98513a49c672fb065412e758.jpg" group-title="VFLIX ESTRENOS",Mother/Android (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/58131.mkv
+#EXTINF:-1 tvg-id="El canto del cisne (2021)" tvg-name="El canto del cisne (2021)" tvg-logo="http://xdgo.live:8080/images/edbb7d6b978b72b09f0a852440b55185.jpg" group-title="VFLIX ESTRENOS",El canto del cisne (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/58132.mkv
+#EXTINF:-1 tvg-id="Tú eres mi problema (2021)" tvg-name="Tú eres mi problema (2021)" tvg-logo="http://xdgo.live:8080/images/49e7964ee5b69c3602bd55a45a115371.jpg" group-title="VFLIX ESTRENOS",Tú eres mi problema (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/58133.mkv
+#EXTINF:-1 tvg-id="Clifford el gran perro rojo (2021)" tvg-name="Clifford el gran perro rojo (2021)" tvg-logo="http://xdgo.live:8080/images/455d2dfad5a7ca22e129a7b24a78fb72.jpg" group-title="VFLIX ESTRENOS",Clifford el gran perro rojo (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/58039.mp4
+#EXTINF:-1 tvg-id="Globo y las maravillas del arrecife (2021)" tvg-name="Globo y las maravillas del arrecife (2021)" tvg-logo="http://xdgo.live:8080/images/dc203c1ab59fdfec22926eda68927e1c.jpg" group-title="VFLIX ESTRENOS",Globo y las maravillas del arrecife (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/58041.mp4
+#EXTINF:-1 tvg-id="Held (2020)" tvg-name="Held (2020)" tvg-logo="http://xdgo.live:8080/images/46d3cf003a4fc2e0361574b97e54e262.jpg" group-title="VFLIX ESTRENOS",Held (2020)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/58042.mp4
+#EXTINF:-1 tvg-id="La Cantera (2021)" tvg-name="La Cantera (2021)" tvg-logo="http://xdgo.live:8080/images/0ebf23780ef5b755fd1c731ed18df110.jpg" group-title="VFLIX ESTRENOS",La Cantera (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/58043.mp4
+#EXTINF:-1 tvg-id="Santos Criminales (2021)" tvg-name="Santos Criminales (2021)" tvg-logo="http://xdgo.live:8080/images/7763d1b78ffd7d6379a7829043da5ea5.jpg" group-title="VFLIX ESTRENOS",Santos Criminales (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/58044.mp4
+#EXTINF:-1 tvg-id="Mr. Saturday Night (2021)" tvg-name="Mr. Saturday Night (2021)" tvg-logo="http://xdgo.live:8080/images/c21094dc1d987261375d2ef9fc36a2e7.jpg" group-title="VFLIX ESTRENOS",Mr. Saturday Night (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/58045.mp4
+#EXTINF:-1 tvg-id="Operación Feliz Navidad: La estafa de los duendes (2021)" tvg-name="Operación Feliz Navidad: La estafa de los duendes (2021)" tvg-logo="http://xdgo.live:8080/images/97faed63355e944d41451cbd51e5ae12.jpg" group-title="VFLIX ESTRENOS",Operación Feliz Navidad: La estafa de los duendes (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/58046.mp4
+#EXTINF:-1 tvg-id="The Match (2021)" tvg-name="The Match (2021)" tvg-logo="http://xdgo.live:8080/images/22e7eef8da334f7d4287d349a8f2a844.jpg" group-title="VFLIX ESTRENOS",The Match (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/58049.mp4
+#EXTINF:-1 tvg-id="The Middle Man (2021)" tvg-name="The Middle Man (2021)" tvg-logo="http://xdgo.live:8080/images/76617cd1b9529c2c630dbf1e9b6108f1.jpg" group-title="VFLIX ESTRENOS",The Middle Man (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/58050.mp4
+#EXTINF:-1 tvg-id="Antlers: Criatura oscura (2021)" tvg-name="Antlers: Criatura oscura (2021)" tvg-logo="http://xdgo.live:8080/images/0c15d94ff40968fd8c69ace1220a9b2c.jpg" group-title="VFLIX ESTRENOS",Antlers: Criatura oscura (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57727.mkv
+#EXTINF:-1 tvg-id="Blue Bayou (2021)" tvg-name="Blue Bayou (2021)" tvg-logo="http://xdgo.live:8080/images/a69b624797ade4ebf0031a1a0d54ee69.jpg" group-title="VFLIX ESTRENOS",Blue Bayou (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57728.mkv
+#EXTINF:-1 tvg-id="Snoopy presenta: Por los viejos tiempos (2021)" tvg-name="Snoopy presenta: Por los viejos tiempos (2021)" tvg-logo="http://xdgo.live:8080/images/582cc72ee66b876da1fbb7d46bd54616.jpg" group-title="VFLIX ESTRENOS",Snoopy presenta: Por los viejos tiempos (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57729.mkv
+#EXTINF:-1 tvg-id="La crónica francesa (2021)" tvg-name="La crónica francesa (2021)" tvg-logo="http://xdgo.live:8080/images/bcb4cd519139765370e57fa817a7ea72.jpg" group-title="VFLIX ESTRENOS",La crónica francesa (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57730.mkv
+#EXTINF:-1 tvg-id="Dos (2021)" tvg-name="Dos (2021)" tvg-logo="http://xdgo.live:8080/images/2d194dd3b59f1dd129ccdbb9b47a9c15.jpg" group-title="VFLIX ESTRENOS",Dos (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57731.mkv
+#EXTINF:-1 tvg-id="Anónima (2021)" tvg-name="Anónima (2021)" tvg-logo="http://xdgo.live:8080/images/ab42ab963725c24bc82ba0bee92b49e7.jpg" group-title="VFLIX ESTRENOS",Anónima (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57574.mkv
+#EXTINF:-1 tvg-id="El chico de Asakusa (2021)" tvg-name="El chico de Asakusa (2021)" tvg-logo="http://xdgo.live:8080/images/9d672d8098199937781d546a73d1b1d6.jpg" group-title="VFLIX ESTRENOS",El chico de Asakusa (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57575.mkv
+#EXTINF:-1 tvg-id="Azor (2021)" tvg-name="Azor (2021)" tvg-logo="http://xdgo.live:8080/images/b9f37fd3e2c432a912cc4829e34bb0da.jpg" group-title="VFLIX ESTRENOS",Azor (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57576.mkv
+#EXTINF:-1 tvg-id="¡Nos Volvemos a Casa! (2021)" tvg-name="¡Nos Volvemos a Casa! (2021)" tvg-logo="http://xdgo.live:8080/images/3b7e92f9026815d7c84c45cf7de1b92d.jpg" group-title="VFLIX ESTRENOS",¡Nos Volvemos a Casa! (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57577.mkv
+#EXTINF:-1 tvg-id="David y los Elfos (2021)" tvg-name="David y los Elfos (2021)" tvg-logo="http://xdgo.live:8080/images/12e49fd8eb1791426ed8fc63c9b3f0f7.jpg" group-title="VFLIX ESTRENOS",David y los Elfos (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57578.mkv
+#EXTINF:-1 tvg-id="Encounter (2021)" tvg-name="Encounter (2021)" tvg-logo="http://xdgo.live:8080/images/5d6b23b6d62bb8983a329d4de6ad9f56.jpg" group-title="VFLIX ESTRENOS",Encounter (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57579.mkv
+#EXTINF:-1 tvg-id="Mickey and Minnie Wish Upon a Christmas (2021)" tvg-name="Mickey and Minnie Wish Upon a Christmas (2021)" tvg-logo="http://xdgo.live:8080/images/af90de73a7f8171d612b2e2f82b533ad.jpg" group-title="VFLIX ESTRENOS",Mickey and Minnie Wish Upon a Christmas (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57580.mkv
+#EXTINF:-1 tvg-id="Phobias (2021)" tvg-name="Phobias (2021)" tvg-logo="http://xdgo.live:8080/images/e828a460e7537fd1544abb278e11c3fa.jpg" group-title="VFLIX ESTRENOS",Phobias (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57581.mkv
+#EXTINF:-1 tvg-id="Shithouse (2020)" tvg-name="Shithouse (2020)" tvg-logo="http://xdgo.live:8080/images/ff56ce43b38bd1bd96823ebe5dd08c38.jpg" group-title="VFLIX ESTRENOS",Shithouse (2020)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57582.mkv
+#EXTINF:-1 tvg-id="South Park: Post Covid (2021)" tvg-name="South Park: Post Covid (2021)" tvg-logo="http://xdgo.live:8080/images/cee99cbbeccfc3b15ab3f0847b741175.jpg" group-title="VFLIX ESTRENOS",South Park: Post Covid (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57583.mkv
+#EXTINF:-1 tvg-id="En un momento aún mejor (2021)" tvg-name="En un momento aún mejor (2021)" tvg-logo="http://xdgo.live:8080/images/1cd7b7d02e0b9ef3a9f1959e8329074d.jpg" group-title="VFLIX ESTRENOS",En un momento aún mejor (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57584.mkv
+#EXTINF:-1 tvg-id="Imperdonable (2021)" tvg-name="Imperdonable (2021)" tvg-logo="http://xdgo.live:8080/images/f688a80ab77ad0cd78800af54e1ca829.jpg" group-title="VFLIX ESTRENOS",Imperdonable (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57585.mkv
+#EXTINF:-1 tvg-id="Witch Hunt (2021)" tvg-name="Witch Hunt (2021)" tvg-logo="http://xdgo.live:8080/images/33157239b5eddef6b1c7a3018e1833b8.jpg" group-title="VFLIX ESTRENOS",Witch Hunt (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57586.mkv
+#EXTINF:-1 tvg-id="Bordertown: Murales de sangre (2021)" tvg-name="Bordertown: Murales de sangre (2021)" tvg-logo="http://xdgo.live:8080/images/a94a2bbb1c85ca0ae571bf7e9d0aa283.jpg" group-title="VFLIX ESTRENOS",Bordertown: Murales de sangre (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57525.mkv
+#EXTINF:-1 tvg-id="Christmas ...Again?! (2021)" tvg-name="Christmas ...Again?! (2021)" tvg-logo="http://xdgo.live:8080/images/dd8bb61b4d50bcb07cd01949625c9594.jpg" group-title="VFLIX ESTRENOS",Christmas ...Again?! (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57526.mkv
+#EXTINF:-1 tvg-id="El Diario de Greg (2021)" tvg-name="El Diario de Greg (2021)" tvg-logo="http://xdgo.live:8080/images/4db1034808aa3eb4fabde648938d91a4.jpg" group-title="VFLIX ESTRENOS",El Diario de Greg (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57527.mkv
+#EXTINF:-1 tvg-id="Elyse (2020)" tvg-name="Elyse (2020)" tvg-logo="http://xdgo.live:8080/images/2acd962ca8c3e5903a01d0079d7a3573.jpg" group-title="VFLIX ESTRENOS",Elyse (2020)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57528.mkv
+#EXTINF:-1 tvg-id="La Serpiente Blanca 2 (2021)" tvg-name="La Serpiente Blanca 2 (2021)" tvg-logo="http://xdgo.live:8080/images/9502fcafe9a68be555f43e786a168a1d.jpg" group-title="VFLIX ESTRENOS",La Serpiente Blanca 2 (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57529.mkv
+#EXTINF:-1 tvg-id="Last Shoot Out (2021)" tvg-name="Last Shoot Out (2021)" tvg-logo="http://xdgo.live:8080/images/ece0a46a2328452f721136593e0d8bef.jpg" group-title="VFLIX ESTRENOS",Last Shoot Out (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57530.mkv
+#EXTINF:-1 tvg-id="La cinta de música (2021)" tvg-name="La cinta de música (2021)" tvg-logo="http://xdgo.live:8080/images/75f85f335495c14867fbe0e5f34c39cd.jpg" group-title="VFLIX ESTRENOS",La cinta de música (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57531.mkv
+#EXTINF:-1 tvg-id="Shaun el cordero: El vuelo antes de Navidad (2021)" tvg-name="Shaun el cordero: El vuelo antes de Navidad (2021)" tvg-logo="http://xdgo.live:8080/images/00765214c567f2db241f74ec9b2be07a.jpg" group-title="VFLIX ESTRENOS",Shaun el cordero: El vuelo antes de Navidad (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57532.mkv
+#EXTINF:-1 tvg-id="Silent Night (2021)" tvg-name="Silent Night (2021)" tvg-logo="http://xdgo.live:8080/images/80775531d602516b2f21a6662237b343.jpg" group-title="VFLIX ESTRENOS",Silent Night (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57533.mkv
+#EXTINF:-1 tvg-id="Soltero hasta Navidad (2021)" tvg-name="Soltero hasta Navidad (2021)" tvg-logo="http://xdgo.live:8080/images/8676a3aaa1585186b78eef5fa13edb04.jpg" group-title="VFLIX ESTRENOS",Soltero hasta Navidad (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57534.mkv
+#EXTINF:-1 tvg-id="Sooryavanshi (2021)" tvg-name="Sooryavanshi (2021)" tvg-logo="http://xdgo.live:8080/images/423929d40a041de4986fd07e691e87fc.jpg" group-title="VFLIX ESTRENOS",Sooryavanshi (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57535.mkv
+#EXTINF:-1 tvg-id="El poder del perro (2021)" tvg-name="El poder del perro (2021)" tvg-logo="http://xdgo.live:8080/images/f14bf2c7312db1de6ad77374c7c3d14c.jpg" group-title="VFLIX ESTRENOS",El poder del perro (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57536.mkv
+#EXTINF:-1 tvg-id="La casa de los abuelos (2021)" tvg-name="La casa de los abuelos (2021)" tvg-logo="http://xdgo.live:8080/images/defcd0cc0494169cb78b376fe432c227.jpg" group-title="VFLIX ESTRENOS",La casa de los abuelos (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57537.mkv
+#EXTINF:-1 tvg-id="Your Eyes Tell (2020)" tvg-name="Your Eyes Tell (2020)" tvg-logo="http://xdgo.live:8080/images/a8420dbd51dabd6fe7eaff65ba8b5465.jpg" group-title="VFLIX ESTRENOS",Your Eyes Tell (2020)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57538.mkv
+#EXTINF:-1 tvg-id="Querido Evan Hansen (2021)" tvg-name="Querido Evan Hansen (2021)" tvg-logo="http://xdgo.live:8080/images/b410a434aed09412459d25cb653476ac.jpg" group-title="VFLIX ESTRENOS",Querido Evan Hansen (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57340.mkv
+#EXTINF:-1 tvg-id="El Amarre (2021)" tvg-name="El Amarre (2021)" tvg-logo="http://xdgo.live:8080/images/c11fc4701f26da1e5385aa8e65198ce3.jpg" group-title="VFLIX ESTRENOS",El Amarre (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57341.mkv
+#EXTINF:-1 tvg-id="Lead Me Home (2021)" tvg-name="Lead Me Home (2021)" tvg-logo="http://xdgo.live:8080/images/95ce61baabdeaf5b6bdc71ec71109334.jpg" group-title="VFLIX ESTRENOS",Lead Me Home (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57342.mkv
+#EXTINF:-1 tvg-id="Donde caben dos (2021)" tvg-name="Donde caben dos (2021)" tvg-logo="http://xdgo.live:8080/images/694e138bb7b99cb164eb3ca16d2355e6.jpg" group-title="VFLIX ESTRENOS",Donde caben dos (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57343.mkv
+#EXTINF:-1 tvg-id="Paranormal Activity: Next of Kin (2021)" tvg-name="Paranormal Activity: Next of Kin (2021)" tvg-logo="http://xdgo.live:8080/images/52612a1b5683164ec24d60d8c634a11a.jpg" group-title="VFLIX ESTRENOS",Paranormal Activity: Next of Kin (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57344.mkv
+#EXTINF:-1 tvg-id="Ron da Error (2021)" tvg-name="Ron da Error (2021)" tvg-logo="http://xdgo.live:8080/images/dee550c52666473f6283aa3d66d14c10.jpg" group-title="VFLIX ESTRENOS",Ron da Error (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57345.mkv
+#EXTINF:-1 tvg-id="Quédate conmigo Doraemon 2 (2020)" tvg-name="Quédate conmigo Doraemon 2 (2020)" tvg-logo="http://xdgo.live:8080/images/a824d307795289d113f9ddac6a5fd7e5.jpg" group-title="VFLIX ESTRENOS",Quédate conmigo Doraemon 2 (2020)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57346.mkv
+#EXTINF:-1 tvg-id="The Humans (2021)" tvg-name="The Humans (2021)" tvg-logo="http://xdgo.live:8080/images/d25cc85d94f3b28286538eb518f28c0e.jpg" group-title="VFLIX ESTRENOS",The Humans (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57347.mkv
+#EXTINF:-1 tvg-id="El último duelo (2021)" tvg-name="El último duelo (2021)" tvg-logo="http://xdgo.live:8080/images/38f46433c2c46c4059549d385394449d.jpg" group-title="VFLIX ESTRENOS",El último duelo (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57348.mkv
+#EXTINF:-1 tvg-id="El poder del perro (2021)" tvg-name="El poder del perro (2021)" tvg-logo="http://xdgo.live:8080/images/8292991f58497885af9c747b28dc49e6.jpg" group-title="VFLIX ESTRENOS",El poder del perro (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57349.mkv
+#EXTINF:-1 tvg-id="La cumbre de los dioses (2021)" tvg-name="La cumbre de los dioses (2021)" tvg-logo="http://xdgo.live:8080/images/915f70dba7301dbf287d26a7fd93f593.jpg" group-title="VFLIX ESTRENOS",La cumbre de los dioses (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57350.mkv
 #EXTINF:-1 tvg-id="Diego El último adiós (2021)" tvg-name="Diego El último adiós (2021)" tvg-logo="http://xdgo.live:8080/images/d7be11e2a6058a922f645659fdfd1573.jpg" group-title="VFLIX ESTRENOS",Diego El último adiós (2021)
 http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/57190.mkv
 #EXTINF:-1 tvg-id="Navidad en 8 bits (2021)" tvg-name="Navidad en 8 bits (2021)" tvg-logo="http://xdgo.live:8080/images/17c8f9c2865def647de85eda2bcc75ef.jpg" group-title="VFLIX ESTRENOS",Navidad en 8 bits (2021)
