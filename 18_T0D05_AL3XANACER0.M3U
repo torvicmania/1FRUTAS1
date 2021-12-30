@@ -467,7 +467,7 @@ http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/46742
 http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/40100
 #EXTINF:-1 tvg-id="ESPN CL HD" tvg-name="ESPN CL HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN CL HD
 http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/40099
-#EXTINF:-1 tvg-id="ESPN CL HD" tvg-name="ESPN CL HD op2" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN CL HD op2
+#EXTINF:-1 tvg-id="ESPN CL HD" tvg-name="ESPN CL HD op2" tvg-logo="http://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN CL HD op2
 http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/46195
 #EXTINF:-1 tvg-id="ESPN CL HD" tvg-name="ESPN CL FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN CL FHD
 http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/22220
@@ -567,6 +567,10 @@ http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/1857
 http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/1860
 #EXTINF:-1 tvg-id="ESPN 3 SUR FHD" tvg-name="ESPN 3 SUR FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 3 SUR FHD
 http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/1863
+#EXTINF:-1 tvg-id="ESPN 4 CL HQ" tvg-name="ESPN 4 CL HQ" tvg-logo="http://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 4 CL HQ
+http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/52715
+#EXTINF:-1 tvg-id="FOX SPORTS CL HD" tvg-name="ESPN 4 CL HD" tvg-logo="http://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 4 CL HD
+http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/2356
 #EXTINF:-1 tvg-id="ESPN  PLUS  MX HQ" tvg-name="ESPN  PLUS  MX HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN  PLUS  MX HQ
 http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/1794
 #EXTINF:-1 tvg-id="ESPN  PLUS  MX HD" tvg-name="ESPN  PLUS  MX HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN  PLUS  MX HD
@@ -579,10 +583,6 @@ http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/2333
 http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/1838
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="FOX SPORTS BR HD" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS BR HD
 http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/2336
-#EXTINF:-1 tvg-id="FOX SPORTS CL HQ" tvg-name="FOX SPORTS CL HQ" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS CL HQ
-http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/52715
-#EXTINF:-1 tvg-id="FOX SPORTS CL HD" tvg-name="FOX SPORTS CL HD" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS CL HD
-http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/2356
 #EXTINF:-1 tvg-id="FOX SPORTS 1 CL HD" tvg-name="FOX SPORTS 1 CL HQ" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 1 CL HQ
 http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/40149
 #EXTINF:-1 tvg-id="FOX SPORTS 1 CL HD" tvg-name="FOX SPORTS 1 CL HD" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 1 CL HD
@@ -2135,52 +2135,6 @@ http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/54379
 http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/54393
 #EXTINF:-1 tvg-id="DIRECTV SPORTS PPV 7" tvg-name="DIRECTV SPORTS PPV 7"  group-title="EVENTOS PPV",DIRECTV SPORTS PPV 7
 http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/54394
-#EXTINF:-1 tvg-id="Basketball (NBA) Atlanta Hawks at New York Knicks 12:00 PM EST ( ESPN)" tvg-name="Basketball (NBA) Atlanta Hawks at New York Knicks 12:00 PM EST ( ESPN)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Atlanta Hawks at New York Knicks 12:00 PM EST ( ESPN)
-http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/58291
-#EXTINF:-1 tvg-id="Basketball (NCAA Men) Wyoming at South Florida 1:30 PM EST ( ESPNU)" tvg-name="Basketball (NCAA Men) Wyoming at South Florida 1:30 PM EST ( ESPNU)"  group-title="EVENTOS PPV",Basketball (NCAA Men) Wyoming at South Florida 1:30 PM EST ( ESPNU)
-http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/58292
-#EXTINF:-1 tvg-id="Football (NCAA) Georgia State at Ball State 2:30 PM EST ( ESPN)" tvg-name="Football (NCAA) Georgia State at Ball State 2:30 PM EST ( ESPN)"  group-title="EVENTOS PPV",Football (NCAA) Georgia State at Ball State 2:30 PM EST ( ESPN)
-http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/58293
-#EXTINF:-1 tvg-id="Basketball (NBA) Boston Celtics at Milwaukee Bucks 2:30 PM EST ( ESPDR)" tvg-name="Basketball (NBA) Boston Celtics at Milwaukee Bucks 2:30 PM EST ( ESPDR)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Boston Celtics at Milwaukee Bucks 2:30 PM EST ( ESPDR)
-http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/58294
-#EXTINF:-1 tvg-id="Basketball (NCAA Men) Northern Iowa at Hawaii 3:30 PM EST ( ESPNU)" tvg-name="Basketball (NCAA Men) Northern Iowa at Hawaii 3:30 PM EST ( ESPNU)"  group-title="EVENTOS PPV",Basketball (NCAA Men) Northern Iowa at Hawaii 3:30 PM EST ( ESPNU)
-http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/58295
-#EXTINF:-1 tvg-id="Football (NFL) Cleveland Browns at Green Bay Packers 4:30 PM EST ( NFL)" tvg-name="Football (NFL) Cleveland Browns at Green Bay Packers 4:30 PM EST ( NFL)"  group-title="EVENTOS PPV",Football (NFL) Cleveland Browns at Green Bay Packers 4:30 PM EST ( NFL)
-http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/58296
-#EXTINF:-1 tvg-id="Basketball (NBA) Golden State Warriors at Phoenix Suns 5:00 PM EST ( ESPDR)" tvg-name="Basketball (NBA) Golden State Warriors at Phoenix Suns 5:00 PM EST ( ESPDR)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Golden State Warriors at Phoenix Suns 5:00 PM EST ( ESPDR)
-http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/58297
-#EXTINF:-1 tvg-id="Basketball (NCAA Men) Liberty at Brigham Young 6:30 PM EST ( ESPN2)" tvg-name="Basketball (NCAA Men) Liberty at Brigham Young 6:30 PM EST ( ESPN2)"  group-title="EVENTOS PPV",Basketball (NCAA Men) Liberty at Brigham Young 6:30 PM EST ( ESPN2)
-http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/58298
-#EXTINF:-1 tvg-id="Basketball (NBA) Brooklyn Nets at Los Angeles Lakers 8:00 PM EST ( ESPN)" tvg-name="Basketball (NBA) Brooklyn Nets at Los Angeles Lakers 8:00 PM EST ( ESPN)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Brooklyn Nets at Los Angeles Lakers 8:00 PM EST ( ESPN)
-http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/58299
-#EXTINF:-1 tvg-id="Football (NFL) Indianapolis Colts at Arizona Cardinals 8:15 PM EST ( NFL)" tvg-name="Football (NFL) Indianapolis Colts at Arizona Cardinals 8:15 PM EST ( NFL)"  group-title="EVENTOS PPV",Football (NFL) Indianapolis Colts at Arizona Cardinals 8:15 PM EST ( NFL)
-http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/58300
-#EXTINF:-1 tvg-id="Basketball (NCAA Men) Stanford at Vanderbilt 8:30 PM EST ( ESPN2)" tvg-name="Basketball (NCAA Men) Stanford at Vanderbilt 8:30 PM EST ( ESPN2)"  group-title="EVENTOS PPV",Basketball (NCAA Men) Stanford at Vanderbilt 8:30 PM EST ( ESPN2)
-http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/58301
-#EXTINF:-1 tvg-id="Basketball (NBA) Dallas Mavericks at Utah Jazz 10:30 PM EST ( ESPN)" tvg-name="Basketball (NBA) Dallas Mavericks at Utah Jazz 10:30 PM EST ( ESPN)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Dallas Mavericks at Utah Jazz 10:30 PM EST ( ESPN)
-http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/58302
-#EXTINF:-1 tvg-id="Football (NCAA) North Texas at Miami Univ. (Ohio) 3:30 PM EST ( ESPN)" tvg-name="Football (NCAA) North Texas at Miami Univ. (Ohio) 3:30 PM EST ( ESPN)"  group-title="EVENTOS PPV",Football (NCAA) North Texas at Miami Univ. (Ohio) 3:30 PM EST ( ESPN)
-http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/58303
-#EXTINF:-1 tvg-id="Soccer (Pro) Porto vs Benfica 3:45 PM EST (ENG)" tvg-name="Soccer (Pro) Porto vs Benfica 3:45 PM EST (ENG)"  group-title="EVENTOS PPV",Soccer (Pro) Porto vs Benfica 3:45 PM EST (ENG)
-http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/58304
-#EXTINF:-1 tvg-id="Basketball (NCAA Men) Butler at St. John's 6:30 PM EST ( FS1)" tvg-name="Basketball (NCAA Men) Butler at St. John's 6:30 PM EST ( FS1)"  group-title="EVENTOS PPV",Basketball (NCAA Men) Butler at St. John's 6:30 PM EST ( FS1)
-http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/58305
-#EXTINF:-1 tvg-id="Football (NCAA) Central Florida at Florida 7:00 PM EST ( ESPN)" tvg-name="Football (NCAA) Central Florida at Florida 7:00 PM EST ( ESPN)"  group-title="EVENTOS PPV",Football (NCAA) Central Florida at Florida 7:00 PM EST ( ESPN)
-http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/58306
-#EXTINF:-1 tvg-id="Basketball (NCAA Men) Morgan State at Wisconsin 7:00 PM EST ( BTN)" tvg-name="Basketball (NCAA Men) Morgan State at Wisconsin 7:00 PM EST ( BTN)"  group-title="EVENTOS PPV",Basketball (NCAA Men) Morgan State at Wisconsin 7:00 PM EST ( BTN)
-http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/58307
-#EXTINF:-1 tvg-id="Basketball (NBA) Houston Rockets at Indiana Pacers 7:00 PM EST ( NBA)" tvg-name="Basketball (NBA) Houston Rockets at Indiana Pacers 7:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Houston Rockets at Indiana Pacers 7:00 PM EST ( NBA)
-http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/58308
-#EXTINF:-1 tvg-id="Basketball (NBA) New Orleans Pelicans at Orlando Magic 7:00 PM EST ( NBA)" tvg-name="Basketball (NBA) New Orleans Pelicans at Orlando Magic 7:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) New Orleans Pelicans at Orlando Magic 7:00 PM EST ( NBA)
-http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/58309
-#EXTINF:-1 tvg-id="Basketball (NBA) Atlanta Hawks at Philadelphia 76ers 7:00 PM EST ( NBA)" tvg-name="Basketball (NBA) Atlanta Hawks at Philadelphia 76ers 7:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Atlanta Hawks at Philadelphia 76ers 7:00 PM EST ( NBA)
-http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/58310
-#EXTINF:-1 tvg-id="Basketball (NBA) Detroit Pistons at Miami Heat 7:30 PM EST ( NBA)" tvg-name="Basketball (NBA) Detroit Pistons at Miami Heat 7:30 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Detroit Pistons at Miami Heat 7:30 PM EST ( NBA)
-http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/58311
-#EXTINF:-1 tvg-id="Basketball (NBA) Washington Wizards at New York Knicks 7:30 PM EST ( NBA)" tvg-name="Basketball (NBA) Washington Wizards at New York Knicks 7:30 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Washington Wizards at New York Knicks 7:30 PM EST ( NBA)
-http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/58312
-#EXTINF:-1 tvg-id="Football (NFL) San Francisco 49ers at Tennessee Titans 8:20 PM EST ( NFL)" tvg-name="Football (NFL) San Francisco 49ers at Tennessee Titans 8:20 PM EST ( NFL)"  group-title="EVENTOS PPV",Football (NFL) San Francisco 49ers at Tennessee Titans 8:20 PM EST ( NFL)
-http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/58313
 #EXTINF:-1 tvg-id="GUA Canal 4" tvg-name="GUA VEA CANAL" group-title="GUATEMALA",GUA VEA CANAL
 http://xdgo.live:8080/18_vGreenBayP_e/OuUKsnj2hr/2597
 #EXTINF:-1 tvg-id="GUA CANAL 11" tvg-name="GUA CANAL 11" group-title="GUATEMALA",GUA CANAL 11
