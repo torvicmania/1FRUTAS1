@@ -343,7 +343,7 @@ http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/53206
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/53205
 #EXTINF:-1 tvg-id="ADRENALINA SPORTS NETWORK FHD" tvg-name="ADRENALINA SPORTS NETWORK FHD" tvg-logo="https://pbs.twimg.com/profile_images/1080017503047213056/9sMHy4R5_400x400.jpg" group-title="DEPORTES",ADRENALINA SPORTS NETWORK FHD
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/1848
-#EXTINF:-1 tvg-id="AYM SPORTS HD" tvg-name="AYM SPORTS HD" tvg-logo="https://pbs.twimg.com/profile_images/574737723/logook.jpg" group-title="DEPORTES",AYM SPORTS HD
+#EXTINF:-1 tvg-id="AYM SPORTS HD" tvg-name="AYM SPORTS HD" tvg-logo="http://xdgo.live:8080/images/8c25bdb087f41b3da60b8c8329996830.jpg" group-title="DEPORTES",AYM SPORTS HD
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/2345
 #EXTINF:-1 tvg-id="BEIN SPORTS FHD" tvg-name="BEIN SPORTS HQ" tvg-logo="http://xdgo.live:8080/images/86e6488727101ba9ada110f7fdb4d94f.png" group-title="DEPORTES",BEIN SPORTS HQ
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/23994
@@ -417,7 +417,7 @@ http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/6109
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/2346
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 1 EC HD op2" tvg-name="DIRECTV SPORTS 1 EC HD op2" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 EC HD op2
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/2347
-#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 EC FHD" tvg-name="DIRECTV SPORTS 1 EC FHD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 EC FHD
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 EC FHD" tvg-name="DIRECTV SPORTS 1 EC FHD" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 EC FHD
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/2357
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 1 UR HQ" tvg-name="DIRECTV SPORTS 1 UR HQ" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 UR HQ
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/54632
@@ -2129,90 +2129,80 @@ http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/54379
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/54393
 #EXTINF:-1 tvg-id="DIRECTV SPORTS PPV 7" tvg-name="DIRECTV SPORTS PPV 7"  group-title="EVENTOS PPV",DIRECTV SPORTS PPV 7
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/54394
-#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) DePaul at Butler 5:00 PM EST ( FS1)" tvg-name="PPV || Basketball (NCAA Men) DePaul at Butler 5:00 PM EST ( FS1)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) DePaul at Butler 5:00 PM EST ( FS1)
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58353
-#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) Nicholls State at Purdue 5:00 PM EST ( BTN)" tvg-name="PPV || Basketball (NCAA Men) Nicholls State at Purdue 5:00 PM EST ( BTN)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) Nicholls State at Purdue 5:00 PM EST ( BTN)
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58354
-#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) Arkansas at Mississippi State 5:00 PM EST ( SEC)" tvg-name="PPV || Basketball (NCAA Men) Arkansas at Mississippi State 5:00 PM EST ( SEC)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) Arkansas at Mississippi State 5:00 PM EST ( SEC)
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58355
-#EXTINF:-1 tvg-id="PPV || Football (NCAA) Clemson at Iowa State 5:45 PM EST ( ESPN)" tvg-name="PPV || Football (NCAA) Clemson at Iowa State 5:45 PM EST ( ESPN)"  group-title="EVENTOS PPV",PPV || Football (NCAA) Clemson at Iowa State 5:45 PM EST ( ESPN)
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58356
-#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) Drexel at College of Charleston 6:00 PM EST ( CBSSN)" tvg-name="PPV || Basketball (NCAA Men) Drexel at College of Charleston 6:00 PM EST ( CBSSN)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) Drexel at College of Charleston 6:00 PM EST ( CBSSN)
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58357
-#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) Louisiana State at Auburn 7:00 PM EST ( ESPNU)" tvg-name="PPV || Basketball (NCAA Men) Louisiana State at Auburn 7:00 PM EST ( ESPNU)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) Louisiana State at Auburn 7:00 PM EST ( ESPNU)
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58358
-#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) Virginia Tech at North Carolina 7:00 PM EST ( ESPN2)" tvg-name="PPV || Basketball (NCAA Men) Virginia Tech at North Carolina 7:00 PM EST ( ESPN2)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) Virginia Tech at North Carolina 7:00 PM EST ( ESPN2)
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58359
-#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) Seton Hall at Providence 7:00 PM EST ( FS1)" tvg-name="PPV || Basketball (NCAA Men) Seton Hall at Providence 7:00 PM EST ( FS1)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) Seton Hall at Providence 7:00 PM EST ( FS1)
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58360
-#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) UNC-Ashville at Indiana 7:00 PM EST ( BTN)" tvg-name="PPV || Basketball (NCAA Men) UNC-Ashville at Indiana 7:00 PM EST ( BTN)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) UNC-Ashville at Indiana 7:00 PM EST ( BTN)
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58361
-#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) Missouri at Kentucky 7:00 PM EST ( SEC)" tvg-name="PPV || Basketball (NCAA Men) Missouri at Kentucky 7:00 PM EST ( SEC)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) Missouri at Kentucky 7:00 PM EST ( SEC)
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58362
-#EXTINF:-1 tvg-id="PPV || Basketball (NBA) New York Knicks at Detroit Pistons 7:00 PM EST ( NBA)" tvg-name="PPV || Basketball (NBA) New York Knicks at Detroit Pistons 7:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",PPV || Basketball (NBA) New York Knicks at Detroit Pistons 7:00 PM EST ( NBA)
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58363
-#EXTINF:-1 tvg-id="PPV || Basketball (NBA) Charlotte Hornets at Indiana Pacers 7:00 PM EST ( NBA)" tvg-name="PPV || Basketball (NBA) Charlotte Hornets at Indiana Pacers 7:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",PPV || Basketball (NBA) Charlotte Hornets at Indiana Pacers 7:00 PM EST ( NBA)
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58364
-#EXTINF:-1 tvg-id="PPV || Hockey (NHL) New Jersey Devils at Buffalo Sabres 7:00 PM EST ( NHL)" tvg-name="PPV || Hockey (NHL) New Jersey Devils at Buffalo Sabres 7:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) New Jersey Devils at Buffalo Sabres 7:00 PM EST ( NHL)
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58365
-#EXTINF:-1 tvg-id="PPV || Hockey (NHL) New York Rangers at Florida Panthers 7:00 PM EST ( NHL)" tvg-name="PPV || Hockey (NHL) New York Rangers at Florida Panthers 7:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) New York Rangers at Florida Panthers 7:00 PM EST ( NHL)
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58366
-#EXTINF:-1 tvg-id="PPV || Hockey (NHL) Nashville Predators at Washington Capitals 7:00 PM EST ( NHL)" tvg-name="PPV || Hockey (NHL) Nashville Predators at Washington Capitals 7:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) Nashville Predators at Washington Capitals 7:00 PM EST ( NHL)
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58367
-#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) Cornell at Syracuse 7:00 PM EST ( ECE)" tvg-name="PPV || Basketball (NCAA Men) Cornell at Syracuse 7:00 PM EST ( ECE)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) Cornell at Syracuse 7:00 PM EST ( ECE)
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58368
-#EXTINF:-1 tvg-id="PPV || Basketball (NBA) Los Angeles Clippers at Boston Celtics 7:30 PM EST ( NBA)" tvg-name="PPV || Basketball (NBA) Los Angeles Clippers at Boston Celtics 7:30 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",PPV || Basketball (NBA) Los Angeles Clippers at Boston Celtics 7:30 PM EST ( NBA)
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58369
-#EXTINF:-1 tvg-id="PPV || Hockey (NHL) Pittsburgh Penguins at Toronto Maple Leafs 7:30 PM EST ( NHL)" tvg-name="PPV || Hockey (NHL) Pittsburgh Penguins at Toronto Maple Leafs 7:30 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) Pittsburgh Penguins at Toronto Maple Leafs 7:30 PM EST ( NHL)
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58370
-#EXTINF:-1 tvg-id="PPV || Hockey (NHL) Boston Bruins at Ottawa Senators 7:30 PM EST ( NHL)" tvg-name="PPV || Hockey (NHL) Boston Bruins at Ottawa Senators 7:30 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) Boston Bruins at Ottawa Senators 7:30 PM EST ( NHL)
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58371
-#EXTINF:-1 tvg-id="PPV || Hockey (NHL) Detroit Red Wings at New York Islanders 7:30 PM EST ( NHL)" tvg-name="PPV || Hockey (NHL) Detroit Red Wings at New York Islanders 7:30 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) Detroit Red Wings at New York Islanders 7:30 PM EST ( NHL)
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58372
-#EXTINF:-1 tvg-id="PPV || Hockey (NHL) Chicago Blackhawks at Winnipeg Jets 7:30 PM EST ( NHL)" tvg-name="PPV || Hockey (NHL) Chicago Blackhawks at Winnipeg Jets 7:30 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) Chicago Blackhawks at Winnipeg Jets 7:30 PM EST ( NHL)
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58373
-#EXTINF:-1 tvg-id="PPV || Basketball (NBA) Los Angeles Lakers at Memphis Grizzlies 8:00 PM EST ( NBA)" tvg-name="PPV || Basketball (NBA) Los Angeles Lakers at Memphis Grizzlies 8:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",PPV || Basketball (NBA) Los Angeles Lakers at Memphis Grizzlies 8:00 PM EST ( NBA)
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58374
-#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) Marquette at St. John's 8:00 PM EST ( CBSSN)" tvg-name="PPV || Basketball (NCAA Men) Marquette at St. John's 8:00 PM EST ( CBSSN)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) Marquette at St. John's 8:00 PM EST ( CBSSN)
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58375
-#EXTINF:-1 tvg-id="PPV || Wrestling All Elite Wrestling Dynamite 8:00 PM EST ( TNT)" tvg-name="PPV || Wrestling All Elite Wrestling Dynamite 8:00 PM EST ( TNT)"  group-title="EVENTOS PPV",PPV || Wrestling All Elite Wrestling Dynamite 8:00 PM EST ( TNT)
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58376
-#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) Wake Forest at Louisville 8:00 PM EST ( ACCN)" tvg-name="PPV || Basketball (NCAA Men) Wake Forest at Louisville 8:00 PM EST ( ACCN)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) Wake Forest at Louisville 8:00 PM EST ( ACCN)
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58377
-#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Women) Alcorn State at Texas 8:00 PM EST ( LHN)" tvg-name="PPV || Basketball (NCAA Women) Alcorn State at Texas 8:00 PM EST ( LHN)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Women) Alcorn State at Texas 8:00 PM EST ( LHN)
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58378
-#EXTINF:-1 tvg-id="PPV || Basketball (NBA) Atlanta Hawks at Chicago Bulls 8:00 PM EST ( NBA)" tvg-name="PPV || Basketball (NBA) Atlanta Hawks at Chicago Bulls 8:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",PPV || Basketball (NBA) Atlanta Hawks at Chicago Bulls 8:00 PM EST ( NBA)
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58379
-#EXTINF:-1 tvg-id="PPV || Basketball (NBA) Miami Heat at San Antonio Spurs 8:30 PM EST ( NBA)" tvg-name="PPV || Basketball (NBA) Miami Heat at San Antonio Spurs 8:30 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",PPV || Basketball (NBA) Miami Heat at San Antonio Spurs 8:30 PM EST ( NBA)
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58380
-#EXTINF:-1 tvg-id="PPV || Hockey (NHL) Edmonton Oilers at St. Louis Blues 8:30 PM EST ( NHL)" tvg-name="PPV || Hockey (NHL) Edmonton Oilers at St. Louis Blues 8:30 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) Edmonton Oilers at St. Louis Blues 8:30 PM EST ( NHL)
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58381
-#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) North Carolina State at Miami (FL) 9:00 PM EST ( ESPNU)" tvg-name="PPV || Basketball (NCAA Men) North Carolina State at Miami (FL) 9:00 PM EST ( ESPNU)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) North Carolina State at Miami (FL) 9:00 PM EST ( ESPNU)
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58382
-#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) Tennessee at Alabama 9:00 PM EST ( ESPN2)" tvg-name="PPV || Basketball (NCAA Men) Tennessee at Alabama 9:00 PM EST ( ESPN2)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) Tennessee at Alabama 9:00 PM EST ( ESPN2)
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58383
-#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) Temple at Villanova 9:00 PM EST ( FS1)" tvg-name="PPV || Basketball (NCAA Men) Temple at Villanova 9:00 PM EST ( FS1)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) Temple at Villanova 9:00 PM EST ( FS1)
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58384
-#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) Florida A & M at Illinois 9:00 PM EST ( BTN)" tvg-name="PPV || Basketball (NCAA Men) Florida A & M at Illinois 9:00 PM EST ( BTN)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) Florida A & M at Illinois 9:00 PM EST ( BTN)
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58385
-#EXTINF:-1 tvg-id="PPV || Basketball (NBA) Oklahoma City Thunder at Phoenix Suns 9:00 PM EST ( NBA)" tvg-name="PPV || Basketball (NBA) Oklahoma City Thunder at Phoenix Suns 9:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",PPV || Basketball (NBA) Oklahoma City Thunder at Phoenix Suns 9:00 PM EST ( NBA)
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58386
-#EXTINF:-1 tvg-id="PPV || Football (NCAA) Oregon at Oklahoma 9:15 PM EST ( ESPN)" tvg-name="PPV || Football (NCAA) Oregon at Oklahoma 9:15 PM EST ( ESPN)"  group-title="EVENTOS PPV",PPV || Football (NCAA) Oregon at Oklahoma 9:15 PM EST ( ESPN)
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58387
-#EXTINF:-1 tvg-id="PPV || Hockey (NHL) Philadelphia Flyers at Seattle Kraken 10:00 PM EST ( NBCS)" tvg-name="PPV || Hockey (NHL) Philadelphia Flyers at Seattle Kraken 10:00 PM EST ( NBCS)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) Philadelphia Flyers at Seattle Kraken 10:00 PM EST ( NBCS)
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58388
-#EXTINF:-1 tvg-id="PPV || Hockey (NHL) Dallas Stars at Colorado Avalanche 10:00 PM EST ( TNT)" tvg-name="PPV || Hockey (NHL) Dallas Stars at Colorado Avalanche 10:00 PM EST ( TNT)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) Dallas Stars at Colorado Avalanche 10:00 PM EST ( TNT)
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58389
-#EXTINF:-1 tvg-id="PPV || Basketball (NBA) Utah Jazz at Portland Trail Blazers 10:00 PM EST ( NBA)" tvg-name="PPV || Basketball (NBA) Utah Jazz at Portland Trail Blazers 10:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",PPV || Basketball (NBA) Utah Jazz at Portland Trail Blazers 10:00 PM EST ( NBA)
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58390
-#EXTINF:-1 tvg-id="PPV || Basketball (NBA) Dallas Mavericks at Sacramento Kings 10:30 PM EST ( NBA)" tvg-name="PPV || Basketball (NBA) Dallas Mavericks at Sacramento Kings 10:30 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",PPV || Basketball (NBA) Dallas Mavericks at Sacramento Kings 10:30 PM EST ( NBA)
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58391
-#EXTINF:-1 tvg-id="PPV || Hockey (NHL) Vancouver Canucks at Anaheim Ducks 10:30 PM EST ( NHL)" tvg-name="PPV || Hockey (NHL) Vancouver Canucks at Anaheim Ducks 10:30 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) Vancouver Canucks at Anaheim Ducks 10:30 PM EST ( NHL)
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58392
-#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) Washington at Washington State 11:00 PM EST ( ESPNU)" tvg-name="PPV || Basketball (NCAA Men) Washington at Washington State 11:00 PM EST ( ESPNU)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) Washington at Washington State 11:00 PM EST ( ESPNU)
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58393
-#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) Nevada at San JosÃ© State 11:00 PM EST ( FS1)" tvg-name="PPV || Basketball (NCAA Men) Nevada at San JosÃ© State 11:00 PM EST ( FS1)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) Nevada at San JosÃ© State 11:00 PM EST ( FS1)
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58394
+#EXTINF:-1 tvg-id="PPV || Hockey (NHL) Minnesota Wild at Boston Bruins 7:00 PM EST ( ESPN)" tvg-name="PPV || Hockey (NHL) Minnesota Wild at Boston Bruins 7:00 PM EST ( ESPN)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) Minnesota Wild at Boston Bruins 7:00 PM EST ( ESPN)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58586
+#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) Tennessee Martin at Tennessee State 7:00 PM EST ( ESN)" tvg-name="PPV || Basketball (NCAA Men) Tennessee Martin at Tennessee State 7:00 PM EST ( ESN)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) Tennessee Martin at Tennessee State 7:00 PM EST ( ESN)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58587
+#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) New Hampshire at Vermont 7:00 PM EST ( ESPNU)" tvg-name="PPV || Basketball (NCAA Men) New Hampshire at Vermont 7:00 PM EST ( ESPNU)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) New Hampshire at Vermont 7:00 PM EST ( ESPNU)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58588
+#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) Maryland at Illinois 7:00 PM EST ( ESPN2)" tvg-name="PPV || Basketball (NCAA Men) Maryland at Illinois 7:00 PM EST ( ESPN2)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) Maryland at Illinois 7:00 PM EST ( ESPN2)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58589
+#EXTINF:-1 tvg-id="PPV || Tennis (Pro) Center Court ATP Cup Semifinal 1,PPV || PLUS Adelaide-WTA 1,PPV || PLUS Melbourne-WTA 1 & 2 Quarterfinals 7:00 PM EST ( TNNS)" tvg-name="PPV || Tennis (Pro) Center Court ATP Cup Semifinal 1,PPV || PLUS Adelaide-WTA 1,PPV || PLUS Melbourne-WTA 1 & 2 Quarterfinals 7:00 PM EST ( TNNS)"  group-title="EVENTOS PPV",PPV || Tennis (Pro) Center Court ATP Cup Semifinal 1,PPV || PLUS Adelaide-WTA 1,PPV || PLUS Melbourne-WTA 1 & 2 Quarterfinals 7:00 PM EST ( TNNS)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58590
+#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) Ohio State at Indiana 7:00 PM EST ( FS1)" tvg-name="PPV || Basketball (NCAA Men) Ohio State at Indiana 7:00 PM EST ( FS1)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) Ohio State at Indiana 7:00 PM EST ( FS1)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58591
+#EXTINF:-1 tvg-id="PPV || Olympics Winter Olympic Trials 7:00 PM EST ( USA)" tvg-name="PPV || Olympics Winter Olympic Trials 7:00 PM EST ( USA)" tvg-logo="" group-title="EVENTOS PPV",PPV || Olympics Winter Olympic Trials 7:00 PM EST ( USA)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58592
+#EXTINF:-1 tvg-id="PPV || Hockey (NHL) San Jose Sharks at Buffalo Sabres 7:00 PM EST ( NHL)" tvg-name="PPV || Hockey (NHL) San Jose Sharks at Buffalo Sabres 7:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) San Jose Sharks at Buffalo Sabres 7:00 PM EST ( NHL)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58593
+#EXTINF:-1 tvg-id="PPV || Hockey (NHL) Calgary Flames at Tampa Bay Lightning 7:00 PM EST ( NHL)" tvg-name="PPV || Hockey (NHL) Calgary Flames at Tampa Bay Lightning 7:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) Calgary Flames at Tampa Bay Lightning 7:00 PM EST ( NHL)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58594
+#EXTINF:-1 tvg-id="PPV || Hockey (NHL) Columbus Blue Jackets at New Jersey Devils 7:00 PM EST ( NHL)" tvg-name="PPV || Hockey (NHL) Columbus Blue Jackets at New Jersey Devils 7:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) Columbus Blue Jackets at New Jersey Devils 7:00 PM EST ( NHL)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58595
+#EXTINF:-1 tvg-id="PPV || Basketball (NBA) Boston Celtics at New York Knicks 7:30 PM EST ( TNT)" tvg-name="PPV || Basketball (NBA) Boston Celtics at New York Knicks 7:30 PM EST ( TNT)" tvg-logo="" group-title="EVENTOS PPV",PPV || Basketball (NBA) Boston Celtics at New York Knicks 7:30 PM EST ( TNT)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58596
+#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) UAB at North Texas 8:00 PM EST ( CBSSN)" tvg-name="PPV || Basketball (NCAA Men) UAB at North Texas 8:00 PM EST ( CBSSN)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) UAB at North Texas 8:00 PM EST ( CBSSN)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58597
+#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Women) Northwestern at Iowa 8:00 PM EST ( BTN)" tvg-name="PPV || Basketball (NCAA Women) Northwestern at Iowa 8:00 PM EST ( BTN)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Women) Northwestern at Iowa 8:00 PM EST ( BTN)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58598
+#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Women) North Carolina at North Carolina State 8:00 PM EST ( ACCN)" tvg-name="PPV || Basketball (NCAA Women) North Carolina at North Carolina State 8:00 PM EST ( ACCN)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Women) North Carolina at North Carolina State 8:00 PM EST ( ACCN)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58599
+#EXTINF:-1 tvg-id="PPV || Basketball (NBA) Detroit Pistons at Memphis Grizzlies 8:00 PM EST ( NBA)" tvg-name="PPV || Basketball (NBA) Detroit Pistons at Memphis Grizzlies 8:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",PPV || Basketball (NBA) Detroit Pistons at Memphis Grizzlies 8:00 PM EST ( NBA)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58600
+#EXTINF:-1 tvg-id="PPV || Basketball (NBA) Golden State Warriors at New Orleans Pelicans 8:00 PM EST ( NBA)" tvg-name="PPV || Basketball (NBA) Golden State Warriors at New Orleans Pelicans 8:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",PPV || Basketball (NBA) Golden State Warriors at New Orleans Pelicans 8:00 PM EST ( NBA)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58601
+#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Women) Arkansas at Vanderbilt 8:30 PM EST ( SEC)" tvg-name="PPV || Basketball (NCAA Women) Arkansas at Vanderbilt 8:30 PM EST ( SEC)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Women) Arkansas at Vanderbilt 8:30 PM EST ( SEC)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58602
+#EXTINF:-1 tvg-id="PPV || Hockey (NHL) Florida Panthers at Dallas Stars 8:30 PM EST ( NHL)" tvg-name="PPV || Hockey (NHL) Florida Panthers at Dallas Stars 8:30 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) Florida Panthers at Dallas Stars 8:30 PM EST ( NHL)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58603
+#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) Washington State at Colorado 9:00 PM EST ( ESPNU)" tvg-name="PPV || Basketball (NCAA Men) Washington State at Colorado 9:00 PM EST ( ESPNU)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) Washington State at Colorado 9:00 PM EST ( ESPNU)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58604
+#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) Iowa at Wisconsin 9:00 PM EST ( FS1)" tvg-name="PPV || Basketball (NCAA Men) Iowa at Wisconsin 9:00 PM EST ( FS1)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) Iowa at Wisconsin 9:00 PM EST ( FS1)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58605
+#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) University of the Pacific at Brigham Young 9:00 PM EST ( BYU)" tvg-name="PPV || Basketball (NCAA Men) University of the Pacific at Brigham Young 9:00 PM EST ( BYU)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) University of the Pacific at Brigham Young 9:00 PM EST ( BYU)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58606
+#EXTINF:-1 tvg-id="PPV || Hockey (NHL) Winnipeg Jets at Colorado Avalanche 9:00 PM EST ( NHL)" tvg-name="PPV || Hockey (NHL) Winnipeg Jets at Colorado Avalanche 9:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) Winnipeg Jets at Colorado Avalanche 9:00 PM EST ( NHL)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58607
+#EXTINF:-1 tvg-id="PPV || Hockey (NHL) Chicago Blackhawks at Arizona Coyotes 9:00 PM EST ( NHL)" tvg-name="PPV || Hockey (NHL) Chicago Blackhawks at Arizona Coyotes 9:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) Chicago Blackhawks at Arizona Coyotes 9:00 PM EST ( NHL)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58608
+#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) UCLA at Stanford 9:30 PM EST ( ESPN)" tvg-name="PPV || Basketball (NCAA Men) UCLA at Stanford 9:30 PM EST ( ESPN)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) UCLA at Stanford 9:30 PM EST ( ESPN)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58609
+#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Women) Boise State at Nevada 9:30 PM EST ( SCSC)" tvg-name="PPV || Basketball (NCAA Women) Boise State at Nevada 9:30 PM EST ( SCSC)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Women) Boise State at Nevada 9:30 PM EST ( SCSC)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58610
+#EXTINF:-1 tvg-id="PPV || Hockey (NHL) New York Rangers at Vegas Golden Knights 10:00 PM EST ( NHL)" tvg-name="PPV || Hockey (NHL) New York Rangers at Vegas Golden Knights 10:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) New York Rangers at Vegas Golden Knights 10:00 PM EST ( NHL)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58611
+#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) Louisiana Tech at Texas El Paso 10:00 PM EST ( CBSSN)" tvg-name="PPV || Basketball (NCAA Men) Louisiana Tech at Texas El Paso 10:00 PM EST ( CBSSN)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) Louisiana Tech at Texas El Paso 10:00 PM EST ( CBSSN)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58612
+#EXTINF:-1 tvg-id="PPV || Basketball (NBA) Los Angeles Clippers at Phoenix Suns 10:00 PM EST ( TNT)" tvg-name="PPV || Basketball (NBA) Los Angeles Clippers at Phoenix Suns 10:00 PM EST ( TNT)" tvg-logo="" group-title="EVENTOS PPV",PPV || Basketball (NBA) Los Angeles Clippers at Phoenix Suns 10:00 PM EST ( TNT)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58613
+#EXTINF:-1 tvg-id="PPV || Soccer (Liga MX) Pachuca at Atletico de San Luis 10:00 PM EST ( TUDN)" tvg-name="PPV || Soccer (Liga MX) Pachuca at Atletico de San Luis 10:00 PM EST ( TUDN)"  group-title="EVENTOS PPV",PPV || Soccer (Liga MX) Pachuca at Atletico de San Luis 10:00 PM EST ( TUDN)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58614
+#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) Portland at Loyola-Marymount 10:00 PM EST ( SCSA)" tvg-name="PPV || Basketball (NCAA Men) Portland at Loyola-Marymount 10:00 PM EST ( SCSA)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) Portland at Loyola-Marymount 10:00 PM EST ( SCSA)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58615
+#EXTINF:-1 tvg-id="PPV || Hockey (NHL) Detroit Red Wings at Anaheim Ducks 10:00 PM EST ( NHL)" tvg-name="PPV || Hockey (NHL) Detroit Red Wings at Anaheim Ducks 10:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) Detroit Red Wings at Anaheim Ducks 10:00 PM EST ( NHL)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58616
+#EXTINF:-1 tvg-id="PPV || Hockey (NHL) Ottawa Senators at Seattle Kraken 10:00 PM EST ( NHL)" tvg-name="PPV || Hockey (NHL) Ottawa Senators at Seattle Kraken 10:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) Ottawa Senators at Seattle Kraken 10:00 PM EST ( NHL)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58617
+#EXTINF:-1 tvg-id="PPV || Hockey (NHL) Nashville Predators at Los Angeles Kings 10:30 PM EST ( NHL)" tvg-name="PPV || Hockey (NHL) Nashville Predators at Los Angeles Kings 10:30 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) Nashville Predators at Los Angeles Kings 10:30 PM EST ( NHL)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58618
+#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) Saint Mary's at Santa Clara 11:00 PM EST ( ESPNU)" tvg-name="PPV || Basketball (NCAA Men) Saint Mary's at Santa Clara 11:00 PM EST ( ESPNU)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) Saint Mary's at Santa Clara 11:00 PM EST ( ESPNU)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58619
+#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) USC at California 11:00 PM EST ( FS1)" tvg-name="PPV || Basketball (NCAA Men) USC at California 11:00 PM EST ( FS1)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) USC at California 11:00 PM EST ( FS1)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58620
+#EXTINF:-1 tvg-id="PPV || Soccer (Serie A) Fiorentina vs Udinese 2:45 PM EST ( PPV)" tvg-name="PPV || Soccer (Serie A) Fiorentina vs Udinese 2:45 PM EST ( PPV)"  group-title="EVENTOS PPV",PPV || Soccer (Serie A) Fiorentina vs Udinese 2:45 PM EST ( PPV)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58621
+#EXTINF:-1 tvg-id="PPV || Soccer (CopadelRey) Rayo Majadahonda vs Atletico Madrid 3:30 PM EST ( ENG)" tvg-name="PPV || Soccer (CopadelRey) Rayo Majadahonda vs Atletico Madrid 3:30 PM EST ( ENG)"  group-title="EVENTOS PPV",PPV || Soccer (CopadelRey) Rayo Majadahonda vs Atletico Madrid 3:30 PM EST ( ENG)
+http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/58622
 #EXTINF:-1 tvg-id="GUA Canal 4" tvg-name="GUA VEA CANAL" group-title="GUATEMALA",GUA VEA CANAL
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/2597
 #EXTINF:-1 tvg-id="GUA CANAL 11" tvg-name="GUA CANAL 11" group-title="GUATEMALA",GUA CANAL 11
@@ -2483,8 +2473,6 @@ http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/27552
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/190
 #EXTINF:-1 tvg-id="MX Canal de las Estrellas HQ" tvg-name="MX Canal de las Estrellas HQ" group-title="MEXICO",MX Canal de las Estrellas HQ
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/27553
-#EXTINF:-1 tvg-id="MX Canal Judicial HD" tvg-name="MX Canal Judicial HD" group-title="MEXICO",MX Canal Judicial HD
-http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/189
 #EXTINF:-1 tvg-id="MX Canal Once FHD" tvg-name="MX Canal Once FHD" group-title="MEXICO",MX Canal Once FHD
 http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/27575
 #EXTINF:-1 tvg-id="MX Canal Once HD" tvg-name="MX Canal Once HD" group-title="MEXICO",MX Canal Once HD
@@ -14376,171 +14364,179 @@ http://xdgo.live:8080/28_VAmandaAmaril_g/Y5eosj37uo/209
 #EXTINF:-1 tvg-id="Homeland S01 E01" tvg-name="Homeland S01 E01"  group-title="SERIES ACCION",Homeland S01 E01
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6827.mkv
 #EXTINF:-1 tvg-id="Homeland S01 E02" tvg-name="Homeland S01 E02"  group-title="SERIES ACCION",Homeland S01 E02
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6826.mkv
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6828.mkv
 #EXTINF:-1 tvg-id="Homeland S01 E03" tvg-name="Homeland S01 E03"  group-title="SERIES ACCION",Homeland S01 E03
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6837.mkv
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6829.mkv
 #EXTINF:-1 tvg-id="Homeland S01 E04" tvg-name="Homeland S01 E04"  group-title="SERIES ACCION",Homeland S01 E04
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6836.mkv
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6830.mkv
 #EXTINF:-1 tvg-id="Homeland S01 E05" tvg-name="Homeland S01 E05"  group-title="SERIES ACCION",Homeland S01 E05
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6835.mkv
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6831.mkv
 #EXTINF:-1 tvg-id="Homeland S01 E06" tvg-name="Homeland S01 E06"  group-title="SERIES ACCION",Homeland S01 E06
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6834.mkv
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6832.mkv
 #EXTINF:-1 tvg-id="Homeland S01 E07" tvg-name="Homeland S01 E07"  group-title="SERIES ACCION",Homeland S01 E07
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6833.mkv
 #EXTINF:-1 tvg-id="Homeland S01 E08" tvg-name="Homeland S01 E08"  group-title="SERIES ACCION",Homeland S01 E08
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6832.mkv
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6834.mkv
 #EXTINF:-1 tvg-id="Homeland S01 E09" tvg-name="Homeland S01 E09"  group-title="SERIES ACCION",Homeland S01 E09
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6831.mkv
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6835.mkv
 #EXTINF:-1 tvg-id="Homeland S01 E10" tvg-name="Homeland S01 E10"  group-title="SERIES ACCION",Homeland S01 E10
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6830.mkv
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6836.mkv
 #EXTINF:-1 tvg-id="Homeland S01 E11" tvg-name="Homeland S01 E11"  group-title="SERIES ACCION",Homeland S01 E11
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6829.mkv
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6837.mkv
 #EXTINF:-1 tvg-id="Homeland S01 E12" tvg-name="Homeland S01 E12"  group-title="SERIES ACCION",Homeland S01 E12
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6828.mkv
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6826.mkv
+#EXTINF:-1 tvg-id="Homeland S01 E13" tvg-name="Homeland S01 E13"  group-title="SERIES ACCION",Homeland S01 E13
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58623.mkv
+#EXTINF:-1 tvg-id="Homeland S01 E14" tvg-name="Homeland S01 E14"  group-title="SERIES ACCION",Homeland S01 E14
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58624.mkv
+#EXTINF:-1 tvg-id="Homeland S01 E15" tvg-name="Homeland S01 E15"  group-title="SERIES ACCION",Homeland S01 E15
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58625.mkv
+#EXTINF:-1 tvg-id="Homeland S01 E16" tvg-name="Homeland S01 E16"  group-title="SERIES ACCION",Homeland S01 E16
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58626.mkv
 #EXTINF:-1 tvg-id="Homeland S02 E01" tvg-name="Homeland S02 E01"  group-title="SERIES ACCION",Homeland S02 E01
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6847.mkv
-#EXTINF:-1 tvg-id="Homeland S02 E02" tvg-name="Homeland S02 E02"  group-title="SERIES ACCION",Homeland S02 E02
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6849.mkv
-#EXTINF:-1 tvg-id="Homeland S02 E03" tvg-name="Homeland S02 E03"  group-title="SERIES ACCION",Homeland S02 E03
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6848.mkv
-#EXTINF:-1 tvg-id="Homeland S02 E04" tvg-name="Homeland S02 E04"  group-title="SERIES ACCION",Homeland S02 E04
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6846.mkv
-#EXTINF:-1 tvg-id="Homeland S02 E05" tvg-name="Homeland S02 E05"  group-title="SERIES ACCION",Homeland S02 E05
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6845.mkv
-#EXTINF:-1 tvg-id="Homeland S02 E06" tvg-name="Homeland S02 E06"  group-title="SERIES ACCION",Homeland S02 E06
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6844.mkv
-#EXTINF:-1 tvg-id="Homeland S02 E07" tvg-name="Homeland S02 E07"  group-title="SERIES ACCION",Homeland S02 E07
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6842.mkv
-#EXTINF:-1 tvg-id="Homeland S02 E08" tvg-name="Homeland S02 E08"  group-title="SERIES ACCION",Homeland S02 E08
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6841.mkv
-#EXTINF:-1 tvg-id="Homeland S02 E09" tvg-name="Homeland S02 E09"  group-title="SERIES ACCION",Homeland S02 E09
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6838.mkv
-#EXTINF:-1 tvg-id="Homeland S02 E10" tvg-name="Homeland S02 E10"  group-title="SERIES ACCION",Homeland S02 E10
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6840.mkv
-#EXTINF:-1 tvg-id="Homeland S02 E11" tvg-name="Homeland S02 E11"  group-title="SERIES ACCION",Homeland S02 E11
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6839.mkv
-#EXTINF:-1 tvg-id="Homeland S02 E12" tvg-name="Homeland S02 E12"  group-title="SERIES ACCION",Homeland S02 E12
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6843.mkv
+#EXTINF:-1 tvg-id="Homeland S02 E02" tvg-name="Homeland S02 E02"  group-title="SERIES ACCION",Homeland S02 E02
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6838.mkv
+#EXTINF:-1 tvg-id="Homeland S02 E03" tvg-name="Homeland S02 E03"  group-title="SERIES ACCION",Homeland S02 E03
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6839.mkv
+#EXTINF:-1 tvg-id="Homeland S02 E04" tvg-name="Homeland S02 E04"  group-title="SERIES ACCION",Homeland S02 E04
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6840.mkv
+#EXTINF:-1 tvg-id="Homeland S02 E05" tvg-name="Homeland S02 E05"  group-title="SERIES ACCION",Homeland S02 E05
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6841.mkv
+#EXTINF:-1 tvg-id="Homeland S02 E06" tvg-name="Homeland S02 E06"  group-title="SERIES ACCION",Homeland S02 E06
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6849.mkv
+#EXTINF:-1 tvg-id="Homeland S02 E07" tvg-name="Homeland S02 E07"  group-title="SERIES ACCION",Homeland S02 E07
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6847.mkv
+#EXTINF:-1 tvg-id="Homeland S02 E08" tvg-name="Homeland S02 E08"  group-title="SERIES ACCION",Homeland S02 E08
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6842.mkv
+#EXTINF:-1 tvg-id="Homeland S02 E09" tvg-name="Homeland S02 E09"  group-title="SERIES ACCION",Homeland S02 E09
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6844.mkv
+#EXTINF:-1 tvg-id="Homeland S02 E10" tvg-name="Homeland S02 E10"  group-title="SERIES ACCION",Homeland S02 E10
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6845.mkv
+#EXTINF:-1 tvg-id="Homeland S02 E11" tvg-name="Homeland S02 E11"  group-title="SERIES ACCION",Homeland S02 E11
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6846.mkv
+#EXTINF:-1 tvg-id="Homeland S02 E12" tvg-name="Homeland S02 E12"  group-title="SERIES ACCION",Homeland S02 E12
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6848.mkv
 #EXTINF:-1 tvg-id="Homeland S03 E01" tvg-name="Homeland S03 E01"  group-title="SERIES ACCION",Homeland S03 E01
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6856.mkv
-#EXTINF:-1 tvg-id="Homeland S03 E02" tvg-name="Homeland S03 E02"  group-title="SERIES ACCION",Homeland S03 E02
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6861.mkv
-#EXTINF:-1 tvg-id="Homeland S03 E03" tvg-name="Homeland S03 E03"  group-title="SERIES ACCION",Homeland S03 E03
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6860.mkv
-#EXTINF:-1 tvg-id="Homeland S03 E04" tvg-name="Homeland S03 E04"  group-title="SERIES ACCION",Homeland S03 E04
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6859.mkv
-#EXTINF:-1 tvg-id="Homeland S03 E05" tvg-name="Homeland S03 E05"  group-title="SERIES ACCION",Homeland S03 E05
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6858.mkv
-#EXTINF:-1 tvg-id="Homeland S03 E06" tvg-name="Homeland S03 E06"  group-title="SERIES ACCION",Homeland S03 E06
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6857.mkv
-#EXTINF:-1 tvg-id="Homeland S03 E07" tvg-name="Homeland S03 E07"  group-title="SERIES ACCION",Homeland S03 E07
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6855.mkv
-#EXTINF:-1 tvg-id="Homeland S03 E08" tvg-name="Homeland S03 E08"  group-title="SERIES ACCION",Homeland S03 E08
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6854.mkv
-#EXTINF:-1 tvg-id="Homeland S03 E09" tvg-name="Homeland S03 E09"  group-title="SERIES ACCION",Homeland S03 E09
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6853.mkv
-#EXTINF:-1 tvg-id="Homeland S03 E10" tvg-name="Homeland S03 E10"  group-title="SERIES ACCION",Homeland S03 E10
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6852.mkv
-#EXTINF:-1 tvg-id="Homeland S03 E11" tvg-name="Homeland S03 E11"  group-title="SERIES ACCION",Homeland S03 E11
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6851.mkv
-#EXTINF:-1 tvg-id="Homeland S03 E12" tvg-name="Homeland S03 E12"  group-title="SERIES ACCION",Homeland S03 E12
+#EXTINF:-1 tvg-id="Homeland S03 E02" tvg-name="Homeland S03 E02"  group-title="SERIES ACCION",Homeland S03 E02
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6850.mkv
+#EXTINF:-1 tvg-id="Homeland S03 E03" tvg-name="Homeland S03 E03"  group-title="SERIES ACCION",Homeland S03 E03
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6851.mkv
+#EXTINF:-1 tvg-id="Homeland S03 E04" tvg-name="Homeland S03 E04"  group-title="SERIES ACCION",Homeland S03 E04
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6852.mkv
+#EXTINF:-1 tvg-id="Homeland S03 E05" tvg-name="Homeland S03 E05"  group-title="SERIES ACCION",Homeland S03 E05
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6861.mkv
+#EXTINF:-1 tvg-id="Homeland S03 E06" tvg-name="Homeland S03 E06"  group-title="SERIES ACCION",Homeland S03 E06
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6860.mkv
+#EXTINF:-1 tvg-id="Homeland S03 E07" tvg-name="Homeland S03 E07"  group-title="SERIES ACCION",Homeland S03 E07
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6858.mkv
+#EXTINF:-1 tvg-id="Homeland S03 E08" tvg-name="Homeland S03 E08"  group-title="SERIES ACCION",Homeland S03 E08
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6853.mkv
+#EXTINF:-1 tvg-id="Homeland S03 E09" tvg-name="Homeland S03 E09"  group-title="SERIES ACCION",Homeland S03 E09
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6855.mkv
+#EXTINF:-1 tvg-id="Homeland S03 E10" tvg-name="Homeland S03 E10"  group-title="SERIES ACCION",Homeland S03 E10
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6856.mkv
+#EXTINF:-1 tvg-id="Homeland S03 E11" tvg-name="Homeland S03 E11"  group-title="SERIES ACCION",Homeland S03 E11
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6857.mkv
+#EXTINF:-1 tvg-id="Homeland S03 E12" tvg-name="Homeland S03 E12"  group-title="SERIES ACCION",Homeland S03 E12
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6859.mkv
 #EXTINF:-1 tvg-id="Homeland S04 E01" tvg-name="Homeland S04 E01"  group-title="SERIES ACCION",Homeland S04 E01
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6873.mkv
-#EXTINF:-1 tvg-id="Homeland S04 E02" tvg-name="Homeland S04 E02"  group-title="SERIES ACCION",Homeland S04 E02
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6872.mkv
-#EXTINF:-1 tvg-id="Homeland S04 E03" tvg-name="Homeland S04 E03"  group-title="SERIES ACCION",Homeland S04 E03
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6871.mkv
-#EXTINF:-1 tvg-id="Homeland S04 E04" tvg-name="Homeland S04 E04"  group-title="SERIES ACCION",Homeland S04 E04
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6870.mkv
-#EXTINF:-1 tvg-id="Homeland S04 E05" tvg-name="Homeland S04 E05"  group-title="SERIES ACCION",Homeland S04 E05
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6869.mkv
-#EXTINF:-1 tvg-id="Homeland S04 E06" tvg-name="Homeland S04 E06"  group-title="SERIES ACCION",Homeland S04 E06
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6868.mkv
-#EXTINF:-1 tvg-id="Homeland S04 E07" tvg-name="Homeland S04 E07"  group-title="SERIES ACCION",Homeland S04 E07
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6866.mkv
+#EXTINF:-1 tvg-id="Homeland S04 E02" tvg-name="Homeland S04 E02"  group-title="SERIES ACCION",Homeland S04 E02
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6862.mkv
+#EXTINF:-1 tvg-id="Homeland S04 E03" tvg-name="Homeland S04 E03"  group-title="SERIES ACCION",Homeland S04 E03
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6863.mkv
+#EXTINF:-1 tvg-id="Homeland S04 E04" tvg-name="Homeland S04 E04"  group-title="SERIES ACCION",Homeland S04 E04
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6864.mkv
+#EXTINF:-1 tvg-id="Homeland S04 E05" tvg-name="Homeland S04 E05"  group-title="SERIES ACCION",Homeland S04 E05
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6873.mkv
+#EXTINF:-1 tvg-id="Homeland S04 E06" tvg-name="Homeland S04 E06"  group-title="SERIES ACCION",Homeland S04 E06
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6872.mkv
+#EXTINF:-1 tvg-id="Homeland S04 E07" tvg-name="Homeland S04 E07"  group-title="SERIES ACCION",Homeland S04 E07
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6870.mkv
 #EXTINF:-1 tvg-id="Homeland S04 E08" tvg-name="Homeland S04 E08"  group-title="SERIES ACCION",Homeland S04 E08
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6865.mkv
 #EXTINF:-1 tvg-id="Homeland S04 E09" tvg-name="Homeland S04 E09"  group-title="SERIES ACCION",Homeland S04 E09
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6864.mkv
-#EXTINF:-1 tvg-id="Homeland S04 E10" tvg-name="Homeland S04 E10"  group-title="SERIES ACCION",Homeland S04 E10
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6863.mkv
-#EXTINF:-1 tvg-id="Homeland S04 E11" tvg-name="Homeland S04 E11"  group-title="SERIES ACCION",Homeland S04 E11
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6862.mkv
-#EXTINF:-1 tvg-id="Homeland S04 E12" tvg-name="Homeland S04 E12"  group-title="SERIES ACCION",Homeland S04 E12
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6867.mkv
+#EXTINF:-1 tvg-id="Homeland S04 E10" tvg-name="Homeland S04 E10"  group-title="SERIES ACCION",Homeland S04 E10
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6868.mkv
+#EXTINF:-1 tvg-id="Homeland S04 E11" tvg-name="Homeland S04 E11"  group-title="SERIES ACCION",Homeland S04 E11
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6869.mkv
+#EXTINF:-1 tvg-id="Homeland S04 E12" tvg-name="Homeland S04 E12"  group-title="SERIES ACCION",Homeland S04 E12
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6871.mkv
 #EXTINF:-1 tvg-id="Homeland S05 E01" tvg-name="Homeland S05 E01"  group-title="SERIES ACCION",Homeland S05 E01
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6880.mkv
-#EXTINF:-1 tvg-id="Homeland S05 E02" tvg-name="Homeland S05 E02"  group-title="SERIES ACCION",Homeland S05 E02
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6885.mkv
-#EXTINF:-1 tvg-id="Homeland S05 E03" tvg-name="Homeland S05 E03"  group-title="SERIES ACCION",Homeland S05 E03
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6884.mkv
-#EXTINF:-1 tvg-id="Homeland S05 E04" tvg-name="Homeland S05 E04"  group-title="SERIES ACCION",Homeland S05 E04
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6883.mkv
-#EXTINF:-1 tvg-id="Homeland S05 E05" tvg-name="Homeland S05 E05"  group-title="SERIES ACCION",Homeland S05 E05
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6882.mkv
-#EXTINF:-1 tvg-id="Homeland S05 E06" tvg-name="Homeland S05 E06"  group-title="SERIES ACCION",Homeland S05 E06
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6881.mkv
-#EXTINF:-1 tvg-id="Homeland S05 E07" tvg-name="Homeland S05 E07"  group-title="SERIES ACCION",Homeland S05 E07
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6879.mkv
-#EXTINF:-1 tvg-id="Homeland S05 E08" tvg-name="Homeland S05 E08"  group-title="SERIES ACCION",Homeland S05 E08
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6878.mkv
-#EXTINF:-1 tvg-id="Homeland S05 E09" tvg-name="Homeland S05 E09"  group-title="SERIES ACCION",Homeland S05 E09
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6877.mkv
-#EXTINF:-1 tvg-id="Homeland S05 E10" tvg-name="Homeland S05 E10"  group-title="SERIES ACCION",Homeland S05 E10
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6876.mkv
-#EXTINF:-1 tvg-id="Homeland S05 E11" tvg-name="Homeland S05 E11"  group-title="SERIES ACCION",Homeland S05 E11
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6875.mkv
-#EXTINF:-1 tvg-id="Homeland S05 E12" tvg-name="Homeland S05 E12"  group-title="SERIES ACCION",Homeland S05 E12
+#EXTINF:-1 tvg-id="Homeland S05 E02" tvg-name="Homeland S05 E02"  group-title="SERIES ACCION",Homeland S05 E02
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6874.mkv
+#EXTINF:-1 tvg-id="Homeland S05 E03" tvg-name="Homeland S05 E03"  group-title="SERIES ACCION",Homeland S05 E03
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6875.mkv
+#EXTINF:-1 tvg-id="Homeland S05 E04" tvg-name="Homeland S05 E04"  group-title="SERIES ACCION",Homeland S05 E04
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6876.mkv
+#EXTINF:-1 tvg-id="Homeland S05 E05" tvg-name="Homeland S05 E05"  group-title="SERIES ACCION",Homeland S05 E05
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6885.mkv
+#EXTINF:-1 tvg-id="Homeland S05 E06" tvg-name="Homeland S05 E06"  group-title="SERIES ACCION",Homeland S05 E06
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6884.mkv
+#EXTINF:-1 tvg-id="Homeland S05 E07" tvg-name="Homeland S05 E07"  group-title="SERIES ACCION",Homeland S05 E07
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6882.mkv
+#EXTINF:-1 tvg-id="Homeland S05 E08" tvg-name="Homeland S05 E08"  group-title="SERIES ACCION",Homeland S05 E08
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6877.mkv
+#EXTINF:-1 tvg-id="Homeland S05 E09" tvg-name="Homeland S05 E09"  group-title="SERIES ACCION",Homeland S05 E09
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6879.mkv
+#EXTINF:-1 tvg-id="Homeland S05 E10" tvg-name="Homeland S05 E10"  group-title="SERIES ACCION",Homeland S05 E10
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6880.mkv
+#EXTINF:-1 tvg-id="Homeland S05 E11" tvg-name="Homeland S05 E11"  group-title="SERIES ACCION",Homeland S05 E11
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6881.mkv
+#EXTINF:-1 tvg-id="Homeland S05 E12" tvg-name="Homeland S05 E12"  group-title="SERIES ACCION",Homeland S05 E12
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6883.mkv
 #EXTINF:-1 tvg-id="Homeland S06 E01" tvg-name="Homeland S06 E01"  group-title="SERIES ACCION",Homeland S06 E01
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6893.mkv
-#EXTINF:-1 tvg-id="Homeland S06 E02" tvg-name="Homeland S06 E02"  group-title="SERIES ACCION",Homeland S06 E02
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6897.mkv
-#EXTINF:-1 tvg-id="Homeland S06 E03" tvg-name="Homeland S06 E03"  group-title="SERIES ACCION",Homeland S06 E03
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6896.mkv
-#EXTINF:-1 tvg-id="Homeland S06 E04" tvg-name="Homeland S06 E04"  group-title="SERIES ACCION",Homeland S06 E04
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6895.mkv
-#EXTINF:-1 tvg-id="Homeland S06 E05" tvg-name="Homeland S06 E05"  group-title="SERIES ACCION",Homeland S06 E05
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6894.mkv
-#EXTINF:-1 tvg-id="Homeland S06 E06" tvg-name="Homeland S06 E06"  group-title="SERIES ACCION",Homeland S06 E06
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6892.mkv
-#EXTINF:-1 tvg-id="Homeland S06 E07" tvg-name="Homeland S06 E07"  group-title="SERIES ACCION",Homeland S06 E07
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6890.mkv
+#EXTINF:-1 tvg-id="Homeland S06 E02" tvg-name="Homeland S06 E02"  group-title="SERIES ACCION",Homeland S06 E02
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6886.mkv
+#EXTINF:-1 tvg-id="Homeland S06 E03" tvg-name="Homeland S06 E03"  group-title="SERIES ACCION",Homeland S06 E03
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6887.mkv
+#EXTINF:-1 tvg-id="Homeland S06 E04" tvg-name="Homeland S06 E04"  group-title="SERIES ACCION",Homeland S06 E04
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6888.mkv
+#EXTINF:-1 tvg-id="Homeland S06 E05" tvg-name="Homeland S06 E05"  group-title="SERIES ACCION",Homeland S06 E05
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6897.mkv
+#EXTINF:-1 tvg-id="Homeland S06 E06" tvg-name="Homeland S06 E06"  group-title="SERIES ACCION",Homeland S06 E06
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6896.mkv
+#EXTINF:-1 tvg-id="Homeland S06 E07" tvg-name="Homeland S06 E07"  group-title="SERIES ACCION",Homeland S06 E07
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6894.mkv
 #EXTINF:-1 tvg-id="Homeland S06 E08" tvg-name="Homeland S06 E08"  group-title="SERIES ACCION",Homeland S06 E08
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6889.mkv
 #EXTINF:-1 tvg-id="Homeland S06 E09" tvg-name="Homeland S06 E09"  group-title="SERIES ACCION",Homeland S06 E09
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6888.mkv
-#EXTINF:-1 tvg-id="Homeland S06 E10" tvg-name="Homeland S06 E10"  group-title="SERIES ACCION",Homeland S06 E10
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6887.mkv
-#EXTINF:-1 tvg-id="Homeland S06 E11" tvg-name="Homeland S06 E11"  group-title="SERIES ACCION",Homeland S06 E11
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6886.mkv
-#EXTINF:-1 tvg-id="Homeland S06 E12" tvg-name="Homeland S06 E12"  group-title="SERIES ACCION",Homeland S06 E12
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6891.mkv
+#EXTINF:-1 tvg-id="Homeland S06 E10" tvg-name="Homeland S06 E10"  group-title="SERIES ACCION",Homeland S06 E10
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6892.mkv
+#EXTINF:-1 tvg-id="Homeland S06 E11" tvg-name="Homeland S06 E11"  group-title="SERIES ACCION",Homeland S06 E11
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6893.mkv
+#EXTINF:-1 tvg-id="Homeland S06 E12" tvg-name="Homeland S06 E12"  group-title="SERIES ACCION",Homeland S06 E12
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6895.mkv
 #EXTINF:-1 tvg-id="Homeland S07 E01" tvg-name="Homeland S07 E01"  group-title="SERIES ACCION",Homeland S07 E01
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6905.mkv
-#EXTINF:-1 tvg-id="Homeland S07 E02" tvg-name="Homeland S07 E02"  group-title="SERIES ACCION",Homeland S07 E02
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6898.mkv
-#EXTINF:-1 tvg-id="Homeland S07 E03" tvg-name="Homeland S07 E03"  group-title="SERIES ACCION",Homeland S07 E03
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6909.mkv
-#EXTINF:-1 tvg-id="Homeland S07 E04" tvg-name="Homeland S07 E04"  group-title="SERIES ACCION",Homeland S07 E04
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6908.mkv
-#EXTINF:-1 tvg-id="Homeland S07 E05" tvg-name="Homeland S07 E05"  group-title="SERIES ACCION",Homeland S07 E05
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6907.mkv
-#EXTINF:-1 tvg-id="Homeland S07 E06" tvg-name="Homeland S07 E06"  group-title="SERIES ACCION",Homeland S07 E06
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6906.mp4
-#EXTINF:-1 tvg-id="Homeland S07 E07" tvg-name="Homeland S07 E07"  group-title="SERIES ACCION",Homeland S07 E07
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6904.mp4
-#EXTINF:-1 tvg-id="Homeland S07 E08" tvg-name="Homeland S07 E08"  group-title="SERIES ACCION",Homeland S07 E08
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6903.mp4
-#EXTINF:-1 tvg-id="Homeland S07 E09" tvg-name="Homeland S07 E09"  group-title="SERIES ACCION",Homeland S07 E09
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6902.mp4
-#EXTINF:-1 tvg-id="Homeland S07 E10" tvg-name="Homeland S07 E10"  group-title="SERIES ACCION",Homeland S07 E10
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6901.mp4
-#EXTINF:-1 tvg-id="Homeland S07 E11" tvg-name="Homeland S07 E11"  group-title="SERIES ACCION",Homeland S07 E11
-http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6900.mp4
-#EXTINF:-1 tvg-id="Homeland S07 E12" tvg-name="Homeland S07 E12"  group-title="SERIES ACCION",Homeland S07 E12
+#EXTINF:-1 tvg-id="Homeland S07 E02" tvg-name="Homeland S07 E02"  group-title="SERIES ACCION",Homeland S07 E02
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6899.mp4
+#EXTINF:-1 tvg-id="Homeland S07 E03" tvg-name="Homeland S07 E03"  group-title="SERIES ACCION",Homeland S07 E03
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6900.mp4
+#EXTINF:-1 tvg-id="Homeland S07 E04" tvg-name="Homeland S07 E04"  group-title="SERIES ACCION",Homeland S07 E04
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6901.mp4
+#EXTINF:-1 tvg-id="Homeland S07 E05" tvg-name="Homeland S07 E05"  group-title="SERIES ACCION",Homeland S07 E05
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6898.mkv
+#EXTINF:-1 tvg-id="Homeland S07 E06" tvg-name="Homeland S07 E06"  group-title="SERIES ACCION",Homeland S07 E06
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6909.mkv
+#EXTINF:-1 tvg-id="Homeland S07 E07" tvg-name="Homeland S07 E07"  group-title="SERIES ACCION",Homeland S07 E07
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6908.mkv
+#EXTINF:-1 tvg-id="Homeland S07 E08" tvg-name="Homeland S07 E08"  group-title="SERIES ACCION",Homeland S07 E08
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6907.mkv
+#EXTINF:-1 tvg-id="Homeland S07 E09" tvg-name="Homeland S07 E09"  group-title="SERIES ACCION",Homeland S07 E09
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6905.mkv
+#EXTINF:-1 tvg-id="Homeland S07 E10" tvg-name="Homeland S07 E10"  group-title="SERIES ACCION",Homeland S07 E10
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6906.mp4
+#EXTINF:-1 tvg-id="Homeland S07 E11" tvg-name="Homeland S07 E11"  group-title="SERIES ACCION",Homeland S07 E11
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6904.mp4
+#EXTINF:-1 tvg-id="Homeland S07 E12" tvg-name="Homeland S07 E12"  group-title="SERIES ACCION",Homeland S07 E12
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6902.mp4
 #EXTINF:-1 tvg-id="Homeland S08 E01" tvg-name="Homeland S08 E01"  group-title="SERIES ACCION",Homeland S08 E01
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/27390.mkv
 #EXTINF:-1 tvg-id="Homeland S08 E02" tvg-name="Homeland S08 E02"  group-title="SERIES ACCION",Homeland S08 E02
@@ -14903,6 +14899,26 @@ http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/40928.mkv
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/40929.mkv
 #EXTINF:-1 tvg-id="Cobra Kai S03 E10" tvg-name="Cobra Kai S03 E10"  group-title="SERIES ACCION",Cobra Kai S03 E10
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/40930.mkv
+#EXTINF:-1 tvg-id="Cobra Kai S04 E01" tvg-name="Cobra Kai S04 E01"  group-title="SERIES ACCION",Cobra Kai S04 E01
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58490.mkv
+#EXTINF:-1 tvg-id="Cobra Kai S04 E02" tvg-name="Cobra Kai S04 E02"  group-title="SERIES ACCION",Cobra Kai S04 E02
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58491.mkv
+#EXTINF:-1 tvg-id="Cobra Kai S04 E03" tvg-name="Cobra Kai S04 E03"  group-title="SERIES ACCION",Cobra Kai S04 E03
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58492.mkv
+#EXTINF:-1 tvg-id="Cobra Kai S04 E04" tvg-name="Cobra Kai S04 E04"  group-title="SERIES ACCION",Cobra Kai S04 E04
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58493.mkv
+#EXTINF:-1 tvg-id="Cobra Kai S04 E05" tvg-name="Cobra Kai S04 E05"  group-title="SERIES ACCION",Cobra Kai S04 E05
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58494.mkv
+#EXTINF:-1 tvg-id="Cobra Kai S04 E06" tvg-name="Cobra Kai S04 E06"  group-title="SERIES ACCION",Cobra Kai S04 E06
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58495.mkv
+#EXTINF:-1 tvg-id="Cobra Kai S04 E07" tvg-name="Cobra Kai S04 E07"  group-title="SERIES ACCION",Cobra Kai S04 E07
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58496.mkv
+#EXTINF:-1 tvg-id="Cobra Kai S04 E08" tvg-name="Cobra Kai S04 E08"  group-title="SERIES ACCION",Cobra Kai S04 E08
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58497.mkv
+#EXTINF:-1 tvg-id="Cobra Kai S04 E09" tvg-name="Cobra Kai S04 E09"  group-title="SERIES ACCION",Cobra Kai S04 E09
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58498.mkv
+#EXTINF:-1 tvg-id="Cobra Kai S04 E10" tvg-name="Cobra Kai S04 E10"  group-title="SERIES ACCION",Cobra Kai S04 E10
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58499.mkv
 #EXTINF:-1 tvg-id="CSI Miami S01 E01" tvg-name="CSI Miami S01 E01"  group-title="SERIES ACCION",CSI Miami S01 E01
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/12403.mp4
 #EXTINF:-1 tvg-id="CSI Miami S01 E02" tvg-name="CSI Miami S01 E02"  group-title="SERIES ACCION",CSI Miami S01 E02
@@ -26895,6 +26911,22 @@ http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/20136.mp4
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/20137.mp4
 #EXTINF:-1 tvg-id="The Witcher S01 E08" tvg-name="The Witcher S01 E08"  group-title="SERIES FICCION - FANTASIA",The Witcher S01 E08
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/20138.mp4
+#EXTINF:-1 tvg-id="The Witcher S02 E01" tvg-name="The Witcher S02 E01"  group-title="SERIES FICCION - FANTASIA",The Witcher S02 E01
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58482.mkv
+#EXTINF:-1 tvg-id="The Witcher S02 E02" tvg-name="The Witcher S02 E02"  group-title="SERIES FICCION - FANTASIA",The Witcher S02 E02
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58483.mkv
+#EXTINF:-1 tvg-id="The Witcher S02 E03" tvg-name="The Witcher S02 E03"  group-title="SERIES FICCION - FANTASIA",The Witcher S02 E03
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58484.mkv
+#EXTINF:-1 tvg-id="The Witcher S02 E04" tvg-name="The Witcher S02 E04"  group-title="SERIES FICCION - FANTASIA",The Witcher S02 E04
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58485.mkv
+#EXTINF:-1 tvg-id="The Witcher S02 E05" tvg-name="The Witcher S02 E05"  group-title="SERIES FICCION - FANTASIA",The Witcher S02 E05
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58486.mkv
+#EXTINF:-1 tvg-id="The Witcher S02 E06" tvg-name="The Witcher S02 E06"  group-title="SERIES FICCION - FANTASIA",The Witcher S02 E06
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58487.mkv
+#EXTINF:-1 tvg-id="The Witcher S02 E07" tvg-name="The Witcher S02 E07"  group-title="SERIES FICCION - FANTASIA",The Witcher S02 E07
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58488.mkv
+#EXTINF:-1 tvg-id="The Witcher S02 E08" tvg-name="The Witcher S02 E08"  group-title="SERIES FICCION - FANTASIA",The Witcher S02 E08
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58489.mkv
 #EXTINF:-1 tvg-id="Dracula S01 E01" tvg-name="Dracula S01 E01"  group-title="SERIES FICCION - FANTASIA",Dracula S01 E01
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/21118.mkv
 #EXTINF:-1 tvg-id="Dracula S01 E02" tvg-name="Dracula S01 E02"  group-title="SERIES FICCION - FANTASIA",Dracula S01 E02
@@ -27167,6 +27199,48 @@ http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/29225.mp4
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/29224.mp4
 #EXTINF:-1 tvg-id="The Flash S06 E19" tvg-name="The Flash S06 E19"  group-title="SERIES FICCION - FANTASIA",The Flash S06 E19
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/29223.mp4
+#EXTINF:-1 tvg-id="The Flash S07 E01" tvg-name="The Flash S07 E01"  group-title="SERIES FICCION - FANTASIA",The Flash S07 E01
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58629.mkv
+#EXTINF:-1 tvg-id="The Flash S07 E02" tvg-name="The Flash S07 E02"  group-title="SERIES FICCION - FANTASIA",The Flash S07 E02
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58630.mkv
+#EXTINF:-1 tvg-id="The Flash S07 E03" tvg-name="The Flash S07 E03"  group-title="SERIES FICCION - FANTASIA",The Flash S07 E03
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58631.mkv
+#EXTINF:-1 tvg-id="The Flash S07 E04" tvg-name="The Flash S07 E04"  group-title="SERIES FICCION - FANTASIA",The Flash S07 E04
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58632.mkv
+#EXTINF:-1 tvg-id="The Flash S07 E05" tvg-name="The Flash S07 E05"  group-title="SERIES FICCION - FANTASIA",The Flash S07 E05
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58633.mkv
+#EXTINF:-1 tvg-id="The Flash S07 E06" tvg-name="The Flash S07 E06"  group-title="SERIES FICCION - FANTASIA",The Flash S07 E06
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58634.mkv
+#EXTINF:-1 tvg-id="The Flash S07 E07" tvg-name="The Flash S07 E07"  group-title="SERIES FICCION - FANTASIA",The Flash S07 E07
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58635.mkv
+#EXTINF:-1 tvg-id="The Flash S07 E08" tvg-name="The Flash S07 E08"  group-title="SERIES FICCION - FANTASIA",The Flash S07 E08
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58636.mkv
+#EXTINF:-1 tvg-id="The Flash S07 E09" tvg-name="The Flash S07 E09"  group-title="SERIES FICCION - FANTASIA",The Flash S07 E09
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58637.mkv
+#EXTINF:-1 tvg-id="The Flash S07 E10" tvg-name="The Flash S07 E10"  group-title="SERIES FICCION - FANTASIA",The Flash S07 E10
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58638.mkv
+#EXTINF:-1 tvg-id="The Flash S07 E11" tvg-name="The Flash S07 E11"  group-title="SERIES FICCION - FANTASIA",The Flash S07 E11
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58639.mkv
+#EXTINF:-1 tvg-id="The Flash S07 E12" tvg-name="The Flash S07 E12"  group-title="SERIES FICCION - FANTASIA",The Flash S07 E12
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58640.mkv
+#EXTINF:-1 tvg-id="The Flash S07 E13" tvg-name="The Flash S07 E13"  group-title="SERIES FICCION - FANTASIA",The Flash S07 E13
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58641.mkv
+#EXTINF:-1 tvg-id="The Flash S07 E14" tvg-name="The Flash S07 E14"  group-title="SERIES FICCION - FANTASIA",The Flash S07 E14
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58642.mkv
+#EXTINF:-1 tvg-id="The Flash S07 E15" tvg-name="The Flash S07 E15"  group-title="SERIES FICCION - FANTASIA",The Flash S07 E15
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58643.mkv
+#EXTINF:-1 tvg-id="The Flash S07 E16" tvg-name="The Flash S07 E16"  group-title="SERIES FICCION - FANTASIA",The Flash S07 E16
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58644.mkv
+#EXTINF:-1 tvg-id="The Flash S07 E17" tvg-name="The Flash S07 E17"  group-title="SERIES FICCION - FANTASIA",The Flash S07 E17
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58645.mkv
+#EXTINF:-1 tvg-id="The Flash S07 E18" tvg-name="The Flash S07 E18"  group-title="SERIES FICCION - FANTASIA",The Flash S07 E18
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58646.mkv
+#EXTINF:-1 tvg-id="The Flash S08 E01" tvg-name="The Flash S08 E01"  group-title="SERIES FICCION - FANTASIA",The Flash S08 E01
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58647.mkv
+#EXTINF:-1 tvg-id="The Flash S08 E02" tvg-name="The Flash S08 E02"  group-title="SERIES FICCION - FANTASIA",The Flash S08 E02
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58648.mkv
+#EXTINF:-1 tvg-id="The Flash S08 E03" tvg-name="The Flash S08 E03"  group-title="SERIES FICCION - FANTASIA",The Flash S08 E03
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58649.mkv
 #EXTINF:-1 tvg-id="Marvel - Daredevil S01 E01" tvg-name="Marvel - Daredevil S01 E01"  group-title="SERIES FICCION - FANTASIA",Marvel - Daredevil S01 E01
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/21630.mkv
 #EXTINF:-1 tvg-id="Marvel - Daredevil S01 E02" tvg-name="Marvel - Daredevil S01 E02"  group-title="SERIES FICCION - FANTASIA",Marvel - Daredevil S01 E02
@@ -27981,6 +28055,10 @@ http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/53001.mkv
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/53411.mkv
 #EXTINF:-1 tvg-id="What If - ¿Que pasaria si...? S01 E07" tvg-name="What If - ¿Que pasaria si...? S01 E07"  group-title="SERIES FICCION - FANTASIA",What If - ¿Que pasaria si...? S01 E07
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/53412.mkv
+#EXTINF:-1 tvg-id="What If - ¿Que pasaria si...? S01 E08" tvg-name="What If - ¿Que pasaria si...? S01 E08"  group-title="SERIES FICCION - FANTASIA",What If - ¿Que pasaria si...? S01 E08
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58627.mkv
+#EXTINF:-1 tvg-id="What If - ¿Que pasaria si...? S01 E09" tvg-name="What If - ¿Que pasaria si...? S01 E09"  group-title="SERIES FICCION - FANTASIA",What If - ¿Que pasaria si...? S01 E09
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58628.mkv
 #EXTINF:-1 tvg-id="Debris S01 E01" tvg-name="Debris S01 E01"  group-title="SERIES FICCION - FANTASIA",Debris S01 E01
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/55203.mkv
 #EXTINF:-1 tvg-id="Debris S01 E02" tvg-name="Debris S01 E02"  group-title="SERIES FICCION - FANTASIA",Debris S01 E02
@@ -28161,6 +28239,14 @@ http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/56064.mkv
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57148.mkv
 #EXTINF:-1 tvg-id="Hawkeye - Ojo de Halcon (2021) S01 E02" tvg-name="Hawkeye - Ojo de Halcon (2021) S01 E02"  group-title="SERIES FICCION - FANTASIA",Hawkeye - Ojo de Halcon (2021) S01 E02
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57149.mkv
+#EXTINF:-1 tvg-id="Hawkeye - Ojo de Halcon (2021) S01 E03" tvg-name="Hawkeye - Ojo de Halcon (2021) S01 E03"  group-title="SERIES FICCION - FANTASIA",Hawkeye - Ojo de Halcon (2021) S01 E03
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58582.mkv
+#EXTINF:-1 tvg-id="Hawkeye - Ojo de Halcon (2021) S01 E04" tvg-name="Hawkeye - Ojo de Halcon (2021) S01 E04"  group-title="SERIES FICCION - FANTASIA",Hawkeye - Ojo de Halcon (2021) S01 E04
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58583.mkv
+#EXTINF:-1 tvg-id="Hawkeye - Ojo de Halcon (2021) S01 E05" tvg-name="Hawkeye - Ojo de Halcon (2021) S01 E05"  group-title="SERIES FICCION - FANTASIA",Hawkeye - Ojo de Halcon (2021) S01 E05
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58584.mkv
+#EXTINF:-1 tvg-id="Hawkeye - Ojo de Halcon (2021) S01 E06" tvg-name="Hawkeye - Ojo de Halcon (2021) S01 E06"  group-title="SERIES FICCION - FANTASIA",Hawkeye - Ojo de Halcon (2021) S01 E06
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58585.mkv
 #EXTINF:-1 tvg-id="Johnny Bravo S01 E01" tvg-name="Johnny Bravo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9Ug39KxbIt1opgXdJY3AJhAlGx.jpg" group-title="SERIES INFANTILES",Johnny Bravo S01 E01
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/6923.mp4
 #EXTINF:-1 tvg-id="Johnny Bravo S01 E02" tvg-name="Johnny Bravo S01 E02" tvg-logo="http://xdgo.live:8080/images/d7b2ea32f483aef63edf9412a3da3b79.jpg" group-title="SERIES INFANTILES",Johnny Bravo S01 E02
@@ -31665,6 +31751,12 @@ http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57145.mkv
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57146.mkv
 #EXTINF:-1 tvg-id="Chucky S01 E05" tvg-name="Chucky S01 E05"  group-title="SERIES TERROR - THRILLER",Chucky S01 E05
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57147.mkv
+#EXTINF:-1 tvg-id="Chucky S01 E06" tvg-name="Chucky S01 E06"  group-title="SERIES TERROR - THRILLER",Chucky S01 E06
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58479.mkv
+#EXTINF:-1 tvg-id="Chucky S01 E07" tvg-name="Chucky S01 E07"  group-title="SERIES TERROR - THRILLER",Chucky S01 E07
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58480.mkv
+#EXTINF:-1 tvg-id="Chucky S01 E08" tvg-name="Chucky S01 E08"  group-title="SERIES TERROR - THRILLER",Chucky S01 E08
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58481.mkv
 #EXTINF:-1 tvg-id="Dollface S01 E01" tvg-name="Dollface S01 E01"  group-title="SERIES TERROR - THRILLER",Dollface S01 E01
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/55228.mkv
 #EXTINF:-1 tvg-id="Dollface S01 E02" tvg-name="Dollface S01 E02"  group-title="SERIES TERROR - THRILLER",Dollface S01 E02
@@ -31797,6 +31889,34 @@ http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/41776.mkv
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/42114.mkv
 #EXTINF:-1 tvg-id="WandaVision S01 E09" tvg-name="WandaVision S01 E09"  group-title="WANDAVISION",WandaVision S01 E09
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/42412.mkv
+#EXTINF:-1 tvg-id="Cazafantasmas: Más allá (2021)" tvg-name="Cazafantasmas: Más allá (2021)" tvg-logo="http://xdgo.live:8080/images/227c8582898d0151590a5e4b2c767702.jpg" group-title="VFLIX ESTRENOS",Cazafantasmas: Más allá (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/58476.mkv
+#EXTINF:-1 tvg-id="Spin (2021)" tvg-name="Spin (2021)" tvg-logo="http://xdgo.live:8080/images/a4530875f6fe34bdc5ae390bccae5acc.jpg" group-title="VFLIX ESTRENOS",Spin (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/58477.mkv
+#EXTINF:-1 tvg-id="Chief Daddy 2: Going for Broke (2021)" tvg-name="Chief Daddy 2: Going for Broke (2021)" tvg-logo="http://xdgo.live:8080/images/6b8c7c718bd16890627188f2bbce7460.jpg" group-title="VFLIX ESTRENOS",Chief Daddy 2: Going for Broke (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/58474.mkv
+#EXTINF:-1 tvg-id="4 mitades (2022)" tvg-name="4 mitades (2022)" tvg-logo="http://xdgo.live:8080/images/caea2ab08259dc3c833a31fe676e231c.jpg" group-title="VFLIX ESTRENOS",4 mitades (2022)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/58475.mkv
+#EXTINF:-1 tvg-id="Harry Potter 20º Aniversario: Regreso a Hogwarts (2022)" tvg-name="Harry Potter 20º Aniversario: Regreso a Hogwarts (2022)" tvg-logo="http://xdgo.live:8080/images/f396d701a2f1563a37ca4ad35a83ea2e.jpg" group-title="VFLIX ESTRENOS",Harry Potter 20º Aniversario: Regreso a Hogwarts (2022)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/58397.mkv
+#EXTINF:-1 tvg-id="Lulli (2021)" tvg-name="Lulli (2021)" tvg-logo="http://xdgo.live:8080/images/85aae2e36b6acb0204aace57cfa8bf4a.jpg" group-title="VFLIX ESTRENOS",Lulli (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/58399.mkv
+#EXTINF:-1 tvg-id="Naked Singularity (2021)" tvg-name="Naked Singularity (2021)" tvg-logo="http://xdgo.live:8080/images/06e629a6ebad704ccb880219d10b756d.jpg" group-title="VFLIX ESTRENOS",Naked Singularity (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/58400.mkv
+#EXTINF:-1 tvg-id="Chilangolandia (2021)" tvg-name="Chilangolandia (2021)" tvg-logo="http://xdgo.live:8080/images/cc5155bd27fb6172ed6fb658b72410b7.jpg" group-title="VFLIX ESTRENOS",Chilangolandia (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/58395.mkv
+#EXTINF:-1 tvg-id="Lejos del árbol (2021)" tvg-name="Lejos del árbol (2021)" tvg-logo="http://xdgo.live:8080/images/521384750036f5ddb09224b713a68a6d.jpg" group-title="VFLIX ESTRENOS",Lejos del árbol (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/58396.mkv
+#EXTINF:-1 tvg-id="Hilda y el Rey de la montaña (2021)" tvg-name="Hilda y el Rey de la montaña (2021)" tvg-logo="http://xdgo.live:8080/images/49ae8560dd8264df37550494349ed42c.jpg" group-title="VFLIX ESTRENOS",Hilda y el Rey de la montaña (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/58398.mkv
+#EXTINF:-1 tvg-id="National Champions (2021)" tvg-name="National Champions (2021)" tvg-logo="http://xdgo.live:8080/images/834e27f1b5f89170eaa49a14d15926e6.jpg" group-title="VFLIX ESTRENOS",National Champions (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/58401.mkv
+#EXTINF:-1 tvg-id="Equipo foca (2021)" tvg-name="Equipo foca (2021)" tvg-logo="http://xdgo.live:8080/images/6c9de9dc6fafda98f5a58b6bd36dc12d.jpg" group-title="VFLIX ESTRENOS",Equipo foca (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/58402.mkv
+#EXTINF:-1 tvg-id="South Park - Post Covid: El Retorno del Covid (2021)" tvg-name="South Park - Post Covid: El Retorno del Covid (2021)" tvg-logo="http://xdgo.live:8080/images/ef82fd7bc84a090d77196ba9fe116aca.jpg" group-title="VFLIX ESTRENOS",South Park - Post Covid: El Retorno del Covid (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/58403.mkv
+#EXTINF:-1 tvg-id="The Lost Daughter (2021)" tvg-name="The Lost Daughter (2021)" tvg-logo="http://xdgo.live:8080/images/81f5e7c99d8e3fe71232b2f0e1cb5671.jpg" group-title="VFLIX ESTRENOS",The Lost Daughter (2021)
+http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/58404.mkv
 #EXTINF:-1 tvg-id="Encanto (2021)" tvg-name="Encanto (2021)" tvg-logo="http://xdgo.live:8080/images/46f97429852791959976a49c5c32cf77.jpg" group-title="VFLIX ESTRENOS",Encanto (2021)
 http://xdgo.live:8080/movie/28_VAmandaAmaril_g/Y5eosj37uo/58250.mkv
 #EXTINF:-1 tvg-id="A mil kilómetros de la Navidad (2021)" tvg-name="A mil kilómetros de la Navidad (2021)" tvg-logo="http://xdgo.live:8080/images/e0e5a27dc190bd72e7a2116ba6889ff4.jpg" group-title="VFLIX ESTRENOS",A mil kilómetros de la Navidad (2021)
@@ -32719,6 +32839,8 @@ http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57140.mkv
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57141.mkv
 #EXTINF:-1 tvg-id="Maradona Sueno bendito S01 E09" tvg-name="Maradona Sueno bendito S01 E09"  group-title="SERIES DOCUMENTALES",Maradona Sueno bendito S01 E09
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/57142.mkv
+#EXTINF:-1 tvg-id="Maradona Sueno bendito S01 E10" tvg-name="Maradona Sueno bendito S01 E10"  group-title="SERIES DOCUMENTALES",Maradona Sueno bendito S01 E10
+http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/58478.mkv
 #EXTINF:-1 tvg-id="Monstruos internos Las 24 caras de Billy Milligan S01 E01" tvg-name="Monstruos internos Las 24 caras de Billy Milligan S01 E01"  group-title="SERIES DOCUMENTALES",Monstruos internos Las 24 caras de Billy Milligan S01 E01
 http://xdgo.live:8080/series/28_VAmandaAmaril_g/Y5eosj37uo/55419.mkv
 #EXTINF:-1 tvg-id="Monstruos internos Las 24 caras de Billy Milligan S01 E02" tvg-name="Monstruos internos Las 24 caras de Billy Milligan S01 E02"  group-title="SERIES DOCUMENTALES",Monstruos internos Las 24 caras de Billy Milligan S01 E02

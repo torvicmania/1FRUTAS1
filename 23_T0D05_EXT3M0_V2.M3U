@@ -343,7 +343,7 @@ http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/53206
 http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/53205
 #EXTINF:-1 tvg-id="ADRENALINA SPORTS NETWORK FHD" tvg-name="ADRENALINA SPORTS NETWORK FHD" tvg-logo="https://pbs.twimg.com/profile_images/1080017503047213056/9sMHy4R5_400x400.jpg" group-title="DEPORTES",ADRENALINA SPORTS NETWORK FHD
 http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/1848
-#EXTINF:-1 tvg-id="AYM SPORTS HD" tvg-name="AYM SPORTS HD" tvg-logo="https://pbs.twimg.com/profile_images/574737723/logook.jpg" group-title="DEPORTES",AYM SPORTS HD
+#EXTINF:-1 tvg-id="AYM SPORTS HD" tvg-name="AYM SPORTS HD" tvg-logo="http://xdgo.live:8080/images/8c25bdb087f41b3da60b8c8329996830.jpg" group-title="DEPORTES",AYM SPORTS HD
 http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/2345
 #EXTINF:-1 tvg-id="BEIN SPORTS FHD" tvg-name="BEIN SPORTS HQ" tvg-logo="http://xdgo.live:8080/images/86e6488727101ba9ada110f7fdb4d94f.png" group-title="DEPORTES",BEIN SPORTS HQ
 http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/23994
@@ -417,7 +417,7 @@ http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/6109
 http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/2346
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 1 EC HD op2" tvg-name="DIRECTV SPORTS 1 EC HD op2" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 EC HD op2
 http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/2347
-#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 EC FHD" tvg-name="DIRECTV SPORTS 1 EC FHD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 EC FHD
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 EC FHD" tvg-name="DIRECTV SPORTS 1 EC FHD" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 EC FHD
 http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/2357
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 1 UR HQ" tvg-name="DIRECTV SPORTS 1 UR HQ" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 UR HQ
 http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/54632
@@ -2399,8 +2399,6 @@ http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/27552
 http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/190
 #EXTINF:-1 tvg-id="MX Canal de las Estrellas HQ" tvg-name="MX Canal de las Estrellas HQ" group-title="MEXICO",MX Canal de las Estrellas HQ
 http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/27553
-#EXTINF:-1 tvg-id="MX Canal Judicial HD" tvg-name="MX Canal Judicial HD" group-title="MEXICO",MX Canal Judicial HD
-http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/189
 #EXTINF:-1 tvg-id="MX Canal Once FHD" tvg-name="MX Canal Once FHD" group-title="MEXICO",MX Canal Once FHD
 http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/27575
 #EXTINF:-1 tvg-id="MX Canal Once HD" tvg-name="MX Canal Once HD" group-title="MEXICO",MX Canal Once HD
@@ -14292,171 +14290,179 @@ http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/209
 #EXTINF:-1 tvg-id="Homeland S01 E01" tvg-name="Homeland S01 E01"  group-title="SERIES ACCION",Homeland S01 E01
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6827.mkv
 #EXTINF:-1 tvg-id="Homeland S01 E02" tvg-name="Homeland S01 E02"  group-title="SERIES ACCION",Homeland S01 E02
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6826.mkv
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6828.mkv
 #EXTINF:-1 tvg-id="Homeland S01 E03" tvg-name="Homeland S01 E03"  group-title="SERIES ACCION",Homeland S01 E03
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6837.mkv
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6829.mkv
 #EXTINF:-1 tvg-id="Homeland S01 E04" tvg-name="Homeland S01 E04"  group-title="SERIES ACCION",Homeland S01 E04
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6836.mkv
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6830.mkv
 #EXTINF:-1 tvg-id="Homeland S01 E05" tvg-name="Homeland S01 E05"  group-title="SERIES ACCION",Homeland S01 E05
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6835.mkv
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6831.mkv
 #EXTINF:-1 tvg-id="Homeland S01 E06" tvg-name="Homeland S01 E06"  group-title="SERIES ACCION",Homeland S01 E06
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6834.mkv
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6832.mkv
 #EXTINF:-1 tvg-id="Homeland S01 E07" tvg-name="Homeland S01 E07"  group-title="SERIES ACCION",Homeland S01 E07
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6833.mkv
 #EXTINF:-1 tvg-id="Homeland S01 E08" tvg-name="Homeland S01 E08"  group-title="SERIES ACCION",Homeland S01 E08
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6832.mkv
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6834.mkv
 #EXTINF:-1 tvg-id="Homeland S01 E09" tvg-name="Homeland S01 E09"  group-title="SERIES ACCION",Homeland S01 E09
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6831.mkv
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6835.mkv
 #EXTINF:-1 tvg-id="Homeland S01 E10" tvg-name="Homeland S01 E10"  group-title="SERIES ACCION",Homeland S01 E10
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6830.mkv
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6836.mkv
 #EXTINF:-1 tvg-id="Homeland S01 E11" tvg-name="Homeland S01 E11"  group-title="SERIES ACCION",Homeland S01 E11
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6829.mkv
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6837.mkv
 #EXTINF:-1 tvg-id="Homeland S01 E12" tvg-name="Homeland S01 E12"  group-title="SERIES ACCION",Homeland S01 E12
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6828.mkv
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6826.mkv
+#EXTINF:-1 tvg-id="Homeland S01 E13" tvg-name="Homeland S01 E13"  group-title="SERIES ACCION",Homeland S01 E13
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58623.mkv
+#EXTINF:-1 tvg-id="Homeland S01 E14" tvg-name="Homeland S01 E14"  group-title="SERIES ACCION",Homeland S01 E14
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58624.mkv
+#EXTINF:-1 tvg-id="Homeland S01 E15" tvg-name="Homeland S01 E15"  group-title="SERIES ACCION",Homeland S01 E15
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58625.mkv
+#EXTINF:-1 tvg-id="Homeland S01 E16" tvg-name="Homeland S01 E16"  group-title="SERIES ACCION",Homeland S01 E16
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58626.mkv
 #EXTINF:-1 tvg-id="Homeland S02 E01" tvg-name="Homeland S02 E01"  group-title="SERIES ACCION",Homeland S02 E01
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6847.mkv
-#EXTINF:-1 tvg-id="Homeland S02 E02" tvg-name="Homeland S02 E02"  group-title="SERIES ACCION",Homeland S02 E02
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6849.mkv
-#EXTINF:-1 tvg-id="Homeland S02 E03" tvg-name="Homeland S02 E03"  group-title="SERIES ACCION",Homeland S02 E03
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6848.mkv
-#EXTINF:-1 tvg-id="Homeland S02 E04" tvg-name="Homeland S02 E04"  group-title="SERIES ACCION",Homeland S02 E04
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6846.mkv
-#EXTINF:-1 tvg-id="Homeland S02 E05" tvg-name="Homeland S02 E05"  group-title="SERIES ACCION",Homeland S02 E05
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6845.mkv
-#EXTINF:-1 tvg-id="Homeland S02 E06" tvg-name="Homeland S02 E06"  group-title="SERIES ACCION",Homeland S02 E06
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6844.mkv
-#EXTINF:-1 tvg-id="Homeland S02 E07" tvg-name="Homeland S02 E07"  group-title="SERIES ACCION",Homeland S02 E07
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6842.mkv
-#EXTINF:-1 tvg-id="Homeland S02 E08" tvg-name="Homeland S02 E08"  group-title="SERIES ACCION",Homeland S02 E08
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6841.mkv
-#EXTINF:-1 tvg-id="Homeland S02 E09" tvg-name="Homeland S02 E09"  group-title="SERIES ACCION",Homeland S02 E09
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6838.mkv
-#EXTINF:-1 tvg-id="Homeland S02 E10" tvg-name="Homeland S02 E10"  group-title="SERIES ACCION",Homeland S02 E10
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6840.mkv
-#EXTINF:-1 tvg-id="Homeland S02 E11" tvg-name="Homeland S02 E11"  group-title="SERIES ACCION",Homeland S02 E11
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6839.mkv
-#EXTINF:-1 tvg-id="Homeland S02 E12" tvg-name="Homeland S02 E12"  group-title="SERIES ACCION",Homeland S02 E12
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6843.mkv
+#EXTINF:-1 tvg-id="Homeland S02 E02" tvg-name="Homeland S02 E02"  group-title="SERIES ACCION",Homeland S02 E02
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6838.mkv
+#EXTINF:-1 tvg-id="Homeland S02 E03" tvg-name="Homeland S02 E03"  group-title="SERIES ACCION",Homeland S02 E03
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6839.mkv
+#EXTINF:-1 tvg-id="Homeland S02 E04" tvg-name="Homeland S02 E04"  group-title="SERIES ACCION",Homeland S02 E04
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6840.mkv
+#EXTINF:-1 tvg-id="Homeland S02 E05" tvg-name="Homeland S02 E05"  group-title="SERIES ACCION",Homeland S02 E05
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6841.mkv
+#EXTINF:-1 tvg-id="Homeland S02 E06" tvg-name="Homeland S02 E06"  group-title="SERIES ACCION",Homeland S02 E06
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6849.mkv
+#EXTINF:-1 tvg-id="Homeland S02 E07" tvg-name="Homeland S02 E07"  group-title="SERIES ACCION",Homeland S02 E07
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6847.mkv
+#EXTINF:-1 tvg-id="Homeland S02 E08" tvg-name="Homeland S02 E08"  group-title="SERIES ACCION",Homeland S02 E08
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6842.mkv
+#EXTINF:-1 tvg-id="Homeland S02 E09" tvg-name="Homeland S02 E09"  group-title="SERIES ACCION",Homeland S02 E09
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6844.mkv
+#EXTINF:-1 tvg-id="Homeland S02 E10" tvg-name="Homeland S02 E10"  group-title="SERIES ACCION",Homeland S02 E10
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6845.mkv
+#EXTINF:-1 tvg-id="Homeland S02 E11" tvg-name="Homeland S02 E11"  group-title="SERIES ACCION",Homeland S02 E11
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6846.mkv
+#EXTINF:-1 tvg-id="Homeland S02 E12" tvg-name="Homeland S02 E12"  group-title="SERIES ACCION",Homeland S02 E12
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6848.mkv
 #EXTINF:-1 tvg-id="Homeland S03 E01" tvg-name="Homeland S03 E01"  group-title="SERIES ACCION",Homeland S03 E01
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6856.mkv
-#EXTINF:-1 tvg-id="Homeland S03 E02" tvg-name="Homeland S03 E02"  group-title="SERIES ACCION",Homeland S03 E02
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6861.mkv
-#EXTINF:-1 tvg-id="Homeland S03 E03" tvg-name="Homeland S03 E03"  group-title="SERIES ACCION",Homeland S03 E03
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6860.mkv
-#EXTINF:-1 tvg-id="Homeland S03 E04" tvg-name="Homeland S03 E04"  group-title="SERIES ACCION",Homeland S03 E04
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6859.mkv
-#EXTINF:-1 tvg-id="Homeland S03 E05" tvg-name="Homeland S03 E05"  group-title="SERIES ACCION",Homeland S03 E05
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6858.mkv
-#EXTINF:-1 tvg-id="Homeland S03 E06" tvg-name="Homeland S03 E06"  group-title="SERIES ACCION",Homeland S03 E06
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6857.mkv
-#EXTINF:-1 tvg-id="Homeland S03 E07" tvg-name="Homeland S03 E07"  group-title="SERIES ACCION",Homeland S03 E07
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6855.mkv
-#EXTINF:-1 tvg-id="Homeland S03 E08" tvg-name="Homeland S03 E08"  group-title="SERIES ACCION",Homeland S03 E08
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6854.mkv
-#EXTINF:-1 tvg-id="Homeland S03 E09" tvg-name="Homeland S03 E09"  group-title="SERIES ACCION",Homeland S03 E09
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6853.mkv
-#EXTINF:-1 tvg-id="Homeland S03 E10" tvg-name="Homeland S03 E10"  group-title="SERIES ACCION",Homeland S03 E10
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6852.mkv
-#EXTINF:-1 tvg-id="Homeland S03 E11" tvg-name="Homeland S03 E11"  group-title="SERIES ACCION",Homeland S03 E11
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6851.mkv
-#EXTINF:-1 tvg-id="Homeland S03 E12" tvg-name="Homeland S03 E12"  group-title="SERIES ACCION",Homeland S03 E12
+#EXTINF:-1 tvg-id="Homeland S03 E02" tvg-name="Homeland S03 E02"  group-title="SERIES ACCION",Homeland S03 E02
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6850.mkv
+#EXTINF:-1 tvg-id="Homeland S03 E03" tvg-name="Homeland S03 E03"  group-title="SERIES ACCION",Homeland S03 E03
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6851.mkv
+#EXTINF:-1 tvg-id="Homeland S03 E04" tvg-name="Homeland S03 E04"  group-title="SERIES ACCION",Homeland S03 E04
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6852.mkv
+#EXTINF:-1 tvg-id="Homeland S03 E05" tvg-name="Homeland S03 E05"  group-title="SERIES ACCION",Homeland S03 E05
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6861.mkv
+#EXTINF:-1 tvg-id="Homeland S03 E06" tvg-name="Homeland S03 E06"  group-title="SERIES ACCION",Homeland S03 E06
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6860.mkv
+#EXTINF:-1 tvg-id="Homeland S03 E07" tvg-name="Homeland S03 E07"  group-title="SERIES ACCION",Homeland S03 E07
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6858.mkv
+#EXTINF:-1 tvg-id="Homeland S03 E08" tvg-name="Homeland S03 E08"  group-title="SERIES ACCION",Homeland S03 E08
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6853.mkv
+#EXTINF:-1 tvg-id="Homeland S03 E09" tvg-name="Homeland S03 E09"  group-title="SERIES ACCION",Homeland S03 E09
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6855.mkv
+#EXTINF:-1 tvg-id="Homeland S03 E10" tvg-name="Homeland S03 E10"  group-title="SERIES ACCION",Homeland S03 E10
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6856.mkv
+#EXTINF:-1 tvg-id="Homeland S03 E11" tvg-name="Homeland S03 E11"  group-title="SERIES ACCION",Homeland S03 E11
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6857.mkv
+#EXTINF:-1 tvg-id="Homeland S03 E12" tvg-name="Homeland S03 E12"  group-title="SERIES ACCION",Homeland S03 E12
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6859.mkv
 #EXTINF:-1 tvg-id="Homeland S04 E01" tvg-name="Homeland S04 E01"  group-title="SERIES ACCION",Homeland S04 E01
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6873.mkv
-#EXTINF:-1 tvg-id="Homeland S04 E02" tvg-name="Homeland S04 E02"  group-title="SERIES ACCION",Homeland S04 E02
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6872.mkv
-#EXTINF:-1 tvg-id="Homeland S04 E03" tvg-name="Homeland S04 E03"  group-title="SERIES ACCION",Homeland S04 E03
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6871.mkv
-#EXTINF:-1 tvg-id="Homeland S04 E04" tvg-name="Homeland S04 E04"  group-title="SERIES ACCION",Homeland S04 E04
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6870.mkv
-#EXTINF:-1 tvg-id="Homeland S04 E05" tvg-name="Homeland S04 E05"  group-title="SERIES ACCION",Homeland S04 E05
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6869.mkv
-#EXTINF:-1 tvg-id="Homeland S04 E06" tvg-name="Homeland S04 E06"  group-title="SERIES ACCION",Homeland S04 E06
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6868.mkv
-#EXTINF:-1 tvg-id="Homeland S04 E07" tvg-name="Homeland S04 E07"  group-title="SERIES ACCION",Homeland S04 E07
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6866.mkv
+#EXTINF:-1 tvg-id="Homeland S04 E02" tvg-name="Homeland S04 E02"  group-title="SERIES ACCION",Homeland S04 E02
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6862.mkv
+#EXTINF:-1 tvg-id="Homeland S04 E03" tvg-name="Homeland S04 E03"  group-title="SERIES ACCION",Homeland S04 E03
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6863.mkv
+#EXTINF:-1 tvg-id="Homeland S04 E04" tvg-name="Homeland S04 E04"  group-title="SERIES ACCION",Homeland S04 E04
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6864.mkv
+#EXTINF:-1 tvg-id="Homeland S04 E05" tvg-name="Homeland S04 E05"  group-title="SERIES ACCION",Homeland S04 E05
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6873.mkv
+#EXTINF:-1 tvg-id="Homeland S04 E06" tvg-name="Homeland S04 E06"  group-title="SERIES ACCION",Homeland S04 E06
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6872.mkv
+#EXTINF:-1 tvg-id="Homeland S04 E07" tvg-name="Homeland S04 E07"  group-title="SERIES ACCION",Homeland S04 E07
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6870.mkv
 #EXTINF:-1 tvg-id="Homeland S04 E08" tvg-name="Homeland S04 E08"  group-title="SERIES ACCION",Homeland S04 E08
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6865.mkv
 #EXTINF:-1 tvg-id="Homeland S04 E09" tvg-name="Homeland S04 E09"  group-title="SERIES ACCION",Homeland S04 E09
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6864.mkv
-#EXTINF:-1 tvg-id="Homeland S04 E10" tvg-name="Homeland S04 E10"  group-title="SERIES ACCION",Homeland S04 E10
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6863.mkv
-#EXTINF:-1 tvg-id="Homeland S04 E11" tvg-name="Homeland S04 E11"  group-title="SERIES ACCION",Homeland S04 E11
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6862.mkv
-#EXTINF:-1 tvg-id="Homeland S04 E12" tvg-name="Homeland S04 E12"  group-title="SERIES ACCION",Homeland S04 E12
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6867.mkv
+#EXTINF:-1 tvg-id="Homeland S04 E10" tvg-name="Homeland S04 E10"  group-title="SERIES ACCION",Homeland S04 E10
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6868.mkv
+#EXTINF:-1 tvg-id="Homeland S04 E11" tvg-name="Homeland S04 E11"  group-title="SERIES ACCION",Homeland S04 E11
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6869.mkv
+#EXTINF:-1 tvg-id="Homeland S04 E12" tvg-name="Homeland S04 E12"  group-title="SERIES ACCION",Homeland S04 E12
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6871.mkv
 #EXTINF:-1 tvg-id="Homeland S05 E01" tvg-name="Homeland S05 E01"  group-title="SERIES ACCION",Homeland S05 E01
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6880.mkv
-#EXTINF:-1 tvg-id="Homeland S05 E02" tvg-name="Homeland S05 E02"  group-title="SERIES ACCION",Homeland S05 E02
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6885.mkv
-#EXTINF:-1 tvg-id="Homeland S05 E03" tvg-name="Homeland S05 E03"  group-title="SERIES ACCION",Homeland S05 E03
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6884.mkv
-#EXTINF:-1 tvg-id="Homeland S05 E04" tvg-name="Homeland S05 E04"  group-title="SERIES ACCION",Homeland S05 E04
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6883.mkv
-#EXTINF:-1 tvg-id="Homeland S05 E05" tvg-name="Homeland S05 E05"  group-title="SERIES ACCION",Homeland S05 E05
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6882.mkv
-#EXTINF:-1 tvg-id="Homeland S05 E06" tvg-name="Homeland S05 E06"  group-title="SERIES ACCION",Homeland S05 E06
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6881.mkv
-#EXTINF:-1 tvg-id="Homeland S05 E07" tvg-name="Homeland S05 E07"  group-title="SERIES ACCION",Homeland S05 E07
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6879.mkv
-#EXTINF:-1 tvg-id="Homeland S05 E08" tvg-name="Homeland S05 E08"  group-title="SERIES ACCION",Homeland S05 E08
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6878.mkv
-#EXTINF:-1 tvg-id="Homeland S05 E09" tvg-name="Homeland S05 E09"  group-title="SERIES ACCION",Homeland S05 E09
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6877.mkv
-#EXTINF:-1 tvg-id="Homeland S05 E10" tvg-name="Homeland S05 E10"  group-title="SERIES ACCION",Homeland S05 E10
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6876.mkv
-#EXTINF:-1 tvg-id="Homeland S05 E11" tvg-name="Homeland S05 E11"  group-title="SERIES ACCION",Homeland S05 E11
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6875.mkv
-#EXTINF:-1 tvg-id="Homeland S05 E12" tvg-name="Homeland S05 E12"  group-title="SERIES ACCION",Homeland S05 E12
+#EXTINF:-1 tvg-id="Homeland S05 E02" tvg-name="Homeland S05 E02"  group-title="SERIES ACCION",Homeland S05 E02
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6874.mkv
+#EXTINF:-1 tvg-id="Homeland S05 E03" tvg-name="Homeland S05 E03"  group-title="SERIES ACCION",Homeland S05 E03
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6875.mkv
+#EXTINF:-1 tvg-id="Homeland S05 E04" tvg-name="Homeland S05 E04"  group-title="SERIES ACCION",Homeland S05 E04
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6876.mkv
+#EXTINF:-1 tvg-id="Homeland S05 E05" tvg-name="Homeland S05 E05"  group-title="SERIES ACCION",Homeland S05 E05
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6885.mkv
+#EXTINF:-1 tvg-id="Homeland S05 E06" tvg-name="Homeland S05 E06"  group-title="SERIES ACCION",Homeland S05 E06
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6884.mkv
+#EXTINF:-1 tvg-id="Homeland S05 E07" tvg-name="Homeland S05 E07"  group-title="SERIES ACCION",Homeland S05 E07
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6882.mkv
+#EXTINF:-1 tvg-id="Homeland S05 E08" tvg-name="Homeland S05 E08"  group-title="SERIES ACCION",Homeland S05 E08
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6877.mkv
+#EXTINF:-1 tvg-id="Homeland S05 E09" tvg-name="Homeland S05 E09"  group-title="SERIES ACCION",Homeland S05 E09
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6879.mkv
+#EXTINF:-1 tvg-id="Homeland S05 E10" tvg-name="Homeland S05 E10"  group-title="SERIES ACCION",Homeland S05 E10
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6880.mkv
+#EXTINF:-1 tvg-id="Homeland S05 E11" tvg-name="Homeland S05 E11"  group-title="SERIES ACCION",Homeland S05 E11
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6881.mkv
+#EXTINF:-1 tvg-id="Homeland S05 E12" tvg-name="Homeland S05 E12"  group-title="SERIES ACCION",Homeland S05 E12
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6883.mkv
 #EXTINF:-1 tvg-id="Homeland S06 E01" tvg-name="Homeland S06 E01"  group-title="SERIES ACCION",Homeland S06 E01
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6893.mkv
-#EXTINF:-1 tvg-id="Homeland S06 E02" tvg-name="Homeland S06 E02"  group-title="SERIES ACCION",Homeland S06 E02
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6897.mkv
-#EXTINF:-1 tvg-id="Homeland S06 E03" tvg-name="Homeland S06 E03"  group-title="SERIES ACCION",Homeland S06 E03
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6896.mkv
-#EXTINF:-1 tvg-id="Homeland S06 E04" tvg-name="Homeland S06 E04"  group-title="SERIES ACCION",Homeland S06 E04
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6895.mkv
-#EXTINF:-1 tvg-id="Homeland S06 E05" tvg-name="Homeland S06 E05"  group-title="SERIES ACCION",Homeland S06 E05
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6894.mkv
-#EXTINF:-1 tvg-id="Homeland S06 E06" tvg-name="Homeland S06 E06"  group-title="SERIES ACCION",Homeland S06 E06
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6892.mkv
-#EXTINF:-1 tvg-id="Homeland S06 E07" tvg-name="Homeland S06 E07"  group-title="SERIES ACCION",Homeland S06 E07
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6890.mkv
+#EXTINF:-1 tvg-id="Homeland S06 E02" tvg-name="Homeland S06 E02"  group-title="SERIES ACCION",Homeland S06 E02
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6886.mkv
+#EXTINF:-1 tvg-id="Homeland S06 E03" tvg-name="Homeland S06 E03"  group-title="SERIES ACCION",Homeland S06 E03
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6887.mkv
+#EXTINF:-1 tvg-id="Homeland S06 E04" tvg-name="Homeland S06 E04"  group-title="SERIES ACCION",Homeland S06 E04
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6888.mkv
+#EXTINF:-1 tvg-id="Homeland S06 E05" tvg-name="Homeland S06 E05"  group-title="SERIES ACCION",Homeland S06 E05
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6897.mkv
+#EXTINF:-1 tvg-id="Homeland S06 E06" tvg-name="Homeland S06 E06"  group-title="SERIES ACCION",Homeland S06 E06
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6896.mkv
+#EXTINF:-1 tvg-id="Homeland S06 E07" tvg-name="Homeland S06 E07"  group-title="SERIES ACCION",Homeland S06 E07
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6894.mkv
 #EXTINF:-1 tvg-id="Homeland S06 E08" tvg-name="Homeland S06 E08"  group-title="SERIES ACCION",Homeland S06 E08
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6889.mkv
 #EXTINF:-1 tvg-id="Homeland S06 E09" tvg-name="Homeland S06 E09"  group-title="SERIES ACCION",Homeland S06 E09
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6888.mkv
-#EXTINF:-1 tvg-id="Homeland S06 E10" tvg-name="Homeland S06 E10"  group-title="SERIES ACCION",Homeland S06 E10
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6887.mkv
-#EXTINF:-1 tvg-id="Homeland S06 E11" tvg-name="Homeland S06 E11"  group-title="SERIES ACCION",Homeland S06 E11
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6886.mkv
-#EXTINF:-1 tvg-id="Homeland S06 E12" tvg-name="Homeland S06 E12"  group-title="SERIES ACCION",Homeland S06 E12
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6891.mkv
+#EXTINF:-1 tvg-id="Homeland S06 E10" tvg-name="Homeland S06 E10"  group-title="SERIES ACCION",Homeland S06 E10
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6892.mkv
+#EXTINF:-1 tvg-id="Homeland S06 E11" tvg-name="Homeland S06 E11"  group-title="SERIES ACCION",Homeland S06 E11
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6893.mkv
+#EXTINF:-1 tvg-id="Homeland S06 E12" tvg-name="Homeland S06 E12"  group-title="SERIES ACCION",Homeland S06 E12
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6895.mkv
 #EXTINF:-1 tvg-id="Homeland S07 E01" tvg-name="Homeland S07 E01"  group-title="SERIES ACCION",Homeland S07 E01
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6905.mkv
-#EXTINF:-1 tvg-id="Homeland S07 E02" tvg-name="Homeland S07 E02"  group-title="SERIES ACCION",Homeland S07 E02
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6898.mkv
-#EXTINF:-1 tvg-id="Homeland S07 E03" tvg-name="Homeland S07 E03"  group-title="SERIES ACCION",Homeland S07 E03
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6909.mkv
-#EXTINF:-1 tvg-id="Homeland S07 E04" tvg-name="Homeland S07 E04"  group-title="SERIES ACCION",Homeland S07 E04
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6908.mkv
-#EXTINF:-1 tvg-id="Homeland S07 E05" tvg-name="Homeland S07 E05"  group-title="SERIES ACCION",Homeland S07 E05
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6907.mkv
-#EXTINF:-1 tvg-id="Homeland S07 E06" tvg-name="Homeland S07 E06"  group-title="SERIES ACCION",Homeland S07 E06
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6906.mp4
-#EXTINF:-1 tvg-id="Homeland S07 E07" tvg-name="Homeland S07 E07"  group-title="SERIES ACCION",Homeland S07 E07
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6904.mp4
-#EXTINF:-1 tvg-id="Homeland S07 E08" tvg-name="Homeland S07 E08"  group-title="SERIES ACCION",Homeland S07 E08
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6903.mp4
-#EXTINF:-1 tvg-id="Homeland S07 E09" tvg-name="Homeland S07 E09"  group-title="SERIES ACCION",Homeland S07 E09
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6902.mp4
-#EXTINF:-1 tvg-id="Homeland S07 E10" tvg-name="Homeland S07 E10"  group-title="SERIES ACCION",Homeland S07 E10
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6901.mp4
-#EXTINF:-1 tvg-id="Homeland S07 E11" tvg-name="Homeland S07 E11"  group-title="SERIES ACCION",Homeland S07 E11
-http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6900.mp4
-#EXTINF:-1 tvg-id="Homeland S07 E12" tvg-name="Homeland S07 E12"  group-title="SERIES ACCION",Homeland S07 E12
+#EXTINF:-1 tvg-id="Homeland S07 E02" tvg-name="Homeland S07 E02"  group-title="SERIES ACCION",Homeland S07 E02
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6899.mp4
+#EXTINF:-1 tvg-id="Homeland S07 E03" tvg-name="Homeland S07 E03"  group-title="SERIES ACCION",Homeland S07 E03
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6900.mp4
+#EXTINF:-1 tvg-id="Homeland S07 E04" tvg-name="Homeland S07 E04"  group-title="SERIES ACCION",Homeland S07 E04
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6901.mp4
+#EXTINF:-1 tvg-id="Homeland S07 E05" tvg-name="Homeland S07 E05"  group-title="SERIES ACCION",Homeland S07 E05
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6898.mkv
+#EXTINF:-1 tvg-id="Homeland S07 E06" tvg-name="Homeland S07 E06"  group-title="SERIES ACCION",Homeland S07 E06
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6909.mkv
+#EXTINF:-1 tvg-id="Homeland S07 E07" tvg-name="Homeland S07 E07"  group-title="SERIES ACCION",Homeland S07 E07
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6908.mkv
+#EXTINF:-1 tvg-id="Homeland S07 E08" tvg-name="Homeland S07 E08"  group-title="SERIES ACCION",Homeland S07 E08
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6907.mkv
+#EXTINF:-1 tvg-id="Homeland S07 E09" tvg-name="Homeland S07 E09"  group-title="SERIES ACCION",Homeland S07 E09
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6905.mkv
+#EXTINF:-1 tvg-id="Homeland S07 E10" tvg-name="Homeland S07 E10"  group-title="SERIES ACCION",Homeland S07 E10
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6906.mp4
+#EXTINF:-1 tvg-id="Homeland S07 E11" tvg-name="Homeland S07 E11"  group-title="SERIES ACCION",Homeland S07 E11
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6904.mp4
+#EXTINF:-1 tvg-id="Homeland S07 E12" tvg-name="Homeland S07 E12"  group-title="SERIES ACCION",Homeland S07 E12
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6902.mp4
 #EXTINF:-1 tvg-id="Homeland S08 E01" tvg-name="Homeland S08 E01"  group-title="SERIES ACCION",Homeland S08 E01
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/27390.mkv
 #EXTINF:-1 tvg-id="Homeland S08 E02" tvg-name="Homeland S08 E02"  group-title="SERIES ACCION",Homeland S08 E02
@@ -14819,6 +14825,26 @@ http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/40928.mkv
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/40929.mkv
 #EXTINF:-1 tvg-id="Cobra Kai S03 E10" tvg-name="Cobra Kai S03 E10"  group-title="SERIES ACCION",Cobra Kai S03 E10
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/40930.mkv
+#EXTINF:-1 tvg-id="Cobra Kai S04 E01" tvg-name="Cobra Kai S04 E01"  group-title="SERIES ACCION",Cobra Kai S04 E01
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58490.mkv
+#EXTINF:-1 tvg-id="Cobra Kai S04 E02" tvg-name="Cobra Kai S04 E02"  group-title="SERIES ACCION",Cobra Kai S04 E02
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58491.mkv
+#EXTINF:-1 tvg-id="Cobra Kai S04 E03" tvg-name="Cobra Kai S04 E03"  group-title="SERIES ACCION",Cobra Kai S04 E03
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58492.mkv
+#EXTINF:-1 tvg-id="Cobra Kai S04 E04" tvg-name="Cobra Kai S04 E04"  group-title="SERIES ACCION",Cobra Kai S04 E04
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58493.mkv
+#EXTINF:-1 tvg-id="Cobra Kai S04 E05" tvg-name="Cobra Kai S04 E05"  group-title="SERIES ACCION",Cobra Kai S04 E05
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58494.mkv
+#EXTINF:-1 tvg-id="Cobra Kai S04 E06" tvg-name="Cobra Kai S04 E06"  group-title="SERIES ACCION",Cobra Kai S04 E06
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58495.mkv
+#EXTINF:-1 tvg-id="Cobra Kai S04 E07" tvg-name="Cobra Kai S04 E07"  group-title="SERIES ACCION",Cobra Kai S04 E07
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58496.mkv
+#EXTINF:-1 tvg-id="Cobra Kai S04 E08" tvg-name="Cobra Kai S04 E08"  group-title="SERIES ACCION",Cobra Kai S04 E08
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58497.mkv
+#EXTINF:-1 tvg-id="Cobra Kai S04 E09" tvg-name="Cobra Kai S04 E09"  group-title="SERIES ACCION",Cobra Kai S04 E09
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58498.mkv
+#EXTINF:-1 tvg-id="Cobra Kai S04 E10" tvg-name="Cobra Kai S04 E10"  group-title="SERIES ACCION",Cobra Kai S04 E10
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58499.mkv
 #EXTINF:-1 tvg-id="CSI Miami S01 E01" tvg-name="CSI Miami S01 E01"  group-title="SERIES ACCION",CSI Miami S01 E01
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/12403.mp4
 #EXTINF:-1 tvg-id="CSI Miami S01 E02" tvg-name="CSI Miami S01 E02"  group-title="SERIES ACCION",CSI Miami S01 E02
@@ -26811,6 +26837,22 @@ http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/20136.mp4
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/20137.mp4
 #EXTINF:-1 tvg-id="The Witcher S01 E08" tvg-name="The Witcher S01 E08"  group-title="SERIES FICCION - FANTASIA",The Witcher S01 E08
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/20138.mp4
+#EXTINF:-1 tvg-id="The Witcher S02 E01" tvg-name="The Witcher S02 E01"  group-title="SERIES FICCION - FANTASIA",The Witcher S02 E01
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58482.mkv
+#EXTINF:-1 tvg-id="The Witcher S02 E02" tvg-name="The Witcher S02 E02"  group-title="SERIES FICCION - FANTASIA",The Witcher S02 E02
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58483.mkv
+#EXTINF:-1 tvg-id="The Witcher S02 E03" tvg-name="The Witcher S02 E03"  group-title="SERIES FICCION - FANTASIA",The Witcher S02 E03
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58484.mkv
+#EXTINF:-1 tvg-id="The Witcher S02 E04" tvg-name="The Witcher S02 E04"  group-title="SERIES FICCION - FANTASIA",The Witcher S02 E04
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58485.mkv
+#EXTINF:-1 tvg-id="The Witcher S02 E05" tvg-name="The Witcher S02 E05"  group-title="SERIES FICCION - FANTASIA",The Witcher S02 E05
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58486.mkv
+#EXTINF:-1 tvg-id="The Witcher S02 E06" tvg-name="The Witcher S02 E06"  group-title="SERIES FICCION - FANTASIA",The Witcher S02 E06
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58487.mkv
+#EXTINF:-1 tvg-id="The Witcher S02 E07" tvg-name="The Witcher S02 E07"  group-title="SERIES FICCION - FANTASIA",The Witcher S02 E07
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58488.mkv
+#EXTINF:-1 tvg-id="The Witcher S02 E08" tvg-name="The Witcher S02 E08"  group-title="SERIES FICCION - FANTASIA",The Witcher S02 E08
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58489.mkv
 #EXTINF:-1 tvg-id="Dracula S01 E01" tvg-name="Dracula S01 E01"  group-title="SERIES FICCION - FANTASIA",Dracula S01 E01
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/21118.mkv
 #EXTINF:-1 tvg-id="Dracula S01 E02" tvg-name="Dracula S01 E02"  group-title="SERIES FICCION - FANTASIA",Dracula S01 E02
@@ -27083,6 +27125,48 @@ http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/29225.mp4
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/29224.mp4
 #EXTINF:-1 tvg-id="The Flash S06 E19" tvg-name="The Flash S06 E19"  group-title="SERIES FICCION - FANTASIA",The Flash S06 E19
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/29223.mp4
+#EXTINF:-1 tvg-id="The Flash S07 E01" tvg-name="The Flash S07 E01"  group-title="SERIES FICCION - FANTASIA",The Flash S07 E01
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58629.mkv
+#EXTINF:-1 tvg-id="The Flash S07 E02" tvg-name="The Flash S07 E02"  group-title="SERIES FICCION - FANTASIA",The Flash S07 E02
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58630.mkv
+#EXTINF:-1 tvg-id="The Flash S07 E03" tvg-name="The Flash S07 E03"  group-title="SERIES FICCION - FANTASIA",The Flash S07 E03
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58631.mkv
+#EXTINF:-1 tvg-id="The Flash S07 E04" tvg-name="The Flash S07 E04"  group-title="SERIES FICCION - FANTASIA",The Flash S07 E04
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58632.mkv
+#EXTINF:-1 tvg-id="The Flash S07 E05" tvg-name="The Flash S07 E05"  group-title="SERIES FICCION - FANTASIA",The Flash S07 E05
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58633.mkv
+#EXTINF:-1 tvg-id="The Flash S07 E06" tvg-name="The Flash S07 E06"  group-title="SERIES FICCION - FANTASIA",The Flash S07 E06
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58634.mkv
+#EXTINF:-1 tvg-id="The Flash S07 E07" tvg-name="The Flash S07 E07"  group-title="SERIES FICCION - FANTASIA",The Flash S07 E07
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58635.mkv
+#EXTINF:-1 tvg-id="The Flash S07 E08" tvg-name="The Flash S07 E08"  group-title="SERIES FICCION - FANTASIA",The Flash S07 E08
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58636.mkv
+#EXTINF:-1 tvg-id="The Flash S07 E09" tvg-name="The Flash S07 E09"  group-title="SERIES FICCION - FANTASIA",The Flash S07 E09
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58637.mkv
+#EXTINF:-1 tvg-id="The Flash S07 E10" tvg-name="The Flash S07 E10"  group-title="SERIES FICCION - FANTASIA",The Flash S07 E10
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58638.mkv
+#EXTINF:-1 tvg-id="The Flash S07 E11" tvg-name="The Flash S07 E11"  group-title="SERIES FICCION - FANTASIA",The Flash S07 E11
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58639.mkv
+#EXTINF:-1 tvg-id="The Flash S07 E12" tvg-name="The Flash S07 E12"  group-title="SERIES FICCION - FANTASIA",The Flash S07 E12
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58640.mkv
+#EXTINF:-1 tvg-id="The Flash S07 E13" tvg-name="The Flash S07 E13"  group-title="SERIES FICCION - FANTASIA",The Flash S07 E13
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58641.mkv
+#EXTINF:-1 tvg-id="The Flash S07 E14" tvg-name="The Flash S07 E14"  group-title="SERIES FICCION - FANTASIA",The Flash S07 E14
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58642.mkv
+#EXTINF:-1 tvg-id="The Flash S07 E15" tvg-name="The Flash S07 E15"  group-title="SERIES FICCION - FANTASIA",The Flash S07 E15
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58643.mkv
+#EXTINF:-1 tvg-id="The Flash S07 E16" tvg-name="The Flash S07 E16"  group-title="SERIES FICCION - FANTASIA",The Flash S07 E16
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58644.mkv
+#EXTINF:-1 tvg-id="The Flash S07 E17" tvg-name="The Flash S07 E17"  group-title="SERIES FICCION - FANTASIA",The Flash S07 E17
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58645.mkv
+#EXTINF:-1 tvg-id="The Flash S07 E18" tvg-name="The Flash S07 E18"  group-title="SERIES FICCION - FANTASIA",The Flash S07 E18
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58646.mkv
+#EXTINF:-1 tvg-id="The Flash S08 E01" tvg-name="The Flash S08 E01"  group-title="SERIES FICCION - FANTASIA",The Flash S08 E01
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58647.mkv
+#EXTINF:-1 tvg-id="The Flash S08 E02" tvg-name="The Flash S08 E02"  group-title="SERIES FICCION - FANTASIA",The Flash S08 E02
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58648.mkv
+#EXTINF:-1 tvg-id="The Flash S08 E03" tvg-name="The Flash S08 E03"  group-title="SERIES FICCION - FANTASIA",The Flash S08 E03
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58649.mkv
 #EXTINF:-1 tvg-id="Marvel - Daredevil S01 E01" tvg-name="Marvel - Daredevil S01 E01"  group-title="SERIES FICCION - FANTASIA",Marvel - Daredevil S01 E01
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/21630.mkv
 #EXTINF:-1 tvg-id="Marvel - Daredevil S01 E02" tvg-name="Marvel - Daredevil S01 E02"  group-title="SERIES FICCION - FANTASIA",Marvel - Daredevil S01 E02
@@ -27897,6 +27981,10 @@ http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/53001.mkv
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/53411.mkv
 #EXTINF:-1 tvg-id="What If - ¿Que pasaria si...? S01 E07" tvg-name="What If - ¿Que pasaria si...? S01 E07"  group-title="SERIES FICCION - FANTASIA",What If - ¿Que pasaria si...? S01 E07
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/53412.mkv
+#EXTINF:-1 tvg-id="What If - ¿Que pasaria si...? S01 E08" tvg-name="What If - ¿Que pasaria si...? S01 E08"  group-title="SERIES FICCION - FANTASIA",What If - ¿Que pasaria si...? S01 E08
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58627.mkv
+#EXTINF:-1 tvg-id="What If - ¿Que pasaria si...? S01 E09" tvg-name="What If - ¿Que pasaria si...? S01 E09"  group-title="SERIES FICCION - FANTASIA",What If - ¿Que pasaria si...? S01 E09
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58628.mkv
 #EXTINF:-1 tvg-id="Debris S01 E01" tvg-name="Debris S01 E01"  group-title="SERIES FICCION - FANTASIA",Debris S01 E01
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/55203.mkv
 #EXTINF:-1 tvg-id="Debris S01 E02" tvg-name="Debris S01 E02"  group-title="SERIES FICCION - FANTASIA",Debris S01 E02
@@ -28077,6 +28165,14 @@ http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/56064.mkv
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/57148.mkv
 #EXTINF:-1 tvg-id="Hawkeye - Ojo de Halcon (2021) S01 E02" tvg-name="Hawkeye - Ojo de Halcon (2021) S01 E02"  group-title="SERIES FICCION - FANTASIA",Hawkeye - Ojo de Halcon (2021) S01 E02
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/57149.mkv
+#EXTINF:-1 tvg-id="Hawkeye - Ojo de Halcon (2021) S01 E03" tvg-name="Hawkeye - Ojo de Halcon (2021) S01 E03"  group-title="SERIES FICCION - FANTASIA",Hawkeye - Ojo de Halcon (2021) S01 E03
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58582.mkv
+#EXTINF:-1 tvg-id="Hawkeye - Ojo de Halcon (2021) S01 E04" tvg-name="Hawkeye - Ojo de Halcon (2021) S01 E04"  group-title="SERIES FICCION - FANTASIA",Hawkeye - Ojo de Halcon (2021) S01 E04
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58583.mkv
+#EXTINF:-1 tvg-id="Hawkeye - Ojo de Halcon (2021) S01 E05" tvg-name="Hawkeye - Ojo de Halcon (2021) S01 E05"  group-title="SERIES FICCION - FANTASIA",Hawkeye - Ojo de Halcon (2021) S01 E05
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58584.mkv
+#EXTINF:-1 tvg-id="Hawkeye - Ojo de Halcon (2021) S01 E06" tvg-name="Hawkeye - Ojo de Halcon (2021) S01 E06"  group-title="SERIES FICCION - FANTASIA",Hawkeye - Ojo de Halcon (2021) S01 E06
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58585.mkv
 #EXTINF:-1 tvg-id="Johnny Bravo S01 E01" tvg-name="Johnny Bravo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9Ug39KxbIt1opgXdJY3AJhAlGx.jpg" group-title="SERIES INFANTILES",Johnny Bravo S01 E01
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6923.mp4
 #EXTINF:-1 tvg-id="Johnny Bravo S01 E02" tvg-name="Johnny Bravo S01 E02" tvg-logo="http://xdgo.live:8080/images/d7b2ea32f483aef63edf9412a3da3b79.jpg" group-title="SERIES INFANTILES",Johnny Bravo S01 E02
@@ -31581,6 +31677,12 @@ http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/57145.mkv
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/57146.mkv
 #EXTINF:-1 tvg-id="Chucky S01 E05" tvg-name="Chucky S01 E05"  group-title="SERIES TERROR - THRILLER",Chucky S01 E05
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/57147.mkv
+#EXTINF:-1 tvg-id="Chucky S01 E06" tvg-name="Chucky S01 E06"  group-title="SERIES TERROR - THRILLER",Chucky S01 E06
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58479.mkv
+#EXTINF:-1 tvg-id="Chucky S01 E07" tvg-name="Chucky S01 E07"  group-title="SERIES TERROR - THRILLER",Chucky S01 E07
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58480.mkv
+#EXTINF:-1 tvg-id="Chucky S01 E08" tvg-name="Chucky S01 E08"  group-title="SERIES TERROR - THRILLER",Chucky S01 E08
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58481.mkv
 #EXTINF:-1 tvg-id="Dollface S01 E01" tvg-name="Dollface S01 E01"  group-title="SERIES TERROR - THRILLER",Dollface S01 E01
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/55228.mkv
 #EXTINF:-1 tvg-id="Dollface S01 E02" tvg-name="Dollface S01 E02"  group-title="SERIES TERROR - THRILLER",Dollface S01 E02
@@ -31713,6 +31815,34 @@ http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/41776.mkv
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/42114.mkv
 #EXTINF:-1 tvg-id="WandaVision S01 E09" tvg-name="WandaVision S01 E09"  group-title="WANDAVISION",WandaVision S01 E09
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/42412.mkv
+#EXTINF:-1 tvg-id="Cazafantasmas: Más allá (2021)" tvg-name="Cazafantasmas: Más allá (2021)" tvg-logo="http://xdgo.live:8080/images/227c8582898d0151590a5e4b2c767702.jpg" group-title="VFLIX ESTRENOS",Cazafantasmas: Más allá (2021)
+http://xdgo.live:8080/movie/23_vNancyRem_d/VXnD4AV5eY/58476.mkv
+#EXTINF:-1 tvg-id="Spin (2021)" tvg-name="Spin (2021)" tvg-logo="http://xdgo.live:8080/images/a4530875f6fe34bdc5ae390bccae5acc.jpg" group-title="VFLIX ESTRENOS",Spin (2021)
+http://xdgo.live:8080/movie/23_vNancyRem_d/VXnD4AV5eY/58477.mkv
+#EXTINF:-1 tvg-id="Chief Daddy 2: Going for Broke (2021)" tvg-name="Chief Daddy 2: Going for Broke (2021)" tvg-logo="http://xdgo.live:8080/images/6b8c7c718bd16890627188f2bbce7460.jpg" group-title="VFLIX ESTRENOS",Chief Daddy 2: Going for Broke (2021)
+http://xdgo.live:8080/movie/23_vNancyRem_d/VXnD4AV5eY/58474.mkv
+#EXTINF:-1 tvg-id="4 mitades (2022)" tvg-name="4 mitades (2022)" tvg-logo="http://xdgo.live:8080/images/caea2ab08259dc3c833a31fe676e231c.jpg" group-title="VFLIX ESTRENOS",4 mitades (2022)
+http://xdgo.live:8080/movie/23_vNancyRem_d/VXnD4AV5eY/58475.mkv
+#EXTINF:-1 tvg-id="Harry Potter 20º Aniversario: Regreso a Hogwarts (2022)" tvg-name="Harry Potter 20º Aniversario: Regreso a Hogwarts (2022)" tvg-logo="http://xdgo.live:8080/images/f396d701a2f1563a37ca4ad35a83ea2e.jpg" group-title="VFLIX ESTRENOS",Harry Potter 20º Aniversario: Regreso a Hogwarts (2022)
+http://xdgo.live:8080/movie/23_vNancyRem_d/VXnD4AV5eY/58397.mkv
+#EXTINF:-1 tvg-id="Lulli (2021)" tvg-name="Lulli (2021)" tvg-logo="http://xdgo.live:8080/images/85aae2e36b6acb0204aace57cfa8bf4a.jpg" group-title="VFLIX ESTRENOS",Lulli (2021)
+http://xdgo.live:8080/movie/23_vNancyRem_d/VXnD4AV5eY/58399.mkv
+#EXTINF:-1 tvg-id="Naked Singularity (2021)" tvg-name="Naked Singularity (2021)" tvg-logo="http://xdgo.live:8080/images/06e629a6ebad704ccb880219d10b756d.jpg" group-title="VFLIX ESTRENOS",Naked Singularity (2021)
+http://xdgo.live:8080/movie/23_vNancyRem_d/VXnD4AV5eY/58400.mkv
+#EXTINF:-1 tvg-id="Chilangolandia (2021)" tvg-name="Chilangolandia (2021)" tvg-logo="http://xdgo.live:8080/images/cc5155bd27fb6172ed6fb658b72410b7.jpg" group-title="VFLIX ESTRENOS",Chilangolandia (2021)
+http://xdgo.live:8080/movie/23_vNancyRem_d/VXnD4AV5eY/58395.mkv
+#EXTINF:-1 tvg-id="Lejos del árbol (2021)" tvg-name="Lejos del árbol (2021)" tvg-logo="http://xdgo.live:8080/images/521384750036f5ddb09224b713a68a6d.jpg" group-title="VFLIX ESTRENOS",Lejos del árbol (2021)
+http://xdgo.live:8080/movie/23_vNancyRem_d/VXnD4AV5eY/58396.mkv
+#EXTINF:-1 tvg-id="Hilda y el Rey de la montaña (2021)" tvg-name="Hilda y el Rey de la montaña (2021)" tvg-logo="http://xdgo.live:8080/images/49ae8560dd8264df37550494349ed42c.jpg" group-title="VFLIX ESTRENOS",Hilda y el Rey de la montaña (2021)
+http://xdgo.live:8080/movie/23_vNancyRem_d/VXnD4AV5eY/58398.mkv
+#EXTINF:-1 tvg-id="National Champions (2021)" tvg-name="National Champions (2021)" tvg-logo="http://xdgo.live:8080/images/834e27f1b5f89170eaa49a14d15926e6.jpg" group-title="VFLIX ESTRENOS",National Champions (2021)
+http://xdgo.live:8080/movie/23_vNancyRem_d/VXnD4AV5eY/58401.mkv
+#EXTINF:-1 tvg-id="Equipo foca (2021)" tvg-name="Equipo foca (2021)" tvg-logo="http://xdgo.live:8080/images/6c9de9dc6fafda98f5a58b6bd36dc12d.jpg" group-title="VFLIX ESTRENOS",Equipo foca (2021)
+http://xdgo.live:8080/movie/23_vNancyRem_d/VXnD4AV5eY/58402.mkv
+#EXTINF:-1 tvg-id="South Park - Post Covid: El Retorno del Covid (2021)" tvg-name="South Park - Post Covid: El Retorno del Covid (2021)" tvg-logo="http://xdgo.live:8080/images/ef82fd7bc84a090d77196ba9fe116aca.jpg" group-title="VFLIX ESTRENOS",South Park - Post Covid: El Retorno del Covid (2021)
+http://xdgo.live:8080/movie/23_vNancyRem_d/VXnD4AV5eY/58403.mkv
+#EXTINF:-1 tvg-id="The Lost Daughter (2021)" tvg-name="The Lost Daughter (2021)" tvg-logo="http://xdgo.live:8080/images/81f5e7c99d8e3fe71232b2f0e1cb5671.jpg" group-title="VFLIX ESTRENOS",The Lost Daughter (2021)
+http://xdgo.live:8080/movie/23_vNancyRem_d/VXnD4AV5eY/58404.mkv
 #EXTINF:-1 tvg-id="Encanto (2021)" tvg-name="Encanto (2021)" tvg-logo="http://xdgo.live:8080/images/46f97429852791959976a49c5c32cf77.jpg" group-title="VFLIX ESTRENOS",Encanto (2021)
 http://xdgo.live:8080/movie/23_vNancyRem_d/VXnD4AV5eY/58250.mkv
 #EXTINF:-1 tvg-id="A mil kilómetros de la Navidad (2021)" tvg-name="A mil kilómetros de la Navidad (2021)" tvg-logo="http://xdgo.live:8080/images/e0e5a27dc190bd72e7a2116ba6889ff4.jpg" group-title="VFLIX ESTRENOS",A mil kilómetros de la Navidad (2021)
@@ -32635,6 +32765,8 @@ http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/57140.mkv
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/57141.mkv
 #EXTINF:-1 tvg-id="Maradona Sueno bendito S01 E09" tvg-name="Maradona Sueno bendito S01 E09"  group-title="SERIES DOCUMENTALES",Maradona Sueno bendito S01 E09
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/57142.mkv
+#EXTINF:-1 tvg-id="Maradona Sueno bendito S01 E10" tvg-name="Maradona Sueno bendito S01 E10"  group-title="SERIES DOCUMENTALES",Maradona Sueno bendito S01 E10
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58478.mkv
 #EXTINF:-1 tvg-id="Monstruos internos Las 24 caras de Billy Milligan S01 E01" tvg-name="Monstruos internos Las 24 caras de Billy Milligan S01 E01"  group-title="SERIES DOCUMENTALES",Monstruos internos Las 24 caras de Billy Milligan S01 E01
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/55419.mkv
 #EXTINF:-1 tvg-id="Monstruos internos Las 24 caras de Billy Milligan S01 E02" tvg-name="Monstruos internos Las 24 caras de Billy Milligan S01 E02"  group-title="SERIES DOCUMENTALES",Monstruos internos Las 24 caras de Billy Milligan S01 E02
