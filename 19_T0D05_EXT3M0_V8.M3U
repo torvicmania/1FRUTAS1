@@ -311,12 +311,6 @@ http://xdgo.live:8080/19_saragoza_k/GNwTZ5dp58/1126
 http://xdgo.live:8080/19_saragoza_k/GNwTZ5dp58/1127
 #EXTINF:-1 tvg-id="CO TELECARIBE HD" tvg-name="CO TELECARIBE HD" tvg-logo="https://cdn.colombia.com/canales/telecaribe-3307.jpg" group-title="COLOMBIA",CO TELECARIBE HD
 http://xdgo.live:8080/19_saragoza_k/GNwTZ5dp58/1128
-#EXTINF:-1 tvg-id="CO TELEISLA HQ" tvg-name="CO TELEISLA HQ" tvg-logo="http://xdgo.live:8080/images/976d5b9cf6b6f916f2f10cbe4973aef5.jpg" group-title="COLOMBIA",CO TELEISLA HQ
-http://xdgo.live:8080/19_saragoza_k/GNwTZ5dp58/53882
-#EXTINF:-1 tvg-id="CO TELEISLA HD" tvg-name="CO TELEISLA HD" tvg-logo="http://xdgo.live:8080/images/976d5b9cf6b6f916f2f10cbe4973aef5.jpg" group-title="COLOMBIA",CO TELEISLA HD
-http://xdgo.live:8080/19_saragoza_k/GNwTZ5dp58/53881
-#EXTINF:-1 tvg-id="CO TELEISLA FHD" tvg-name="CO TELEISLA FHD" tvg-logo="http://xdgo.live:8080/images/976d5b9cf6b6f916f2f10cbe4973aef5.jpg" group-title="COLOMBIA",CO TELEISLA FHD
-http://xdgo.live:8080/19_saragoza_k/GNwTZ5dp58/53880
 #EXTINF:-1 tvg-id="CO TELEMEDELLIN HD" tvg-name="CO TELEMEDELLIN HD" tvg-logo="https://pbs.twimg.com/profile_images/1233106002335195138/HaOU4V9w_400x400.jpg" group-title="COLOMBIA",CO TELEMEDELLIN HD
 http://xdgo.live:8080/19_saragoza_k/GNwTZ5dp58/1129
 #EXTINF:-1 tvg-id="CO TELEPACIFICO HD" tvg-name="CO TELEPACIFICO HD" tvg-logo="http://xdgo.live:8080/images/3d931b4af63c87769f703d679394138e.jpg" group-title="COLOMBIA",CO TELEPACIFICO HD
@@ -1267,20 +1261,26 @@ http://xdgo.live:8080/19_saragoza_k/GNwTZ5dp58/5453
 http://xdgo.live:8080/19_saragoza_k/GNwTZ5dp58/5451
 #EXTINF:-1 tvg-id="A&E HD" tvg-name="BR A&E HD" group-title="BRASIL",BR A&E HD
 http://xdgo.live:8080/19_saragoza_k/GNwTZ5dp58/5450
-#EXTINF:-1 tvg-id="CA TCM" tvg-name="CA TCM" group-title="CANADA",CA TCM
-http://xdgo.live:8080/19_saragoza_k/GNwTZ5dp58/5604
-#EXTINF:-1 tvg-id="CA SPORTSNET_ONE" tvg-name="CA SPORTSNET ONE" group-title="CANADA",CA SPORTSNET ONE
-http://xdgo.live:8080/19_saragoza_k/GNwTZ5dp58/5610
-#EXTINF:-1 tvg-id="CA CablePulse 24" tvg-name="CA CablePulse 24" group-title="CANADA",CA CablePulse 24
-http://xdgo.live:8080/19_saragoza_k/GNwTZ5dp58/5628
 #EXTINF:-1 tvg-id="CA A&E" tvg-name="CA A&E" group-title="CANADA",CA A&E
 http://xdgo.live:8080/19_saragoza_k/GNwTZ5dp58/5677
-#EXTINF:-1 tvg-id="CA TSN_1" tvg-name="CA TSN 1" group-title="CANADA",CA TSN 1
-http://xdgo.live:8080/19_saragoza_k/GNwTZ5dp58/5682
-#EXTINF:-1 tvg-id="CA HBO 2" tvg-name="CA HBO 2" group-title="CANADA",CA HBO 2
-http://xdgo.live:8080/19_saragoza_k/GNwTZ5dp58/5702
 #EXTINF:-1 tvg-id="CA Addik TV (FR)" tvg-name="CA Addik TV (FR)" group-title="CANADA",CA Addik TV (FR)
 http://xdgo.live:8080/19_saragoza_k/GNwTZ5dp58/5711
+#EXTINF:-1 tvg-id="CA CablePulse 24" tvg-name="CA CablePulse 24" group-title="CANADA",CA CablePulse 24
+http://xdgo.live:8080/19_saragoza_k/GNwTZ5dp58/5628
+#EXTINF:-1 tvg-id="CA HBO 2" tvg-name="CA HBO 2" group-title="CANADA",CA HBO 2
+http://xdgo.live:8080/19_saragoza_k/GNwTZ5dp58/5702
+#EXTINF:-1 tvg-id="CA LCN" tvg-name="CA LCN"  group-title="CANADA",CA LCN
+http://xdgo.live:8080/19_saragoza_k/GNwTZ5dp58/58817
+#EXTINF:-1 tvg-id="CA SPORTSNET_ONE" tvg-name="CA SPORTSNET ONE" group-title="CANADA",CA SPORTSNET ONE
+http://xdgo.live:8080/19_saragoza_k/GNwTZ5dp58/5610
+#EXTINF:-1 tvg-id="CA TCM" tvg-name="CA TCM" group-title="CANADA",CA TCM
+http://xdgo.live:8080/19_saragoza_k/GNwTZ5dp58/5604
+#EXTINF:-1 tvg-id="CA TSN_1" tvg-name="CA TSN 1" group-title="CANADA",CA TSN 1
+http://xdgo.live:8080/19_saragoza_k/GNwTZ5dp58/5682
+#EXTINF:-1 tvg-id="CA TVA MONTREAL" tvg-name="CA TVA MONTREAL"  group-title="CANADA",CA TVA MONTREAL
+http://xdgo.live:8080/19_saragoza_k/GNwTZ5dp58/58819
+#EXTINF:-1 tvg-id="CA TVA SPORTS" tvg-name="CA TVA SPORTS"  group-title="CANADA",CA TVA SPORTS
+http://xdgo.live:8080/19_saragoza_k/GNwTZ5dp58/58818
 #EXTINF:-1 tvg-id="CA AMC" tvg-name="CA AMC" group-title="CANADA",CA AMC
 http://xdgo.live:8080/19_saragoza_k/GNwTZ5dp58/5669
 #EXTINF:-1 tvg-id="CA Animal Planet" tvg-name="CA Animal Planet" group-title="CANADA",CA Animal Planet
@@ -31815,6 +31815,20 @@ http://xdgo.live:8080/series/19_saragoza_k/GNwTZ5dp58/41776.mkv
 http://xdgo.live:8080/series/19_saragoza_k/GNwTZ5dp58/42114.mkv
 #EXTINF:-1 tvg-id="WandaVision S01 E09" tvg-name="WandaVision S01 E09"  group-title="WANDAVISION",WandaVision S01 E09
 http://xdgo.live:8080/series/19_saragoza_k/GNwTZ5dp58/42412.mkv
+#EXTINF:-1 tvg-id="Eternals (2021)" tvg-name="Eternals (2021)" tvg-logo="http://xdgo.live:8080/images/e360b11b32050dd9748ae297782e9060.jpg" group-title="VFLIX ESTRENOS",Eternals (2021)
+http://xdgo.live:8080/movie/19_saragoza_k/GNwTZ5dp58/58815.mkv
+#EXTINF:-1 tvg-id="Resident Evil: Bienvenidos a Raccoon City (2021)" tvg-name="Resident Evil: Bienvenidos a Raccoon City (2021)" tvg-logo="http://xdgo.live:8080/images/3e08783597e3c69fb1d800969a54bfcc.jpg" group-title="VFLIX ESTRENOS",Resident Evil: Bienvenidos a Raccoon City (2021)
+http://xdgo.live:8080/movie/19_saragoza_k/GNwTZ5dp58/58816.mkv
+#EXTINF:-1 tvg-id="¡Canta! 2 (2021)" tvg-name="¡Canta! 2 (2021)" tvg-logo="http://xdgo.live:8080/images/1e629dcb383b639af140feafa3577c24.jpg" group-title="VFLIX ESTRENOS",¡Canta! 2 (2021)
+http://xdgo.live:8080/movie/19_saragoza_k/GNwTZ5dp58/58760.mkv
+#EXTINF:-1 tvg-id="El páramo (2021)" tvg-name="El páramo (2021)" tvg-logo="http://xdgo.live:8080/images/1098be34df1b95de9be3fd8545f51e61.jpg" group-title="VFLIX ESTRENOS",El páramo (2021)
+http://xdgo.live:8080/movie/19_saragoza_k/GNwTZ5dp58/58761.mkv
+#EXTINF:-1 tvg-id="Madre - Androide (2021)" tvg-name="Madre - Androide (2021)" tvg-logo="http://xdgo.live:8080/images/4db710066f85a557796642b254b04cc3.jpg" group-title="VFLIX ESTRENOS",Madre - Androide (2021)
+http://xdgo.live:8080/movie/19_saragoza_k/GNwTZ5dp58/58759.mkv
+#EXTINF:-1 tvg-id="El Caballero Verde (2021)" tvg-name="El Caballero Verde (2021)" tvg-logo="http://xdgo.live:8080/images/5f528b63d4e3b30f55a481d67ed2124c.jpg" group-title="VFLIX ESTRENOS",El Caballero Verde (2021)
+http://xdgo.live:8080/movie/19_saragoza_k/GNwTZ5dp58/58762.mkv
+#EXTINF:-1 tvg-id="The Tender Bar (2021)" tvg-name="The Tender Bar (2021)" tvg-logo="http://xdgo.live:8080/images/e2312adde74cfb41374da9ef72350056.jpg" group-title="VFLIX ESTRENOS",The Tender Bar (2021)
+http://xdgo.live:8080/movie/19_saragoza_k/GNwTZ5dp58/58763.mkv
 #EXTINF:-1 tvg-id="Cazafantasmas: Más allá (2021)" tvg-name="Cazafantasmas: Más allá (2021)" tvg-logo="http://xdgo.live:8080/images/227c8582898d0151590a5e4b2c767702.jpg" group-title="VFLIX ESTRENOS",Cazafantasmas: Más allá (2021)
 http://xdgo.live:8080/movie/19_saragoza_k/GNwTZ5dp58/58476.mkv
 #EXTINF:-1 tvg-id="Spin (2021)" tvg-name="Spin (2021)" tvg-logo="http://xdgo.live:8080/images/a4530875f6fe34bdc5ae390bccae5acc.jpg" group-title="VFLIX ESTRENOS",Spin (2021)
