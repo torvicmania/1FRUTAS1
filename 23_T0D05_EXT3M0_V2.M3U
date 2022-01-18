@@ -2115,6 +2115,8 @@ http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/24261
 http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/47231
 #EXTINF:-1 tvg-id="STAR PLUS  ESPN PPV" tvg-name="STAR PLUS  ESPN PPV"  group-title="EVENTOS PPV",STAR PLUS  ESPN PPV
 http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/53828
+#EXTINF:-1 tvg-id="STAR PLUS  ESPN PPV op2" tvg-name="STAR PLUS  ESPN PPV op2"  group-title="EVENTOS PPV",STAR PLUS  ESPN PPV op2
+http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/58915
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 1 PE FHD" tvg-name="DIRECTV SPORTS PPV 1" group-title="EVENTOS PPV",DIRECTV SPORTS PPV 1
 http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/51077
 #EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  FHD" tvg-name="DIRECTV SPORTS PPV 2" group-title="EVENTOS PPV",DIRECTV SPORTS PPV 2
@@ -2129,6 +2131,46 @@ http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/54379
 http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/54393
 #EXTINF:-1 tvg-id="DIRECTV SPORTS PPV 7" tvg-name="DIRECTV SPORTS PPV 7"  group-title="EVENTOS PPV",DIRECTV SPORTS PPV 7
 http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/54394
+#EXTINF:-1 tvg-id="Basketball (NBA) Milwaukee Bucks at Atlanta Hawks 6:00 PM EST ( TNT)" tvg-name="Basketball (NBA) Milwaukee Bucks at Atlanta Hawks 6:00 PM EST ( TNT)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Milwaukee Bucks at Atlanta Hawks 6:00 PM EST ( TNT)
+http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/59034
+#EXTINF:-1 tvg-id="Basketball (NCAA Men) Indiana at Nebraska 6:00 PM EST ( BTN)" tvg-name="Basketball (NCAA Men) Indiana at Nebraska 6:00 PM EST ( BTN)"  group-title="EVENTOS PPV",Basketball (NCAA Men) Indiana at Nebraska 6:00 PM EST ( BTN)
+http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/59035
+#EXTINF:-1 tvg-id="Basketball (NCAA Men) Delaware at Northeastern 7:00 PM EST ( CBSSN)" tvg-name="Basketball (NCAA Men) Delaware at Northeastern 7:00 PM EST ( CBSSN)"  group-title="EVENTOS PPV",Basketball (NCAA Men) Delaware at Northeastern 7:00 PM EST ( CBSSN)
+http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/59036
+#EXTINF:-1 tvg-id="Basketball (NCAA Women) Georgia at Missouri 7:00 PM EST ( SEC)" tvg-name="Basketball (NCAA Women) Georgia at Missouri 7:00 PM EST ( SEC)"  group-title="EVENTOS PPV",Basketball (NCAA Women) Georgia at Missouri 7:00 PM EST ( SEC)
+http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/59037
+#EXTINF:-1 tvg-id="Basketball (NBA) Portland Trail Blazers at Orlando Magic 7:00 PM EST ( NBA)" tvg-name="Basketball (NBA) Portland Trail Blazers at Orlando Magic 7:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Portland Trail Blazers at Orlando Magic 7:00 PM EST ( NBA)
+http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/59038
+#EXTINF:-1 tvg-id="Basketball (NBA) Toronto Raptors at Miami Heat 7:30 PM EST ( NBA)" tvg-name="Basketball (NBA) Toronto Raptors at Miami Heat 7:30 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Toronto Raptors at Miami Heat 7:30 PM EST ( NBA)
+http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/59039
+#EXTINF:-1 tvg-id="Soccer (Liga MXF) Tigres UANL vs. Guadalajara 7:55 PM EST ( TUDN)" tvg-name="Soccer (Liga MXF) Tigres UANL vs. Guadalajara 7:55 PM EST ( TUDN)"  group-title="EVENTOS PPV",Soccer (Liga MXF) Tigres UANL vs. Guadalajara 7:55 PM EST ( TUDN)
+http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/59040
+#EXTINF:-1 tvg-id="Soccer (Liga MXF) Leon vs Juarez FC 8:00 PM EST ( FOXD)" tvg-name="Soccer (Liga MXF) Leon vs Juarez FC 8:00 PM EST ( FOXD)"  group-title="EVENTOS PPV",Soccer (Liga MXF) Leon vs Juarez FC 8:00 PM EST ( FOXD)
+http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/59041
+#EXTINF:-1 tvg-id="Basketball (NCAA Men) Wyoming at Nevada 8:00 PM EST ( FS1)" tvg-name="Basketball (NCAA Men) Wyoming at Nevada 8:00 PM EST ( FS1)"  group-title="EVENTOS PPV",Basketball (NCAA Men) Wyoming at Nevada 8:00 PM EST ( FS1)
+http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/59042
+#EXTINF:-1 tvg-id="Wrestling WWE Monday Night RAW 8:00 PM EST ( USA)" tvg-name="Wrestling WWE Monday Night RAW 8:00 PM EST ( USA)" tvg-logo="" group-title="EVENTOS PPV",Wrestling WWE Monday Night RAW 8:00 PM EST ( USA)
+http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/59043
+#EXTINF:-1 tvg-id="Hockey (NHL) Nashville Predators at St. Louis Blues 8:00 PM EST ( NHL)" tvg-name="Hockey (NHL) Nashville Predators at St. Louis Blues 8:00 PM EST ( NHL)"  group-title="EVENTOS PPV",Hockey (NHL) Nashville Predators at St. Louis Blues 8:00 PM EST ( NHL)
+http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/59044
+#EXTINF:-1 tvg-id="Football (NFL) Arizona Cardinals at Los Angeles Rams 8:15 PM EST ( ESPN)" tvg-name="Football (NFL) Arizona Cardinals at Los Angeles Rams 8:15 PM EST ( ESPN)"  group-title="EVENTOS PPV",Football (NFL) Arizona Cardinals at Los Angeles Rams 8:15 PM EST ( ESPN)
+http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/59045
+#EXTINF:-1 tvg-id="Basketball (NBA) Oklahoma City Thunder at Dallas Mavericks 8:30 PM EST ( NBA)" tvg-name="Basketball (NBA) Oklahoma City Thunder at Dallas Mavericks 8:30 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Oklahoma City Thunder at Dallas Mavericks 8:30 PM EST ( NBA)
+http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/59046
+#EXTINF:-1 tvg-id="Basketball (NBA) Phoenix Suns at San Antonio Spurs 8:30 PM EST ( NBA)" tvg-name="Basketball (NBA) Phoenix Suns at San Antonio Spurs 8:30 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Phoenix Suns at San Antonio Spurs 8:30 PM EST ( NBA)
+http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/59047
+#EXTINF:-1 tvg-id="Basketball (NCAA Men) UNLV at San JosÃ© State 9:00 PM EST ( CBSSN)" tvg-name="Basketball (NCAA Men) UNLV at San JosÃ© State 9:00 PM EST ( CBSSN)"  group-title="EVENTOS PPV",Basketball (NCAA Men) UNLV at San JosÃ© State 9:00 PM EST ( CBSSN)
+http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/59048
+#EXTINF:-1 tvg-id="Hockey (NHL) Pittsburgh Penguins at Vegas Golden Knights 10:00 PM EST ( NHL)" tvg-name="Hockey (NHL) Pittsburgh Penguins at Vegas Golden Knights 10:00 PM EST ( NHL)"  group-title="EVENTOS PPV",Hockey (NHL) Pittsburgh Penguins at Vegas Golden Knights 10:00 PM EST ( NHL)
+http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/59049
+#EXTINF:-1 tvg-id="Basketball (NBA) Utah Jazz at Los Angeles Lakers 10:30 PM EST ( NBA)" tvg-name="Basketball (NBA) Utah Jazz at Los Angeles Lakers 10:30 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",Basketball (NBA) Utah Jazz at Los Angeles Lakers 10:30 PM EST ( NBA)
+http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/59050
+#EXTINF:-1 tvg-id="Tennis (Pro) 2022 Australian Open First Round 11:30 PM EST ( ESPN2)" tvg-name="Tennis (Pro) 2022 Australian Open First Round 11:30 PM EST ( ESPN2)"  group-title="EVENTOS PPV",Tennis (Pro) 2022 Australian Open First Round 11:30 PM EST ( ESPN2)
+http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/59051
+#EXTINF:-1 tvg-id="Arizona Cardinals vs Los Angeles Rams (HD) 8:15pm" tvg-name="Arizona Cardinals vs Los Angeles Rams (HD) 8:15pm"  group-title="EVENTOS PPV",Arizona Cardinals vs Los Angeles Rams (HD) 8:15pm
+http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/59052
+#EXTINF:-1 tvg-id="Arizona Cardinals vs Los Angeles Rams (SD) 8:15pm" tvg-name="Arizona Cardinals vs Los Angeles Rams (SD) 8:15pm"  group-title="EVENTOS PPV",Arizona Cardinals vs Los Angeles Rams (SD) 8:15pm
+http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/59053
 #EXTINF:-1 tvg-id="GUA Canal 4" tvg-name="GUA VEA CANAL" group-title="GUATEMALA",GUA VEA CANAL
 http://xdgo.live:8080/23_vNancyRem_d/VXnD4AV5eY/2597
 #EXTINF:-1 tvg-id="GUA CANAL 11" tvg-name="GUA CANAL 11" group-title="GUATEMALA",GUA CANAL 11
@@ -28173,6 +28215,32 @@ http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58583.mkv
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58584.mkv
 #EXTINF:-1 tvg-id="Hawkeye - Ojo de Halcon (2021) S01 E06" tvg-name="Hawkeye - Ojo de Halcon (2021) S01 E06"  group-title="SERIES FICCION - FANTASIA",Hawkeye - Ojo de Halcon (2021) S01 E06
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/58585.mkv
+#EXTINF:-1 tvg-id="Estacion once S01 E01" tvg-name="Estacion once S01 E01"  group-title="SERIES FICCION - FANTASIA",Estacion once S01 E01
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/59021.mkv
+#EXTINF:-1 tvg-id="Estacion once S01 E02" tvg-name="Estacion once S01 E02"  group-title="SERIES FICCION - FANTASIA",Estacion once S01 E02
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/59022.mkv
+#EXTINF:-1 tvg-id="Estacion once S01 E03" tvg-name="Estacion once S01 E03"  group-title="SERIES FICCION - FANTASIA",Estacion once S01 E03
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/59023.mkv
+#EXTINF:-1 tvg-id="Estacion once S01 E04" tvg-name="Estacion once S01 E04"  group-title="SERIES FICCION - FANTASIA",Estacion once S01 E04
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/59024.mkv
+#EXTINF:-1 tvg-id="Estacion once S01 E05" tvg-name="Estacion once S01 E05"  group-title="SERIES FICCION - FANTASIA",Estacion once S01 E05
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/59025.mkv
+#EXTINF:-1 tvg-id="Estacion once S01 E06" tvg-name="Estacion once S01 E06"  group-title="SERIES FICCION - FANTASIA",Estacion once S01 E06
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/59026.mkv
+#EXTINF:-1 tvg-id="Estacion once S01 E07" tvg-name="Estacion once S01 E07"  group-title="SERIES FICCION - FANTASIA",Estacion once S01 E07
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/59027.mkv
+#EXTINF:-1 tvg-id="Estacion once S01 E08" tvg-name="Estacion once S01 E08"  group-title="SERIES FICCION - FANTASIA",Estacion once S01 E08
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/59028.mkv
+#EXTINF:-1 tvg-id="Estacion once S01 E09" tvg-name="Estacion once S01 E09"  group-title="SERIES FICCION - FANTASIA",Estacion once S01 E09
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/59029.mkv
+#EXTINF:-1 tvg-id="Estacion once S01 E10" tvg-name="Estacion once S01 E10"  group-title="SERIES FICCION - FANTASIA",Estacion once S01 E10
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/59030.mkv
+#EXTINF:-1 tvg-id="El Pacificador S01 E01" tvg-name="El Pacificador S01 E01"  group-title="SERIES FICCION - FANTASIA",El Pacificador S01 E01
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/59031.mkv
+#EXTINF:-1 tvg-id="El Pacificador S01 E02" tvg-name="El Pacificador S01 E02"  group-title="SERIES FICCION - FANTASIA",El Pacificador S01 E02
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/59032.mkv
+#EXTINF:-1 tvg-id="El Pacificador S01 E03" tvg-name="El Pacificador S01 E03"  group-title="SERIES FICCION - FANTASIA",El Pacificador S01 E03
+http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/59033.mkv
 #EXTINF:-1 tvg-id="Johnny Bravo S01 E01" tvg-name="Johnny Bravo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9Ug39KxbIt1opgXdJY3AJhAlGx.jpg" group-title="SERIES INFANTILES",Johnny Bravo S01 E01
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/6923.mp4
 #EXTINF:-1 tvg-id="Johnny Bravo S01 E02" tvg-name="Johnny Bravo S01 E02" tvg-logo="http://xdgo.live:8080/images/d7b2ea32f483aef63edf9412a3da3b79.jpg" group-title="SERIES INFANTILES",Johnny Bravo S01 E02
@@ -31815,6 +31883,34 @@ http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/41776.mkv
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/42114.mkv
 #EXTINF:-1 tvg-id="WandaVision S01 E09" tvg-name="WandaVision S01 E09"  group-title="WANDAVISION",WandaVision S01 E09
 http://xdgo.live:8080/series/23_vNancyRem_d/VXnD4AV5eY/42412.mkv
+#EXTINF:-1 tvg-id="Sin pudor (2022)" tvg-name="Sin pudor (2022)" tvg-logo="http://xdgo.live:8080/images/cad3782aad356555476a40d30d6d6e29.jpg" group-title="VFLIX ESTRENOS",Sin pudor (2022)
+http://xdgo.live:8080/movie/23_vNancyRem_d/VXnD4AV5eY/59007.mkv
+#EXTINF:-1 tvg-id="Copshop (2021)" tvg-name="Copshop (2021)" tvg-logo="http://xdgo.live:8080/images/08719181fa1ce3ae0cc27f1324216938.jpg" group-title="VFLIX ESTRENOS",Copshop (2021)
+http://xdgo.live:8080/movie/23_vNancyRem_d/VXnD4AV5eY/59008.mkv
+#EXTINF:-1 tvg-id="El Comediante (2021)" tvg-name="El Comediante (2021)" tvg-logo="http://xdgo.live:8080/images/1ec71a83054fcae069ee356154d31903.jpg" group-title="VFLIX ESTRENOS",El Comediante (2021)
+http://xdgo.live:8080/movie/23_vNancyRem_d/VXnD4AV5eY/59009.mkv
+#EXTINF:-1 tvg-id="Hotel Transilvania: Transformanía (2022)" tvg-name="Hotel Transilvania: Transformanía (2022)" tvg-logo="http://xdgo.live:8080/images/a4ad997eaa00be165d6dc2ed9ed0c274.jpg" group-title="VFLIX ESTRENOS",Hotel Transilvania: Transformanía (2022)
+http://xdgo.live:8080/movie/23_vNancyRem_d/VXnD4AV5eY/59010.mkv
+#EXTINF:-1 tvg-id="Cómo me enamoré de un gánster (2022)" tvg-name="Cómo me enamoré de un gánster (2022)" tvg-logo="http://xdgo.live:8080/images/2072ddf9f02df6bf5f988ec19ee7d6f5.jpg" group-title="VFLIX ESTRENOS",Cómo me enamoré de un gánster (2022)
+http://xdgo.live:8080/movie/23_vNancyRem_d/VXnD4AV5eY/59011.mkv
+#EXTINF:-1 tvg-id="In The Earth (2021)" tvg-name="In The Earth (2021)" tvg-logo="http://xdgo.live:8080/images/8fac8b18ca0a92c04cef5ac527304364.jpg" group-title="VFLIX ESTRENOS",In The Earth (2021)
+http://xdgo.live:8080/movie/23_vNancyRem_d/VXnD4AV5eY/59012.mkv
+#EXTINF:-1 tvg-id="One Shot (2021)" tvg-name="One Shot (2021)" tvg-logo="http://xdgo.live:8080/images/a6719d327676d3fe7cecf7a5269ab133.jpg" group-title="VFLIX ESTRENOS",One Shot (2021)
+http://xdgo.live:8080/movie/23_vNancyRem_d/VXnD4AV5eY/59013.mkv
+#EXTINF:-1 tvg-id="La Fotocopiadora (2021)" tvg-name="La Fotocopiadora (2021)" tvg-logo="http://xdgo.live:8080/images/70ace7ac5a0c6a2ded58ce135aded67b.jpg" group-title="VFLIX ESTRENOS",La Fotocopiadora (2021)
+http://xdgo.live:8080/movie/23_vNancyRem_d/VXnD4AV5eY/59014.mkv
+#EXTINF:-1 tvg-id="Ray Donovan: The Movie (2022)" tvg-name="Ray Donovan: The Movie (2022)" tvg-logo="http://xdgo.live:8080/images/86eb9ee7b2619cb6d0ae3f9742bf7248.jpg" group-title="VFLIX ESTRENOS",Ray Donovan: The Movie (2022)
+http://xdgo.live:8080/movie/23_vNancyRem_d/VXnD4AV5eY/59015.mkv
+#EXTINF:-1 tvg-id="Riverdance - La aventura animada (2021)" tvg-name="Riverdance - La aventura animada (2021)" tvg-logo="http://xdgo.live:8080/images/649cce04532a4255f1578c1e8ecda9c0.jpg" group-title="VFLIX ESTRENOS",Riverdance - La aventura animada (2021)
+http://xdgo.live:8080/movie/23_vNancyRem_d/VXnD4AV5eY/59016.mkv
+#EXTINF:-1 tvg-id="Skipping Stones (2021)" tvg-name="Skipping Stones (2021)" tvg-logo="http://xdgo.live:8080/images/9a67f6d2506af38a9698835f6a1dfb25.jpg" group-title="VFLIX ESTRENOS",Skipping Stones (2021)
+http://xdgo.live:8080/movie/23_vNancyRem_d/VXnD4AV5eY/59017.mkv
+#EXTINF:-1 tvg-id="La casa (2020)" tvg-name="La casa (2020)" tvg-logo="http://xdgo.live:8080/images/2056d9400a8b0fc59d8427d4fe6e0f9c.jpg" group-title="VFLIX ESTRENOS",La casa (2020)
+http://xdgo.live:8080/movie/23_vNancyRem_d/VXnD4AV5eY/59018.mkv
+#EXTINF:-1 tvg-id="La tragedia de Macbeth (2021)" tvg-name="La tragedia de Macbeth (2021)" tvg-logo="http://xdgo.live:8080/images/8c8c114c60e9031a18d8ea40179a9e7a.jpg" group-title="VFLIX ESTRENOS",La tragedia de Macbeth (2021)
+http://xdgo.live:8080/movie/23_vNancyRem_d/VXnD4AV5eY/59019.mkv
+#EXTINF:-1 tvg-id="Trust (2021)" tvg-name="Trust (2021)" tvg-logo="http://xdgo.live:8080/images/8930e17a385eed687d4f5c8cfe900595.jpg" group-title="VFLIX ESTRENOS",Trust (2021)
+http://xdgo.live:8080/movie/23_vNancyRem_d/VXnD4AV5eY/59020.mkv
 #EXTINF:-1 tvg-id="Eternals (2021)" tvg-name="Eternals (2021)" tvg-logo="http://xdgo.live:8080/images/e360b11b32050dd9748ae297782e9060.jpg" group-title="VFLIX ESTRENOS",Eternals (2021)
 http://xdgo.live:8080/movie/23_vNancyRem_d/VXnD4AV5eY/58815.mkv
 #EXTINF:-1 tvg-id="Resident Evil: Bienvenidos a Raccoon City (2021)" tvg-name="Resident Evil: Bienvenidos a Raccoon City (2021)" tvg-logo="http://xdgo.live:8080/images/3e08783597e3c69fb1d800969a54bfcc.jpg" group-title="VFLIX ESTRENOS",Resident Evil: Bienvenidos a Raccoon City (2021)
