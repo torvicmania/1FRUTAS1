@@ -99,8 +99,6 @@ http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/28909
 http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/28910
 #EXTINF:-1 tvg-id="24 Horas Prime Accion" tvg-name="FIESTAMIX 3" group-title="24/7",FIESTAMIX 3
 http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/29041
-#EXTINF:-1 tvg-id="24 Horas Casado con Hijos" tvg-name="GAMES OF THRONES" group-title="24/7",GAMES OF THRONES
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/23843
 #EXTINF:-1 tvg-id="24 Horas Casado con Hijos" tvg-name="GARFIELD Y SUS AMIGOS" group-title="24/7",GARFIELD Y SUS AMIGOS
 http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/23873
 #EXTINF:-1 tvg-id="24 Horas Casado con Hijos" tvg-name="GASPARIN" group-title="24/7",GASPARIN
@@ -279,8 +277,6 @@ http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/1117
 http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/1118
 #EXTINF:-1 tvg-id="CO ME GUSTA HQ" tvg-name="CO ME GUSTA HQ" tvg-logo="http://xdgo.live:8080/images/eddb2bafe3f82ade08ff83cd6d54ecae.jpg" group-title="COLOMBIA",CO ME GUSTA HQ
 http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/53878
-#EXTINF:-1 tvg-id="CO NOTICIAS CARACOL AHORA HD" tvg-name="CO NOTICIAS CARACOL AHORA HD" tvg-logo="https://i.ytimg.com/vi/97dZvK7pEaA/maxresdefault.jpg" group-title="COLOMBIA",CO NOTICIAS CARACOL AHORA HD
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/52319
 #EXTINF:-1 tvg-id="CO NTN24 HD" tvg-name="CO NTN24 HD" tvg-logo="https://www.freeetv.com/images/reydddd/ntn24.jpg" group-title="COLOMBIA",CO NTN24 HD
 http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/1119
 #EXTINF:-1 tvg-id="CO RCN HD" tvg-name="CO RCN LQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/7104/brand.gif?itok=a-dvuqrh" group-title="COLOMBIA",CO RCN LQ
@@ -311,12 +307,6 @@ http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/1126
 http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/1127
 #EXTINF:-1 tvg-id="CO TELECARIBE HD" tvg-name="CO TELECARIBE HD" tvg-logo="https://cdn.colombia.com/canales/telecaribe-3307.jpg" group-title="COLOMBIA",CO TELECARIBE HD
 http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/1128
-#EXTINF:-1 tvg-id="CO TELEISLA HQ" tvg-name="CO TELEISLA HQ" tvg-logo="http://xdgo.live:8080/images/976d5b9cf6b6f916f2f10cbe4973aef5.jpg" group-title="COLOMBIA",CO TELEISLA HQ
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/53882
-#EXTINF:-1 tvg-id="CO TELEISLA HD" tvg-name="CO TELEISLA HD" tvg-logo="http://xdgo.live:8080/images/976d5b9cf6b6f916f2f10cbe4973aef5.jpg" group-title="COLOMBIA",CO TELEISLA HD
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/53881
-#EXTINF:-1 tvg-id="CO TELEISLA FHD" tvg-name="CO TELEISLA FHD" tvg-logo="http://xdgo.live:8080/images/976d5b9cf6b6f916f2f10cbe4973aef5.jpg" group-title="COLOMBIA",CO TELEISLA FHD
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/53880
 #EXTINF:-1 tvg-id="CO TELEMEDELLIN HD" tvg-name="CO TELEMEDELLIN HD" tvg-logo="https://pbs.twimg.com/profile_images/1233106002335195138/HaOU4V9w_400x400.jpg" group-title="COLOMBIA",CO TELEMEDELLIN HD
 http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/1129
 #EXTINF:-1 tvg-id="CO TELEPACIFICO HD" tvg-name="CO TELEPACIFICO HD" tvg-logo="http://xdgo.live:8080/images/3d931b4af63c87769f703d679394138e.jpg" group-title="COLOMBIA",CO TELEPACIFICO HD
@@ -751,6 +741,8 @@ http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/45891
 http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/45892
 #EXTINF:-1 tvg-id="TIGO SPORTS 1 HD" tvg-name="TIGO SPORTS HONDURAS HD" tvg-logo="http://xdgo.live:8080/images/a68da643b24f0266a2d19d175a80ce75.jpg" group-title="DEPORTES",TIGO SPORTS HONDURAS HD
 http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/41345
+#EXTINF:-1 tvg-id="TIGO SPORTS GUATEMALA HD" tvg-name="TIGO SPORTS GUATEMALA HD" tvg-logo="http://xdgo.live:8080/images/a68da643b24f0266a2d19d175a80ce75.jpg" group-title="DEPORTES",TIGO SPORTS GUATEMALA HD
+http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/59458
 #EXTINF:-1 tvg-id="TNT SPORTS AR LQ" tvg-name="TNT SPORTS AR LQ" tvg-logo="https://tntsports.com/__export/1565373169000/sites/tntsports/arte/apps/facebook.jpg" group-title="DEPORTES",TNT SPORTS AR LQ
 http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/53187
 #EXTINF:-1 tvg-id="TNT SPORTS HD" tvg-name="TNT SPORTS AR HQ" tvg-logo="https://tntsports.com/__export/1565373169000/sites/tntsports/arte/apps/facebook.jpg" group-title="DEPORTES",TNT SPORTS AR HQ
@@ -1267,20 +1259,26 @@ http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/5453
 http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/5451
 #EXTINF:-1 tvg-id="A&E HD" tvg-name="BR A&E HD" group-title="BRASIL",BR A&E HD
 http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/5450
-#EXTINF:-1 tvg-id="CA TCM" tvg-name="CA TCM" group-title="CANADA",CA TCM
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/5604
-#EXTINF:-1 tvg-id="CA SPORTSNET_ONE" tvg-name="CA SPORTSNET ONE" group-title="CANADA",CA SPORTSNET ONE
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/5610
-#EXTINF:-1 tvg-id="CA CablePulse 24" tvg-name="CA CablePulse 24" group-title="CANADA",CA CablePulse 24
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/5628
 #EXTINF:-1 tvg-id="CA A&E" tvg-name="CA A&E" group-title="CANADA",CA A&E
 http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/5677
-#EXTINF:-1 tvg-id="CA TSN_1" tvg-name="CA TSN 1" group-title="CANADA",CA TSN 1
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/5682
-#EXTINF:-1 tvg-id="CA HBO 2" tvg-name="CA HBO 2" group-title="CANADA",CA HBO 2
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/5702
 #EXTINF:-1 tvg-id="CA Addik TV (FR)" tvg-name="CA Addik TV (FR)" group-title="CANADA",CA Addik TV (FR)
 http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/5711
+#EXTINF:-1 tvg-id="CA CablePulse 24" tvg-name="CA CablePulse 24" group-title="CANADA",CA CablePulse 24
+http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/5628
+#EXTINF:-1 tvg-id="CA HBO 2" tvg-name="CA HBO 2" group-title="CANADA",CA HBO 2
+http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/5702
+#EXTINF:-1 tvg-id="CA LCN" tvg-name="CA LCN"  group-title="CANADA",CA LCN
+http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/58817
+#EXTINF:-1 tvg-id="CA SPORTSNET_ONE" tvg-name="CA SPORTSNET ONE" group-title="CANADA",CA SPORTSNET ONE
+http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/5610
+#EXTINF:-1 tvg-id="CA TCM" tvg-name="CA TCM" group-title="CANADA",CA TCM
+http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/5604
+#EXTINF:-1 tvg-id="CA TSN_1" tvg-name="CA TSN 1" group-title="CANADA",CA TSN 1
+http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/5682
+#EXTINF:-1 tvg-id="CA TVA MONTREAL" tvg-name="CA TVA MONTREAL"  group-title="CANADA",CA TVA MONTREAL
+http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/58819
+#EXTINF:-1 tvg-id="CA TVA SPORTS" tvg-name="CA TVA SPORTS"  group-title="CANADA",CA TVA SPORTS
+http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/58818
 #EXTINF:-1 tvg-id="CA AMC" tvg-name="CA AMC" group-title="CANADA",CA AMC
 http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/5669
 #EXTINF:-1 tvg-id="CA Animal Planet" tvg-name="CA Animal Planet" group-title="CANADA",CA Animal Planet
@@ -1651,7 +1649,7 @@ http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/53383
 http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/946
 #EXTINF:-1 tvg-id="AMC HQ" tvg-name="AMC HQ" tvg-logo="https://images.istreamplanet.net/w_222.22222222222223,c_limit/dtv-latam-prod/8cecf484f4f67bedca587180954cee7f" group-title="CINE HD",AMC HQ
 http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/918
-#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="https://images.istreamplanet.net/w_222.22222222222223,c_limit/dtv-latam-prod/bdf3962c-10e6-4241-8d6a-00420cf74b79.png" group-title="CINE HD",AXN HD
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="http://xdgo.live:8080/images/8b2c805f7c822897299e6bb9174e089b.png" group-title="CINE HD",AXN HD
 http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/944
 #EXTINF:-1 tvg-id="AXN HQ" tvg-name="AXN HQ" tvg-logo="http://xdgo.live:8080/images/8b2c805f7c822897299e6bb9174e089b.png" group-title="CINE HD",AXN HQ
 http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/917
@@ -2115,6 +2113,8 @@ http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/24261
 http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/47231
 #EXTINF:-1 tvg-id="STAR PLUS  ESPN PPV" tvg-name="STAR PLUS  ESPN PPV"  group-title="EVENTOS PPV",STAR PLUS  ESPN PPV
 http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/53828
+#EXTINF:-1 tvg-id="STAR PLUS  ESPN PPV op2" tvg-name="STAR PLUS  ESPN PPV op2"  group-title="EVENTOS PPV",STAR PLUS  ESPN PPV op2
+http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/58915
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 1 PE FHD" tvg-name="DIRECTV SPORTS PPV 1" group-title="EVENTOS PPV",DIRECTV SPORTS PPV 1
 http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/51077
 #EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  FHD" tvg-name="DIRECTV SPORTS PPV 2" group-title="EVENTOS PPV",DIRECTV SPORTS PPV 2
@@ -2129,80 +2129,6 @@ http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/54379
 http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/54393
 #EXTINF:-1 tvg-id="DIRECTV SPORTS PPV 7" tvg-name="DIRECTV SPORTS PPV 7"  group-title="EVENTOS PPV",DIRECTV SPORTS PPV 7
 http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/54394
-#EXTINF:-1 tvg-id="PPV || Hockey (NHL) Minnesota Wild at Boston Bruins 7:00 PM EST ( ESPN)" tvg-name="PPV || Hockey (NHL) Minnesota Wild at Boston Bruins 7:00 PM EST ( ESPN)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) Minnesota Wild at Boston Bruins 7:00 PM EST ( ESPN)
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/58586
-#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) Tennessee Martin at Tennessee State 7:00 PM EST ( ESN)" tvg-name="PPV || Basketball (NCAA Men) Tennessee Martin at Tennessee State 7:00 PM EST ( ESN)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) Tennessee Martin at Tennessee State 7:00 PM EST ( ESN)
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/58587
-#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) New Hampshire at Vermont 7:00 PM EST ( ESPNU)" tvg-name="PPV || Basketball (NCAA Men) New Hampshire at Vermont 7:00 PM EST ( ESPNU)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) New Hampshire at Vermont 7:00 PM EST ( ESPNU)
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/58588
-#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) Maryland at Illinois 7:00 PM EST ( ESPN2)" tvg-name="PPV || Basketball (NCAA Men) Maryland at Illinois 7:00 PM EST ( ESPN2)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) Maryland at Illinois 7:00 PM EST ( ESPN2)
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/58589
-#EXTINF:-1 tvg-id="PPV || Tennis (Pro) Center Court ATP Cup Semifinal 1,PPV || PLUS Adelaide-WTA 1,PPV || PLUS Melbourne-WTA 1 & 2 Quarterfinals 7:00 PM EST ( TNNS)" tvg-name="PPV || Tennis (Pro) Center Court ATP Cup Semifinal 1,PPV || PLUS Adelaide-WTA 1,PPV || PLUS Melbourne-WTA 1 & 2 Quarterfinals 7:00 PM EST ( TNNS)"  group-title="EVENTOS PPV",PPV || Tennis (Pro) Center Court ATP Cup Semifinal 1,PPV || PLUS Adelaide-WTA 1,PPV || PLUS Melbourne-WTA 1 & 2 Quarterfinals 7:00 PM EST ( TNNS)
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/58590
-#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) Ohio State at Indiana 7:00 PM EST ( FS1)" tvg-name="PPV || Basketball (NCAA Men) Ohio State at Indiana 7:00 PM EST ( FS1)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) Ohio State at Indiana 7:00 PM EST ( FS1)
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/58591
-#EXTINF:-1 tvg-id="PPV || Olympics Winter Olympic Trials 7:00 PM EST ( USA)" tvg-name="PPV || Olympics Winter Olympic Trials 7:00 PM EST ( USA)" tvg-logo="" group-title="EVENTOS PPV",PPV || Olympics Winter Olympic Trials 7:00 PM EST ( USA)
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/58592
-#EXTINF:-1 tvg-id="PPV || Hockey (NHL) San Jose Sharks at Buffalo Sabres 7:00 PM EST ( NHL)" tvg-name="PPV || Hockey (NHL) San Jose Sharks at Buffalo Sabres 7:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) San Jose Sharks at Buffalo Sabres 7:00 PM EST ( NHL)
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/58593
-#EXTINF:-1 tvg-id="PPV || Hockey (NHL) Calgary Flames at Tampa Bay Lightning 7:00 PM EST ( NHL)" tvg-name="PPV || Hockey (NHL) Calgary Flames at Tampa Bay Lightning 7:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) Calgary Flames at Tampa Bay Lightning 7:00 PM EST ( NHL)
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/58594
-#EXTINF:-1 tvg-id="PPV || Hockey (NHL) Columbus Blue Jackets at New Jersey Devils 7:00 PM EST ( NHL)" tvg-name="PPV || Hockey (NHL) Columbus Blue Jackets at New Jersey Devils 7:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) Columbus Blue Jackets at New Jersey Devils 7:00 PM EST ( NHL)
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/58595
-#EXTINF:-1 tvg-id="PPV || Basketball (NBA) Boston Celtics at New York Knicks 7:30 PM EST ( TNT)" tvg-name="PPV || Basketball (NBA) Boston Celtics at New York Knicks 7:30 PM EST ( TNT)" tvg-logo="" group-title="EVENTOS PPV",PPV || Basketball (NBA) Boston Celtics at New York Knicks 7:30 PM EST ( TNT)
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/58596
-#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) UAB at North Texas 8:00 PM EST ( CBSSN)" tvg-name="PPV || Basketball (NCAA Men) UAB at North Texas 8:00 PM EST ( CBSSN)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) UAB at North Texas 8:00 PM EST ( CBSSN)
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/58597
-#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Women) Northwestern at Iowa 8:00 PM EST ( BTN)" tvg-name="PPV || Basketball (NCAA Women) Northwestern at Iowa 8:00 PM EST ( BTN)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Women) Northwestern at Iowa 8:00 PM EST ( BTN)
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/58598
-#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Women) North Carolina at North Carolina State 8:00 PM EST ( ACCN)" tvg-name="PPV || Basketball (NCAA Women) North Carolina at North Carolina State 8:00 PM EST ( ACCN)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Women) North Carolina at North Carolina State 8:00 PM EST ( ACCN)
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/58599
-#EXTINF:-1 tvg-id="PPV || Basketball (NBA) Detroit Pistons at Memphis Grizzlies 8:00 PM EST ( NBA)" tvg-name="PPV || Basketball (NBA) Detroit Pistons at Memphis Grizzlies 8:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",PPV || Basketball (NBA) Detroit Pistons at Memphis Grizzlies 8:00 PM EST ( NBA)
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/58600
-#EXTINF:-1 tvg-id="PPV || Basketball (NBA) Golden State Warriors at New Orleans Pelicans 8:00 PM EST ( NBA)" tvg-name="PPV || Basketball (NBA) Golden State Warriors at New Orleans Pelicans 8:00 PM EST ( NBA)" tvg-logo="" group-title="EVENTOS PPV",PPV || Basketball (NBA) Golden State Warriors at New Orleans Pelicans 8:00 PM EST ( NBA)
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/58601
-#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Women) Arkansas at Vanderbilt 8:30 PM EST ( SEC)" tvg-name="PPV || Basketball (NCAA Women) Arkansas at Vanderbilt 8:30 PM EST ( SEC)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Women) Arkansas at Vanderbilt 8:30 PM EST ( SEC)
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/58602
-#EXTINF:-1 tvg-id="PPV || Hockey (NHL) Florida Panthers at Dallas Stars 8:30 PM EST ( NHL)" tvg-name="PPV || Hockey (NHL) Florida Panthers at Dallas Stars 8:30 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) Florida Panthers at Dallas Stars 8:30 PM EST ( NHL)
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/58603
-#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) Washington State at Colorado 9:00 PM EST ( ESPNU)" tvg-name="PPV || Basketball (NCAA Men) Washington State at Colorado 9:00 PM EST ( ESPNU)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) Washington State at Colorado 9:00 PM EST ( ESPNU)
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/58604
-#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) Iowa at Wisconsin 9:00 PM EST ( FS1)" tvg-name="PPV || Basketball (NCAA Men) Iowa at Wisconsin 9:00 PM EST ( FS1)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) Iowa at Wisconsin 9:00 PM EST ( FS1)
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/58605
-#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) University of the Pacific at Brigham Young 9:00 PM EST ( BYU)" tvg-name="PPV || Basketball (NCAA Men) University of the Pacific at Brigham Young 9:00 PM EST ( BYU)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) University of the Pacific at Brigham Young 9:00 PM EST ( BYU)
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/58606
-#EXTINF:-1 tvg-id="PPV || Hockey (NHL) Winnipeg Jets at Colorado Avalanche 9:00 PM EST ( NHL)" tvg-name="PPV || Hockey (NHL) Winnipeg Jets at Colorado Avalanche 9:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) Winnipeg Jets at Colorado Avalanche 9:00 PM EST ( NHL)
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/58607
-#EXTINF:-1 tvg-id="PPV || Hockey (NHL) Chicago Blackhawks at Arizona Coyotes 9:00 PM EST ( NHL)" tvg-name="PPV || Hockey (NHL) Chicago Blackhawks at Arizona Coyotes 9:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) Chicago Blackhawks at Arizona Coyotes 9:00 PM EST ( NHL)
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/58608
-#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) UCLA at Stanford 9:30 PM EST ( ESPN)" tvg-name="PPV || Basketball (NCAA Men) UCLA at Stanford 9:30 PM EST ( ESPN)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) UCLA at Stanford 9:30 PM EST ( ESPN)
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/58609
-#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Women) Boise State at Nevada 9:30 PM EST ( SCSC)" tvg-name="PPV || Basketball (NCAA Women) Boise State at Nevada 9:30 PM EST ( SCSC)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Women) Boise State at Nevada 9:30 PM EST ( SCSC)
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/58610
-#EXTINF:-1 tvg-id="PPV || Hockey (NHL) New York Rangers at Vegas Golden Knights 10:00 PM EST ( NHL)" tvg-name="PPV || Hockey (NHL) New York Rangers at Vegas Golden Knights 10:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) New York Rangers at Vegas Golden Knights 10:00 PM EST ( NHL)
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/58611
-#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) Louisiana Tech at Texas El Paso 10:00 PM EST ( CBSSN)" tvg-name="PPV || Basketball (NCAA Men) Louisiana Tech at Texas El Paso 10:00 PM EST ( CBSSN)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) Louisiana Tech at Texas El Paso 10:00 PM EST ( CBSSN)
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/58612
-#EXTINF:-1 tvg-id="PPV || Basketball (NBA) Los Angeles Clippers at Phoenix Suns 10:00 PM EST ( TNT)" tvg-name="PPV || Basketball (NBA) Los Angeles Clippers at Phoenix Suns 10:00 PM EST ( TNT)" tvg-logo="" group-title="EVENTOS PPV",PPV || Basketball (NBA) Los Angeles Clippers at Phoenix Suns 10:00 PM EST ( TNT)
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/58613
-#EXTINF:-1 tvg-id="PPV || Soccer (Liga MX) Pachuca at Atletico de San Luis 10:00 PM EST ( TUDN)" tvg-name="PPV || Soccer (Liga MX) Pachuca at Atletico de San Luis 10:00 PM EST ( TUDN)"  group-title="EVENTOS PPV",PPV || Soccer (Liga MX) Pachuca at Atletico de San Luis 10:00 PM EST ( TUDN)
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/58614
-#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) Portland at Loyola-Marymount 10:00 PM EST ( SCSA)" tvg-name="PPV || Basketball (NCAA Men) Portland at Loyola-Marymount 10:00 PM EST ( SCSA)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) Portland at Loyola-Marymount 10:00 PM EST ( SCSA)
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/58615
-#EXTINF:-1 tvg-id="PPV || Hockey (NHL) Detroit Red Wings at Anaheim Ducks 10:00 PM EST ( NHL)" tvg-name="PPV || Hockey (NHL) Detroit Red Wings at Anaheim Ducks 10:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) Detroit Red Wings at Anaheim Ducks 10:00 PM EST ( NHL)
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/58616
-#EXTINF:-1 tvg-id="PPV || Hockey (NHL) Ottawa Senators at Seattle Kraken 10:00 PM EST ( NHL)" tvg-name="PPV || Hockey (NHL) Ottawa Senators at Seattle Kraken 10:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) Ottawa Senators at Seattle Kraken 10:00 PM EST ( NHL)
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/58617
-#EXTINF:-1 tvg-id="PPV || Hockey (NHL) Nashville Predators at Los Angeles Kings 10:30 PM EST ( NHL)" tvg-name="PPV || Hockey (NHL) Nashville Predators at Los Angeles Kings 10:30 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV || Hockey (NHL) Nashville Predators at Los Angeles Kings 10:30 PM EST ( NHL)
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/58618
-#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) Saint Mary's at Santa Clara 11:00 PM EST ( ESPNU)" tvg-name="PPV || Basketball (NCAA Men) Saint Mary's at Santa Clara 11:00 PM EST ( ESPNU)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) Saint Mary's at Santa Clara 11:00 PM EST ( ESPNU)
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/58619
-#EXTINF:-1 tvg-id="PPV || Basketball (NCAA Men) USC at California 11:00 PM EST ( FS1)" tvg-name="PPV || Basketball (NCAA Men) USC at California 11:00 PM EST ( FS1)"  group-title="EVENTOS PPV",PPV || Basketball (NCAA Men) USC at California 11:00 PM EST ( FS1)
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/58620
-#EXTINF:-1 tvg-id="PPV || Soccer (Serie A) Fiorentina vs Udinese 2:45 PM EST ( PPV)" tvg-name="PPV || Soccer (Serie A) Fiorentina vs Udinese 2:45 PM EST ( PPV)"  group-title="EVENTOS PPV",PPV || Soccer (Serie A) Fiorentina vs Udinese 2:45 PM EST ( PPV)
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/58621
-#EXTINF:-1 tvg-id="PPV || Soccer (CopadelRey) Rayo Majadahonda vs Atletico Madrid 3:30 PM EST ( ENG)" tvg-name="PPV || Soccer (CopadelRey) Rayo Majadahonda vs Atletico Madrid 3:30 PM EST ( ENG)"  group-title="EVENTOS PPV",PPV || Soccer (CopadelRey) Rayo Majadahonda vs Atletico Madrid 3:30 PM EST ( ENG)
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/58622
 #EXTINF:-1 tvg-id="GUA Canal 4" tvg-name="GUA VEA CANAL" group-title="GUATEMALA",GUA VEA CANAL
 http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/2597
 #EXTINF:-1 tvg-id="GUA CANAL 11" tvg-name="GUA CANAL 11" group-title="GUATEMALA",GUA CANAL 11
@@ -2221,8 +2147,6 @@ http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/2603
 http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/2464
 #EXTINF:-1 tvg-id="HN CANAL 11 FHD" tvg-name="HN CANAL 11 FHD" group-title="HONDURAS",HN CANAL 11 FHD
 http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/2463
-#EXTINF:-1 tvg-id="HN CANAL 45 TV" tvg-name="HN CANAL 45 TV" group-title="HONDURAS",HN CANAL 45 TV
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/2460
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="HN CANAL 5" group-title="HONDURAS",HN CANAL 5
 http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/22227
 #EXTINF:-1 tvg-id="HN CANAL 6" tvg-name="HN CANAL 6" group-title="HONDURAS",HN CANAL 6
@@ -2269,8 +2193,6 @@ http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/52074
 http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/52075
 #EXTINF:-1 tvg-id="HN UNE TV" tvg-name="HN UNE TV"  group-title="HONDURAS",HN UNE TV
 http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/52076
-#EXTINF:-1 tvg-id="HN 45TV" tvg-name="HN 45TV"  group-title="HONDURAS",HN 45TV
-http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/52077
 #EXTINF:-1 tvg-id="HN RSV HONDURAS" tvg-name="HN RSV HONDURAS"  group-title="HONDURAS",HN RSV HONDURAS
 http://tv.xdgo.live:8080/60_franciaparrab_a/cpZc8Mv5zf/52078
 #EXTINF:-1 tvg-id="HN ALSACIAS TV" tvg-name="HN ALSACIAS TV"  group-title="HONDURAS",HN ALSACIAS TV
@@ -5443,15 +5365,15 @@ http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/23022.avi
 http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/23023.avi
 #EXTINF:-1 tvg-id="Resident Evil (2002)" tvg-name="Resident Evil (2002)"  group-title="VFLIX ACCION",Resident Evil (2002)
 http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/23024.mp4
-#EXTINF:-1 tvg-id="Resident Evil (2002)" tvg-name="Resident Evil (2002)"  group-title="VFLIX ACCION",Resident Evil (2002)
+#EXTINF:-1 tvg-id="Resident Evil 2 Apocalipsis (2004)" tvg-name="Resident Evil 2 Apocalipsis (2004)"  group-title="VFLIX ACCION",Resident Evil 2 Apocalipsis (2004)
 http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/23025.mp4
-#EXTINF:-1 tvg-id="Resident Evil (2002)" tvg-name="Resident Evil (2002)"  group-title="VFLIX ACCION",Resident Evil (2002)
+#EXTINF:-1 tvg-id="Resident Evil 3 Extincion (2007)" tvg-name="Resident Evil 3 Extincion (2007)"  group-title="VFLIX ACCION",Resident Evil 3 Extincion (2007)
 http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/23026.mp4
-#EXTINF:-1 tvg-id="Resident Evil (2002)" tvg-name="Resident Evil (2002)"  group-title="VFLIX ACCION",Resident Evil (2002)
+#EXTINF:-1 tvg-id="Resident Evil 4 Ultratumba (2010)" tvg-name="Resident Evil 4 Ultratumba (2010)"  group-title="VFLIX ACCION",Resident Evil 4 Ultratumba (2010)
 http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/23027.mp4
-#EXTINF:-1 tvg-id="Resident Evil (2002)" tvg-name="Resident Evil (2002)"  group-title="VFLIX ACCION",Resident Evil (2002)
+#EXTINF:-1 tvg-id="Resident Evil Venganza (2012)" tvg-name="Resident Evil Venganza (2012)"  group-title="VFLIX ACCION",Resident Evil Venganza (2012)
 http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/23028.mp4
-#EXTINF:-1 tvg-id="Resident Evil (2002)" tvg-name="Resident Evil (2002)"  group-title="VFLIX ACCION",Resident Evil (2002)
+#EXTINF:-1 tvg-id="Resident Evil El capitulo final (2016)" tvg-name="Resident Evil El capitulo final (2016)"  group-title="VFLIX ACCION",Resident Evil El capitulo final (2016)
 http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/23029.mp4
 #EXTINF:-1 tvg-id="Resident Evil Vendetta (2017)" tvg-name="Resident Evil Vendetta (2017)"  group-title="VFLIX ACCION",Resident Evil Vendetta (2017)
 http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/23030.mp4
@@ -7113,9 +7035,9 @@ http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/22584.mkv
 http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/22585.mp4
 #EXTINF:-1 tvg-id="Speed Racer (2008)" tvg-name="Speed Racer (2008)"  group-title="VFLIX CIENCIA FICCION",Speed Racer (2008)
 http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/22586.mkv
-#EXTINF:-1 tvg-id="Spider (2002)" tvg-name="Spider (2002)"  group-title="VFLIX CIENCIA FICCION",Spider (2002)
+#EXTINF:-1 tvg-id="Spider-Man Homecoming (2017)" tvg-name="Spider-Man Homecoming (2017)"  group-title="VFLIX CIENCIA FICCION",Spider-Man Homecoming (2017)
 http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/22587.mkv
-#EXTINF:-1 tvg-id="Spider (2002)" tvg-name="Spider (2002)"  group-title="VFLIX CIENCIA FICCION",Spider (2002)
+#EXTINF:-1 tvg-id="Spider-Man Lejos de casa (2019)" tvg-name="Spider-Man Lejos de casa (2019)"  group-title="VFLIX CIENCIA FICCION",Spider-Man Lejos de casa (2019)
 http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/22588.mkv
 #EXTINF:-1 tvg-id="Spider-Man Un nuevo universo - 2018" tvg-name="Spider-Man Un nuevo universo - 2018"  group-title="VFLIX CIENCIA FICCION",Spider-Man Un nuevo universo - 2018
 http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/22589.mkv
@@ -7125,7 +7047,7 @@ http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/22590.mp4
 http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/22591.mp4
 #EXTINF:-1 tvg-id="Spider-Man 3 (2007)" tvg-name="Spider-Man 3 (2007)"  group-title="VFLIX CIENCIA FICCION",Spider-Man 3 (2007)
 http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/22592.mp4
-#EXTINF:-1 tvg-id="Spider-Man de regreso a casa (2017)" tvg-name="Spider-Man de regreso a casa (2017)"  group-title="VFLIX CIENCIA FICCION",Spider-Man de regreso a casa (2017)
+#EXTINF:-1 tvg-id="Spider-Man Homecoming (2017)" tvg-name="Spider-Man Homecoming (2017)"  group-title="VFLIX CIENCIA FICCION",Spider-Man Homecoming (2017)
 http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/22593.mp4
 #EXTINF:-1 tvg-id="Star Trek Mas alla - 2016" tvg-name="Star Trek Mas alla - 2016"  group-title="VFLIX CIENCIA FICCION",Star Trek Mas alla - 2016
 http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/22594.mp4
@@ -12811,11 +12733,11 @@ http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/16198.mp4
 http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/16199.mp4
 #EXTINF:-1 tvg-id="Piratas del Caribe la venganza de Salazar - 2017" tvg-name="Piratas del Caribe la venganza de Salazar - 2017"  group-title="VFLIX SAGAS",Piratas del Caribe la venganza de Salazar - 2017
 http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/16200.mp4
-#EXTINF:-1 tvg-id="Resident Evil - 2002" tvg-name="Resident Evil - 2002"  group-title="VFLIX SAGAS",Resident Evil - 2002
+#EXTINF:-1 tvg-id="Resident Evil (2002)" tvg-name="Resident Evil (2002)"  group-title="VFLIX SAGAS",Resident Evil (2002)
 http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/16201.mkv
-#EXTINF:-1 tvg-id="Resident Evil 2 Apocalipsis - 2004" tvg-name="Resident Evil 2 Apocalipsis - 2004"  group-title="VFLIX SAGAS",Resident Evil 2 Apocalipsis - 2004
+#EXTINF:-1 tvg-id="Resident Evil 2 Apocalipsis (2004)" tvg-name="Resident Evil 2 Apocalipsis (2004)"  group-title="VFLIX SAGAS",Resident Evil 2 Apocalipsis (2004)
 http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/16202.mkv
-#EXTINF:-1 tvg-id="Resident Evil 3 Extincion - 2007" tvg-name="Resident Evil 3 Extincion - 2007"  group-title="VFLIX SAGAS",Resident Evil 3 Extincion - 2007
+#EXTINF:-1 tvg-id="Resident Evil 3 Extincion (2007)" tvg-name="Resident Evil 3 Extincion (2007)"  group-title="VFLIX SAGAS",Resident Evil 3 Extincion (2007)
 http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/16203.mkv
 #EXTINF:-1 tvg-id="Resident Evil 4 Ultratumba (2010)" tvg-name="Resident Evil 4 Ultratumba (2010)"  group-title="VFLIX SAGAS",Resident Evil 4 Ultratumba (2010)
 http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/16204.mkv
@@ -22795,6 +22717,20 @@ http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/27227.mkv
 http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/27228.mkv
 #EXTINF:-1 tvg-id="Ozark S03 E10" tvg-name="Ozark S03 E10"  group-title="SERIES DRAMA",Ozark S03 E10
 http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/27229.mkv
+#EXTINF:-1 tvg-id="Ozark S04 E01" tvg-name="Ozark S04 E01"  group-title="SERIES DRAMA",Ozark S04 E01
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59689.mkv
+#EXTINF:-1 tvg-id="Ozark S04 E02" tvg-name="Ozark S04 E02"  group-title="SERIES DRAMA",Ozark S04 E02
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59690.mkv
+#EXTINF:-1 tvg-id="Ozark S04 E03" tvg-name="Ozark S04 E03"  group-title="SERIES DRAMA",Ozark S04 E03
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59691.mkv
+#EXTINF:-1 tvg-id="Ozark S04 E04" tvg-name="Ozark S04 E04"  group-title="SERIES DRAMA",Ozark S04 E04
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59692.mkv
+#EXTINF:-1 tvg-id="Ozark S04 E05" tvg-name="Ozark S04 E05"  group-title="SERIES DRAMA",Ozark S04 E05
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59693.mkv
+#EXTINF:-1 tvg-id="Ozark S04 E06" tvg-name="Ozark S04 E06"  group-title="SERIES DRAMA",Ozark S04 E06
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59694.mkv
+#EXTINF:-1 tvg-id="Ozark S04 E07" tvg-name="Ozark S04 E07"  group-title="SERIES DRAMA",Ozark S04 E07
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59695.mkv
 #EXTINF:-1 tvg-id="Evil S01 E01" tvg-name="Evil S01 E01"  group-title="SERIES DRAMA",Evil S01 E01
 http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/27257.mkv
 #EXTINF:-1 tvg-id="Evil S01 E02" tvg-name="Evil S01 E02"  group-title="SERIES DRAMA",Evil S01 E02
@@ -23079,6 +23015,26 @@ http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/29999.mkv
 http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/30000.mkv
 #EXTINF:-1 tvg-id="El padrino de Harlem S01 E10" tvg-name="El padrino de Harlem S01 E10"  group-title="SERIES DRAMA",El padrino de Harlem S01 E10
 http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/30001.mkv
+#EXTINF:-1 tvg-id="El padrino de Harlem S02 E01" tvg-name="El padrino de Harlem S02 E01"  group-title="SERIES DRAMA",El padrino de Harlem S02 E01
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59709.mkv
+#EXTINF:-1 tvg-id="El padrino de Harlem S02 E02" tvg-name="El padrino de Harlem S02 E02"  group-title="SERIES DRAMA",El padrino de Harlem S02 E02
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59710.mkv
+#EXTINF:-1 tvg-id="El padrino de Harlem S02 E03" tvg-name="El padrino de Harlem S02 E03"  group-title="SERIES DRAMA",El padrino de Harlem S02 E03
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59711.mkv
+#EXTINF:-1 tvg-id="El padrino de Harlem S02 E04" tvg-name="El padrino de Harlem S02 E04"  group-title="SERIES DRAMA",El padrino de Harlem S02 E04
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59712.mkv
+#EXTINF:-1 tvg-id="El padrino de Harlem S02 E05" tvg-name="El padrino de Harlem S02 E05"  group-title="SERIES DRAMA",El padrino de Harlem S02 E05
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59713.mkv
+#EXTINF:-1 tvg-id="El padrino de Harlem S02 E06" tvg-name="El padrino de Harlem S02 E06"  group-title="SERIES DRAMA",El padrino de Harlem S02 E06
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59714.mkv
+#EXTINF:-1 tvg-id="El padrino de Harlem S02 E07" tvg-name="El padrino de Harlem S02 E07"  group-title="SERIES DRAMA",El padrino de Harlem S02 E07
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59715.mkv
+#EXTINF:-1 tvg-id="El padrino de Harlem S02 E08" tvg-name="El padrino de Harlem S02 E08"  group-title="SERIES DRAMA",El padrino de Harlem S02 E08
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59716.mkv
+#EXTINF:-1 tvg-id="El padrino de Harlem S02 E09" tvg-name="El padrino de Harlem S02 E09"  group-title="SERIES DRAMA",El padrino de Harlem S02 E09
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59717.mkv
+#EXTINF:-1 tvg-id="El padrino de Harlem S02 E10" tvg-name="El padrino de Harlem S02 E10"  group-title="SERIES DRAMA",El padrino de Harlem S02 E10
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59718.mkv
 #EXTINF:-1 tvg-id="Misterios sin resolver S01 E01" tvg-name="Misterios sin resolver S01 E01"  group-title="SERIES DRAMA",Misterios sin resolver S01 E01
 http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/30012.mkv
 #EXTINF:-1 tvg-id="Misterios sin resolver S01 E02" tvg-name="Misterios sin resolver S01 E02"  group-title="SERIES DRAMA",Misterios sin resolver S01 E02
@@ -24991,6 +24947,382 @@ http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/56029.mkv
 http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/56030.mkv
 #EXTINF:-1 tvg-id="El Reino S01 E08" tvg-name="El Reino S01 E08"  group-title="SERIES DRAMA",El Reino S01 E08
 http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/56031.mkv
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E01" tvg-name="Pasion de gavilanes S01 E01"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E01
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59719.mkv
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E02" tvg-name="Pasion de gavilanes S01 E02"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E02
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59720.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E03" tvg-name="Pasion de gavilanes S01 E03"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E03
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59721.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E04" tvg-name="Pasion de gavilanes S01 E04"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E04
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59722.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E05" tvg-name="Pasion de gavilanes S01 E05"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E05
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59723.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E06" tvg-name="Pasion de gavilanes S01 E06"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E06
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59724.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E07" tvg-name="Pasion de gavilanes S01 E07"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E07
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59725.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E08" tvg-name="Pasion de gavilanes S01 E08"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E08
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59726.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E09" tvg-name="Pasion de gavilanes S01 E09"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E09
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59727.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E10" tvg-name="Pasion de gavilanes S01 E10"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E10
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59728.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E11" tvg-name="Pasion de gavilanes S01 E11"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E11
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59729.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E12" tvg-name="Pasion de gavilanes S01 E12"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E12
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59730.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E13" tvg-name="Pasion de gavilanes S01 E13"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E13
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59731.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E14" tvg-name="Pasion de gavilanes S01 E14"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E14
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59732.mkv
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E15" tvg-name="Pasion de gavilanes S01 E15"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E15
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59733.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E16" tvg-name="Pasion de gavilanes S01 E16"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E16
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59734.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E17" tvg-name="Pasion de gavilanes S01 E17"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E17
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59735.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E18" tvg-name="Pasion de gavilanes S01 E18"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E18
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59736.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E19" tvg-name="Pasion de gavilanes S01 E19"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E19
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59737.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E20" tvg-name="Pasion de gavilanes S01 E20"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E20
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59738.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E21" tvg-name="Pasion de gavilanes S01 E21"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E21
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59739.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E22" tvg-name="Pasion de gavilanes S01 E22"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E22
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59740.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E23" tvg-name="Pasion de gavilanes S01 E23"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E23
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59741.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E24" tvg-name="Pasion de gavilanes S01 E24"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E24
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59742.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E25" tvg-name="Pasion de gavilanes S01 E25"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E25
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59743.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E26" tvg-name="Pasion de gavilanes S01 E26"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E26
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59744.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E27" tvg-name="Pasion de gavilanes S01 E27"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E27
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59745.mkv
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E28" tvg-name="Pasion de gavilanes S01 E28"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E28
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59746.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E29" tvg-name="Pasion de gavilanes S01 E29"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E29
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59747.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E30" tvg-name="Pasion de gavilanes S01 E30"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E30
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59748.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E31" tvg-name="Pasion de gavilanes S01 E31"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E31
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59749.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E32" tvg-name="Pasion de gavilanes S01 E32"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E32
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59750.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E33" tvg-name="Pasion de gavilanes S01 E33"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E33
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59751.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E34" tvg-name="Pasion de gavilanes S01 E34"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E34
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59752.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E35" tvg-name="Pasion de gavilanes S01 E35"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E35
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59753.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E36" tvg-name="Pasion de gavilanes S01 E36"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E36
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59754.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E37" tvg-name="Pasion de gavilanes S01 E37"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E37
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59755.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E38" tvg-name="Pasion de gavilanes S01 E38"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E38
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59756.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E39" tvg-name="Pasion de gavilanes S01 E39"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E39
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59757.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E40" tvg-name="Pasion de gavilanes S01 E40"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E40
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59758.mkv
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E41" tvg-name="Pasion de gavilanes S01 E41"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E41
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59759.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E42" tvg-name="Pasion de gavilanes S01 E42"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E42
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59760.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E43" tvg-name="Pasion de gavilanes S01 E43"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E43
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59761.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E44" tvg-name="Pasion de gavilanes S01 E44"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E44
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59762.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E45" tvg-name="Pasion de gavilanes S01 E45"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E45
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59763.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E46" tvg-name="Pasion de gavilanes S01 E46"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E46
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59764.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E47" tvg-name="Pasion de gavilanes S01 E47"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E47
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59765.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E48" tvg-name="Pasion de gavilanes S01 E48"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E48
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59766.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E49" tvg-name="Pasion de gavilanes S01 E49"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E49
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59767.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E50" tvg-name="Pasion de gavilanes S01 E50"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E50
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59768.mkv
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E51" tvg-name="Pasion de gavilanes S01 E51"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E51
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59769.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E52" tvg-name="Pasion de gavilanes S01 E52"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E52
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59770.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E53" tvg-name="Pasion de gavilanes S01 E53"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E53
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59771.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E54" tvg-name="Pasion de gavilanes S01 E54"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E54
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59772.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E55" tvg-name="Pasion de gavilanes S01 E55"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E55
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59773.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E56" tvg-name="Pasion de gavilanes S01 E56"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E56
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59774.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E57" tvg-name="Pasion de gavilanes S01 E57"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E57
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59775.mkv
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E58" tvg-name="Pasion de gavilanes S01 E58"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E58
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59776.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E59" tvg-name="Pasion de gavilanes S01 E59"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E59
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59777.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E60" tvg-name="Pasion de gavilanes S01 E60"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E60
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59778.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E61" tvg-name="Pasion de gavilanes S01 E61"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E61
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59779.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E62" tvg-name="Pasion de gavilanes S01 E62"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E62
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59780.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E63" tvg-name="Pasion de gavilanes S01 E63"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E63
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59781.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E64" tvg-name="Pasion de gavilanes S01 E64"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E64
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59782.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E65" tvg-name="Pasion de gavilanes S01 E65"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E65
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59783.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E66" tvg-name="Pasion de gavilanes S01 E66"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E66
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59784.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E67" tvg-name="Pasion de gavilanes S01 E67"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E67
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59785.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E68" tvg-name="Pasion de gavilanes S01 E68"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E68
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59786.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E69" tvg-name="Pasion de gavilanes S01 E69"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E69
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59787.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E70" tvg-name="Pasion de gavilanes S01 E70"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E70
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59788.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E71" tvg-name="Pasion de gavilanes S01 E71"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E71
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59789.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E72" tvg-name="Pasion de gavilanes S01 E72"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E72
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59790.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E73" tvg-name="Pasion de gavilanes S01 E73"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E73
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59791.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E74" tvg-name="Pasion de gavilanes S01 E74"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E74
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59792.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E75" tvg-name="Pasion de gavilanes S01 E75"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E75
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59793.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E76" tvg-name="Pasion de gavilanes S01 E76"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E76
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59794.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E77" tvg-name="Pasion de gavilanes S01 E77"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E77
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59795.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E78" tvg-name="Pasion de gavilanes S01 E78"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E78
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59796.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E79" tvg-name="Pasion de gavilanes S01 E79"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E79
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59797.mkv
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E80" tvg-name="Pasion de gavilanes S01 E80"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E80
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59798.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E81" tvg-name="Pasion de gavilanes S01 E81"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E81
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59799.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E82" tvg-name="Pasion de gavilanes S01 E82"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E82
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59800.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E83" tvg-name="Pasion de gavilanes S01 E83"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E83
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59801.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E84" tvg-name="Pasion de gavilanes S01 E84"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E84
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59802.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E85" tvg-name="Pasion de gavilanes S01 E85"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E85
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59803.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E86" tvg-name="Pasion de gavilanes S01 E86"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E86
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59804.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E87" tvg-name="Pasion de gavilanes S01 E87"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E87
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59805.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E88" tvg-name="Pasion de gavilanes S01 E88"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E88
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59806.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E89" tvg-name="Pasion de gavilanes S01 E89"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E89
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59807.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E90" tvg-name="Pasion de gavilanes S01 E90"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E90
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59808.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E91" tvg-name="Pasion de gavilanes S01 E91"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E91
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59809.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E92" tvg-name="Pasion de gavilanes S01 E92"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E92
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59810.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E93" tvg-name="Pasion de gavilanes S01 E93"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E93
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59811.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E94" tvg-name="Pasion de gavilanes S01 E94"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E94
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59812.mkv
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E95" tvg-name="Pasion de gavilanes S01 E95"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E95
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59813.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E96" tvg-name="Pasion de gavilanes S01 E96"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E96
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59814.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E97" tvg-name="Pasion de gavilanes S01 E97"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E97
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59815.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E98" tvg-name="Pasion de gavilanes S01 E98"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E98
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59816.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E99" tvg-name="Pasion de gavilanes S01 E99"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E99
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59817.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E100" tvg-name="Pasion de gavilanes S01 E100"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E100
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59818.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E101" tvg-name="Pasion de gavilanes S01 E101"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E101
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59819.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E102" tvg-name="Pasion de gavilanes S01 E102"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E102
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59820.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E103" tvg-name="Pasion de gavilanes S01 E103"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E103
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59821.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E104" tvg-name="Pasion de gavilanes S01 E104"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E104
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59822.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E105" tvg-name="Pasion de gavilanes S01 E105"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E105
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59823.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E106" tvg-name="Pasion de gavilanes S01 E106"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E106
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59824.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E107" tvg-name="Pasion de gavilanes S01 E107"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E107
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59825.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E108" tvg-name="Pasion de gavilanes S01 E108"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E108
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59826.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E109" tvg-name="Pasion de gavilanes S01 E109"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E109
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59827.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E110" tvg-name="Pasion de gavilanes S01 E110"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E110
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59828.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E111" tvg-name="Pasion de gavilanes S01 E111"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E111
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59829.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E112" tvg-name="Pasion de gavilanes S01 E112"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E112
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59830.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E113" tvg-name="Pasion de gavilanes S01 E113"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E113
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59831.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E114" tvg-name="Pasion de gavilanes S01 E114"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E114
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59832.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E115" tvg-name="Pasion de gavilanes S01 E115"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E115
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59833.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E116" tvg-name="Pasion de gavilanes S01 E116"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E116
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59834.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E117" tvg-name="Pasion de gavilanes S01 E117"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E117
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59835.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E118" tvg-name="Pasion de gavilanes S01 E118"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E118
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59836.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E119" tvg-name="Pasion de gavilanes S01 E119"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E119
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59837.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E120" tvg-name="Pasion de gavilanes S01 E120"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E120
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59838.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E121" tvg-name="Pasion de gavilanes S01 E121"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E121
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59839.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E122" tvg-name="Pasion de gavilanes S01 E122"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E122
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59840.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E123" tvg-name="Pasion de gavilanes S01 E123"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E123
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59841.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E124" tvg-name="Pasion de gavilanes S01 E124"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E124
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59842.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E125" tvg-name="Pasion de gavilanes S01 E125"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E125
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59843.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E126" tvg-name="Pasion de gavilanes S01 E126"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E126
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59844.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E127" tvg-name="Pasion de gavilanes S01 E127"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E127
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59845.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E128" tvg-name="Pasion de gavilanes S01 E128"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E128
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59846.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E129" tvg-name="Pasion de gavilanes S01 E129"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E129
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59847.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E130" tvg-name="Pasion de gavilanes S01 E130"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E130
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59848.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E131" tvg-name="Pasion de gavilanes S01 E131"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E131
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59849.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E132" tvg-name="Pasion de gavilanes S01 E132"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E132
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59850.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E133" tvg-name="Pasion de gavilanes S01 E133"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E133
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59851.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E134" tvg-name="Pasion de gavilanes S01 E134"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E134
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59852.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E135" tvg-name="Pasion de gavilanes S01 E135"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E135
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59853.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E136" tvg-name="Pasion de gavilanes S01 E136"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E136
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59854.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E137" tvg-name="Pasion de gavilanes S01 E137"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E137
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59855.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E138" tvg-name="Pasion de gavilanes S01 E138"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E138
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59856.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E139" tvg-name="Pasion de gavilanes S01 E139"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E139
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59857.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E140" tvg-name="Pasion de gavilanes S01 E140"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E140
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59858.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E141" tvg-name="Pasion de gavilanes S01 E141"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E141
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59859.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E142" tvg-name="Pasion de gavilanes S01 E142"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E142
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59860.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E143" tvg-name="Pasion de gavilanes S01 E143"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E143
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59861.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E144" tvg-name="Pasion de gavilanes S01 E144"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E144
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59862.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E145" tvg-name="Pasion de gavilanes S01 E145"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E145
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59863.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E146" tvg-name="Pasion de gavilanes S01 E146"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E146
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59864.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E147" tvg-name="Pasion de gavilanes S01 E147"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E147
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59865.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E148" tvg-name="Pasion de gavilanes S01 E148"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E148
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59866.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E149" tvg-name="Pasion de gavilanes S01 E149"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E149
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59867.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E150" tvg-name="Pasion de gavilanes S01 E150"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E150
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59868.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E151" tvg-name="Pasion de gavilanes S01 E151"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E151
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59869.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E152" tvg-name="Pasion de gavilanes S01 E152"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E152
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59870.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E153" tvg-name="Pasion de gavilanes S01 E153"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E153
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59871.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E154" tvg-name="Pasion de gavilanes S01 E154"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E154
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59872.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E155" tvg-name="Pasion de gavilanes S01 E155"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E155
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59873.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E156" tvg-name="Pasion de gavilanes S01 E156"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E156
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59874.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E157" tvg-name="Pasion de gavilanes S01 E157"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E157
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59875.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E158" tvg-name="Pasion de gavilanes S01 E158"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E158
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59876.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E159" tvg-name="Pasion de gavilanes S01 E159"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E159
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59877.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E160" tvg-name="Pasion de gavilanes S01 E160"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E160
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59878.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E161" tvg-name="Pasion de gavilanes S01 E161"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E161
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59879.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E162" tvg-name="Pasion de gavilanes S01 E162"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E162
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59880.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E163" tvg-name="Pasion de gavilanes S01 E163"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E163
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59881.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E164" tvg-name="Pasion de gavilanes S01 E164"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E164
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59882.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E165" tvg-name="Pasion de gavilanes S01 E165"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E165
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59883.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E166" tvg-name="Pasion de gavilanes S01 E166"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E166
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59884.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E167" tvg-name="Pasion de gavilanes S01 E167"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E167
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59885.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E168" tvg-name="Pasion de gavilanes S01 E168"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E168
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59886.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E169" tvg-name="Pasion de gavilanes S01 E169"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E169
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59887.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E170" tvg-name="Pasion de gavilanes S01 E170"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E170
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59888.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E171" tvg-name="Pasion de gavilanes S01 E171"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E171
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59889.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E172" tvg-name="Pasion de gavilanes S01 E172"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E172
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59890.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E173" tvg-name="Pasion de gavilanes S01 E173"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E173
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59891.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E174" tvg-name="Pasion de gavilanes S01 E174"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E174
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59892.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E175" tvg-name="Pasion de gavilanes S01 E175"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E175
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59893.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E176" tvg-name="Pasion de gavilanes S01 E176"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E176
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59894.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E177" tvg-name="Pasion de gavilanes S01 E177"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E177
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59895.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E178" tvg-name="Pasion de gavilanes S01 E178"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E178
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59896.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E179" tvg-name="Pasion de gavilanes S01 E179"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E179
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59897.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E180" tvg-name="Pasion de gavilanes S01 E180"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E180
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59898.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E181" tvg-name="Pasion de gavilanes S01 E181"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E181
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59899.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E182" tvg-name="Pasion de gavilanes S01 E182"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E182
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59900.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E183" tvg-name="Pasion de gavilanes S01 E183"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E183
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59901.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E184" tvg-name="Pasion de gavilanes S01 E184"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E184
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59902.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E185" tvg-name="Pasion de gavilanes S01 E185"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E185
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59903.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E186" tvg-name="Pasion de gavilanes S01 E186"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E186
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59904.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E187" tvg-name="Pasion de gavilanes S01 E187"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E187
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59905.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E188" tvg-name="Pasion de gavilanes S01 E188"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E188
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59906.mp4
 #EXTINF:-1 tvg-id="Game of Thrones S01 E01" tvg-name="Game of Thrones S01 E01"  group-title="SERIES FICCION - FANTASIA",Game of Thrones S01 E01
 http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/6124.avi
 #EXTINF:-1 tvg-id="Game of Thrones S01 E02" tvg-name="Game of Thrones S01 E02"  group-title="SERIES FICCION - FANTASIA",Game of Thrones S01 E02
@@ -28099,6 +28431,12 @@ http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/55262.mkv
 http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/55263.mkv
 #EXTINF:-1 tvg-id="Fundacion S01 E07" tvg-name="Fundacion S01 E07"  group-title="SERIES FICCION - FANTASIA",Fundacion S01 E07
 http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/55264.mkv
+#EXTINF:-1 tvg-id="Fundacion S01 E08" tvg-name="Fundacion S01 E08"  group-title="SERIES FICCION - FANTASIA",Fundacion S01 E08
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59706.mkv
+#EXTINF:-1 tvg-id="Fundacion S01 E09" tvg-name="Fundacion S01 E09"  group-title="SERIES FICCION - FANTASIA",Fundacion S01 E09
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59707.mkv
+#EXTINF:-1 tvg-id="Fundacion S01 E10" tvg-name="Fundacion S01 E10"  group-title="SERIES FICCION - FANTASIA",Fundacion S01 E10
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59708.mkv
 #EXTINF:-1 tvg-id="Leyendas de Marvel Studios S01 E01" tvg-name="Leyendas de Marvel Studios S01 E01"  group-title="SERIES FICCION - FANTASIA",Leyendas de Marvel Studios S01 E01
 http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/55356.mkv
 #EXTINF:-1 tvg-id="Leyendas de Marvel Studios S01 E02" tvg-name="Leyendas de Marvel Studios S01 E02"  group-title="SERIES FICCION - FANTASIA",Leyendas de Marvel Studios S01 E02
@@ -28247,6 +28585,34 @@ http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/58583.mkv
 http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/58584.mkv
 #EXTINF:-1 tvg-id="Hawkeye - Ojo de Halcon (2021) S01 E06" tvg-name="Hawkeye - Ojo de Halcon (2021) S01 E06"  group-title="SERIES FICCION - FANTASIA",Hawkeye - Ojo de Halcon (2021) S01 E06
 http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/58585.mkv
+#EXTINF:-1 tvg-id="Estacion once S01 E01" tvg-name="Estacion once S01 E01"  group-title="SERIES FICCION - FANTASIA",Estacion once S01 E01
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59021.mkv
+#EXTINF:-1 tvg-id="Estacion once S01 E02" tvg-name="Estacion once S01 E02"  group-title="SERIES FICCION - FANTASIA",Estacion once S01 E02
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59022.mkv
+#EXTINF:-1 tvg-id="Estacion once S01 E03" tvg-name="Estacion once S01 E03"  group-title="SERIES FICCION - FANTASIA",Estacion once S01 E03
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59023.mkv
+#EXTINF:-1 tvg-id="Estacion once S01 E04" tvg-name="Estacion once S01 E04"  group-title="SERIES FICCION - FANTASIA",Estacion once S01 E04
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59024.mkv
+#EXTINF:-1 tvg-id="Estacion once S01 E05" tvg-name="Estacion once S01 E05"  group-title="SERIES FICCION - FANTASIA",Estacion once S01 E05
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59025.mkv
+#EXTINF:-1 tvg-id="Estacion once S01 E06" tvg-name="Estacion once S01 E06"  group-title="SERIES FICCION - FANTASIA",Estacion once S01 E06
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59026.mkv
+#EXTINF:-1 tvg-id="Estacion once S01 E07" tvg-name="Estacion once S01 E07"  group-title="SERIES FICCION - FANTASIA",Estacion once S01 E07
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59027.mkv
+#EXTINF:-1 tvg-id="Estacion once S01 E08" tvg-name="Estacion once S01 E08"  group-title="SERIES FICCION - FANTASIA",Estacion once S01 E08
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59028.mkv
+#EXTINF:-1 tvg-id="Estacion once S01 E09" tvg-name="Estacion once S01 E09"  group-title="SERIES FICCION - FANTASIA",Estacion once S01 E09
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59029.mkv
+#EXTINF:-1 tvg-id="Estacion once S01 E10" tvg-name="Estacion once S01 E10"  group-title="SERIES FICCION - FANTASIA",Estacion once S01 E10
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59030.mkv
+#EXTINF:-1 tvg-id="El Pacificador S01 E01" tvg-name="El Pacificador S01 E01"  group-title="SERIES FICCION - FANTASIA",El Pacificador S01 E01
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59114.mkv
+#EXTINF:-1 tvg-id="El Pacificador S01 E02" tvg-name="El Pacificador S01 E02"  group-title="SERIES FICCION - FANTASIA",El Pacificador S01 E02
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59115.mkv
+#EXTINF:-1 tvg-id="El Pacificador S01 E03" tvg-name="El Pacificador S01 E03"  group-title="SERIES FICCION - FANTASIA",El Pacificador S01 E03
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59116.mkv
+#EXTINF:-1 tvg-id="El Pacificador S01 E04" tvg-name="El Pacificador S01 E04"  group-title="SERIES FICCION - FANTASIA",El Pacificador S01 E04
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59117.mkv
 #EXTINF:-1 tvg-id="Johnny Bravo S01 E01" tvg-name="Johnny Bravo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9Ug39KxbIt1opgXdJY3AJhAlGx.jpg" group-title="SERIES INFANTILES",Johnny Bravo S01 E01
 http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/6923.mp4
 #EXTINF:-1 tvg-id="Johnny Bravo S01 E02" tvg-name="Johnny Bravo S01 E02" tvg-logo="http://xdgo.live:8080/images/d7b2ea32f483aef63edf9412a3da3b79.jpg" group-title="SERIES INFANTILES",Johnny Bravo S01 E02
@@ -31889,6 +32255,82 @@ http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/41776.mkv
 http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/42114.mkv
 #EXTINF:-1 tvg-id="WandaVision S01 E09" tvg-name="WandaVision S01 E09"  group-title="WANDAVISION",WandaVision S01 E09
 http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/42412.mkv
+#EXTINF:-1 tvg-id="Ice Age: Las aventuras de Buck (2022)" tvg-name="Ice Age: Las aventuras de Buck (2022)" tvg-logo="http://xdgo.live:8080/images/3981faa2fd198f602fd3098733d12689.jpg" group-title="VFLIX ESTRENOS",Ice Age: Las aventuras de Buck (2022)
+http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/59639.mkv
+#EXTINF:-1 tvg-id="American Siege (2022)" tvg-name="American Siege (2022)" tvg-logo="http://xdgo.live:8080/images/b81f3429061ac28f5eda1f4ea3cb2bfe.jpg" group-title="VFLIX ESTRENOS",American Siege (2022)
+http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/59626.mkv
+#EXTINF:-1 tvg-id="Gold (2022)" tvg-name="Gold (2022)" tvg-logo="http://xdgo.live:8080/images/7d9b60bd7b3a2385d1fe569cb7df648d.jpg" group-title="VFLIX ESTRENOS",Gold (2022)
+http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/59627.mkv
+#EXTINF:-1 tvg-id="Tierras altas (2020)" tvg-name="Tierras altas (2020)" tvg-logo="http://xdgo.live:8080/images/e750bc3f2906d32be4583db4f798552a.jpg" group-title="VFLIX ESTRENOS",Tierras altas (2020)
+http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/59628.mkv
+#EXTINF:-1 tvg-id="Jugar en casa (2022)" tvg-name="Jugar en casa (2022)" tvg-logo="http://xdgo.live:8080/images/85b0dd11fb69b9ae68c691721c5b9964.jpg" group-title="VFLIX ESTRENOS",Jugar en casa (2022)
+http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/59629.mkv
+#EXTINF:-1 tvg-id="El violín de mi padre (2022)" tvg-name="El violín de mi padre (2022)" tvg-logo="http://xdgo.live:8080/images/9e076312b7f70056fe2197a622047cc8.jpg" group-title="VFLIX ESTRENOS",El violín de mi padre (2022)
+http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/59630.mkv
+#EXTINF:-1 tvg-id="My Son (2021)" tvg-name="My Son (2021)" tvg-logo="http://xdgo.live:8080/images/d46e1ae8515e3196de1d049556b471e3.jpg" group-title="VFLIX ESTRENOS",My Son (2021)
+http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/59631.mkv
+#EXTINF:-1 tvg-id="Queenpins (2021)" tvg-name="Queenpins (2021)" tvg-logo="http://xdgo.live:8080/images/8b23de233e03c64c12943abdb36488b4.jpg" group-title="VFLIX ESTRENOS",Queenpins (2021)
+http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/59632.mkv
+#EXTINF:-1 tvg-id="Steve y la liga de los monstruos (2021)" tvg-name="Steve y la liga de los monstruos (2021)" tvg-logo="http://xdgo.live:8080/images/8adbe41fb8e850014413699a3908872f.jpg" group-title="VFLIX ESTRENOS",Steve y la liga de los monstruos (2021)
+http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/59633.mkv
+#EXTINF:-1 tvg-id="Take Back (2021)" tvg-name="Take Back (2021)" tvg-logo="http://xdgo.live:8080/images/87b3642942059c17b3e2fe2cdf7d09b5.jpg" group-title="VFLIX ESTRENOS",Take Back (2021)
+http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/59634.mkv
+#EXTINF:-1 tvg-id="La casa de las profundidades (2021)" tvg-name="La casa de las profundidades (2021)" tvg-logo="http://xdgo.live:8080/images/1ebee8a02e88bdb75a73b79eeec162f8.jpg" group-title="VFLIX ESTRENOS",La casa de las profundidades (2021)
+http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/59635.mkv
+#EXTINF:-1 tvg-id="The Electrical Life of Louis Wain (2021)" tvg-name="The Electrical Life of Louis Wain (2021)" tvg-logo="http://xdgo.live:8080/images/4c16c8eb9112c5613613a08aa66e9bd4.jpg" group-title="VFLIX ESTRENOS",The Electrical Life of Louis Wain (2021)
+http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/59636.mkv
+#EXTINF:-1 tvg-id="The Eyes of Tammy Faye (2021)" tvg-name="The Eyes of Tammy Faye (2021)" tvg-logo="http://xdgo.live:8080/images/b64243c959e429f79e7fb9aa41ff195c.jpg" group-title="VFLIX ESTRENOS",The Eyes of Tammy Faye (2021)
+http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/59637.mkv
+#EXTINF:-1 tvg-id="The Fallout (2022)" tvg-name="The Fallout (2022)" tvg-logo="http://xdgo.live:8080/images/15b455df7c5947da6e2f712f71742227.jpg" group-title="VFLIX ESTRENOS",The Fallout (2022)
+http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/59638.mkv
+#EXTINF:-1 tvg-id="Sharkwater (2022)" tvg-name="Sharkwater (2022)" tvg-logo="http://xdgo.live:8080/images/dc01e5b9ef3e9a23ecd3a09398b2d96b.jpg" group-title="VFLIX ESTRENOS",Sharkwater (2022)
+http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/59640.mkv
+#EXTINF:-1 tvg-id="Tratamiento real (2022)" tvg-name="Tratamiento real (2022)" tvg-logo="http://xdgo.live:8080/images/a7762841e29c983f417f4da30a5637fe.jpg" group-title="VFLIX ESTRENOS",Tratamiento real (2022)
+http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/59641.mkv
+#EXTINF:-1 tvg-id="Triumph (2021)" tvg-name="Triumph (2021)" tvg-logo="http://xdgo.live:8080/images/26365363f6b60be41158072ff914527c.jpg" group-title="VFLIX ESTRENOS",Triumph (2021)
+http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/59642.mkv
+#EXTINF:-1 tvg-id="Sin pudor (2022)" tvg-name="Sin pudor (2022)" tvg-logo="http://xdgo.live:8080/images/cad3782aad356555476a40d30d6d6e29.jpg" group-title="VFLIX ESTRENOS",Sin pudor (2022)
+http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/59007.mkv
+#EXTINF:-1 tvg-id="Copshop (2021)" tvg-name="Copshop (2021)" tvg-logo="http://xdgo.live:8080/images/08719181fa1ce3ae0cc27f1324216938.jpg" group-title="VFLIX ESTRENOS",Copshop (2021)
+http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/59008.mkv
+#EXTINF:-1 tvg-id="El Comediante (2021)" tvg-name="El Comediante (2021)" tvg-logo="http://xdgo.live:8080/images/1ec71a83054fcae069ee356154d31903.jpg" group-title="VFLIX ESTRENOS",El Comediante (2021)
+http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/59009.mkv
+#EXTINF:-1 tvg-id="Hotel Transilvania: Transformanía (2022)" tvg-name="Hotel Transilvania: Transformanía (2022)" tvg-logo="http://xdgo.live:8080/images/a4ad997eaa00be165d6dc2ed9ed0c274.jpg" group-title="VFLIX ESTRENOS",Hotel Transilvania: Transformanía (2022)
+http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/59010.mkv
+#EXTINF:-1 tvg-id="Cómo me enamoré de un gánster (2022)" tvg-name="Cómo me enamoré de un gánster (2022)" tvg-logo="http://xdgo.live:8080/images/2072ddf9f02df6bf5f988ec19ee7d6f5.jpg" group-title="VFLIX ESTRENOS",Cómo me enamoré de un gánster (2022)
+http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/59011.mkv
+#EXTINF:-1 tvg-id="In The Earth (2021)" tvg-name="In The Earth (2021)" tvg-logo="http://xdgo.live:8080/images/8fac8b18ca0a92c04cef5ac527304364.jpg" group-title="VFLIX ESTRENOS",In The Earth (2021)
+http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/59012.mkv
+#EXTINF:-1 tvg-id="One Shot (2021)" tvg-name="One Shot (2021)" tvg-logo="http://xdgo.live:8080/images/a6719d327676d3fe7cecf7a5269ab133.jpg" group-title="VFLIX ESTRENOS",One Shot (2021)
+http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/59013.mkv
+#EXTINF:-1 tvg-id="La Fotocopiadora (2021)" tvg-name="La Fotocopiadora (2021)" tvg-logo="http://xdgo.live:8080/images/70ace7ac5a0c6a2ded58ce135aded67b.jpg" group-title="VFLIX ESTRENOS",La Fotocopiadora (2021)
+http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/59014.mkv
+#EXTINF:-1 tvg-id="Ray Donovan: The Movie (2022)" tvg-name="Ray Donovan: The Movie (2022)" tvg-logo="http://xdgo.live:8080/images/86eb9ee7b2619cb6d0ae3f9742bf7248.jpg" group-title="VFLIX ESTRENOS",Ray Donovan: The Movie (2022)
+http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/59015.mkv
+#EXTINF:-1 tvg-id="Riverdance - La aventura animada (2021)" tvg-name="Riverdance - La aventura animada (2021)" tvg-logo="http://xdgo.live:8080/images/649cce04532a4255f1578c1e8ecda9c0.jpg" group-title="VFLIX ESTRENOS",Riverdance - La aventura animada (2021)
+http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/59016.mkv
+#EXTINF:-1 tvg-id="Skipping Stones (2021)" tvg-name="Skipping Stones (2021)" tvg-logo="http://xdgo.live:8080/images/9a67f6d2506af38a9698835f6a1dfb25.jpg" group-title="VFLIX ESTRENOS",Skipping Stones (2021)
+http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/59017.mkv
+#EXTINF:-1 tvg-id="La casa (2020)" tvg-name="La casa (2020)" tvg-logo="http://xdgo.live:8080/images/2056d9400a8b0fc59d8427d4fe6e0f9c.jpg" group-title="VFLIX ESTRENOS",La casa (2020)
+http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/59018.mkv
+#EXTINF:-1 tvg-id="La tragedia de Macbeth (2021)" tvg-name="La tragedia de Macbeth (2021)" tvg-logo="http://xdgo.live:8080/images/8c8c114c60e9031a18d8ea40179a9e7a.jpg" group-title="VFLIX ESTRENOS",La tragedia de Macbeth (2021)
+http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/59019.mkv
+#EXTINF:-1 tvg-id="Trust (2021)" tvg-name="Trust (2021)" tvg-logo="http://xdgo.live:8080/images/8930e17a385eed687d4f5c8cfe900595.jpg" group-title="VFLIX ESTRENOS",Trust (2021)
+http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/59020.mkv
+#EXTINF:-1 tvg-id="Eternals (2021)" tvg-name="Eternals (2021)" tvg-logo="http://xdgo.live:8080/images/e360b11b32050dd9748ae297782e9060.jpg" group-title="VFLIX ESTRENOS",Eternals (2021)
+http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/58815.mkv
+#EXTINF:-1 tvg-id="Resident Evil: Bienvenidos a Raccoon City (2021)" tvg-name="Resident Evil: Bienvenidos a Raccoon City (2021)" tvg-logo="http://xdgo.live:8080/images/3e08783597e3c69fb1d800969a54bfcc.jpg" group-title="VFLIX ESTRENOS",Resident Evil: Bienvenidos a Raccoon City (2021)
+http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/58816.mkv
+#EXTINF:-1 tvg-id="¡Canta! 2 (2021)" tvg-name="¡Canta! 2 (2021)" tvg-logo="http://xdgo.live:8080/images/1e629dcb383b639af140feafa3577c24.jpg" group-title="VFLIX ESTRENOS",¡Canta! 2 (2021)
+http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/58760.mkv
+#EXTINF:-1 tvg-id="El páramo (2021)" tvg-name="El páramo (2021)" tvg-logo="http://xdgo.live:8080/images/1098be34df1b95de9be3fd8545f51e61.jpg" group-title="VFLIX ESTRENOS",El páramo (2021)
+http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/58761.mkv
+#EXTINF:-1 tvg-id="Madre - Androide (2021)" tvg-name="Madre - Androide (2021)" tvg-logo="http://xdgo.live:8080/images/4db710066f85a557796642b254b04cc3.jpg" group-title="VFLIX ESTRENOS",Madre - Androide (2021)
+http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/58759.mkv
+#EXTINF:-1 tvg-id="El Caballero Verde (2021)" tvg-name="El Caballero Verde (2021)" tvg-logo="http://xdgo.live:8080/images/5f528b63d4e3b30f55a481d67ed2124c.jpg" group-title="VFLIX ESTRENOS",El Caballero Verde (2021)
+http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/58762.mkv
+#EXTINF:-1 tvg-id="The Tender Bar (2021)" tvg-name="The Tender Bar (2021)" tvg-logo="http://xdgo.live:8080/images/e2312adde74cfb41374da9ef72350056.jpg" group-title="VFLIX ESTRENOS",The Tender Bar (2021)
+http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/58763.mkv
 #EXTINF:-1 tvg-id="Cazafantasmas: Más allá (2021)" tvg-name="Cazafantasmas: Más allá (2021)" tvg-logo="http://xdgo.live:8080/images/227c8582898d0151590a5e4b2c767702.jpg" group-title="VFLIX ESTRENOS",Cazafantasmas: Más allá (2021)
 http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/58476.mkv
 #EXTINF:-1 tvg-id="Spin (2021)" tvg-name="Spin (2021)" tvg-logo="http://xdgo.live:8080/images/a4530875f6fe34bdc5ae390bccae5acc.jpg" group-title="VFLIX ESTRENOS",Spin (2021)
@@ -32901,6 +33343,42 @@ http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/56068.mkv
 http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/56069.mkv
 #EXTINF:-1 tvg-id="OVNIS Proyectos de alto secreto desclasificados S01 E06" tvg-name="OVNIS Proyectos de alto secreto desclasificados S01 E06"  group-title="SERIES DOCUMENTALES",OVNIS Proyectos de alto secreto desclasificados S01 E06
 http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/56070.mkv
+#EXTINF:-1 tvg-id="Sudamerican Rockers S01 E01" tvg-name="Sudamerican Rockers S01 E01"  group-title="SERIES DOCUMENTALES",Sudamerican Rockers S01 E01
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59310.mp4
+#EXTINF:-1 tvg-id="Sudamerican Rockers S01 E02" tvg-name="Sudamerican Rockers S01 E02"  group-title="SERIES DOCUMENTALES",Sudamerican Rockers S01 E02
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59311.mp4
+#EXTINF:-1 tvg-id="Sudamerican Rockers S01 E03" tvg-name="Sudamerican Rockers S01 E03"  group-title="SERIES DOCUMENTALES",Sudamerican Rockers S01 E03
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59312.mp4
+#EXTINF:-1 tvg-id="Sudamerican Rockers S01 E04" tvg-name="Sudamerican Rockers S01 E04"  group-title="SERIES DOCUMENTALES",Sudamerican Rockers S01 E04
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59313.mp4
+#EXTINF:-1 tvg-id="Sudamerican Rockers S01 E05" tvg-name="Sudamerican Rockers S01 E05"  group-title="SERIES DOCUMENTALES",Sudamerican Rockers S01 E05
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59314.mp4
+#EXTINF:-1 tvg-id="Sudamerican Rockers S01 E06" tvg-name="Sudamerican Rockers S01 E06"  group-title="SERIES DOCUMENTALES",Sudamerican Rockers S01 E06
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59315.mp4
+#EXTINF:-1 tvg-id="Sudamerican Rockers S01 E07" tvg-name="Sudamerican Rockers S01 E07"  group-title="SERIES DOCUMENTALES",Sudamerican Rockers S01 E07
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59316.mp4
+#EXTINF:-1 tvg-id="Sudamerican Rockers S01 E08" tvg-name="Sudamerican Rockers S01 E08"  group-title="SERIES DOCUMENTALES",Sudamerican Rockers S01 E08
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59317.mp4
+#EXTINF:-1 tvg-id="Sudamerican Rockers S01 E09" tvg-name="Sudamerican Rockers S01 E09"  group-title="SERIES DOCUMENTALES",Sudamerican Rockers S01 E09
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59318.mp4
+#EXTINF:-1 tvg-id="Sudamerican Rockers S01 E10" tvg-name="Sudamerican Rockers S01 E10"  group-title="SERIES DOCUMENTALES",Sudamerican Rockers S01 E10
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59319.mp4
+#EXTINF:-1 tvg-id="Sudamerican Rockers S01 E11" tvg-name="Sudamerican Rockers S01 E11"  group-title="SERIES DOCUMENTALES",Sudamerican Rockers S01 E11
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59320.mp4
+#EXTINF:-1 tvg-id="Sudamerican Rockers S01 E12" tvg-name="Sudamerican Rockers S01 E12"  group-title="SERIES DOCUMENTALES",Sudamerican Rockers S01 E12
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59321.mp4
+#EXTINF:-1 tvg-id="Sudamerican Rockers S02 E01" tvg-name="Sudamerican Rockers S02 E01"  group-title="SERIES DOCUMENTALES",Sudamerican Rockers S02 E01
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59322.mp4
+#EXTINF:-1 tvg-id="Sudamerican Rockers S02 E02" tvg-name="Sudamerican Rockers S02 E02"  group-title="SERIES DOCUMENTALES",Sudamerican Rockers S02 E02
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59323.mp4
+#EXTINF:-1 tvg-id="Sudamerican Rockers S02 E03" tvg-name="Sudamerican Rockers S02 E03"  group-title="SERIES DOCUMENTALES",Sudamerican Rockers S02 E03
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59324.mp4
+#EXTINF:-1 tvg-id="Sudamerican Rockers S02 E04" tvg-name="Sudamerican Rockers S02 E04"  group-title="SERIES DOCUMENTALES",Sudamerican Rockers S02 E04
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59325.mp4
+#EXTINF:-1 tvg-id="Sudamerican Rockers S02 E05" tvg-name="Sudamerican Rockers S02 E05"  group-title="SERIES DOCUMENTALES",Sudamerican Rockers S02 E05
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59326.mp4
+#EXTINF:-1 tvg-id="Sudamerican Rockers S02 E06" tvg-name="Sudamerican Rockers S02 E06"  group-title="SERIES DOCUMENTALES",Sudamerican Rockers S02 E06
+http://tv.xdgo.live:8080/series/60_franciaparrab_a/cpZc8Mv5zf/59327.mp4
 #EXTINF:-1 tvg-id="Nose (2021)" tvg-name="Nose (2021)"  group-title="VFLIX DOCUMENTALES",Nose (2021)
 http://tv.xdgo.live:8080/movie/60_franciaparrab_a/cpZc8Mv5zf/52309.mkv
 #EXTINF:-1 tvg-id="Pray Away Reza y dejaras de ser gay (2021)" tvg-name="Pray Away Reza y dejaras de ser gay (2021)"  group-title="VFLIX DOCUMENTALES",Pray Away Reza y dejaras de ser gay (2021)

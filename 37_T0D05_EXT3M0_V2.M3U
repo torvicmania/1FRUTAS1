@@ -99,8 +99,6 @@ http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/28909
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/28910
 #EXTINF:-1 tvg-id="24 Horas Prime Accion" tvg-name="FIESTAMIX 3" group-title="24/7",FIESTAMIX 3
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/29041
-#EXTINF:-1 tvg-id="24 Horas Casado con Hijos" tvg-name="GAMES OF THRONES" group-title="24/7",GAMES OF THRONES
-http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/23843
 #EXTINF:-1 tvg-id="24 Horas Casado con Hijos" tvg-name="GARFIELD Y SUS AMIGOS" group-title="24/7",GARFIELD Y SUS AMIGOS
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/23873
 #EXTINF:-1 tvg-id="24 Horas Casado con Hijos" tvg-name="GASPARIN" group-title="24/7",GASPARIN
@@ -279,8 +277,6 @@ http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/1117
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/1118
 #EXTINF:-1 tvg-id="CO ME GUSTA HQ" tvg-name="CO ME GUSTA HQ" tvg-logo="http://xdgo.live:8080/images/eddb2bafe3f82ade08ff83cd6d54ecae.jpg" group-title="COLOMBIA",CO ME GUSTA HQ
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/53878
-#EXTINF:-1 tvg-id="CO NOTICIAS CARACOL AHORA HD" tvg-name="CO NOTICIAS CARACOL AHORA HD" tvg-logo="https://i.ytimg.com/vi/97dZvK7pEaA/maxresdefault.jpg" group-title="COLOMBIA",CO NOTICIAS CARACOL AHORA HD
-http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/52319
 #EXTINF:-1 tvg-id="CO NTN24 HD" tvg-name="CO NTN24 HD" tvg-logo="https://www.freeetv.com/images/reydddd/ntn24.jpg" group-title="COLOMBIA",CO NTN24 HD
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/1119
 #EXTINF:-1 tvg-id="CO RCN HD" tvg-name="CO RCN LQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/7104/brand.gif?itok=a-dvuqrh" group-title="COLOMBIA",CO RCN LQ
@@ -745,6 +741,8 @@ http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/45891
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/45892
 #EXTINF:-1 tvg-id="TIGO SPORTS 1 HD" tvg-name="TIGO SPORTS HONDURAS HD" tvg-logo="http://xdgo.live:8080/images/a68da643b24f0266a2d19d175a80ce75.jpg" group-title="DEPORTES",TIGO SPORTS HONDURAS HD
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/41345
+#EXTINF:-1 tvg-id="TIGO SPORTS GUATEMALA HD" tvg-name="TIGO SPORTS GUATEMALA HD" tvg-logo="http://xdgo.live:8080/images/a68da643b24f0266a2d19d175a80ce75.jpg" group-title="DEPORTES",TIGO SPORTS GUATEMALA HD
+http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/59458
 #EXTINF:-1 tvg-id="TNT SPORTS AR LQ" tvg-name="TNT SPORTS AR LQ" tvg-logo="https://tntsports.com/__export/1565373169000/sites/tntsports/arte/apps/facebook.jpg" group-title="DEPORTES",TNT SPORTS AR LQ
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/53187
 #EXTINF:-1 tvg-id="TNT SPORTS HD" tvg-name="TNT SPORTS AR HQ" tvg-logo="https://tntsports.com/__export/1565373169000/sites/tntsports/arte/apps/facebook.jpg" group-title="DEPORTES",TNT SPORTS AR HQ
@@ -1651,7 +1649,7 @@ http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/53383
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/946
 #EXTINF:-1 tvg-id="AMC HQ" tvg-name="AMC HQ" tvg-logo="https://images.istreamplanet.net/w_222.22222222222223,c_limit/dtv-latam-prod/8cecf484f4f67bedca587180954cee7f" group-title="CINE HD",AMC HQ
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/918
-#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="https://images.istreamplanet.net/w_222.22222222222223,c_limit/dtv-latam-prod/bdf3962c-10e6-4241-8d6a-00420cf74b79.png" group-title="CINE HD",AXN HD
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="http://xdgo.live:8080/images/8b2c805f7c822897299e6bb9174e089b.png" group-title="CINE HD",AXN HD
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/944
 #EXTINF:-1 tvg-id="AXN HQ" tvg-name="AXN HQ" tvg-logo="http://xdgo.live:8080/images/8b2c805f7c822897299e6bb9174e089b.png" group-title="CINE HD",AXN HQ
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/917
@@ -2113,9 +2111,9 @@ http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/57
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/24261
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 1 PE FHD" tvg-name="PPV UFC" group-title="EVENTOS PPV",PPV UFC
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/47231
-#EXTINF:-1 tvg-id="STAR PLUS  ESPN PPV - Colo Colo vs U.Chile - 21:00 14/01" tvg-name="STAR PLUS  ESPN PPV - Colo Colo vs U.Chile - 21:00 14/01"  group-title="EVENTOS PPV",STAR PLUS  ESPN PPV - Colo Colo vs U.Chile - 21:00 14/01
+#EXTINF:-1 tvg-id="STAR PLUS  ESPN PPV" tvg-name="STAR PLUS  ESPN PPV"  group-title="EVENTOS PPV",STAR PLUS  ESPN PPV
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/53828
-#EXTINF:-1 tvg-id="STAR PLUS  ESPN PPV - Colo Colo vs U.Chile - 21:00 14/01 - op2" tvg-name="STAR PLUS  ESPN PPV - Colo Colo vs U.Chile - 21:00 14/01 - op2"  group-title="EVENTOS PPV",STAR PLUS  ESPN PPV - Colo Colo vs U.Chile - 21:00 14/01 - op2
+#EXTINF:-1 tvg-id="STAR PLUS  ESPN PPV op2" tvg-name="STAR PLUS  ESPN PPV op2"  group-title="EVENTOS PPV",STAR PLUS  ESPN PPV op2
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/58915
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 1 PE FHD" tvg-name="DIRECTV SPORTS PPV 1" group-title="EVENTOS PPV",DIRECTV SPORTS PPV 1
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/51077
@@ -2149,8 +2147,6 @@ http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/2603
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/2464
 #EXTINF:-1 tvg-id="HN CANAL 11 FHD" tvg-name="HN CANAL 11 FHD" group-title="HONDURAS",HN CANAL 11 FHD
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/2463
-#EXTINF:-1 tvg-id="HN CANAL 45 TV" tvg-name="HN CANAL 45 TV" group-title="HONDURAS",HN CANAL 45 TV
-http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/2460
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="HN CANAL 5" group-title="HONDURAS",HN CANAL 5
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/22227
 #EXTINF:-1 tvg-id="HN CANAL 6" tvg-name="HN CANAL 6" group-title="HONDURAS",HN CANAL 6
@@ -2197,8 +2193,6 @@ http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/52074
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/52075
 #EXTINF:-1 tvg-id="HN UNE TV" tvg-name="HN UNE TV"  group-title="HONDURAS",HN UNE TV
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/52076
-#EXTINF:-1 tvg-id="HN 45TV" tvg-name="HN 45TV"  group-title="HONDURAS",HN 45TV
-http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/52077
 #EXTINF:-1 tvg-id="HN RSV HONDURAS" tvg-name="HN RSV HONDURAS"  group-title="HONDURAS",HN RSV HONDURAS
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/52078
 #EXTINF:-1 tvg-id="HN ALSACIAS TV" tvg-name="HN ALSACIAS TV"  group-title="HONDURAS",HN ALSACIAS TV
@@ -5371,15 +5365,15 @@ http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/23022.avi
 http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/23023.avi
 #EXTINF:-1 tvg-id="Resident Evil (2002)" tvg-name="Resident Evil (2002)"  group-title="VFLIX ACCION",Resident Evil (2002)
 http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/23024.mp4
-#EXTINF:-1 tvg-id="Resident Evil (2002)" tvg-name="Resident Evil (2002)"  group-title="VFLIX ACCION",Resident Evil (2002)
+#EXTINF:-1 tvg-id="Resident Evil 2 Apocalipsis (2004)" tvg-name="Resident Evil 2 Apocalipsis (2004)"  group-title="VFLIX ACCION",Resident Evil 2 Apocalipsis (2004)
 http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/23025.mp4
-#EXTINF:-1 tvg-id="Resident Evil (2002)" tvg-name="Resident Evil (2002)"  group-title="VFLIX ACCION",Resident Evil (2002)
+#EXTINF:-1 tvg-id="Resident Evil 3 Extincion (2007)" tvg-name="Resident Evil 3 Extincion (2007)"  group-title="VFLIX ACCION",Resident Evil 3 Extincion (2007)
 http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/23026.mp4
-#EXTINF:-1 tvg-id="Resident Evil (2002)" tvg-name="Resident Evil (2002)"  group-title="VFLIX ACCION",Resident Evil (2002)
+#EXTINF:-1 tvg-id="Resident Evil 4 Ultratumba (2010)" tvg-name="Resident Evil 4 Ultratumba (2010)"  group-title="VFLIX ACCION",Resident Evil 4 Ultratumba (2010)
 http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/23027.mp4
-#EXTINF:-1 tvg-id="Resident Evil (2002)" tvg-name="Resident Evil (2002)"  group-title="VFLIX ACCION",Resident Evil (2002)
+#EXTINF:-1 tvg-id="Resident Evil Venganza (2012)" tvg-name="Resident Evil Venganza (2012)"  group-title="VFLIX ACCION",Resident Evil Venganza (2012)
 http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/23028.mp4
-#EXTINF:-1 tvg-id="Resident Evil (2002)" tvg-name="Resident Evil (2002)"  group-title="VFLIX ACCION",Resident Evil (2002)
+#EXTINF:-1 tvg-id="Resident Evil El capitulo final (2016)" tvg-name="Resident Evil El capitulo final (2016)"  group-title="VFLIX ACCION",Resident Evil El capitulo final (2016)
 http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/23029.mp4
 #EXTINF:-1 tvg-id="Resident Evil Vendetta (2017)" tvg-name="Resident Evil Vendetta (2017)"  group-title="VFLIX ACCION",Resident Evil Vendetta (2017)
 http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/23030.mp4
@@ -7041,9 +7035,9 @@ http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/22584.mkv
 http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/22585.mp4
 #EXTINF:-1 tvg-id="Speed Racer (2008)" tvg-name="Speed Racer (2008)"  group-title="VFLIX CIENCIA FICCION",Speed Racer (2008)
 http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/22586.mkv
-#EXTINF:-1 tvg-id="Spider (2002)" tvg-name="Spider (2002)"  group-title="VFLIX CIENCIA FICCION",Spider (2002)
+#EXTINF:-1 tvg-id="Spider-Man Homecoming (2017)" tvg-name="Spider-Man Homecoming (2017)"  group-title="VFLIX CIENCIA FICCION",Spider-Man Homecoming (2017)
 http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/22587.mkv
-#EXTINF:-1 tvg-id="Spider (2002)" tvg-name="Spider (2002)"  group-title="VFLIX CIENCIA FICCION",Spider (2002)
+#EXTINF:-1 tvg-id="Spider-Man Lejos de casa (2019)" tvg-name="Spider-Man Lejos de casa (2019)"  group-title="VFLIX CIENCIA FICCION",Spider-Man Lejos de casa (2019)
 http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/22588.mkv
 #EXTINF:-1 tvg-id="Spider-Man Un nuevo universo - 2018" tvg-name="Spider-Man Un nuevo universo - 2018"  group-title="VFLIX CIENCIA FICCION",Spider-Man Un nuevo universo - 2018
 http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/22589.mkv
@@ -7053,7 +7047,7 @@ http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/22590.mp4
 http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/22591.mp4
 #EXTINF:-1 tvg-id="Spider-Man 3 (2007)" tvg-name="Spider-Man 3 (2007)"  group-title="VFLIX CIENCIA FICCION",Spider-Man 3 (2007)
 http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/22592.mp4
-#EXTINF:-1 tvg-id="Spider-Man de regreso a casa (2017)" tvg-name="Spider-Man de regreso a casa (2017)"  group-title="VFLIX CIENCIA FICCION",Spider-Man de regreso a casa (2017)
+#EXTINF:-1 tvg-id="Spider-Man Homecoming (2017)" tvg-name="Spider-Man Homecoming (2017)"  group-title="VFLIX CIENCIA FICCION",Spider-Man Homecoming (2017)
 http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/22593.mp4
 #EXTINF:-1 tvg-id="Star Trek Mas alla - 2016" tvg-name="Star Trek Mas alla - 2016"  group-title="VFLIX CIENCIA FICCION",Star Trek Mas alla - 2016
 http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/22594.mp4
@@ -12739,11 +12733,11 @@ http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/16198.mp4
 http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/16199.mp4
 #EXTINF:-1 tvg-id="Piratas del Caribe la venganza de Salazar - 2017" tvg-name="Piratas del Caribe la venganza de Salazar - 2017"  group-title="VFLIX SAGAS",Piratas del Caribe la venganza de Salazar - 2017
 http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/16200.mp4
-#EXTINF:-1 tvg-id="Resident Evil - 2002" tvg-name="Resident Evil - 2002"  group-title="VFLIX SAGAS",Resident Evil - 2002
+#EXTINF:-1 tvg-id="Resident Evil (2002)" tvg-name="Resident Evil (2002)"  group-title="VFLIX SAGAS",Resident Evil (2002)
 http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/16201.mkv
-#EXTINF:-1 tvg-id="Resident Evil 2 Apocalipsis - 2004" tvg-name="Resident Evil 2 Apocalipsis - 2004"  group-title="VFLIX SAGAS",Resident Evil 2 Apocalipsis - 2004
+#EXTINF:-1 tvg-id="Resident Evil 2 Apocalipsis (2004)" tvg-name="Resident Evil 2 Apocalipsis (2004)"  group-title="VFLIX SAGAS",Resident Evil 2 Apocalipsis (2004)
 http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/16202.mkv
-#EXTINF:-1 tvg-id="Resident Evil 3 Extincion - 2007" tvg-name="Resident Evil 3 Extincion - 2007"  group-title="VFLIX SAGAS",Resident Evil 3 Extincion - 2007
+#EXTINF:-1 tvg-id="Resident Evil 3 Extincion (2007)" tvg-name="Resident Evil 3 Extincion (2007)"  group-title="VFLIX SAGAS",Resident Evil 3 Extincion (2007)
 http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/16203.mkv
 #EXTINF:-1 tvg-id="Resident Evil 4 Ultratumba (2010)" tvg-name="Resident Evil 4 Ultratumba (2010)"  group-title="VFLIX SAGAS",Resident Evil 4 Ultratumba (2010)
 http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/16204.mkv
@@ -22723,6 +22717,20 @@ http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/27227.mkv
 http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/27228.mkv
 #EXTINF:-1 tvg-id="Ozark S03 E10" tvg-name="Ozark S03 E10"  group-title="SERIES DRAMA",Ozark S03 E10
 http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/27229.mkv
+#EXTINF:-1 tvg-id="Ozark S04 E01" tvg-name="Ozark S04 E01"  group-title="SERIES DRAMA",Ozark S04 E01
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59689.mkv
+#EXTINF:-1 tvg-id="Ozark S04 E02" tvg-name="Ozark S04 E02"  group-title="SERIES DRAMA",Ozark S04 E02
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59690.mkv
+#EXTINF:-1 tvg-id="Ozark S04 E03" tvg-name="Ozark S04 E03"  group-title="SERIES DRAMA",Ozark S04 E03
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59691.mkv
+#EXTINF:-1 tvg-id="Ozark S04 E04" tvg-name="Ozark S04 E04"  group-title="SERIES DRAMA",Ozark S04 E04
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59692.mkv
+#EXTINF:-1 tvg-id="Ozark S04 E05" tvg-name="Ozark S04 E05"  group-title="SERIES DRAMA",Ozark S04 E05
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59693.mkv
+#EXTINF:-1 tvg-id="Ozark S04 E06" tvg-name="Ozark S04 E06"  group-title="SERIES DRAMA",Ozark S04 E06
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59694.mkv
+#EXTINF:-1 tvg-id="Ozark S04 E07" tvg-name="Ozark S04 E07"  group-title="SERIES DRAMA",Ozark S04 E07
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59695.mkv
 #EXTINF:-1 tvg-id="Evil S01 E01" tvg-name="Evil S01 E01"  group-title="SERIES DRAMA",Evil S01 E01
 http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/27257.mkv
 #EXTINF:-1 tvg-id="Evil S01 E02" tvg-name="Evil S01 E02"  group-title="SERIES DRAMA",Evil S01 E02
@@ -23007,6 +23015,26 @@ http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/29999.mkv
 http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/30000.mkv
 #EXTINF:-1 tvg-id="El padrino de Harlem S01 E10" tvg-name="El padrino de Harlem S01 E10"  group-title="SERIES DRAMA",El padrino de Harlem S01 E10
 http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/30001.mkv
+#EXTINF:-1 tvg-id="El padrino de Harlem S02 E01" tvg-name="El padrino de Harlem S02 E01"  group-title="SERIES DRAMA",El padrino de Harlem S02 E01
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59709.mkv
+#EXTINF:-1 tvg-id="El padrino de Harlem S02 E02" tvg-name="El padrino de Harlem S02 E02"  group-title="SERIES DRAMA",El padrino de Harlem S02 E02
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59710.mkv
+#EXTINF:-1 tvg-id="El padrino de Harlem S02 E03" tvg-name="El padrino de Harlem S02 E03"  group-title="SERIES DRAMA",El padrino de Harlem S02 E03
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59711.mkv
+#EXTINF:-1 tvg-id="El padrino de Harlem S02 E04" tvg-name="El padrino de Harlem S02 E04"  group-title="SERIES DRAMA",El padrino de Harlem S02 E04
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59712.mkv
+#EXTINF:-1 tvg-id="El padrino de Harlem S02 E05" tvg-name="El padrino de Harlem S02 E05"  group-title="SERIES DRAMA",El padrino de Harlem S02 E05
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59713.mkv
+#EXTINF:-1 tvg-id="El padrino de Harlem S02 E06" tvg-name="El padrino de Harlem S02 E06"  group-title="SERIES DRAMA",El padrino de Harlem S02 E06
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59714.mkv
+#EXTINF:-1 tvg-id="El padrino de Harlem S02 E07" tvg-name="El padrino de Harlem S02 E07"  group-title="SERIES DRAMA",El padrino de Harlem S02 E07
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59715.mkv
+#EXTINF:-1 tvg-id="El padrino de Harlem S02 E08" tvg-name="El padrino de Harlem S02 E08"  group-title="SERIES DRAMA",El padrino de Harlem S02 E08
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59716.mkv
+#EXTINF:-1 tvg-id="El padrino de Harlem S02 E09" tvg-name="El padrino de Harlem S02 E09"  group-title="SERIES DRAMA",El padrino de Harlem S02 E09
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59717.mkv
+#EXTINF:-1 tvg-id="El padrino de Harlem S02 E10" tvg-name="El padrino de Harlem S02 E10"  group-title="SERIES DRAMA",El padrino de Harlem S02 E10
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59718.mkv
 #EXTINF:-1 tvg-id="Misterios sin resolver S01 E01" tvg-name="Misterios sin resolver S01 E01"  group-title="SERIES DRAMA",Misterios sin resolver S01 E01
 http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/30012.mkv
 #EXTINF:-1 tvg-id="Misterios sin resolver S01 E02" tvg-name="Misterios sin resolver S01 E02"  group-title="SERIES DRAMA",Misterios sin resolver S01 E02
@@ -24919,6 +24947,382 @@ http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/56029.mkv
 http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/56030.mkv
 #EXTINF:-1 tvg-id="El Reino S01 E08" tvg-name="El Reino S01 E08"  group-title="SERIES DRAMA",El Reino S01 E08
 http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/56031.mkv
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E01" tvg-name="Pasion de gavilanes S01 E01"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E01
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59719.mkv
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E02" tvg-name="Pasion de gavilanes S01 E02"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E02
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59720.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E03" tvg-name="Pasion de gavilanes S01 E03"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E03
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59721.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E04" tvg-name="Pasion de gavilanes S01 E04"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E04
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59722.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E05" tvg-name="Pasion de gavilanes S01 E05"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E05
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59723.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E06" tvg-name="Pasion de gavilanes S01 E06"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E06
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59724.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E07" tvg-name="Pasion de gavilanes S01 E07"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E07
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59725.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E08" tvg-name="Pasion de gavilanes S01 E08"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E08
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59726.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E09" tvg-name="Pasion de gavilanes S01 E09"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E09
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59727.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E10" tvg-name="Pasion de gavilanes S01 E10"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E10
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59728.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E11" tvg-name="Pasion de gavilanes S01 E11"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E11
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59729.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E12" tvg-name="Pasion de gavilanes S01 E12"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E12
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59730.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E13" tvg-name="Pasion de gavilanes S01 E13"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E13
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59731.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E14" tvg-name="Pasion de gavilanes S01 E14"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E14
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59732.mkv
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E15" tvg-name="Pasion de gavilanes S01 E15"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E15
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59733.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E16" tvg-name="Pasion de gavilanes S01 E16"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E16
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59734.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E17" tvg-name="Pasion de gavilanes S01 E17"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E17
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59735.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E18" tvg-name="Pasion de gavilanes S01 E18"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E18
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59736.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E19" tvg-name="Pasion de gavilanes S01 E19"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E19
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59737.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E20" tvg-name="Pasion de gavilanes S01 E20"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E20
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59738.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E21" tvg-name="Pasion de gavilanes S01 E21"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E21
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59739.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E22" tvg-name="Pasion de gavilanes S01 E22"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E22
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59740.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E23" tvg-name="Pasion de gavilanes S01 E23"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E23
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59741.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E24" tvg-name="Pasion de gavilanes S01 E24"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E24
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59742.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E25" tvg-name="Pasion de gavilanes S01 E25"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E25
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59743.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E26" tvg-name="Pasion de gavilanes S01 E26"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E26
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59744.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E27" tvg-name="Pasion de gavilanes S01 E27"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E27
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59745.mkv
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E28" tvg-name="Pasion de gavilanes S01 E28"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E28
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59746.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E29" tvg-name="Pasion de gavilanes S01 E29"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E29
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59747.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E30" tvg-name="Pasion de gavilanes S01 E30"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E30
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59748.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E31" tvg-name="Pasion de gavilanes S01 E31"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E31
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59749.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E32" tvg-name="Pasion de gavilanes S01 E32"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E32
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59750.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E33" tvg-name="Pasion de gavilanes S01 E33"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E33
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59751.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E34" tvg-name="Pasion de gavilanes S01 E34"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E34
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59752.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E35" tvg-name="Pasion de gavilanes S01 E35"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E35
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59753.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E36" tvg-name="Pasion de gavilanes S01 E36"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E36
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59754.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E37" tvg-name="Pasion de gavilanes S01 E37"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E37
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59755.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E38" tvg-name="Pasion de gavilanes S01 E38"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E38
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59756.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E39" tvg-name="Pasion de gavilanes S01 E39"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E39
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59757.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E40" tvg-name="Pasion de gavilanes S01 E40"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E40
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59758.mkv
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E41" tvg-name="Pasion de gavilanes S01 E41"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E41
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59759.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E42" tvg-name="Pasion de gavilanes S01 E42"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E42
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59760.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E43" tvg-name="Pasion de gavilanes S01 E43"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E43
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59761.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E44" tvg-name="Pasion de gavilanes S01 E44"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E44
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59762.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E45" tvg-name="Pasion de gavilanes S01 E45"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E45
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59763.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E46" tvg-name="Pasion de gavilanes S01 E46"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E46
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59764.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E47" tvg-name="Pasion de gavilanes S01 E47"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E47
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59765.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E48" tvg-name="Pasion de gavilanes S01 E48"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E48
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59766.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E49" tvg-name="Pasion de gavilanes S01 E49"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E49
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59767.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E50" tvg-name="Pasion de gavilanes S01 E50"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E50
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59768.mkv
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E51" tvg-name="Pasion de gavilanes S01 E51"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E51
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59769.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E52" tvg-name="Pasion de gavilanes S01 E52"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E52
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59770.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E53" tvg-name="Pasion de gavilanes S01 E53"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E53
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59771.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E54" tvg-name="Pasion de gavilanes S01 E54"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E54
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59772.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E55" tvg-name="Pasion de gavilanes S01 E55"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E55
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59773.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E56" tvg-name="Pasion de gavilanes S01 E56"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E56
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59774.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E57" tvg-name="Pasion de gavilanes S01 E57"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E57
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59775.mkv
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E58" tvg-name="Pasion de gavilanes S01 E58"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E58
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59776.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E59" tvg-name="Pasion de gavilanes S01 E59"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E59
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59777.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E60" tvg-name="Pasion de gavilanes S01 E60"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E60
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59778.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E61" tvg-name="Pasion de gavilanes S01 E61"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E61
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59779.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E62" tvg-name="Pasion de gavilanes S01 E62"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E62
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59780.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E63" tvg-name="Pasion de gavilanes S01 E63"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E63
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59781.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E64" tvg-name="Pasion de gavilanes S01 E64"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E64
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59782.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E65" tvg-name="Pasion de gavilanes S01 E65"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E65
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59783.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E66" tvg-name="Pasion de gavilanes S01 E66"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E66
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59784.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E67" tvg-name="Pasion de gavilanes S01 E67"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E67
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59785.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E68" tvg-name="Pasion de gavilanes S01 E68"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E68
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59786.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E69" tvg-name="Pasion de gavilanes S01 E69"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E69
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59787.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E70" tvg-name="Pasion de gavilanes S01 E70"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E70
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59788.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E71" tvg-name="Pasion de gavilanes S01 E71"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E71
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59789.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E72" tvg-name="Pasion de gavilanes S01 E72"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E72
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59790.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E73" tvg-name="Pasion de gavilanes S01 E73"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E73
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59791.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E74" tvg-name="Pasion de gavilanes S01 E74"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E74
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59792.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E75" tvg-name="Pasion de gavilanes S01 E75"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E75
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59793.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E76" tvg-name="Pasion de gavilanes S01 E76"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E76
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59794.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E77" tvg-name="Pasion de gavilanes S01 E77"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E77
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59795.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E78" tvg-name="Pasion de gavilanes S01 E78"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E78
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59796.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E79" tvg-name="Pasion de gavilanes S01 E79"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E79
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59797.mkv
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E80" tvg-name="Pasion de gavilanes S01 E80"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E80
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59798.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E81" tvg-name="Pasion de gavilanes S01 E81"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E81
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59799.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E82" tvg-name="Pasion de gavilanes S01 E82"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E82
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59800.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E83" tvg-name="Pasion de gavilanes S01 E83"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E83
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59801.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E84" tvg-name="Pasion de gavilanes S01 E84"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E84
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59802.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E85" tvg-name="Pasion de gavilanes S01 E85"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E85
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59803.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E86" tvg-name="Pasion de gavilanes S01 E86"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E86
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59804.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E87" tvg-name="Pasion de gavilanes S01 E87"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E87
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59805.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E88" tvg-name="Pasion de gavilanes S01 E88"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E88
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59806.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E89" tvg-name="Pasion de gavilanes S01 E89"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E89
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59807.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E90" tvg-name="Pasion de gavilanes S01 E90"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E90
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59808.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E91" tvg-name="Pasion de gavilanes S01 E91"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E91
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59809.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E92" tvg-name="Pasion de gavilanes S01 E92"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E92
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59810.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E93" tvg-name="Pasion de gavilanes S01 E93"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E93
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59811.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E94" tvg-name="Pasion de gavilanes S01 E94"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E94
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59812.mkv
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E95" tvg-name="Pasion de gavilanes S01 E95"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E95
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59813.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E96" tvg-name="Pasion de gavilanes S01 E96"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E96
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59814.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E97" tvg-name="Pasion de gavilanes S01 E97"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E97
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59815.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E98" tvg-name="Pasion de gavilanes S01 E98"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E98
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59816.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E99" tvg-name="Pasion de gavilanes S01 E99"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E99
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59817.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E100" tvg-name="Pasion de gavilanes S01 E100"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E100
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59818.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E101" tvg-name="Pasion de gavilanes S01 E101"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E101
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59819.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E102" tvg-name="Pasion de gavilanes S01 E102"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E102
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59820.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E103" tvg-name="Pasion de gavilanes S01 E103"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E103
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59821.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E104" tvg-name="Pasion de gavilanes S01 E104"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E104
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59822.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E105" tvg-name="Pasion de gavilanes S01 E105"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E105
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59823.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E106" tvg-name="Pasion de gavilanes S01 E106"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E106
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59824.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E107" tvg-name="Pasion de gavilanes S01 E107"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E107
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59825.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E108" tvg-name="Pasion de gavilanes S01 E108"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E108
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59826.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E109" tvg-name="Pasion de gavilanes S01 E109"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E109
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59827.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E110" tvg-name="Pasion de gavilanes S01 E110"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E110
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59828.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E111" tvg-name="Pasion de gavilanes S01 E111"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E111
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59829.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E112" tvg-name="Pasion de gavilanes S01 E112"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E112
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59830.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E113" tvg-name="Pasion de gavilanes S01 E113"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E113
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59831.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E114" tvg-name="Pasion de gavilanes S01 E114"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E114
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59832.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E115" tvg-name="Pasion de gavilanes S01 E115"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E115
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59833.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E116" tvg-name="Pasion de gavilanes S01 E116"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E116
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59834.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E117" tvg-name="Pasion de gavilanes S01 E117"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E117
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59835.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E118" tvg-name="Pasion de gavilanes S01 E118"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E118
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59836.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E119" tvg-name="Pasion de gavilanes S01 E119"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E119
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59837.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E120" tvg-name="Pasion de gavilanes S01 E120"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E120
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59838.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E121" tvg-name="Pasion de gavilanes S01 E121"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E121
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59839.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E122" tvg-name="Pasion de gavilanes S01 E122"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E122
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59840.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E123" tvg-name="Pasion de gavilanes S01 E123"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E123
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59841.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E124" tvg-name="Pasion de gavilanes S01 E124"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E124
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59842.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E125" tvg-name="Pasion de gavilanes S01 E125"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E125
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59843.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E126" tvg-name="Pasion de gavilanes S01 E126"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E126
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59844.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E127" tvg-name="Pasion de gavilanes S01 E127"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E127
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59845.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E128" tvg-name="Pasion de gavilanes S01 E128"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E128
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59846.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E129" tvg-name="Pasion de gavilanes S01 E129"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E129
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59847.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E130" tvg-name="Pasion de gavilanes S01 E130"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E130
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59848.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E131" tvg-name="Pasion de gavilanes S01 E131"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E131
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59849.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E132" tvg-name="Pasion de gavilanes S01 E132"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E132
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59850.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E133" tvg-name="Pasion de gavilanes S01 E133"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E133
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59851.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E134" tvg-name="Pasion de gavilanes S01 E134"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E134
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59852.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E135" tvg-name="Pasion de gavilanes S01 E135"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E135
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59853.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E136" tvg-name="Pasion de gavilanes S01 E136"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E136
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59854.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E137" tvg-name="Pasion de gavilanes S01 E137"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E137
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59855.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E138" tvg-name="Pasion de gavilanes S01 E138"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E138
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59856.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E139" tvg-name="Pasion de gavilanes S01 E139"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E139
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59857.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E140" tvg-name="Pasion de gavilanes S01 E140"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E140
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59858.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E141" tvg-name="Pasion de gavilanes S01 E141"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E141
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59859.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E142" tvg-name="Pasion de gavilanes S01 E142"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E142
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59860.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E143" tvg-name="Pasion de gavilanes S01 E143"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E143
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59861.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E144" tvg-name="Pasion de gavilanes S01 E144"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E144
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59862.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E145" tvg-name="Pasion de gavilanes S01 E145"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E145
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59863.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E146" tvg-name="Pasion de gavilanes S01 E146"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E146
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59864.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E147" tvg-name="Pasion de gavilanes S01 E147"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E147
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59865.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E148" tvg-name="Pasion de gavilanes S01 E148"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E148
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59866.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E149" tvg-name="Pasion de gavilanes S01 E149"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E149
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59867.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E150" tvg-name="Pasion de gavilanes S01 E150"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E150
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59868.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E151" tvg-name="Pasion de gavilanes S01 E151"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E151
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59869.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E152" tvg-name="Pasion de gavilanes S01 E152"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E152
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59870.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E153" tvg-name="Pasion de gavilanes S01 E153"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E153
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59871.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E154" tvg-name="Pasion de gavilanes S01 E154"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E154
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59872.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E155" tvg-name="Pasion de gavilanes S01 E155"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E155
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59873.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E156" tvg-name="Pasion de gavilanes S01 E156"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E156
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59874.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E157" tvg-name="Pasion de gavilanes S01 E157"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E157
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59875.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E158" tvg-name="Pasion de gavilanes S01 E158"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E158
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59876.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E159" tvg-name="Pasion de gavilanes S01 E159"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E159
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59877.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E160" tvg-name="Pasion de gavilanes S01 E160"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E160
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59878.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E161" tvg-name="Pasion de gavilanes S01 E161"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E161
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59879.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E162" tvg-name="Pasion de gavilanes S01 E162"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E162
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59880.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E163" tvg-name="Pasion de gavilanes S01 E163"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E163
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59881.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E164" tvg-name="Pasion de gavilanes S01 E164"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E164
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59882.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E165" tvg-name="Pasion de gavilanes S01 E165"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E165
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59883.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E166" tvg-name="Pasion de gavilanes S01 E166"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E166
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59884.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E167" tvg-name="Pasion de gavilanes S01 E167"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E167
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59885.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E168" tvg-name="Pasion de gavilanes S01 E168"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E168
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59886.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E169" tvg-name="Pasion de gavilanes S01 E169"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E169
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59887.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E170" tvg-name="Pasion de gavilanes S01 E170"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E170
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59888.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E171" tvg-name="Pasion de gavilanes S01 E171"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E171
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59889.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E172" tvg-name="Pasion de gavilanes S01 E172"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E172
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59890.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E173" tvg-name="Pasion de gavilanes S01 E173"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E173
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59891.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E174" tvg-name="Pasion de gavilanes S01 E174"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E174
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59892.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E175" tvg-name="Pasion de gavilanes S01 E175"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E175
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59893.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E176" tvg-name="Pasion de gavilanes S01 E176"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E176
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59894.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E177" tvg-name="Pasion de gavilanes S01 E177"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E177
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59895.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E178" tvg-name="Pasion de gavilanes S01 E178"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E178
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59896.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E179" tvg-name="Pasion de gavilanes S01 E179"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E179
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59897.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E180" tvg-name="Pasion de gavilanes S01 E180"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E180
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59898.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E181" tvg-name="Pasion de gavilanes S01 E181"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E181
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59899.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E182" tvg-name="Pasion de gavilanes S01 E182"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E182
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59900.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E183" tvg-name="Pasion de gavilanes S01 E183"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E183
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59901.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E184" tvg-name="Pasion de gavilanes S01 E184"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E184
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59902.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E185" tvg-name="Pasion de gavilanes S01 E185"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E185
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59903.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E186" tvg-name="Pasion de gavilanes S01 E186"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E186
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59904.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E187" tvg-name="Pasion de gavilanes S01 E187"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E187
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59905.mp4
+#EXTINF:-1 tvg-id="Pasion de gavilanes S01 E188" tvg-name="Pasion de gavilanes S01 E188"  group-title="SERIES DRAMA",Pasion de gavilanes S01 E188
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59906.mp4
 #EXTINF:-1 tvg-id="Game of Thrones S01 E01" tvg-name="Game of Thrones S01 E01"  group-title="SERIES FICCION - FANTASIA",Game of Thrones S01 E01
 http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/6124.avi
 #EXTINF:-1 tvg-id="Game of Thrones S01 E02" tvg-name="Game of Thrones S01 E02"  group-title="SERIES FICCION - FANTASIA",Game of Thrones S01 E02
@@ -28027,6 +28431,12 @@ http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/55262.mkv
 http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/55263.mkv
 #EXTINF:-1 tvg-id="Fundacion S01 E07" tvg-name="Fundacion S01 E07"  group-title="SERIES FICCION - FANTASIA",Fundacion S01 E07
 http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/55264.mkv
+#EXTINF:-1 tvg-id="Fundacion S01 E08" tvg-name="Fundacion S01 E08"  group-title="SERIES FICCION - FANTASIA",Fundacion S01 E08
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59706.mkv
+#EXTINF:-1 tvg-id="Fundacion S01 E09" tvg-name="Fundacion S01 E09"  group-title="SERIES FICCION - FANTASIA",Fundacion S01 E09
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59707.mkv
+#EXTINF:-1 tvg-id="Fundacion S01 E10" tvg-name="Fundacion S01 E10"  group-title="SERIES FICCION - FANTASIA",Fundacion S01 E10
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59708.mkv
 #EXTINF:-1 tvg-id="Leyendas de Marvel Studios S01 E01" tvg-name="Leyendas de Marvel Studios S01 E01"  group-title="SERIES FICCION - FANTASIA",Leyendas de Marvel Studios S01 E01
 http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/55356.mkv
 #EXTINF:-1 tvg-id="Leyendas de Marvel Studios S01 E02" tvg-name="Leyendas de Marvel Studios S01 E02"  group-title="SERIES FICCION - FANTASIA",Leyendas de Marvel Studios S01 E02
@@ -28175,6 +28585,34 @@ http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/58583.mkv
 http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/58584.mkv
 #EXTINF:-1 tvg-id="Hawkeye - Ojo de Halcon (2021) S01 E06" tvg-name="Hawkeye - Ojo de Halcon (2021) S01 E06"  group-title="SERIES FICCION - FANTASIA",Hawkeye - Ojo de Halcon (2021) S01 E06
 http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/58585.mkv
+#EXTINF:-1 tvg-id="Estacion once S01 E01" tvg-name="Estacion once S01 E01"  group-title="SERIES FICCION - FANTASIA",Estacion once S01 E01
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59021.mkv
+#EXTINF:-1 tvg-id="Estacion once S01 E02" tvg-name="Estacion once S01 E02"  group-title="SERIES FICCION - FANTASIA",Estacion once S01 E02
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59022.mkv
+#EXTINF:-1 tvg-id="Estacion once S01 E03" tvg-name="Estacion once S01 E03"  group-title="SERIES FICCION - FANTASIA",Estacion once S01 E03
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59023.mkv
+#EXTINF:-1 tvg-id="Estacion once S01 E04" tvg-name="Estacion once S01 E04"  group-title="SERIES FICCION - FANTASIA",Estacion once S01 E04
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59024.mkv
+#EXTINF:-1 tvg-id="Estacion once S01 E05" tvg-name="Estacion once S01 E05"  group-title="SERIES FICCION - FANTASIA",Estacion once S01 E05
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59025.mkv
+#EXTINF:-1 tvg-id="Estacion once S01 E06" tvg-name="Estacion once S01 E06"  group-title="SERIES FICCION - FANTASIA",Estacion once S01 E06
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59026.mkv
+#EXTINF:-1 tvg-id="Estacion once S01 E07" tvg-name="Estacion once S01 E07"  group-title="SERIES FICCION - FANTASIA",Estacion once S01 E07
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59027.mkv
+#EXTINF:-1 tvg-id="Estacion once S01 E08" tvg-name="Estacion once S01 E08"  group-title="SERIES FICCION - FANTASIA",Estacion once S01 E08
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59028.mkv
+#EXTINF:-1 tvg-id="Estacion once S01 E09" tvg-name="Estacion once S01 E09"  group-title="SERIES FICCION - FANTASIA",Estacion once S01 E09
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59029.mkv
+#EXTINF:-1 tvg-id="Estacion once S01 E10" tvg-name="Estacion once S01 E10"  group-title="SERIES FICCION - FANTASIA",Estacion once S01 E10
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59030.mkv
+#EXTINF:-1 tvg-id="El Pacificador S01 E01" tvg-name="El Pacificador S01 E01"  group-title="SERIES FICCION - FANTASIA",El Pacificador S01 E01
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59114.mkv
+#EXTINF:-1 tvg-id="El Pacificador S01 E02" tvg-name="El Pacificador S01 E02"  group-title="SERIES FICCION - FANTASIA",El Pacificador S01 E02
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59115.mkv
+#EXTINF:-1 tvg-id="El Pacificador S01 E03" tvg-name="El Pacificador S01 E03"  group-title="SERIES FICCION - FANTASIA",El Pacificador S01 E03
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59116.mkv
+#EXTINF:-1 tvg-id="El Pacificador S01 E04" tvg-name="El Pacificador S01 E04"  group-title="SERIES FICCION - FANTASIA",El Pacificador S01 E04
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59117.mkv
 #EXTINF:-1 tvg-id="Johnny Bravo S01 E01" tvg-name="Johnny Bravo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9Ug39KxbIt1opgXdJY3AJhAlGx.jpg" group-title="SERIES INFANTILES",Johnny Bravo S01 E01
 http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/6923.mp4
 #EXTINF:-1 tvg-id="Johnny Bravo S01 E02" tvg-name="Johnny Bravo S01 E02" tvg-logo="http://xdgo.live:8080/images/d7b2ea32f483aef63edf9412a3da3b79.jpg" group-title="SERIES INFANTILES",Johnny Bravo S01 E02
@@ -31817,6 +32255,68 @@ http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/41776.mkv
 http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/42114.mkv
 #EXTINF:-1 tvg-id="WandaVision S01 E09" tvg-name="WandaVision S01 E09"  group-title="WANDAVISION",WandaVision S01 E09
 http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/42412.mkv
+#EXTINF:-1 tvg-id="Ice Age: Las aventuras de Buck (2022)" tvg-name="Ice Age: Las aventuras de Buck (2022)" tvg-logo="http://xdgo.live:8080/images/3981faa2fd198f602fd3098733d12689.jpg" group-title="VFLIX ESTRENOS",Ice Age: Las aventuras de Buck (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/59639.mkv
+#EXTINF:-1 tvg-id="American Siege (2022)" tvg-name="American Siege (2022)" tvg-logo="http://xdgo.live:8080/images/b81f3429061ac28f5eda1f4ea3cb2bfe.jpg" group-title="VFLIX ESTRENOS",American Siege (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/59626.mkv
+#EXTINF:-1 tvg-id="Gold (2022)" tvg-name="Gold (2022)" tvg-logo="http://xdgo.live:8080/images/7d9b60bd7b3a2385d1fe569cb7df648d.jpg" group-title="VFLIX ESTRENOS",Gold (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/59627.mkv
+#EXTINF:-1 tvg-id="Tierras altas (2020)" tvg-name="Tierras altas (2020)" tvg-logo="http://xdgo.live:8080/images/e750bc3f2906d32be4583db4f798552a.jpg" group-title="VFLIX ESTRENOS",Tierras altas (2020)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/59628.mkv
+#EXTINF:-1 tvg-id="Jugar en casa (2022)" tvg-name="Jugar en casa (2022)" tvg-logo="http://xdgo.live:8080/images/85b0dd11fb69b9ae68c691721c5b9964.jpg" group-title="VFLIX ESTRENOS",Jugar en casa (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/59629.mkv
+#EXTINF:-1 tvg-id="El violín de mi padre (2022)" tvg-name="El violín de mi padre (2022)" tvg-logo="http://xdgo.live:8080/images/9e076312b7f70056fe2197a622047cc8.jpg" group-title="VFLIX ESTRENOS",El violín de mi padre (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/59630.mkv
+#EXTINF:-1 tvg-id="My Son (2021)" tvg-name="My Son (2021)" tvg-logo="http://xdgo.live:8080/images/d46e1ae8515e3196de1d049556b471e3.jpg" group-title="VFLIX ESTRENOS",My Son (2021)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/59631.mkv
+#EXTINF:-1 tvg-id="Queenpins (2021)" tvg-name="Queenpins (2021)" tvg-logo="http://xdgo.live:8080/images/8b23de233e03c64c12943abdb36488b4.jpg" group-title="VFLIX ESTRENOS",Queenpins (2021)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/59632.mkv
+#EXTINF:-1 tvg-id="Steve y la liga de los monstruos (2021)" tvg-name="Steve y la liga de los monstruos (2021)" tvg-logo="http://xdgo.live:8080/images/8adbe41fb8e850014413699a3908872f.jpg" group-title="VFLIX ESTRENOS",Steve y la liga de los monstruos (2021)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/59633.mkv
+#EXTINF:-1 tvg-id="Take Back (2021)" tvg-name="Take Back (2021)" tvg-logo="http://xdgo.live:8080/images/87b3642942059c17b3e2fe2cdf7d09b5.jpg" group-title="VFLIX ESTRENOS",Take Back (2021)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/59634.mkv
+#EXTINF:-1 tvg-id="La casa de las profundidades (2021)" tvg-name="La casa de las profundidades (2021)" tvg-logo="http://xdgo.live:8080/images/1ebee8a02e88bdb75a73b79eeec162f8.jpg" group-title="VFLIX ESTRENOS",La casa de las profundidades (2021)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/59635.mkv
+#EXTINF:-1 tvg-id="The Electrical Life of Louis Wain (2021)" tvg-name="The Electrical Life of Louis Wain (2021)" tvg-logo="http://xdgo.live:8080/images/4c16c8eb9112c5613613a08aa66e9bd4.jpg" group-title="VFLIX ESTRENOS",The Electrical Life of Louis Wain (2021)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/59636.mkv
+#EXTINF:-1 tvg-id="The Eyes of Tammy Faye (2021)" tvg-name="The Eyes of Tammy Faye (2021)" tvg-logo="http://xdgo.live:8080/images/b64243c959e429f79e7fb9aa41ff195c.jpg" group-title="VFLIX ESTRENOS",The Eyes of Tammy Faye (2021)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/59637.mkv
+#EXTINF:-1 tvg-id="The Fallout (2022)" tvg-name="The Fallout (2022)" tvg-logo="http://xdgo.live:8080/images/15b455df7c5947da6e2f712f71742227.jpg" group-title="VFLIX ESTRENOS",The Fallout (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/59638.mkv
+#EXTINF:-1 tvg-id="Sharkwater (2022)" tvg-name="Sharkwater (2022)" tvg-logo="http://xdgo.live:8080/images/dc01e5b9ef3e9a23ecd3a09398b2d96b.jpg" group-title="VFLIX ESTRENOS",Sharkwater (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/59640.mkv
+#EXTINF:-1 tvg-id="Tratamiento real (2022)" tvg-name="Tratamiento real (2022)" tvg-logo="http://xdgo.live:8080/images/a7762841e29c983f417f4da30a5637fe.jpg" group-title="VFLIX ESTRENOS",Tratamiento real (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/59641.mkv
+#EXTINF:-1 tvg-id="Triumph (2021)" tvg-name="Triumph (2021)" tvg-logo="http://xdgo.live:8080/images/26365363f6b60be41158072ff914527c.jpg" group-title="VFLIX ESTRENOS",Triumph (2021)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/59642.mkv
+#EXTINF:-1 tvg-id="Sin pudor (2022)" tvg-name="Sin pudor (2022)" tvg-logo="http://xdgo.live:8080/images/cad3782aad356555476a40d30d6d6e29.jpg" group-title="VFLIX ESTRENOS",Sin pudor (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/59007.mkv
+#EXTINF:-1 tvg-id="Copshop (2021)" tvg-name="Copshop (2021)" tvg-logo="http://xdgo.live:8080/images/08719181fa1ce3ae0cc27f1324216938.jpg" group-title="VFLIX ESTRENOS",Copshop (2021)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/59008.mkv
+#EXTINF:-1 tvg-id="El Comediante (2021)" tvg-name="El Comediante (2021)" tvg-logo="http://xdgo.live:8080/images/1ec71a83054fcae069ee356154d31903.jpg" group-title="VFLIX ESTRENOS",El Comediante (2021)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/59009.mkv
+#EXTINF:-1 tvg-id="Hotel Transilvania: Transformanía (2022)" tvg-name="Hotel Transilvania: Transformanía (2022)" tvg-logo="http://xdgo.live:8080/images/a4ad997eaa00be165d6dc2ed9ed0c274.jpg" group-title="VFLIX ESTRENOS",Hotel Transilvania: Transformanía (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/59010.mkv
+#EXTINF:-1 tvg-id="Cómo me enamoré de un gánster (2022)" tvg-name="Cómo me enamoré de un gánster (2022)" tvg-logo="http://xdgo.live:8080/images/2072ddf9f02df6bf5f988ec19ee7d6f5.jpg" group-title="VFLIX ESTRENOS",Cómo me enamoré de un gánster (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/59011.mkv
+#EXTINF:-1 tvg-id="In The Earth (2021)" tvg-name="In The Earth (2021)" tvg-logo="http://xdgo.live:8080/images/8fac8b18ca0a92c04cef5ac527304364.jpg" group-title="VFLIX ESTRENOS",In The Earth (2021)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/59012.mkv
+#EXTINF:-1 tvg-id="One Shot (2021)" tvg-name="One Shot (2021)" tvg-logo="http://xdgo.live:8080/images/a6719d327676d3fe7cecf7a5269ab133.jpg" group-title="VFLIX ESTRENOS",One Shot (2021)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/59013.mkv
+#EXTINF:-1 tvg-id="La Fotocopiadora (2021)" tvg-name="La Fotocopiadora (2021)" tvg-logo="http://xdgo.live:8080/images/70ace7ac5a0c6a2ded58ce135aded67b.jpg" group-title="VFLIX ESTRENOS",La Fotocopiadora (2021)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/59014.mkv
+#EXTINF:-1 tvg-id="Ray Donovan: The Movie (2022)" tvg-name="Ray Donovan: The Movie (2022)" tvg-logo="http://xdgo.live:8080/images/86eb9ee7b2619cb6d0ae3f9742bf7248.jpg" group-title="VFLIX ESTRENOS",Ray Donovan: The Movie (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/59015.mkv
+#EXTINF:-1 tvg-id="Riverdance - La aventura animada (2021)" tvg-name="Riverdance - La aventura animada (2021)" tvg-logo="http://xdgo.live:8080/images/649cce04532a4255f1578c1e8ecda9c0.jpg" group-title="VFLIX ESTRENOS",Riverdance - La aventura animada (2021)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/59016.mkv
+#EXTINF:-1 tvg-id="Skipping Stones (2021)" tvg-name="Skipping Stones (2021)" tvg-logo="http://xdgo.live:8080/images/9a67f6d2506af38a9698835f6a1dfb25.jpg" group-title="VFLIX ESTRENOS",Skipping Stones (2021)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/59017.mkv
+#EXTINF:-1 tvg-id="La casa (2020)" tvg-name="La casa (2020)" tvg-logo="http://xdgo.live:8080/images/2056d9400a8b0fc59d8427d4fe6e0f9c.jpg" group-title="VFLIX ESTRENOS",La casa (2020)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/59018.mkv
+#EXTINF:-1 tvg-id="La tragedia de Macbeth (2021)" tvg-name="La tragedia de Macbeth (2021)" tvg-logo="http://xdgo.live:8080/images/8c8c114c60e9031a18d8ea40179a9e7a.jpg" group-title="VFLIX ESTRENOS",La tragedia de Macbeth (2021)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/59019.mkv
+#EXTINF:-1 tvg-id="Trust (2021)" tvg-name="Trust (2021)" tvg-logo="http://xdgo.live:8080/images/8930e17a385eed687d4f5c8cfe900595.jpg" group-title="VFLIX ESTRENOS",Trust (2021)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/59020.mkv
 #EXTINF:-1 tvg-id="Eternals (2021)" tvg-name="Eternals (2021)" tvg-logo="http://xdgo.live:8080/images/e360b11b32050dd9748ae297782e9060.jpg" group-title="VFLIX ESTRENOS",Eternals (2021)
 http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/58815.mkv
 #EXTINF:-1 tvg-id="Resident Evil: Bienvenidos a Raccoon City (2021)" tvg-name="Resident Evil: Bienvenidos a Raccoon City (2021)" tvg-logo="http://xdgo.live:8080/images/3e08783597e3c69fb1d800969a54bfcc.jpg" group-title="VFLIX ESTRENOS",Resident Evil: Bienvenidos a Raccoon City (2021)
@@ -32843,6 +33343,42 @@ http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/56068.mkv
 http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/56069.mkv
 #EXTINF:-1 tvg-id="OVNIS Proyectos de alto secreto desclasificados S01 E06" tvg-name="OVNIS Proyectos de alto secreto desclasificados S01 E06"  group-title="SERIES DOCUMENTALES",OVNIS Proyectos de alto secreto desclasificados S01 E06
 http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/56070.mkv
+#EXTINF:-1 tvg-id="Sudamerican Rockers S01 E01" tvg-name="Sudamerican Rockers S01 E01"  group-title="SERIES DOCUMENTALES",Sudamerican Rockers S01 E01
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59310.mp4
+#EXTINF:-1 tvg-id="Sudamerican Rockers S01 E02" tvg-name="Sudamerican Rockers S01 E02"  group-title="SERIES DOCUMENTALES",Sudamerican Rockers S01 E02
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59311.mp4
+#EXTINF:-1 tvg-id="Sudamerican Rockers S01 E03" tvg-name="Sudamerican Rockers S01 E03"  group-title="SERIES DOCUMENTALES",Sudamerican Rockers S01 E03
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59312.mp4
+#EXTINF:-1 tvg-id="Sudamerican Rockers S01 E04" tvg-name="Sudamerican Rockers S01 E04"  group-title="SERIES DOCUMENTALES",Sudamerican Rockers S01 E04
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59313.mp4
+#EXTINF:-1 tvg-id="Sudamerican Rockers S01 E05" tvg-name="Sudamerican Rockers S01 E05"  group-title="SERIES DOCUMENTALES",Sudamerican Rockers S01 E05
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59314.mp4
+#EXTINF:-1 tvg-id="Sudamerican Rockers S01 E06" tvg-name="Sudamerican Rockers S01 E06"  group-title="SERIES DOCUMENTALES",Sudamerican Rockers S01 E06
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59315.mp4
+#EXTINF:-1 tvg-id="Sudamerican Rockers S01 E07" tvg-name="Sudamerican Rockers S01 E07"  group-title="SERIES DOCUMENTALES",Sudamerican Rockers S01 E07
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59316.mp4
+#EXTINF:-1 tvg-id="Sudamerican Rockers S01 E08" tvg-name="Sudamerican Rockers S01 E08"  group-title="SERIES DOCUMENTALES",Sudamerican Rockers S01 E08
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59317.mp4
+#EXTINF:-1 tvg-id="Sudamerican Rockers S01 E09" tvg-name="Sudamerican Rockers S01 E09"  group-title="SERIES DOCUMENTALES",Sudamerican Rockers S01 E09
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59318.mp4
+#EXTINF:-1 tvg-id="Sudamerican Rockers S01 E10" tvg-name="Sudamerican Rockers S01 E10"  group-title="SERIES DOCUMENTALES",Sudamerican Rockers S01 E10
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59319.mp4
+#EXTINF:-1 tvg-id="Sudamerican Rockers S01 E11" tvg-name="Sudamerican Rockers S01 E11"  group-title="SERIES DOCUMENTALES",Sudamerican Rockers S01 E11
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59320.mp4
+#EXTINF:-1 tvg-id="Sudamerican Rockers S01 E12" tvg-name="Sudamerican Rockers S01 E12"  group-title="SERIES DOCUMENTALES",Sudamerican Rockers S01 E12
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59321.mp4
+#EXTINF:-1 tvg-id="Sudamerican Rockers S02 E01" tvg-name="Sudamerican Rockers S02 E01"  group-title="SERIES DOCUMENTALES",Sudamerican Rockers S02 E01
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59322.mp4
+#EXTINF:-1 tvg-id="Sudamerican Rockers S02 E02" tvg-name="Sudamerican Rockers S02 E02"  group-title="SERIES DOCUMENTALES",Sudamerican Rockers S02 E02
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59323.mp4
+#EXTINF:-1 tvg-id="Sudamerican Rockers S02 E03" tvg-name="Sudamerican Rockers S02 E03"  group-title="SERIES DOCUMENTALES",Sudamerican Rockers S02 E03
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59324.mp4
+#EXTINF:-1 tvg-id="Sudamerican Rockers S02 E04" tvg-name="Sudamerican Rockers S02 E04"  group-title="SERIES DOCUMENTALES",Sudamerican Rockers S02 E04
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59325.mp4
+#EXTINF:-1 tvg-id="Sudamerican Rockers S02 E05" tvg-name="Sudamerican Rockers S02 E05"  group-title="SERIES DOCUMENTALES",Sudamerican Rockers S02 E05
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59326.mp4
+#EXTINF:-1 tvg-id="Sudamerican Rockers S02 E06" tvg-name="Sudamerican Rockers S02 E06"  group-title="SERIES DOCUMENTALES",Sudamerican Rockers S02 E06
+http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/59327.mp4
 #EXTINF:-1 tvg-id="Nose (2021)" tvg-name="Nose (2021)"  group-title="VFLIX DOCUMENTALES",Nose (2021)
 http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/52309.mkv
 #EXTINF:-1 tvg-id="Pray Away Reza y dejaras de ser gay (2021)" tvg-name="Pray Away Reza y dejaras de ser gay (2021)"  group-title="VFLIX DOCUMENTALES",Pray Away Reza y dejaras de ser gay (2021)
