@@ -377,7 +377,7 @@ http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/2353
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/2330
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 1 HQ" tvg-name="DIRECTV SPORTS 1 HQ" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 HQ
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/1784
-#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 HD" tvg-name="DIRECTV SPORTS 1 HD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 HD
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 HD" tvg-name="DIRECTV SPORTS 1 HD" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 HD
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/1786
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 1 FHD" tvg-name="DIRECTV SPORTS 1 FHD" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS 1 FHD
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/1785
@@ -587,7 +587,7 @@ http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/1777
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/30424
 #EXTINF:-1 tvg-id="FOX SPORTS 1 AR HD" tvg-name="FOX SPORTS 1 AR HD op2" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 1 AR HD op2
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/47912
-#EXTINF:-1 tvg-id="FOX SPORTS 1 AR FHD" tvg-name="FOX SPORTS 1 AR FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="DEPORTES",FOX SPORTS 1 AR FHD
+#EXTINF:-1 tvg-id="FOX SPORTS 1 AR FHD" tvg-name="FOX SPORTS 1 AR FHD" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 1 AR FHD
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/1779
 #EXTINF:-1 tvg-id="FOX SPORTS 1 AR FHD op2" tvg-name="FOX SPORTS 1 AR FHD op2" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 1 AR FHD op2
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/2071
@@ -627,8 +627,6 @@ http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/1768
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/1776
 #EXTINF:-1 tvg-id="FOX SPORTS 2 AR HD" tvg-name="FOX SPORTS 2 AR HD" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 2 AR HD
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/1782
-#EXTINF:-1 tvg-id="FOX SPORTS 2 AR FHD" tvg-name="FOX SPORTS 2 AR HD op2" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 2 AR HD op2
-http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/47913
 #EXTINF:-1 tvg-id="FOX SPORTS 2 AR FHD" tvg-name="FOX SPORTS 2 AR FHD" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 2 AR FHD
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/1778
 #EXTINF:-1 tvg-id="FOX SPORTS 2 CO HD" tvg-name="FOX SPORTS 2 PE FHD" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 2 PE FHD
@@ -667,7 +665,7 @@ http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/53190
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/29818
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 1 PE FHD" tvg-name="TD PLUS  2 FHD" tvg-logo="http://xdgo.live:8080/images/3ddebe7c9414e9575f19070aab4e4fc7.png" group-title="DEPORTES",TD PLUS  2 FHD
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/29817
-#EXTINF:-1 tvg-id="GOL TV INGLES HD" tvg-name="GOL TV INGLES HD" tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf_400x400.jpg" group-title="DEPORTES",GOL TV INGLES HD
+#EXTINF:-1 tvg-id="GOL TV INGLES HD" tvg-name="GOL TV INGLES HD" tvg-logo="http://xdgo.live:8080/images/99ae7a1be23b775839ad45be02d5006e.jpg" group-title="DEPORTES",GOL TV INGLES HD
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/16452
 #EXTINF:-1 tvg-id="GOL TV ESPANOL HD" tvg-name="GOL TV ESPANOL HD" tvg-logo="http://xdgo.live:8080/images/99ae7a1be23b775839ad45be02d5006e.jpg" group-title="DEPORTES",GOL TV ESPANOL HD
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/16451
@@ -685,7 +683,7 @@ http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/1833
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/46734
 #EXTINF:-1 tvg-id="GOL TV Ecuador FHD" tvg-name="GOL TV ECUADOR FHD" tvg-logo="http://xdgo.live:8080/images/99ae7a1be23b775839ad45be02d5006e.jpg" group-title="DEPORTES",GOL TV ECUADOR FHD
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/1834
-#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="GOLF CHANNEL HD" tvg-logo="https://images.mi.tv/channels/co_golf-channel_m.png" group-title="DEPORTES",GOLF CHANNEL HD
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="GOLF CHANNEL HD" tvg-logo="http://xdgo.live:8080/images/9f6300b215db8911a0c2f41c864804c2.png" group-title="DEPORTES",GOLF CHANNEL HD
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/1831
 #EXTINF:-1 tvg-id="LA LIGA TV FHD" tvg-name="LALIGA TV FHD" tvg-logo="https://www.eluniverso.com/sites/default/files/styles/powgallery_1024/public/fotos/2019/08/laliga-h-1200x1200_2018.jpg?itok=tmme1ICf" group-title="DEPORTES",LALIGA TV FHD
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/1830
@@ -755,9 +753,9 @@ http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/53189
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/1816
 #EXTINF:-1 tvg-id="TNT SPORTS AR FHD op2" tvg-name="TNT SPORTS AR FHD op2" tvg-logo="http://tntsports.com/__export/1565373169000/sites/tntsports/arte/apps/facebook.jpg" group-title="DEPORTES",TNT SPORTS AR FHD op2
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/53188
-#EXTINF:-1 tvg-id="TUDN MEX" tvg-name="TUDN MEX" tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afiliados-canales-tudn.jpg" group-title="DEPORTES",TUDN MEX
+#EXTINF:-1 tvg-id="TUDN MEX" tvg-name="TUDN MEX" tvg-logo="http://xdgo.live:8080/images/7242725f839f02bf6d3dc190077da0c0.jpg" group-title="DEPORTES",TUDN MEX
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/22258
-#EXTINF:-1 tvg-id="TUDN HD" tvg-name="TUDN HD" tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afiliados-canales-tudn.jpg" group-title="DEPORTES",TUDN HD
+#EXTINF:-1 tvg-id="TUDN HD" tvg-name="TUDN HD" tvg-logo="http://xdgo.live:8080/images/7242725f839f02bf6d3dc190077da0c0.jpg" group-title="DEPORTES",TUDN HD
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/1808
 #EXTINF:-1 tvg-id="TUDN FHD" tvg-name="TUDN FHD" tvg-logo="http://xdgo.live:8080/images/7242725f839f02bf6d3dc190077da0c0.jpg" group-title="DEPORTES",TUDN FHD
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/1809
@@ -935,7 +933,7 @@ http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/2050
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/2061
 #EXTINF:-1 tvg-id="FS2" tvg-name="FS2" tvg-logo="" group-title="DEPORTES INTERNACIONALES",FS2
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/2060
-#EXTINF:-1 tvg-id="GINX ESPORTS" tvg-name="GINX ESPORTS" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/ginx_c.png" group-title="DEPORTES INTERNACIONALES",GINX ESPORTS
+#EXTINF:-1 tvg-id="GINX ESPORTS" tvg-name="GINX ESPORTS" tvg-logo="http://xdgo.live:8080/images/82b714ed39c84034533aaa1146fe150a.png" group-title="DEPORTES INTERNACIONALES",GINX ESPORTS
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/22126
 #EXTINF:-1 tvg-id="GOLF" tvg-name="GOLF" tvg-logo="" group-title="DEPORTES INTERNACIONALES",GOLF
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/2066
@@ -975,11 +973,11 @@ http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/29081
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/29082
 #EXTINF:-1 tvg-id="MOVISTAR TOROS TV" tvg-name="MOVISTAR TOROS TV" tvg-logo="" group-title="DEPORTES INTERNACIONALES",MOVISTAR TOROS TV
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/1995
-#EXTINF:-1 tvg-id="MSG" tvg-name="MSG" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/msg_c.png" group-title="DEPORTES INTERNACIONALES",MSG
+#EXTINF:-1 tvg-id="MSG" tvg-name="MSG" tvg-logo="http://xdgo.live:8080/images/64f2b74a6e5a205ba25d13c57d4d5842.png" group-title="DEPORTES INTERNACIONALES",MSG
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/22142
-#EXTINF:-1 tvg-id="MSG PLUS" tvg-name="MSG PLUS" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/msg_plus_c.png" group-title="DEPORTES INTERNACIONALES",MSG PLUS
+#EXTINF:-1 tvg-id="MSG PLUS" tvg-name="MSG PLUS" tvg-logo="http://xdgo.live:8080/images/9e568f0f8afec00ea9b7c1ab4a17a591.png" group-title="DEPORTES INTERNACIONALES",MSG PLUS
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/22143
-#EXTINF:-1 tvg-id="MSG PLUS 2" tvg-name="MSG PLUS 2" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/msg_plus_c.png" group-title="DEPORTES INTERNACIONALES",MSG PLUS 2
+#EXTINF:-1 tvg-id="MSG PLUS 2" tvg-name="MSG PLUS 2" tvg-logo="http://xdgo.live:8080/images/9e568f0f8afec00ea9b7c1ab4a17a591.png" group-title="DEPORTES INTERNACIONALES",MSG PLUS 2
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/22144
 #EXTINF:-1 tvg-id="MSG PLUS 3" tvg-name="MSG PLUS 3" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/msg_plus_c.png" group-title="DEPORTES INTERNACIONALES",MSG PLUS 3
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/22145
@@ -991,11 +989,11 @@ http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/2031
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/30197
 #EXTINF:-1 tvg-id="NBC SPORTS BAY AREA PLUS" tvg-name="NBC SPORTS BAY AREA PLUS" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/nbc-sports-bay-area-plus_c.png" group-title="DEPORTES INTERNACIONALES",NBC SPORTS BAY AREA PLUS
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/22123
-#EXTINF:-1 tvg-id="NBC SPORTS CALIFORNIA" tvg-name="NBC SPORTS CALIFORNIA" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/nbc-sports-california_c.png" group-title="DEPORTES INTERNACIONALES",NBC SPORTS CALIFORNIA
+#EXTINF:-1 tvg-id="NBC SPORTS CALIFORNIA" tvg-name="NBC SPORTS CALIFORNIA" tvg-logo="http://xdgo.live:8080/images/a095b7c1b5b6f4f43257ed623f484c61.png" group-title="DEPORTES INTERNACIONALES",NBC SPORTS CALIFORNIA
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/22120
 #EXTINF:-1 tvg-id="NBCSN" tvg-name="NBCSN" tvg-logo="" group-title="DEPORTES INTERNACIONALES",NBCSN
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/2026
-#EXTINF:-1 tvg-id="NCB NEW YOR" tvg-name="NCB NEW YOR" tvg-logo="" group-title="DEPORTES INTERNACIONALES",NCB NEW YOR
+#EXTINF:-1 tvg-id="NCB NEW YOR" tvg-name="NCB NEW YORK" tvg-logo="" group-title="DEPORTES INTERNACIONALES",NCB NEW YORK
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/2027
 #EXTINF:-1 tvg-id="NESN" tvg-name="NESN" tvg-logo="" group-title="DEPORTES INTERNACIONALES",NESN
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/2029
@@ -1075,7 +1073,7 @@ http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/2373
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/2374
 #EXTINF:-1 tvg-id="SPORT TV5" tvg-name="SPORT TV5" tvg-logo="" group-title="DEPORTES INTERNACIONALES",SPORT TV5
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/2375
-#EXTINF:-1 tvg-id="SPORTSMAN CHANNEL" tvg-name="SPORTSMAN" tvg-logo="https://cdn.blog.tdstelecom.com/wp-content/uploads/2019/08/CableSportsmanChannel.jpg" group-title="DEPORTES INTERNACIONALES",SPORTSMAN
+#EXTINF:-1 tvg-id="SPORTSMAN CHANNEL" tvg-name="SPORTSMAN" tvg-logo="http://xdgo.live:8080/images/5eefe3696017d1337fa7a4645c2fc77e.jpg" group-title="DEPORTES INTERNACIONALES",SPORTSMAN
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/29794
 #EXTINF:-1 tvg-id="SPORTSNET NY" tvg-name="SPORTSNET NY" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/sny_c.png" group-title="DEPORTES INTERNACIONALES",SPORTSNET NY
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/22127
@@ -1089,7 +1087,7 @@ http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/1822
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/30143
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="" group-title="DEPORTES INTERNACIONALES",TNT
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/2046
-#EXTINF:-1 tvg-id="TUDN HD" tvg-name="TUDN" tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afiliados-canales-tudn.jpg" group-title="DEPORTES INTERNACIONALES",TUDN
+#EXTINF:-1 tvg-id="TUDN HD" tvg-name="TUDN" tvg-logo="http://xdgo.live:8080/images/7242725f839f02bf6d3dc190077da0c0.jpg" group-title="DEPORTES INTERNACIONALES",TUDN
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/2069
 #EXTINF:-1 tvg-id="TVG 2 NETWORK" tvg-name="TVG 2 NETWORK" tvg-logo="" group-title="DEPORTES INTERNACIONALES",TVG 2 NETWORK
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/30192
@@ -1101,6 +1099,26 @@ http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/2049
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/30196
 #EXTINF:-1 tvg-id="BEIN SPORTS NBA" tvg-name="BEIN SPORTS NBA" tvg-logo="http://hadarasport.com/wp-content/uploads/2018/05/bein-NBA.gif" group-title="DEPORTES INTERNACIONALES",BEIN SPORTS NBA
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/52689
+#EXTINF:-1 tvg-id="NBC Sports" tvg-name="NBC Sports" tvg-logo="http://xdgo.live:8080/images/d3468f5b91a623b6e6559e6b9d7fecc1.png" group-title="DEPORTES INTERNACIONALES",NBC Sports
+http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/60699
+#EXTINF:-1 tvg-id="NBC Sports Bay Area" tvg-name="NBC Sports Bay Area" tvg-logo="http://xdgo.live:8080/images/a197ed008e07f887d6f72938cf9e2ca9.png" group-title="DEPORTES INTERNACIONALES",NBC Sports Bay Area
+http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/60700
+#EXTINF:-1 tvg-id="NBC Sports Boston" tvg-name="NBC Sports Boston" tvg-logo="http://xdgo.live:8080/images/d3468f5b91a623b6e6559e6b9d7fecc1.png" group-title="DEPORTES INTERNACIONALES",NBC Sports Boston
+http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/60701
+#EXTINF:-1 tvg-id="NBC Sports California" tvg-name="NBC Sports California" tvg-logo="http://xdgo.live:8080/images/89d255f0cb3b421364f926b52812d8a0.png" group-title="DEPORTES INTERNACIONALES",NBC Sports California
+http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/60702
+#EXTINF:-1 tvg-id="NBC Sports Chicago" tvg-name="NBC Sports Chicago" tvg-logo="http://xdgo.live:8080/images/87fa2a3c6bdc9080022120c4ae7d8381.png" group-title="DEPORTES INTERNACIONALES",NBC Sports Chicago
+http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/60703
+#EXTINF:-1 tvg-id="NBC Sports Philadelphia" tvg-name="NBC Sports Philadelphia" tvg-logo="http://xdgo.live:8080/images/6b983bd79a6a12fcfe4960268dc13ddc.png" group-title="DEPORTES INTERNACIONALES",NBC Sports Philadelphia
+http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/60704
+#EXTINF:-1 tvg-id="NBC Sports Philadelphia Plus" tvg-name="NBC Sports Philadelphia Plus" tvg-logo="http://xdgo.live:8080/images/6b983bd79a6a12fcfe4960268dc13ddc.png" group-title="DEPORTES INTERNACIONALES",NBC Sports Philadelphia Plus
+http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/60705
+#EXTINF:-1 tvg-id="NBC Sports Washington" tvg-name="NBC Sports Washington" tvg-logo="http://xdgo.live:8080/images/401fc03f35c6217e392adef8fe5cd559.png" group-title="DEPORTES INTERNACIONALES",NBC Sports Washington
+http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/60706
+#EXTINF:-1 tvg-id="Olympic Channel" tvg-name="Olympic Channel" tvg-logo="http://xdgo.live:8080/images/8990b108099111050e82f55c8ecc3571.png" group-title="DEPORTES INTERNACIONALES",Olympic Channel
+http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/60707
+#EXTINF:-1 tvg-id="SNY" tvg-name="SNY" tvg-logo="" group-title="DEPORTES INTERNACIONALES",SNY
+http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/60708
 #EXTINF:-1 tvg-id="Colombiana (2011)" tvg-name="Colombiana (2011)"  group-title="VFLIX ACCION",Colombiana (2011)
 http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/22733.mp4
 #EXTINF:-1 tvg-id="Alberto Barros - Tributo A La Salsa Colombiana 2" tvg-name="Alberto Barros - Tributo A La Salsa Colombiana 2"  group-title="VFLIX CONCIERTOS",Alberto Barros - Tributo A La Salsa Colombiana 2
@@ -1505,22 +1523,6 @@ http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/798
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/45257
 #EXTINF:-1 tvg-id="FILM & ART HQ" tvg-name="FILM ARTS FHD" tvg-logo="http://xdgo.live:8080/images/dc2dd4ed4ed41cad022c6153ec22b927.png" group-title="CINE FHD",FILM ARTS FHD
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/795
-#EXTINF:-1 tvg-id="FOX FHD" tvg-name="STAR CHANNEL FHD" tvg-logo="http://xdgo.live:8080/images/7f971f9e4c6de836b7b4b97720f3e1be.png" group-title="CINE FHD",STAR CHANNEL FHD
-http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/792
-#EXTINF:-1 tvg-id="FOX LIFE FHD" tvg-name="STAR LIFE FHD" tvg-logo="http://xdgo.live:8080/images/9d74a044f66eefeb3d7a070b4555c523.png" group-title="CINE FHD",STAR LIFE FHD
-http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/793
-#EXTINF:-1 tvg-id="FOX PREMIUM ACTION FHD" tvg-name="STAR ACTION FHD" tvg-logo="http://xdgo.live:8080/images/3df285336ec10de0da4f2005ae967680.png" group-title="CINE FHD",STAR ACTION FHD
-http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/784
-#EXTINF:-1 tvg-id="FOX PREMIUM CINE FHD" tvg-name="STAR CINE FHD" tvg-logo="http://xdgo.live:8080/images/5273b09c9aeda536e74069c715179884.png" group-title="CINE FHD",STAR CINE FHD
-http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/785
-#EXTINF:-1 tvg-id="FOX PREMIUM CLASSICS FHD" tvg-name="STAR CLASSICS FHD" tvg-logo="http://xdgo.live:8080/images/15230996ff5cfbcf914c6e26d96d8855.png" group-title="CINE FHD",STAR CLASSICS FHD
-http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/790
-#EXTINF:-1 tvg-id="FOX PREMIUM COMEDY FHD" tvg-name="STAR COMEDY FHD" tvg-logo="http://xdgo.live:8080/images/185e0dd36322d56d03b15562aa16deed.png" group-title="CINE FHD",STAR COMEDY FHD
-http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/791
-#EXTINF:-1 tvg-id="FOX PREMIUM FAMILY FHD" tvg-name="STAR FUN FHD" tvg-logo="http://xdgo.live:8080/images/0e1c7ecfb3a11bfabb167fd1955b75af.png" group-title="CINE FHD",STAR FUN FHD
-http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/789
-#EXTINF:-1 tvg-id="FOX PREMIUM MOVIES FHD" tvg-name="STAR HITS FHD" tvg-logo="http://xdgo.live:8080/images/e3ca19a7b968f81b6e10f4315172628e.png" group-title="CINE FHD",STAR HITS FHD
-http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/794
 #EXTINF:-1 tvg-id="FX FHD" tvg-name="FX FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjlmmXnsW5hqqhPFniYa3xcR8HeQtNjjkSjL5ji_TG5i8jSrXq&s" group-title="CINE FHD",FX FHD
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/781
 #EXTINF:-1 tvg-id="FXM FHD" tvg-name="FXM FHD" tvg-logo="http://xdgo.live:8080/images/ed7a684684c67c472efd8e58b546f37f.jpg" group-title="CINE FHD",FXM FHD
@@ -1551,12 +1553,12 @@ http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/847
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/27529
 #EXTINF:-1 tvg-id="HBO POP FHD" tvg-name="HBO POP FHD" tvg-logo="http://xdgo.live:8080/images/a2716bfb54cf2bf28a66f98d2076b9a0.png" group-title="CINE FHD",HBO POP FHD
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/815
-#EXTINF:-1 tvg-id="HBO XTREME LQ" tvg-name="HBO XTREME FHD" tvg-logo="http://xdgo.live:8080/images/54bab6c6ad3085d279940d21c7c9ec61.png" group-title="CINE FHD",HBO XTREME FHD
-http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/809
 #EXTINF:-1 tvg-id="HBO SIGNATURE FHD" tvg-name="HBO SIGNATURE FHD" tvg-logo="http://xdgo.live:8080/images/34c8d380a09fff5f2afcfc00271505d6.png" group-title="CINE FHD",HBO SIGNATURE FHD
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/813
 #EXTINF:-1 tvg-id="HBO PLUS West" tvg-name="HBO WEST FHD" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/SourceLogos/Cleared 20Logos/HBO/HBO 20WEST.jpg" group-title="CINE FHD",HBO WEST FHD
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/844
+#EXTINF:-1 tvg-id="HBO XTREME LQ" tvg-name="HBO XTREME FHD" tvg-logo="http://xdgo.live:8080/images/54bab6c6ad3085d279940d21c7c9ec61.png" group-title="CINE FHD",HBO XTREME FHD
+http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/809
 #EXTINF:-1 tvg-id="HBO FHD" tvg-name="HBO SUBTITULADO FHD" tvg-logo="http://xdgo.live:8080/images/20590cac6bdbb1d87c1d1587da998b23.png" group-title="CINE FHD",HBO SUBTITULADO FHD
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/817
 #EXTINF:-1 tvg-id="INDIEPLEX FHD" tvg-name="INDIEPLEX FHD" tvg-logo="https://tvpremiumhd.com/channels/live/upload/9136.png" group-title="CINE FHD",INDIEPLEX FHD
@@ -1587,6 +1589,10 @@ http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/834
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/773
 #EXTINF:-1 tvg-id="SPACE FHD" tvg-name="SPACE FHD" tvg-logo="http://xdgo.live:8080/images/aa491df98d63f0894f18087bb142d472.png" group-title="CINE FHD",SPACE FHD
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/767
+#EXTINF:-1 tvg-id="FOX FHD" tvg-name="STAR CHANNEL FHD" tvg-logo="http://xdgo.live:8080/images/7f971f9e4c6de836b7b4b97720f3e1be.png" group-title="CINE FHD",STAR CHANNEL FHD
+http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/792
+#EXTINF:-1 tvg-id="FOX LIFE FHD" tvg-name="STAR LIFE FHD" tvg-logo="http://xdgo.live:8080/images/9d74a044f66eefeb3d7a070b4555c523.png" group-title="CINE FHD",STAR LIFE FHD
+http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/793
 #EXTINF:-1 tvg-id="STARZ FHD" tvg-name="STARZ FHD" tvg-logo="http://xdgo.live:8080/images/bb468ab387ff1475531e2d7ba46b6053.jpg" group-title="CINE FHD",STARZ FHD
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/820
 #EXTINF:-1 tvg-id="STARZ CINE FHD" tvg-name="STARZ CINE FHD" tvg-logo="https://www.thewrap.com/wp-content/uploads/2013/11/starz-logo.jpg" group-title="CINE FHD",STARZ CINE FHD
@@ -1625,14 +1631,12 @@ http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/771
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/765
 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL FHD" tvg-name="UNIVERSAL CHANNEL FHD" tvg-logo="https://images.istreamplanet.net/w_222.22222222222223,c_limit/dtv-latam-prod/26b9a8063be67e2349166b84c8bfc944" group-title="CINE FHD",UNIVERSAL CHANNEL FHD
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/816
+#EXTINF:-1 tvg-id="FOX PREMIUM CINE FHD" tvg-name="UNIVERSAL CINE FHD" tvg-logo="http://xdgo.live:8080/images/76e1d964c158498e38464847467bbaef.png" group-title="CINE FHD",UNIVERSAL CINE FHD
+http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/785
 #EXTINF:-1 tvg-id="UNIVERSAL COMEDY FHD" tvg-name="UNIVERSAL COMEDY FHD" tvg-logo="http://xdgo.live:8080/images/8b135f0f8bde7ed387e2e716e0d44e3f.png" group-title="CINE FHD",UNIVERSAL COMEDY FHD
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/58276
-#EXTINF:-1 tvg-id="UNIVERSAL CINE FHD" tvg-name="UNIVERSAL CINE FHD" tvg-logo="http://xdgo.live:8080/images/76e1d964c158498e38464847467bbaef.png" group-title="CINE FHD",UNIVERSAL CINE FHD
-http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/58280
-#EXTINF:-1 tvg-id="UNIVERSAL CRIME FHD" tvg-name="UNIVERSAL CRIME FHD" tvg-logo="http://xdgo.live:8080/images/1168a0547fd7328e921b40232086aba1.png" group-title="CINE FHD",UNIVERSAL CRIME FHD
-http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/58283
-#EXTINF:-1 tvg-id="UNIVERSAL PREMIERE FHD" tvg-name="UNIVERSAL PREMIERE FHD" tvg-logo="http://xdgo.live:8080/images/bdc47b4aed9e5d2dc73fe91f930eedae.png" group-title="CINE FHD",UNIVERSAL PREMIERE FHD
-http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/58286
+#EXTINF:-1 tvg-id="FOX PREMIUM ACTION FHD" tvg-name="UNIVERSAL CRIME FHD" tvg-logo="http://xdgo.live:8080/images/3df285336ec10de0da4f2005ae967680.png" group-title="CINE FHD",UNIVERSAL CRIME FHD
+http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/784
 #EXTINF:-1 tvg-id="UNIVERSAL REALITY FHD" tvg-name="UNIVERSAL REALITY FHD" tvg-logo="http://xdgo.live:8080/images/919cf326dd99334b2735df8d52433a8e.png" group-title="CINE FHD",UNIVERSAL REALITY FHD
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/58289
 #EXTINF:-1 tvg-id="WARNER CHANNEL FHD" tvg-name="WARNER CHANNEL FHD" tvg-logo="http://xdgo.live:8080/images/15b1dd7f2f174f4e005b796ae210d025.png" group-title="CINE FHD",WARNER CHANNEL FHD
@@ -1763,36 +1767,10 @@ http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/860
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/922
 #EXTINF:-1 tvg-id="SPACE HQ" tvg-name="SPACE HQ" tvg-logo="http://xdgo.live:8080/images/aa491df98d63f0894f18087bb142d472.png" group-title="CINE HD",SPACE HQ
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/859
-#EXTINF:-1 tvg-id="FOX PREMIUM ACTION HD" tvg-name="STAR ACTION HD" tvg-logo="http://xdgo.live:8080/images/3df285336ec10de0da4f2005ae967680.png" group-title="CINE HD",STAR ACTION HD
-http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/910
-#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="STAR ACTION HD op2" tvg-logo="http://xdgo.live:8080/images/3df285336ec10de0da4f2005ae967680.png" group-title="CINE HD",STAR ACTION HD op2
-http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/937
-#EXTINF:-1 tvg-id="FOX PREMIUM ACTION HQ" tvg-name="STAR ACTION HQ" tvg-logo="http://xdgo.live:8080/images/3df285336ec10de0da4f2005ae967680.png" group-title="CINE HD",STAR ACTION HQ
-http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/875
 #EXTINF:-1 tvg-id="FOX HD" tvg-name="STAR CHANNEL HD" tvg-logo="http://xdgo.live:8080/images/7f971f9e4c6de836b7b4b97720f3e1be.png" group-title="CINE HD",STAR CHANNEL HD
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/938
 #EXTINF:-1 tvg-id="FOX HQ" tvg-name="STAR CHANNEL HQ" tvg-logo="http://xdgo.live:8080/images/7f971f9e4c6de836b7b4b97720f3e1be.png" group-title="CINE HD",STAR CHANNEL HQ
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/874
-#EXTINF:-1 tvg-id="FOX PREMIUM CINEMA HD" tvg-name="STAR CINEMA HD" tvg-logo="https://images.istreamplanet.net/w_222.22222222222223,c_limit/dtv-latam-prod/94a458ff-1c1f-4827-b4e4-59644e19ab22.png" group-title="CINE HD",STAR CINEMA HD
-http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/936
-#EXTINF:-1 tvg-id="FOX PREMIUM CINEMA HQ" tvg-name="STAR CINEMA HQ" tvg-logo="http://xdgo.live:8080/images/5273b09c9aeda536e74069c715179884.png" group-title="CINE HD",STAR CINEMA HQ
-http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/873
-#EXTINF:-1 tvg-id="FOX PREMIUM CLASSICS HD" tvg-name="STAR CLASSICS HD" tvg-logo="http://xdgo.live:8080/images/15230996ff5cfbcf914c6e26d96d8855.png" group-title="CINE HD",STAR CLASSICS HD
-http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/935
-#EXTINF:-1 tvg-id="FOX PREMIUM CLASSICS HQ" tvg-name="STAR CLASSICS HQ" tvg-logo="http://xdgo.live:8080/images/15230996ff5cfbcf914c6e26d96d8855.png" group-title="CINE HD",STAR CLASSICS HQ
-http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/908
-#EXTINF:-1 tvg-id="FOX PREMIUM COMEDY HD" tvg-name="STAR COMEDY HD" tvg-logo="http://xdgo.live:8080/images/185e0dd36322d56d03b15562aa16deed.png" group-title="CINE HD",STAR COMEDY HD
-http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/904
-#EXTINF:-1 tvg-id="FOX PREMIUM COMEDY HQ" tvg-name="STAR COMEDY HQ" tvg-logo="http://xdgo.live:8080/images/185e0dd36322d56d03b15562aa16deed.png" group-title="CINE HD",STAR COMEDY HQ
-http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/907
-#EXTINF:-1 tvg-id="FOX PREMIUM FAMILY HD" tvg-name="STAR FUN HD" tvg-logo="http://xdgo.live:8080/images/0e1c7ecfb3a11bfabb167fd1955b75af.png" group-title="CINE HD",STAR FUN HD
-http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/906
-#EXTINF:-1 tvg-id="FOX PREMIUM FAMILY HQ" tvg-name="STAR FUN HQ" tvg-logo="http://xdgo.live:8080/images/0e1c7ecfb3a11bfabb167fd1955b75af.png" group-title="CINE HD",STAR FUN HQ
-http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/905
-#EXTINF:-1 tvg-id="FOX PREMIUM MOVIES HD" tvg-name="STAR HITS HD" tvg-logo="http://xdgo.live:8080/images/e3ca19a7b968f81b6e10f4315172628e.png" group-title="CINE HD",STAR HITS HD
-http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/933
-#EXTINF:-1 tvg-id="FOX PREMIUM MOVIES HQ" tvg-name="STAR HITS HQ" tvg-logo="http://xdgo.live:8080/images/e3ca19a7b968f81b6e10f4315172628e.png" group-title="CINE HD",STAR HITS HQ
-http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/870
 #EXTINF:-1 tvg-id="FOX LIFE HD" tvg-name="STAR LIFE HD" tvg-logo="http://xdgo.live:8080/images/9d74a044f66eefeb3d7a070b4555c523.png" group-title="CINE HD",STAR LIFE HD
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/956
 #EXTINF:-1 tvg-id="FOX LIFE HQ" tvg-name="STAR LIFE HQ" tvg-logo="http://xdgo.live:8080/images/9d74a044f66eefeb3d7a070b4555c523.png" group-title="CINE HD",STAR LIFE HQ
@@ -1821,22 +1799,20 @@ http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/855
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/883
 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL HQ" tvg-name="UNIVERSAL CHANNEL HQ" tvg-logo="https://images.istreamplanet.net/w_222.22222222222223,c_limit/dtv-latam-prod/26b9a8063be67e2349166b84c8bfc944" group-title="CINE HD",UNIVERSAL CHANNEL HQ
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/853
+#EXTINF:-1 tvg-id="FOX PREMIUM CINEMA HD" tvg-name="UNIVERSAL CINEMA HD" tvg-logo="http://xdgo.live:8080/images/76e1d964c158498e38464847467bbaef.png" group-title="CINE HD",UNIVERSAL CINEMA HD
+http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/936
+#EXTINF:-1 tvg-id="FOX PREMIUM CINEMA HQ" tvg-name="UNIVERSAL CINEMA HQ" tvg-logo="http://xdgo.live:8080/images/76e1d964c158498e38464847467bbaef.png" group-title="CINE HD",UNIVERSAL CINEMA HQ
+http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/873
 #EXTINF:-1 tvg-id="UNIVERSAL COMEDY HD" tvg-name="UNIVERSAL COMEDY HD" tvg-logo="http://xdgo.live:8080/images/8b135f0f8bde7ed387e2e716e0d44e3f.png" group-title="CINE HD",UNIVERSAL COMEDY HD
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/58278
 #EXTINF:-1 tvg-id="UNIVERSAL COMEDY HQ" tvg-name="UNIVERSAL COMEDY HQ" tvg-logo="http://xdgo.live:8080/images/8b135f0f8bde7ed387e2e716e0d44e3f.png" group-title="CINE HD",UNIVERSAL COMEDY HQ
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/58277
-#EXTINF:-1 tvg-id="UNIVERSAL CINEMA HD" tvg-name="UNIVERSAL CINEMA HD" tvg-logo="http://xdgo.live:8080/images/76e1d964c158498e38464847467bbaef.png" group-title="CINE HD",UNIVERSAL CINEMA HD
-http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/58279
-#EXTINF:-1 tvg-id="UNIVERSAL CINEMA HQ" tvg-name="UNIVERSAL CINEMA HQ" tvg-logo="http://xdgo.live:8080/images/76e1d964c158498e38464847467bbaef.png" group-title="CINE HD",UNIVERSAL CINEMA HQ
-http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/58281
-#EXTINF:-1 tvg-id="UNIVERSAL CRIME HD" tvg-name="UNIVERSAL CRIME HD" tvg-logo="http://xdgo.live:8080/images/1168a0547fd7328e921b40232086aba1.png" group-title="CINE HD",UNIVERSAL CRIME HD
-http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/58282
-#EXTINF:-1 tvg-id="UNIVERSAL CRIME HQ" tvg-name="UNIVERSAL CRIME HQ" tvg-logo="http://xdgo.live:8080/images/1168a0547fd7328e921b40232086aba1.png" group-title="CINE HD",UNIVERSAL CRIME HQ
-http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/58284
-#EXTINF:-1 tvg-id="UNIVERSAL PREMIERE HD" tvg-name="UNIVERSAL PREMIERE HD" tvg-logo="http://xdgo.live:8080/images/bdc47b4aed9e5d2dc73fe91f930eedae.png" group-title="CINE HD",UNIVERSAL PREMIERE HD
-http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/58285
-#EXTINF:-1 tvg-id="UNIVERSAL PREMIERE HQ" tvg-name="UNIVERSAL PREMIERE HQ" tvg-logo="http://xdgo.live:8080/images/bdc47b4aed9e5d2dc73fe91f930eedae.png" group-title="CINE HD",UNIVERSAL PREMIERE HQ
-http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/58287
+#EXTINF:-1 tvg-id="FOX PREMIUM ACTION HD" tvg-name="UNIVERSAL CRIME HD" tvg-logo="http://xdgo.live:8080/images/1168a0547fd7328e921b40232086aba1.png" group-title="CINE HD",UNIVERSAL CRIME HD
+http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/910
+#EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="UNIVERSAL CRIME HD op2" tvg-logo="http://xdgo.live:8080/images/1168a0547fd7328e921b40232086aba1.png" group-title="CINE HD",UNIVERSAL CRIME HD op2
+http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/937
+#EXTINF:-1 tvg-id="FOX PREMIUM ACTION HQ" tvg-name="UNIVERSAL CRIME HQ" tvg-logo="http://xdgo.live:8080/images/1168a0547fd7328e921b40232086aba1.png" group-title="CINE HD",UNIVERSAL CRIME HQ
+http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/875
 #EXTINF:-1 tvg-id="UNIVERSAL REALITY HD" tvg-name="UNIVERSAL REALITY HD" tvg-logo="http://xdgo.live:8080/images/919cf326dd99334b2735df8d52433a8e.png" group-title="CINE HD",UNIVERSAL REALITY HD
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/58288
 #EXTINF:-1 tvg-id="UNIVERSAL REALITY HQ" tvg-name="UNIVERSAL REALITY HQ" tvg-logo="http://xdgo.live:8080/images/919cf326dd99334b2735df8d52433a8e.png" group-title="CINE HD",UNIVERSAL REALITY HQ
@@ -2103,18 +2079,24 @@ http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/24
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/82
 #EXTINF:-1 tvg-id="ES TVE LA 2 HD" tvg-name="ES TVE LA 2 HD" group-title="ESPANA",ES TVE LA 2 HD
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/81
-#EXTINF:-1 tvg-id="ES VIAJAR HD" tvg-name="ES VIAJAR HD" group-title="ESPANA",ES VIAJAR HD
-http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/58
 #EXTINF:-1 tvg-id="ES XTRM" tvg-name="ES XTRM" group-title="ESPANA",ES XTRM
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/57
 #EXTINF:-1 tvg-id="ES ENERGY" tvg-name="ES ENERGY" group-title="ESPANA",ES ENERGY
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/24261
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 1 PE FHD" tvg-name="PPV UFC" group-title="EVENTOS PPV",PPV UFC
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/47231
-#EXTINF:-1 tvg-id="STAR PLUS  ESPN PPV" tvg-name="STAR PLUS  ESPN PPV"  group-title="EVENTOS PPV",STAR PLUS  ESPN PPV
-http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/53828
-#EXTINF:-1 tvg-id="STAR PLUS  ESPN PPV op2" tvg-name="STAR PLUS  ESPN PPV op2"  group-title="EVENTOS PPV",STAR PLUS  ESPN PPV op2
+#EXTINF:-1 tvg-id="STAR PLUS  ESPN PPV HD" tvg-name="STAR PLUS  ESPN PPV HD"  group-title="EVENTOS PPV",STAR PLUS  ESPN PPV HD
+http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/60566
+#EXTINF:-1 tvg-id="STAR PLUS  ESPN PPV FHD" tvg-name="STAR PLUS  ESPN PPV FHD"  group-title="EVENTOS PPV",STAR PLUS  ESPN PPV FHD
+http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/60565
+#EXTINF:-1 tvg-id="STAR PLUS  ESPN PPV HD op2" tvg-name="STAR PLUS  ESPN PPV HD op2"  group-title="EVENTOS PPV",STAR PLUS  ESPN PPV HD op2
+http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/60568
+#EXTINF:-1 tvg-id="STAR PLUS  ESPN PPV FHD op2" tvg-name="STAR PLUS  ESPN PPV FHD op2"  group-title="EVENTOS PPV",STAR PLUS  ESPN PPV FHD op2
+http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/60567
+#EXTINF:-1 tvg-id="STAR PLUS  ESPN PPV HD op3" tvg-name="STAR PLUS  ESPN PPV HD op3"  group-title="EVENTOS PPV",STAR PLUS  ESPN PPV HD op3
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/58915
+#EXTINF:-1 tvg-id="STAR PLUS  ESPN PPV HD op4" tvg-name="STAR PLUS  ESPN PPV HD op4"  group-title="EVENTOS PPV",STAR PLUS  ESPN PPV HD op4
+http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/53828
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 1 PE FHD" tvg-name="DIRECTV SPORTS PPV 1" group-title="EVENTOS PPV",DIRECTV SPORTS PPV 1
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/51077
 #EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  FHD" tvg-name="DIRECTV SPORTS PPV 2" group-title="EVENTOS PPV",DIRECTV SPORTS PPV 2
@@ -2227,15 +2209,13 @@ http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/52103
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/52104
 #EXTINF:-1 tvg-id="HN DTELEVISION" tvg-name="HN DTELEVISION"  group-title="HONDURAS",HN DTELEVISION
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/52106
-#EXTINF:-1 tvg-id="HN CANAL 15" tvg-name="HN CANAL 15"  group-title="HONDURAS",HN CANAL 15
-http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/52108
 #EXTINF:-1 tvg-id="BABY FIRST HQ" tvg-name="BABY FIRST FHD" tvg-logo="https://i.pinimg.com/originals/14/7f/ea/147fea6d4dea41d7f81f797799ce70ad.jpg" group-title="INFANTILES",BABY FIRST FHD
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/27595
 #EXTINF:-1 tvg-id="BABY FIRST HQ" tvg-name="BABY FIRST HQ" tvg-logo="https://i.pinimg.com/originals/14/7f/ea/147fea6d4dea41d7f81f797799ce70ad.jpg" group-title="INFANTILES",BABY FIRST HQ
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/1069
 #EXTINF:-1 tvg-id="BABY TV FHD" tvg-name="BABY TV FHD" tvg-logo="http://xdgo.live:8080/images/efa526fa3c8ad3dfdea9e3eccd252d65.png" group-title="INFANTILES",BABY TV FHD
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/1055
-#EXTINF:-1 tvg-id="BABY TV HD" tvg-name="BABY TV HD" tvg-logo="https://image.roku.com/developer_channels/prod/b7d0b9b328686c9b8a7448a0def076bf7cd556a477b74c0777381f1e998b546e.png" group-title="INFANTILES",BABY TV HD
+#EXTINF:-1 tvg-id="BABY TV HD" tvg-name="BABY TV HD" tvg-logo="http://xdgo.live:8080/images/efa526fa3c8ad3dfdea9e3eccd252d65.png" group-title="INFANTILES",BABY TV HD
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/1081
 #EXTINF:-1 tvg-id="BABY TV HQ" tvg-name="BABY TV HQ" tvg-logo="http://xdgo.live:8080/images/efa526fa3c8ad3dfdea9e3eccd252d65.png" group-title="INFANTILES",BABY TV HQ
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/1100
@@ -3327,7 +3307,7 @@ http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/27035
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/27113
 #EXTINF:-1 tvg-id="USA Fox Soccer" tvg-name="USA Fox Soccer Plus" tvg-logo="" group-title="USA",USA Fox Soccer Plus
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/2221
-#EXTINF:-1 tvg-id="USA Fox Sports 1" tvg-name="USA Fox Sports 1" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="USA",USA Fox Sports 1
+#EXTINF:-1 tvg-id="USA Fox Sports 1" tvg-name="USA Fox Sports 1" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="USA",USA Fox Sports 1
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/2220
 #EXTINF:-1 tvg-id="USA FOX St Louis" tvg-name="USA FOX St Louis" tvg-logo="" group-title="USA",USA FOX St Louis
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/27114
@@ -3469,7 +3449,7 @@ http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/27017
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/27018
 #EXTINF:-1 tvg-id="USA Nick" tvg-name="USA Nick" tvg-logo="" group-title="USA",USA Nick
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/2245
-#EXTINF:-1 tvg-id="USA NICK JR" tvg-name="USA NICK JR" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DAgNJEGkL._SY355_.png" group-title="USA",USA NICK JR
+#EXTINF:-1 tvg-id="USA NICK JR" tvg-name="USA NICK JR" tvg-logo="http://xdgo.live:8080/images/45f880a3576d2eb1ce8ac9c921d09c46.png" group-title="USA",USA NICK JR
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/2244
 #EXTINF:-1 tvg-id="USA Nicktoons." tvg-name="USA Nicktoons." tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1159.1405279210.png" group-title="USA",USA Nicktoons.
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/2243
@@ -3585,7 +3565,7 @@ http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/2210
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/52501
 #EXTINF:-1 tvg-id="MEGA TV MIAMI" tvg-name="Mega Tv Miami" tvg-logo="http://xdgo.live:8080/images/b45965ca4ce2f400bc2013bfd6a161bf.jpg" group-title="USA LATINO",Mega Tv Miami
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/27542
-#EXTINF:-1 tvg-id="Delicioso" tvg-name="Delicioso" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/77_es.png" group-title="USA LATINO",Delicioso
+#EXTINF:-1 tvg-id="Delicioso" tvg-name="Delicioso" tvg-logo="http://xdgo.live:8080/images/40bc92a9c3ae4776b18e9db17bc7f1d1.png" group-title="USA LATINO",Delicioso
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/5891
 #EXTINF:-1 tvg-id="Estrella TV" tvg-name="Estrella TV" tvg-logo="" group-title="USA LATINO",Estrella TV
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/2466
@@ -3593,47 +3573,47 @@ http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/2466
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/5816
 #EXTINF:-1 tvg-id="Galavision Atlanta" tvg-name="Galavision Atlanta" tvg-logo="http://xdgo.live:8080/images/c388c242c79f90d2faa6ea5a561bb9e9.png" group-title="USA LATINO",Galavision Atlanta
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/5808
-#EXTINF:-1 tvg-id="Galavision Dallas" tvg-name="Galavision Dallas" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/52_es.png" group-title="USA LATINO",Galavision Dallas
+#EXTINF:-1 tvg-id="Galavision Dallas" tvg-name="Galavision Dallas" tvg-logo="http://xdgo.live:8080/images/78b48f4d9cd735474a28e122132a36d1.png" group-title="USA LATINO",Galavision Dallas
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/5812
 #EXTINF:-1 tvg-id="Galavision East" tvg-name="Galavision East" tvg-logo="" group-title="USA LATINO",Galavision East
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/373
-#EXTINF:-1 tvg-id="Galavision East" tvg-name="Galavision East" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/53_es.png" group-title="USA LATINO",Galavision East
+#EXTINF:-1 tvg-id="Galavision East" tvg-name="Galavision East" tvg-logo="http://xdgo.live:8080/images/d187ea57abd8a43eff89c9d4b04cea51.png" group-title="USA LATINO",Galavision East
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/5813
-#EXTINF:-1 tvg-id="Galavision Fresno" tvg-name="Galavision Fresno" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/54_es.png" group-title="USA LATINO",Galavision Fresno
+#EXTINF:-1 tvg-id="Galavision Fresno" tvg-name="Galavision Fresno" tvg-logo="http://xdgo.live:8080/images/2c379236497d21cf57e0720fb496e300.png" group-title="USA LATINO",Galavision Fresno
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/5814
-#EXTINF:-1 tvg-id="Galavision las Vegas" tvg-name="Galavision las Vegas" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/57_es.png" group-title="USA LATINO",Galavision las Vegas
+#EXTINF:-1 tvg-id="Galavision las Vegas" tvg-name="Galavision las Vegas" tvg-logo="http://xdgo.live:8080/images/637b14fec69c1c89563f3b4196b8eebe.png" group-title="USA LATINO",Galavision las Vegas
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/5817
-#EXTINF:-1 tvg-id="Galavision Miami" tvg-name="Galavision Miami" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/58_es.png" group-title="USA LATINO",Galavision Miami
+#EXTINF:-1 tvg-id="Galavision Miami" tvg-name="Galavision Miami" tvg-logo="http://xdgo.live:8080/images/1d4f62e2dccb34448c697c83f6033dc9.png" group-title="USA LATINO",Galavision Miami
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/5818
 #EXTINF:-1 tvg-id="Galavision New York" tvg-name="Galavision New York" tvg-logo="http://xdgo.live:8080/images/747ce1379c3332219c372af1ec06ecab.png" group-title="USA LATINO",Galavision New York
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/5819
-#EXTINF:-1 tvg-id="Galavision Philadelphia" tvg-name="Galavision Philadelphia" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/60_es.png" group-title="USA LATINO",Galavision Philadelphia
+#EXTINF:-1 tvg-id="Galavision Philadelphia" tvg-name="Galavision Philadelphia" tvg-logo="http://xdgo.live:8080/images/06641d1908b6dfcb710594724b6fe25b.png" group-title="USA LATINO",Galavision Philadelphia
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/5820
-#EXTINF:-1 tvg-id="Galavision Phoenix" tvg-name="Galavision Phoenix" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/61_es.png" group-title="USA LATINO",Galavision Phoenix
+#EXTINF:-1 tvg-id="Galavision Phoenix" tvg-name="Galavision Phoenix" tvg-logo="http://xdgo.live:8080/images/edea9e8feef1dc3c5f66e48f335c2192.png" group-title="USA LATINO",Galavision Phoenix
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/5821
-#EXTINF:-1 tvg-id="Galavision Raleigh" tvg-name="Galavision Raleigh" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="USA LATINO",Galavision Raleigh
+#EXTINF:-1 tvg-id="Galavision Raleigh" tvg-name="Galavision Raleigh" tvg-logo="http://xdgo.live:8080/images/e12e75a5d212a6da54cab5af65badf7d.png" group-title="USA LATINO",Galavision Raleigh
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/5822
-#EXTINF:-1 tvg-id="Galavision Sacramento" tvg-name="Galavision Sacramento" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/63_es.png" group-title="USA LATINO",Galavision Sacramento
+#EXTINF:-1 tvg-id="Galavision Sacramento" tvg-name="Galavision Sacramento" tvg-logo="http://xdgo.live:8080/images/10a54eb3a10577f1f8ef0fbcd33be2ce.png" group-title="USA LATINO",Galavision Sacramento
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/5823
-#EXTINF:-1 tvg-id="Galavision Salt Lake" tvg-name="Galavision Salt Lake" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/64_es.png" group-title="USA LATINO",Galavision Salt Lake
+#EXTINF:-1 tvg-id="Galavision Salt Lake" tvg-name="Galavision Salt Lake" tvg-logo="http://xdgo.live:8080/images/38cbd539823c817b86115f20b651adf2.png" group-title="USA LATINO",Galavision Salt Lake
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/5824
-#EXTINF:-1 tvg-id="Galavision San Antonio" tvg-name="Galavision San Antonio" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/65_es.png" group-title="USA LATINO",Galavision San Antonio
+#EXTINF:-1 tvg-id="Galavision San Antonio" tvg-name="Galavision San Antonio" tvg-logo="http://xdgo.live:8080/images/a2147affca683f9b58186864f359f80d.png" group-title="USA LATINO",Galavision San Antonio
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/5825
-#EXTINF:-1 tvg-id="Galavision San Francisco" tvg-name="Galavision San Francisco" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/66_es.png" group-title="USA LATINO",Galavision San Francisco
+#EXTINF:-1 tvg-id="Galavision San Francisco" tvg-name="Galavision San Francisco" tvg-logo="http://xdgo.live:8080/images/d487a67282a39a57d0039f4b3e243718.png" group-title="USA LATINO",Galavision San Francisco
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/5826
 #EXTINF:-1 tvg-id="Galavision West" tvg-name="Galavision West" tvg-logo="" group-title="USA LATINO",Galavision West
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/371
-#EXTINF:-1 tvg-id="Galavision West" tvg-name="Galavision West" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/67_es.png" group-title="USA LATINO",Galavision West
+#EXTINF:-1 tvg-id="Galavision West" tvg-name="Galavision West" tvg-logo="http://xdgo.live:8080/images/46fe8ba256e2ddd2d87d6a4f3c89676a.png" group-title="USA LATINO",Galavision West
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/5827
-#EXTINF:-1 tvg-id="Galavisionn Houston" tvg-name="Galavisionn Houston" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/55_es.png" group-title="USA LATINO",Galavisionn Houston
+#EXTINF:-1 tvg-id="Galavisionn Houston" tvg-name="Galavisionn Houston" tvg-logo="http://xdgo.live:8080/images/0539dfd5b40aee1fdce8be923982be20.png" group-title="USA LATINO",Galavisionn Houston
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/5815
 #EXTINF:-1 tvg-id="Horoscopes" tvg-name="Horoscopes" tvg-logo="" group-title="USA LATINO",Horoscopes
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/372
-#EXTINF:-1 tvg-id="Lo Mejor de Despierta America" tvg-name="Lo Mejor de Despierta America" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/79_es.png" group-title="USA LATINO",Lo Mejor de Despierta America
+#EXTINF:-1 tvg-id="Lo Mejor de Despierta America" tvg-name="Lo Mejor de Despierta America" tvg-logo="http://xdgo.live:8080/images/f2319b46db26b4d4a8e3505124524c2a.png" group-title="USA LATINO",Lo Mejor de Despierta America
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/5889
 #EXTINF:-1 tvg-id="Novelas" tvg-name="Novelas" tvg-logo="" group-title="USA LATINO",Novelas
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/370
-#EXTINF:-1 tvg-id="Novelas in 5 Minutos" tvg-name="Novelas in 5 Minutos" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/75_es.png" group-title="USA LATINO",Novelas in 5 Minutos
+#EXTINF:-1 tvg-id="Novelas in 5 Minutos" tvg-name="Novelas in 5 Minutos" tvg-logo="http://xdgo.live:8080/images/f34d59053527a2fde3080dd1b4081659.png" group-title="USA LATINO",Novelas in 5 Minutos
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/5890
 #EXTINF:-1 tvg-id="Pasiones" tvg-name="Pasiones" tvg-logo="" group-title="USA LATINO",Pasiones
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/402
@@ -3679,7 +3659,7 @@ http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/343
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/342
 #EXTINF:-1 tvg-id="Telemundo Washington" tvg-name="Telemundo Washington" tvg-logo="" group-title="USA LATINO",Telemundo Washington
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/19133
-#EXTINF:-1 tvg-id="Uforia Debut" tvg-name="Uforia Debut" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/73_es.png" group-title="USA LATINO",Uforia Debut
+#EXTINF:-1 tvg-id="Uforia Debut" tvg-name="Uforia Debut" tvg-logo="http://xdgo.live:8080/images/54e9f5c887fb7e4f1912e3608187b588.png" group-title="USA LATINO",Uforia Debut
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/5892
 #EXTINF:-1 tvg-id="Uforia Debut" tvg-name="Uforia Debut" tvg-logo="" group-title="USA LATINO",Uforia Debut
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/368
@@ -3687,21 +3667,21 @@ http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/368
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/5894
 #EXTINF:-1 tvg-id="Unimas Atlanta" tvg-name="Unimas Atlanta" tvg-logo="" group-title="USA LATINO",Unimas Atlanta
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/367
-#EXTINF:-1 tvg-id="Unimas Austin" tvg-name="Unimas Austin" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/21_es.png" group-title="USA LATINO",Unimas Austin
+#EXTINF:-1 tvg-id="Unimas Austin" tvg-name="Unimas Austin" tvg-logo="http://xdgo.live:8080/images/3db114116fafed3405221ea689281b5b.png" group-title="USA LATINO",Unimas Austin
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/5907
-#EXTINF:-1 tvg-id="Unimas Cleveland" tvg-name="Unimas Cleveland" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/23_es.png" group-title="USA LATINO",Unimas Cleveland
+#EXTINF:-1 tvg-id="Unimas Cleveland" tvg-name="Unimas Cleveland" tvg-logo="http://xdgo.live:8080/images/03ad68d0b48846b981b0ae869a7c7f4c.png" group-title="USA LATINO",Unimas Cleveland
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/5902
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="Unimas Dallas" tvg-logo="http://xdgo.live:8080/images/57399f0f0e283da20e1125b57aee6184.png" group-title="USA LATINO",Unimas Dallas
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/5908
 #EXTINF:-1 tvg-id="Unimas East" tvg-name="Unimas East" tvg-logo="http://xdgo.live:8080/images/f7908d2bf1b93574556158438e65c058.png" group-title="USA LATINO",Unimas East
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/5910
-#EXTINF:-1 tvg-id="Unimas Fresno" tvg-name="Unimas Fresno" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/25_es.png" group-title="USA LATINO",Unimas Fresno
+#EXTINF:-1 tvg-id="Unimas Fresno" tvg-name="Unimas Fresno" tvg-logo="http://xdgo.live:8080/images/2f13fbceb2a2fda4280b790ae8bca8bf.png" group-title="USA LATINO",Unimas Fresno
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/5897
-#EXTINF:-1 tvg-id="Unimas Houston" tvg-name="Unimas Houston" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/8_es.png" group-title="USA LATINO",Unimas Houston
+#EXTINF:-1 tvg-id="Unimas Houston" tvg-name="Unimas Houston" tvg-logo="http://xdgo.live:8080/images/034618dde88a31a12c0804698704fcc8.png" group-title="USA LATINO",Unimas Houston
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/5911
 #EXTINF:-1 tvg-id="Unimas Houston" tvg-name="Unimas Houston" tvg-logo="" group-title="USA LATINO",Unimas Houston
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/364
-#EXTINF:-1 tvg-id="Unimas las Vegas" tvg-name="Unimas las Vegas" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/27_es.png" group-title="USA LATINO",Unimas las Vegas
+#EXTINF:-1 tvg-id="Unimas las Vegas" tvg-name="Unimas las Vegas" tvg-logo="http://xdgo.live:8080/images/82f716e60ecbae210d13a7f3b4a55836.png" group-title="USA LATINO",Unimas las Vegas
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/5906
 #EXTINF:-1 tvg-id="Unimas Los Angeles" tvg-name="Unimas Los Angeles" tvg-logo="" group-title="USA LATINO",Unimas Los Angeles
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/363
@@ -3709,17 +3689,17 @@ http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/363
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/362
 #EXTINF:-1 tvg-id="Unimas New York" tvg-name="Unimas New York" tvg-logo="http://xdgo.live:8080/images/2fb45911eb0730998ed0e6ff7eac263c.png" group-title="USA LATINO",Unimas New York
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/5913
-#EXTINF:-1 tvg-id="Unimas Phoenix" tvg-name="Unimas Phoenix" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/31_es.png" group-title="USA LATINO",Unimas Phoenix
+#EXTINF:-1 tvg-id="Unimas Phoenix" tvg-name="Unimas Phoenix" tvg-logo="http://xdgo.live:8080/images/365ede941fb9af15a8abad6d97ec6cc2.png" group-title="USA LATINO",Unimas Phoenix
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/5900
-#EXTINF:-1 tvg-id="Unimas Raleigh" tvg-name="Unimas Raleigh" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/33_es.png" group-title="USA LATINO",Unimas Raleigh
+#EXTINF:-1 tvg-id="Unimas Raleigh" tvg-name="Unimas Raleigh" tvg-logo="http://xdgo.live:8080/images/42e85b86ef374ecb2b2119d40b64143d.png" group-title="USA LATINO",Unimas Raleigh
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/5898
-#EXTINF:-1 tvg-id="Unimas Sacramento" tvg-name="Unimas Sacramento" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/35_es.png" group-title="USA LATINO",Unimas Sacramento
+#EXTINF:-1 tvg-id="Unimas Sacramento" tvg-name="Unimas Sacramento" tvg-logo="http://xdgo.live:8080/images/0cef9baaf38627a93c53e513c3e40b48.png" group-title="USA LATINO",Unimas Sacramento
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/5901
-#EXTINF:-1 tvg-id="Unimas Salt Lake" tvg-name="Unimas Salt Lake" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/37_es.png" group-title="USA LATINO",Unimas Salt Lake
+#EXTINF:-1 tvg-id="Unimas Salt Lake" tvg-name="Unimas Salt Lake" tvg-logo="http://xdgo.live:8080/images/6e4d18ac7b37a2b50dc0b5e2de656a09.png" group-title="USA LATINO",Unimas Salt Lake
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/5903
-#EXTINF:-1 tvg-id="Unimas San Antonio" tvg-name="Unimas San Antonio" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/39_es.png" group-title="USA LATINO",Unimas San Antonio
+#EXTINF:-1 tvg-id="Unimas San Antonio" tvg-name="Unimas San Antonio" tvg-logo="http://xdgo.live:8080/images/c2e37d6f6c3d2eca5967de83de35e95a.png" group-title="USA LATINO",Unimas San Antonio
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/5895
-#EXTINF:-1 tvg-id="Unimas West" tvg-name="Unimas West" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/10_es.png" group-title="USA LATINO",Unimas West
+#EXTINF:-1 tvg-id="Unimas West" tvg-name="Unimas West" tvg-logo="http://xdgo.live:8080/images/dc4fee0a26f35acc41b7b401490b20fd.png" group-title="USA LATINO",Unimas West
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/5914
 #EXTINF:-1 tvg-id="Unimas West 2" tvg-name="Unimas West 2" tvg-logo="" group-title="USA LATINO",Unimas West 2
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/360
@@ -3771,8 +3751,8 @@ http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/386
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/30351
 #EXTINF:-1 tvg-id="Univision Washington HD" tvg-name="Univision Washington HD" tvg-logo="" group-title="USA LATINO",Univision Washington HD
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/30350
-#EXTINF:-1 tvg-id="Univision West" tvg-name="Univision West" tvg-logo="" group-title="USA LATINO",Univision West
-http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/385
+#EXTINF:-1 tvg-id="Telemundo Miami op2" tvg-name="Telemundo Miami op2" tvg-logo="" group-title="USA LATINO",Telemundo Miami op2
+http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/60698
 #EXTINF:-1 tvg-id="Shang-Chi y la leyenda de los Diez Anillos (2021) 4K" tvg-name="Shang-Chi y la leyenda de los Diez Anillos (2021) 4K"  group-title="VFLIX 4K",Shang-Chi y la leyenda de los Diez Anillos (2021) 4K
 http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/57113.mkv
 #EXTINF:-1 tvg-id="Finch (2021) 4K" tvg-name="Finch (2021) 4K"  group-title="VFLIX 4K",Finch (2021) 4K
@@ -14205,22 +14185,22 @@ http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/28211.mp4
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/5562
 #EXTINF:-1 tvg-id="A3 SERIES FHD" tvg-name="A3 SERIES FHD" tvg-logo="https://images.istreamplanet.net/w_222.22222222222223,c_limit/dtv-latam-prod/438913b0e48890c0453bee096516bb50" group-title="CINE FHD",A3 SERIES FHD
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/808
-#EXTINF:-1 tvg-id="FOX PREMIUM SERIES FHD" tvg-name="STAR SERIES FHD" tvg-logo="http://xdgo.live:8080/images/aa1d785dc65432ca39c93b0a0b4ee0c1.png" group-title="CINE FHD",STAR SERIES FHD
-http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/788
 #EXTINF:-1 tvg-id="TNT SERIES FHD" tvg-name="TNT SERIES FHD" tvg-logo="https://images.istreamplanet.net/w_222.22222222222223,c_limit/dtv-latam-prod/766dbe4658ec4ef8d91d9180984da7e7" group-title="CINE FHD",TNT SERIES FHD
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/766
+#EXTINF:-1 tvg-id="FOX PREMIUM SERIES FHD" tvg-name="UNIVERSAL PREMIERE FHD" tvg-logo="http://xdgo.live:8080/images/aa1d785dc65432ca39c93b0a0b4ee0c1.png" group-title="CINE FHD",UNIVERSAL PREMIERE FHD
+http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/788
 #EXTINF:-1 tvg-id="A3 SERIES HD" tvg-name="A3 SERIES HD" tvg-logo="https://images.istreamplanet.net/w_222.22222222222223,c_limit/dtv-latam-prod/438913b0e48890c0453bee096516bb50" group-title="CINE HD",A3 SERIES HD
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/947
 #EXTINF:-1 tvg-id="A3 SERIES HQ" tvg-name="A3 SERIES HQ" tvg-logo="https://images.istreamplanet.net/w_222.22222222222223,c_limit/dtv-latam-prod/438913b0e48890c0453bee096516bb50" group-title="CINE HD",A3 SERIES HQ
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/957
-#EXTINF:-1 tvg-id="FOX PREMIUM SERIES HD" tvg-name="STAR SERIES HD" tvg-logo="https://zpapi.zetatv.com.uy/media/images/Star_Series.png" group-title="CINE HD",STAR SERIES HD
-http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/932
-#EXTINF:-1 tvg-id="FOX PREMIUM SERIES HQ" tvg-name="STAR SERIES HQ" tvg-logo="http://xdgo.live:8080/images/aa1d785dc65432ca39c93b0a0b4ee0c1.png" group-title="CINE HD",STAR SERIES HQ
-http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/869
 #EXTINF:-1 tvg-id="TNT SERIES HD" tvg-name="TNT SERIES HD" tvg-logo="https://images.istreamplanet.net/w_222.22222222222223,c_limit/dtv-latam-prod/766dbe4658ec4ef8d91d9180984da7e7" group-title="CINE HD",TNT SERIES HD
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/854
 #EXTINF:-1 tvg-id="TNT SERIES HQ" tvg-name="TNT SERIES HQ" tvg-logo="https://images.istreamplanet.net/w_222.22222222222223,c_limit/dtv-latam-prod/766dbe4658ec4ef8d91d9180984da7e7" group-title="CINE HD",TNT SERIES HQ
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/884
+#EXTINF:-1 tvg-id="FOX PREMIUM SERIES HD" tvg-name="UNIVERSAL PREMIERE HD" tvg-logo="http://xdgo.live:8080/images/bdc47b4aed9e5d2dc73fe91f930eedae.png" group-title="CINE HD",UNIVERSAL PREMIERE HD
+http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/932
+#EXTINF:-1 tvg-id="FOX PREMIUM SERIES HQ" tvg-name="UNIVERSAL PREMIERE HQ" tvg-logo="http://xdgo.live:8080/images/bdc47b4aed9e5d2dc73fe91f930eedae.png" group-title="CINE HD",UNIVERSAL PREMIERE HQ
+http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/869
 #EXTINF:-1 tvg-id="ES A3S ATRESERIES HD" tvg-name="ES A3S ATRESERIES HD" group-title="ESPANA",ES A3S ATRESERIES HD
 http://xdgo.live:8080/37_luismelao_e/gz3GJJ58PN/87
 #EXTINF:-1 tvg-id="ES MOVISTAR SERIES HD" tvg-name="ES MOVISTAR SERIES HD" group-title="ESPANA",ES MOVISTAR SERIES HD
@@ -32255,6 +32235,130 @@ http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/41776.mkv
 http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/42114.mkv
 #EXTINF:-1 tvg-id="WandaVision S01 E09" tvg-name="WandaVision S01 E09"  group-title="WANDAVISION",WandaVision S01 E09
 http://xdgo.live:8080/series/37_luismelao_e/gz3GJJ58PN/42412.mkv
+#EXTINF:-1 tvg-id="Géminis: El planeta oscuro (2022)" tvg-name="Géminis: El planeta oscuro (2022)" tvg-logo="http://xdgo.live:8080/images/97e5bffe8fe77e08e02c0ba0d9f23356.jpg" group-title="VFLIX ESTRENOS",Géminis: El planeta oscuro (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61866.mkv
+#EXTINF:-1 tvg-id="OVNI (2022)" tvg-name="OVNI (2022)" tvg-logo="http://xdgo.live:8080/images/3832773b5eda75c7f6115bdadecdc908.jpg" group-title="VFLIX ESTRENOS",OVNI (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61875.mkv
+#EXTINF:-1 tvg-id="11M (2022)" tvg-name="11M (2022)" tvg-logo="http://xdgo.live:8080/images/4cb26d1d1e8e984007eb95fa0e365079.jpg" group-title="VFLIX ESTRENOS",11M (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61852.mkv
+#EXTINF:-1 tvg-id="Perdidos en el Ártico (2022)" tvg-name="Perdidos en el Ártico (2022)" tvg-logo="http://xdgo.live:8080/images/7061465c2cdf87a1da7cd6dbb8c71192.jpg" group-title="VFLIX ESTRENOS",Perdidos en el Ártico (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61853.mkv
+#EXTINF:-1 tvg-id="A Journal for Jordan (2021)" tvg-name="A Journal for Jordan (2021)" tvg-logo="http://xdgo.live:8080/images/80066c99ca9460c686cac5ccdafce0cb.jpg" group-title="VFLIX ESTRENOS",A Journal for Jordan (2021)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61854.mkv
+#EXTINF:-1 tvg-id="Refugiado americano (2021)" tvg-name="Refugiado americano (2021)" tvg-logo="http://xdgo.live:8080/images/97ccd17f0fd6e02506a8ad3b95b6a0cf.jpg" group-title="VFLIX ESTRENOS",Refugiado americano (2021)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61855.mkv
+#EXTINF:-1 tvg-id="Luz negra (2022)" tvg-name="Luz negra (2022)" tvg-logo="http://xdgo.live:8080/images/d3cde74913a79cf499b64045ba0d0b03.jpg" group-title="VFLIX ESTRENOS",Luz negra (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61856.mkv
+#EXTINF:-1 tvg-id="Cam Girls (2021)" tvg-name="Cam Girls (2021)" tvg-logo="http://xdgo.live:8080/images/19f12fde40095e68f9f913f087dbb4c7.jpg" group-title="VFLIX ESTRENOS",Cam Girls (2021)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61857.mkv
+#EXTINF:-1 tvg-id="Allí me encontrarás (2021)" tvg-name="Allí me encontrarás (2021)" tvg-logo="http://xdgo.live:8080/images/665c633a4df48537c723048d8792fdde.jpg" group-title="VFLIX ESTRENOS",Allí me encontrarás (2021)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61858.mkv
+#EXTINF:-1 tvg-id="Fresh (2022)" tvg-name="Fresh (2022)" tvg-logo="http://xdgo.live:8080/images/d4163d1cb861696de80d676090e8c085.jpg" group-title="VFLIX ESTRENOS",Fresh (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61859.mkv
+#EXTINF:-1 tvg-id="Licorice Pizza (2021)" tvg-name="Licorice Pizza (2021)" tvg-logo="http://xdgo.live:8080/images/80169f52b5a5ec75edfb617cd2d07a77.jpg" group-title="VFLIX ESTRENOS",Licorice Pizza (2021)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61860.mkv
+#EXTINF:-1 tvg-id="Lucy and Desi (2022)" tvg-name="Lucy and Desi (2022)" tvg-logo="http://xdgo.live:8080/images/b7abdcc41d8695fd9e5c7810e24b15c6.jpg" group-title="VFLIX ESTRENOS",Lucy and Desi (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61861.mkv
+#EXTINF:-1 tvg-id="La infeliz (2021)" tvg-name="La infeliz (2021)" tvg-logo="http://xdgo.live:8080/images/b2158c53ca14e809cc28423a1843bbf0.jpg" group-title="VFLIX ESTRENOS",La infeliz (2021)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61862.mkv
+#EXTINF:-1 tvg-id="Mi maravillosa vida (2021)" tvg-name="Mi maravillosa vida (2021)" tvg-logo="http://xdgo.live:8080/images/afe431a91648026b8d0ce7347a4c4cf8.jpg" group-title="VFLIX ESTRENOS",Mi maravillosa vida (2021)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61863.mkv
+#EXTINF:-1 tvg-id="En la tormenta (2022)" tvg-name="En la tormenta (2022)" tvg-logo="http://xdgo.live:8080/images/c73b80825229c14e4bcf2a29e66e7a8b.jpg" group-title="VFLIX ESTRENOS",En la tormenta (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61864.mkv
+#EXTINF:-1 tvg-id="Sin escapatoria (2021)" tvg-name="Sin escapatoria (2021)" tvg-logo="http://xdgo.live:8080/images/e5eb0c20ad31b7498528b944d82ea44a.jpg" group-title="VFLIX ESTRENOS",Sin escapatoria (2021)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61865.mkv
+#EXTINF:-1 tvg-id="Pursuit (2022)" tvg-name="Pursuit (2022)" tvg-logo="http://xdgo.live:8080/images/f32a12a9defc7e89121b5ed3d22cc275.jpg" group-title="VFLIX ESTRENOS",Pursuit (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61867.mkv
+#EXTINF:-1 tvg-id="Icahn: El millonario incansable (2022)" tvg-name="Icahn: El millonario incansable (2022)" tvg-logo="http://xdgo.live:8080/images/75ee8f7734023181ea271d3c3b803f25.jpg" group-title="VFLIX ESTRENOS",Icahn: El millonario incansable (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61868.mkv
+#EXTINF:-1 tvg-id="El paraíso que sobrevive: Un legado familiar (2022)" tvg-name="El paraíso que sobrevive: Un legado familiar (2022)" tvg-logo="http://xdgo.live:8080/images/f67a89596307e857e2706765cd71d876.jpg" group-title="VFLIX ESTRENOS",El paraíso que sobrevive: Un legado familiar (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61869.mkv
+#EXTINF:-1 tvg-id="Desesperada (2022)" tvg-name="Desesperada (2022)" tvg-logo="http://xdgo.live:8080/images/7aab4dd315ba9ccee2ff972872acdb86.jpg" group-title="VFLIX ESTRENOS",Desesperada (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61870.mkv
+#EXTINF:-1 tvg-id="El hilo imperceptible (2022)" tvg-name="El hilo imperceptible (2022)" tvg-logo="http://xdgo.live:8080/images/7048cc4bf3152ff7eb291fd628b88928.jpg" group-title="VFLIX ESTRENOS",El hilo imperceptible (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61871.mkv
+#EXTINF:-1 tvg-id="Piratas: El último tesoro de la corona (2022)" tvg-name="Piratas: El último tesoro de la corona (2022)" tvg-logo="http://xdgo.live:8080/images/0d0a1e223eab162416cadf1cf33739ab.jpg" group-title="VFLIX ESTRENOS",Piratas: El último tesoro de la corona (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61872.mkv
+#EXTINF:-1 tvg-id="Fin de semana en Croacia (2022)" tvg-name="Fin de semana en Croacia (2022)" tvg-logo="http://xdgo.live:8080/images/de4d20bf92ca1241919da1fccbd48397.jpg" group-title="VFLIX ESTRENOS",Fin de semana en Croacia (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61873.mkv
+#EXTINF:-1 tvg-id="El regreso a casa de Madea (2022)" tvg-name="El regreso a casa de Madea (2022)" tvg-logo="http://xdgo.live:8080/images/60995df8af5c766448c39b7d36c20ee6.jpg" group-title="VFLIX ESTRENOS",El regreso a casa de Madea (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61874.mkv
+#EXTINF:-1 tvg-id="Amor Artificial (2022)" tvg-name="Amor Artificial (2022)" tvg-logo="http://xdgo.live:8080/images/c8b6c353a31580b3532f8aba20578a06.jpg" group-title="VFLIX ESTRENOS",Amor Artificial (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/60288.mkv
+#EXTINF:-1 tvg-id="American Underdog (2021)" tvg-name="American Underdog (2021)" tvg-logo="http://xdgo.live:8080/images/26e9040fd492aa8dbb4fd26d8b115fcf.jpg" group-title="VFLIX ESTRENOS",American Underdog (2021)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/60289.mkv
+#EXTINF:-1 tvg-id="Dating & New York (2021)" tvg-name="Dating & New York (2021)" tvg-logo="http://xdgo.live:8080/images/d003e622fb218913aa5ac1d733389f16.jpg" group-title="VFLIX ESTRENOS",Dating & New York (2021)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/60290.mkv
+#EXTINF:-1 tvg-id="Deadlock (2021)" tvg-name="Deadlock (2021)" tvg-logo="http://xdgo.live:8080/images/bc7016f220be1acbf9788373973da2b3.jpg" group-title="VFLIX ESTRENOS",Deadlock (2021)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/60291.mkv
+#EXTINF:-1 tvg-id="Eiffel (2021)" tvg-name="Eiffel (2021)" tvg-logo="http://xdgo.live:8080/images/1027d54f0d4467f03fcc2d25c0f6cbd6.jpg" group-title="VFLIX ESTRENOS",Eiffel (2021)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/60292.mkv
+#EXTINF:-1 tvg-id="Venganza a golpes (2022)" tvg-name="Venganza a golpes (2022)" tvg-logo="http://xdgo.live:8080/images/63514b6e0731ffa536a0958a94019369.jpg" group-title="VFLIX ESTRENOS",Venganza a golpes (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/60293.mkv
+#EXTINF:-1 tvg-id="La panelista: el circo de la realidad (2021)" tvg-name="La panelista: el circo de la realidad (2021)" tvg-logo="http://xdgo.live:8080/images/1a094537d4048be601dbc67e5102ec76.jpg" group-title="VFLIX ESTRENOS",La panelista: el circo de la realidad (2021)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/60294.mkv
+#EXTINF:-1 tvg-id="Redeeming Love (2022)" tvg-name="Redeeming Love (2022)" tvg-logo="http://xdgo.live:8080/images/e54d1da59a788a988a305773d3ee691f.jpg" group-title="VFLIX ESTRENOS",Redeeming Love (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/60295.mkv
+#EXTINF:-1 tvg-id="Scream (2022)" tvg-name="Scream (2022)" tvg-logo="http://xdgo.live:8080/images/d771c49a51425801977c9e7859e2ff23.jpg" group-title="VFLIX ESTRENOS",Scream (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/60296.mkv
+#EXTINF:-1 tvg-id="La Matanza de Texas (2022)" tvg-name="La Matanza de Texas (2022)" tvg-logo="http://xdgo.live:8080/images/4bc21637e1caad13ab10160ba453c4b1.jpg" group-title="VFLIX ESTRENOS",La Matanza de Texas (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/60297.mkv
+#EXTINF:-1 tvg-id="Cruzando la Línea (2021)" tvg-name="Cruzando la Línea (2021)" tvg-logo="http://xdgo.live:8080/images/fee8c359508c317989e338b60bafb4cd.jpg" group-title="VFLIX ESTRENOS",Cruzando la Línea (2021)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/60298.mkv
+#EXTINF:-1 tvg-id="The Hating Game (2021)" tvg-name="The Hating Game (2021)" tvg-logo="http://xdgo.live:8080/images/296deb0a9a003f69927e7a3292894991.jpg" group-title="VFLIX ESTRENOS",The Hating Game (2021)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/60299.mkv
+#EXTINF:-1 tvg-id="TQM (2022)" tvg-name="TQM (2022)" tvg-logo="http://xdgo.live:8080/images/20989ee67964acf6bd76207d1e85f27c.jpg" group-title="VFLIX ESTRENOS",TQM (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/60300.mkv
+#EXTINF:-1 tvg-id="Anne+: La película (2021)" tvg-name="Anne+: La película (2021)" tvg-logo="http://xdgo.live:8080/images/98685f98b436389ef5d06cb7d74111f7.jpg" group-title="VFLIX ESTRENOS",Anne+: La película (2021)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/60203.mkv
+#EXTINF:-1 tvg-id="Tácticas en el amor (2022)" tvg-name="Tácticas en el amor (2022)" tvg-logo="http://xdgo.live:8080/images/2e15410b51c2bf46c4858c14805c1b2e.jpg" group-title="VFLIX ESTRENOS",Tácticas en el amor (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/60204.mkv
+#EXTINF:-1 tvg-id="Bigbug (2022)" tvg-name="Bigbug (2022)" tvg-logo="http://xdgo.live:8080/images/9c91b6881274b54fd314c3f22d96ae2c.jpg" group-title="VFLIX ESTRENOS",Bigbug (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/60205.mkv
+#EXTINF:-1 tvg-id="El cielo está en cualquier lugar (2022)" tvg-name="El cielo está en cualquier lugar (2022)" tvg-logo="http://xdgo.live:8080/images/1e5d0cba60fa00a64d891f9d2ddd902f.jpg" group-title="VFLIX ESTRENOS",El cielo está en cualquier lugar (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/60206.mkv
+#EXTINF:-1 tvg-id="Happily (2021)" tvg-name="Happily (2021)" tvg-logo="http://xdgo.live:8080/images/37060f93d211364b95ba3b7f25132dd7.jpg" group-title="VFLIX ESTRENOS",Happily (2021)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/60207.mkv
+#EXTINF:-1 tvg-id="Hide and Seek (2021)" tvg-name="Hide and Seek (2021)" tvg-logo="http://xdgo.live:8080/images/fb33858670dcd4f349468d8f546aab3d.jpg" group-title="VFLIX ESTRENOS",Hide and Seek (2021)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/60208.mkv
+#EXTINF:-1 tvg-id="Al viento (2022)" tvg-name="Al viento (2022)" tvg-logo="http://xdgo.live:8080/images/941bee442833b5b3e44e8b11693f74a9.jpg" group-title="VFLIX ESTRENOS",Al viento (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/60209.mkv
+#EXTINF:-1 tvg-id="Quiero que vuelvas (2022)" tvg-name="Quiero que vuelvas (2022)" tvg-logo="http://xdgo.live:8080/images/b3f4cd5af1945b0e17b39e06abea3e6e.jpg" group-title="VFLIX ESTRENOS",Quiero que vuelvas (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/60210.mkv
+#EXTINF:-1 tvg-id="Amarrados al amor (2022)" tvg-name="Amarrados al amor (2022)" tvg-logo="http://xdgo.live:8080/images/a27cb24240d22a60c8a4bbf5d15a8834.jpg" group-title="VFLIX ESTRENOS",Amarrados al amor (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/60211.mkv
+#EXTINF:-1 tvg-id="Cásate conmigo (2022)" tvg-name="Cásate conmigo (2022)" tvg-logo="http://xdgo.live:8080/images/499ccfdbbf95c72e53010fe2a624da9b.jpg" group-title="VFLIX ESTRENOS",Cásate conmigo (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/60212.mkv
+#EXTINF:-1 tvg-id="Tall Girl 2 (2022)" tvg-name="Tall Girl 2 (2022)" tvg-logo="http://xdgo.live:8080/images/237ea6c32678866288fb043e0dd66477.jpg" group-title="VFLIX ESTRENOS",Tall Girl 2 (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/60213.mkv
+#EXTINF:-1 tvg-id="The In Between (2022)" tvg-name="The In Between (2022)" tvg-logo="http://xdgo.live:8080/images/99e13ed29dbcd3525c55dfe9ed244b7a.jpg" group-title="VFLIX ESTRENOS",The In Between (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/60214.mkv
+#EXTINF:-1 tvg-id="La hija del rey (2022)" tvg-name="La hija del rey (2022)" tvg-logo="http://xdgo.live:8080/images/ee0fcf4e54b962d9a81719815579d3a5.jpg" group-title="VFLIX ESTRENOS",La hija del rey (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/60215.mkv
+#EXTINF:-1 tvg-id="The King's Man: La Primera Misión (2021)" tvg-name="The King's Man: La Primera Misión (2021)" tvg-logo="http://xdgo.live:8080/images/7b9a61d057620ea64d27cff2c38c5df7.jpg" group-title="VFLIX ESTRENOS",The King's Man: La Primera Misión (2021)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/60216.mkv
+#EXTINF:-1 tvg-id="El privilegio (2022)" tvg-name="El privilegio (2022)" tvg-logo="http://xdgo.live:8080/images/2cd2dd3546e00b7f9953de3485aa6fbd.jpg" group-title="VFLIX ESTRENOS",El privilegio (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/60217.mkv
+#EXTINF:-1 tvg-id="La Casa Gucci (2021)" tvg-name="La Casa Gucci (2021)" tvg-logo="http://xdgo.live:8080/images/5d7041304945a43b8016eff41018badd.jpg" group-title="VFLIX ESTRENOS",La Casa Gucci (2021)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/59955.mkv
+#EXTINF:-1 tvg-id="Lansky (2021)" tvg-name="Lansky (2021)" tvg-logo="http://xdgo.live:8080/images/12e1939e610eca132d99206bffd2d640.jpg" group-title="VFLIX ESTRENOS",Lansky (2021)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/59956.mkv
+#EXTINF:-1 tvg-id="Un bucle sin fin (2022)" tvg-name="Un bucle sin fin (2022)" tvg-logo="http://xdgo.live:8080/images/ebe6fe63ac21fea066f2400b880551aa.jpg" group-title="VFLIX ESTRENOS",Un bucle sin fin (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/59957.mkv
+#EXTINF:-1 tvg-id="El callejón de las almas perdidas (2021)" tvg-name="El callejón de las almas perdidas (2021)" tvg-logo="http://xdgo.live:8080/images/04feed107c48e91d3982a6749a04b935.jpg" group-title="VFLIX ESTRENOS",El callejón de las almas perdidas (2021)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/59958.mkv
+#EXTINF:-1 tvg-id="El Reflejo del DIablo (2021)" tvg-name="El Reflejo del DIablo (2021)" tvg-logo="http://xdgo.live:8080/images/8c78d6eb4768456a3b8cc7f5066c7701.jpg" group-title="VFLIX ESTRENOS",El Reflejo del DIablo (2021)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/59959.mkv
+#EXTINF:-1 tvg-id="Sexo pudor y lágrimas 2 (2022)" tvg-name="Sexo pudor y lágrimas 2 (2022)" tvg-logo="http://xdgo.live:8080/images/eecaf1fd94f9ea5501a15d1f485a62d3.jpg" group-title="VFLIX ESTRENOS",Sexo pudor y lágrimas 2 (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/59960.mkv
+#EXTINF:-1 tvg-id="Agentes 355 (2022)" tvg-name="Agentes 355 (2022)" tvg-logo="http://xdgo.live:8080/images/3ef41958fb27a53889ebdb5b92691913.jpg" group-title="VFLIX ESTRENOS",Agentes 355 (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/59961.mkv
+#EXTINF:-1 tvg-id="The First Wave (2021)" tvg-name="The First Wave (2021)" tvg-logo="http://xdgo.live:8080/images/3c727e78ac55014ea449bbb582e312cd.jpg" group-title="VFLIX ESTRENOS",The First Wave (2021)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/59962.mkv
+#EXTINF:-1 tvg-id="The Long Night (2022)" tvg-name="The Long Night (2022)" tvg-logo="http://xdgo.live:8080/images/e7fe378ee009f78aff0e8f0908ae091b.jpg" group-title="VFLIX ESTRENOS",The Long Night (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/59963.mkv
+#EXTINF:-1 tvg-id="El Asesino de Tinder (2022)" tvg-name="El Asesino de Tinder (2022)" tvg-logo="http://xdgo.live:8080/images/9970c8bbfe699d9a51eb2ba5a6965463.jpg" group-title="VFLIX ESTRENOS",El Asesino de Tinder (2022)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/59964.mkv
 #EXTINF:-1 tvg-id="Ice Age: Las aventuras de Buck (2022)" tvg-name="Ice Age: Las aventuras de Buck (2022)" tvg-logo="http://xdgo.live:8080/images/3981faa2fd198f602fd3098733d12689.jpg" group-title="VFLIX ESTRENOS",Ice Age: Las aventuras de Buck (2022)
 http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/59639.mkv
 #EXTINF:-1 tvg-id="American Siege (2022)" tvg-name="American Siege (2022)" tvg-logo="http://xdgo.live:8080/images/b81f3429061ac28f5eda1f4ea3cb2bfe.jpg" group-title="VFLIX ESTRENOS",American Siege (2022)
@@ -36905,3 +37009,299 @@ http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/25328.mp4
 http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/25329.mp4
 #EXTINF:-1 tvg-id="Mofos (23)" tvg-name="Mofos (23)" tvg-logo="" group-title="VFLIX XXX",Mofos (23)
 http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/25330.mp4
+#EXTINF:-1 tvg-id="Carne de Mercado (1)" tvg-name="Carne de Mercado (1)" tvg-logo="" group-title="VFLIX XXX",Carne de Mercado (1)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61876.avi
+#EXTINF:-1 tvg-id="Carne de Mercado (1)" tvg-name="Carne de Mercado (1)" tvg-logo="" group-title="VFLIX XXX",Carne de Mercado (1)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61877.mkv
+#EXTINF:-1 tvg-id="Carne de Mercado (1)" tvg-name="Carne de Mercado (1)" tvg-logo="" group-title="VFLIX XXX",Carne de Mercado (1)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61878.mp4
+#EXTINF:-1 tvg-id="Carne de Mercado (2)" tvg-name="Carne de Mercado (2)" tvg-logo="" group-title="VFLIX XXX",Carne de Mercado (2)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61879.avi
+#EXTINF:-1 tvg-id="Carne de Mercado (2)" tvg-name="Carne de Mercado (2)" tvg-logo="" group-title="VFLIX XXX",Carne de Mercado (2)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61880.mkv
+#EXTINF:-1 tvg-id="Carne de Mercado (2)" tvg-name="Carne de Mercado (2)" tvg-logo="" group-title="VFLIX XXX",Carne de Mercado (2)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61881.mp4
+#EXTINF:-1 tvg-id="Carne de Mercado (3)" tvg-name="Carne de Mercado (3)" tvg-logo="" group-title="VFLIX XXX",Carne de Mercado (3)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61882.avi
+#EXTINF:-1 tvg-id="Carne de Mercado (3)" tvg-name="Carne de Mercado (3)" tvg-logo="" group-title="VFLIX XXX",Carne de Mercado (3)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61883.mp4
+#EXTINF:-1 tvg-id="Carne de Mercado (4)" tvg-name="Carne de Mercado (4)" tvg-logo="" group-title="VFLIX XXX",Carne de Mercado (4)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61884.avi
+#EXTINF:-1 tvg-id="Carne de Mercado (4)" tvg-name="Carne de Mercado (4)" tvg-logo="" group-title="VFLIX XXX",Carne de Mercado (4)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61885.mp4
+#EXTINF:-1 tvg-id="Carne de Mercado (5)" tvg-name="Carne de Mercado (5)" tvg-logo="" group-title="VFLIX XXX",Carne de Mercado (5)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61886.avi
+#EXTINF:-1 tvg-id="Carne de Mercado (5)" tvg-name="Carne de Mercado (5)" tvg-logo="" group-title="VFLIX XXX",Carne de Mercado (5)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61887.mp4
+#EXTINF:-1 tvg-id="Carne de Mercado (6)" tvg-name="Carne de Mercado (6)" tvg-logo="" group-title="VFLIX XXX",Carne de Mercado (6)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61888.avi
+#EXTINF:-1 tvg-id="Carne de Mercado (6)" tvg-name="Carne de Mercado (6)" tvg-logo="" group-title="VFLIX XXX",Carne de Mercado (6)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61889.mp4
+#EXTINF:-1 tvg-id="Carne de Mercado (7)" tvg-name="Carne de Mercado (7)" tvg-logo="" group-title="VFLIX XXX",Carne de Mercado (7)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61890.avi
+#EXTINF:-1 tvg-id="Carne de Mercado (7)" tvg-name="Carne de Mercado (7)" tvg-logo="" group-title="VFLIX XXX",Carne de Mercado (7)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61891.mp4
+#EXTINF:-1 tvg-id="Carne de Mercado (8)" tvg-name="Carne de Mercado (8)" tvg-logo="" group-title="VFLIX XXX",Carne de Mercado (8)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61892.avi
+#EXTINF:-1 tvg-id="Carne de Mercado (8)" tvg-name="Carne de Mercado (8)" tvg-logo="" group-title="VFLIX XXX",Carne de Mercado (8)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61893.mp4
+#EXTINF:-1 tvg-id="Carne de Mercado (9)" tvg-name="Carne de Mercado (9)" tvg-logo="" group-title="VFLIX XXX",Carne de Mercado (9)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61894.avi
+#EXTINF:-1 tvg-id="Carne de Mercado (9)" tvg-name="Carne de Mercado (9)" tvg-logo="" group-title="VFLIX XXX",Carne de Mercado (9)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61895.mp4
+#EXTINF:-1 tvg-id="Carne de Mercado (10)" tvg-name="Carne de Mercado (10)" tvg-logo="" group-title="VFLIX XXX",Carne de Mercado (10)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61896.avi
+#EXTINF:-1 tvg-id="Carne de Mercado (10)" tvg-name="Carne de Mercado (10)" tvg-logo="" group-title="VFLIX XXX",Carne de Mercado (10)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61897.mp4
+#EXTINF:-1 tvg-id="Carne de Mercado (11)" tvg-name="Carne de Mercado (11)" tvg-logo="" group-title="VFLIX XXX",Carne de Mercado (11)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61898.avi
+#EXTINF:-1 tvg-id="Carne de Mercado (11)" tvg-name="Carne de Mercado (11)" tvg-logo="" group-title="VFLIX XXX",Carne de Mercado (11)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61899.mp4
+#EXTINF:-1 tvg-id="Carne de Mercado (12)" tvg-name="Carne de Mercado (12)" tvg-logo="" group-title="VFLIX XXX",Carne de Mercado (12)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61900.mp4
+#EXTINF:-1 tvg-id="Carne de Mercado (13)" tvg-name="Carne de Mercado (13)" tvg-logo="" group-title="VFLIX XXX",Carne de Mercado (13)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61901.mp4
+#EXTINF:-1 tvg-id="Carne de Mercado (14)" tvg-name="Carne de Mercado (14)" tvg-logo="" group-title="VFLIX XXX",Carne de Mercado (14)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61902.mp4
+#EXTINF:-1 tvg-id="Carne de Mercado (15)" tvg-name="Carne de Mercado (15)" tvg-logo="" group-title="VFLIX XXX",Carne de Mercado (15)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61903.mp4
+#EXTINF:-1 tvg-id="Carne de Mercado (16)" tvg-name="Carne de Mercado (16)" tvg-logo="" group-title="VFLIX XXX",Carne de Mercado (16)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61904.mp4
+#EXTINF:-1 tvg-id="Carne de Mercado (17)" tvg-name="Carne de Mercado (17)" tvg-logo="" group-title="VFLIX XXX",Carne de Mercado (17)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61905.mp4
+#EXTINF:-1 tvg-id="Carne de Mercado (18)" tvg-name="Carne de Mercado (18)" tvg-logo="" group-title="VFLIX XXX",Carne de Mercado (18)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61906.mp4
+#EXTINF:-1 tvg-id="Carne de Mercado (19)" tvg-name="Carne de Mercado (19)" tvg-logo="" group-title="VFLIX XXX",Carne de Mercado (19)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61907.mp4
+#EXTINF:-1 tvg-id="Carne de Mercado (20)" tvg-name="Carne de Mercado (20)" tvg-logo="" group-title="VFLIX XXX",Carne de Mercado (20)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61908.mp4
+#EXTINF:-1 tvg-id="Carne de Mercado (21)" tvg-name="Carne de Mercado (21)" tvg-logo="" group-title="VFLIX XXX",Carne de Mercado (21)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61909.mp4
+#EXTINF:-1 tvg-id="Carne de Mercado (22)" tvg-name="Carne de Mercado (22)" tvg-logo="" group-title="VFLIX XXX",Carne de Mercado (22)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61910.mp4
+#EXTINF:-1 tvg-id="Carne de Mercado (23)" tvg-name="Carne de Mercado (23)" tvg-logo="" group-title="VFLIX XXX",Carne de Mercado (23)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61911.mp4
+#EXTINF:-1 tvg-id="Carne de Mercado (24)" tvg-name="Carne de Mercado (24)" tvg-logo="" group-title="VFLIX XXX",Carne de Mercado (24)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61912.mp4
+#EXTINF:-1 tvg-id="Carne de Mercado (25)" tvg-name="Carne de Mercado (25)" tvg-logo="" group-title="VFLIX XXX",Carne de Mercado (25)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61913.mp4
+#EXTINF:-1 tvg-id="Carne de Mercado (26)" tvg-name="Carne de Mercado (26)" tvg-logo="" group-title="VFLIX XXX",Carne de Mercado (26)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61914.mp4
+#EXTINF:-1 tvg-id="Carne de Mercado (27)" tvg-name="Carne de Mercado (27)" tvg-logo="" group-title="VFLIX XXX",Carne de Mercado (27)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61915.mp4
+#EXTINF:-1 tvg-id="Carne de Mercado (28)" tvg-name="Carne de Mercado (28)" tvg-logo="" group-title="VFLIX XXX",Carne de Mercado (28)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61916.mp4
+#EXTINF:-1 tvg-id="Carne de Mercado (29)" tvg-name="Carne de Mercado (29)" tvg-logo="" group-title="VFLIX XXX",Carne de Mercado (29)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61917.mp4
+#EXTINF:-1 tvg-id="SexMex (1)" tvg-name="SexMex (1)" tvg-logo="" group-title="VFLIX XXX",SexMex (1)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61918.mkv
+#EXTINF:-1 tvg-id="SexMex (1)" tvg-name="SexMex (1)" tvg-logo="" group-title="VFLIX XXX",SexMex (1)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61919.mp4
+#EXTINF:-1 tvg-id="SexMex (2)" tvg-name="SexMex (2)" tvg-logo="" group-title="VFLIX XXX",SexMex (2)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61920.mkv
+#EXTINF:-1 tvg-id="SexMex (2)" tvg-name="SexMex (2)" tvg-logo="" group-title="VFLIX XXX",SexMex (2)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61921.mp4
+#EXTINF:-1 tvg-id="SexMex (3)" tvg-name="SexMex (3)" tvg-logo="" group-title="VFLIX XXX",SexMex (3)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61922.mkv
+#EXTINF:-1 tvg-id="SexMex (3)" tvg-name="SexMex (3)" tvg-logo="" group-title="VFLIX XXX",SexMex (3)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61923.mp4
+#EXTINF:-1 tvg-id="SexMex (4)" tvg-name="SexMex (4)" tvg-logo="" group-title="VFLIX XXX",SexMex (4)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61924.mkv
+#EXTINF:-1 tvg-id="SexMex (4)" tvg-name="SexMex (4)" tvg-logo="" group-title="VFLIX XXX",SexMex (4)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61925.mp4
+#EXTINF:-1 tvg-id="SexMex (5)" tvg-name="SexMex (5)" tvg-logo="" group-title="VFLIX XXX",SexMex (5)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61926.mkv
+#EXTINF:-1 tvg-id="SexMex (5)" tvg-name="SexMex (5)" tvg-logo="" group-title="VFLIX XXX",SexMex (5)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61927.mp4
+#EXTINF:-1 tvg-id="SexMex (6)" tvg-name="SexMex (6)" tvg-logo="" group-title="VFLIX XXX",SexMex (6)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61928.mkv
+#EXTINF:-1 tvg-id="SexMex (6)" tvg-name="SexMex (6)" tvg-logo="" group-title="VFLIX XXX",SexMex (6)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61929.mp4
+#EXTINF:-1 tvg-id="SexMex (7)" tvg-name="SexMex (7)" tvg-logo="" group-title="VFLIX XXX",SexMex (7)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61930.mkv
+#EXTINF:-1 tvg-id="SexMex (7)" tvg-name="SexMex (7)" tvg-logo="" group-title="VFLIX XXX",SexMex (7)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61931.mp4
+#EXTINF:-1 tvg-id="SexMex (8)" tvg-name="SexMex (8)" tvg-logo="" group-title="VFLIX XXX",SexMex (8)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61932.mkv
+#EXTINF:-1 tvg-id="SexMex (8)" tvg-name="SexMex (8)" tvg-logo="" group-title="VFLIX XXX",SexMex (8)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61933.mp4
+#EXTINF:-1 tvg-id="SexMex (9)" tvg-name="SexMex (9)" tvg-logo="" group-title="VFLIX XXX",SexMex (9)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61934.mkv
+#EXTINF:-1 tvg-id="SexMex (9)" tvg-name="SexMex (9)" tvg-logo="" group-title="VFLIX XXX",SexMex (9)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61935.mp4
+#EXTINF:-1 tvg-id="SexMex (10)" tvg-name="SexMex (10)" tvg-logo="" group-title="VFLIX XXX",SexMex (10)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61936.mkv
+#EXTINF:-1 tvg-id="SexMex (10)" tvg-name="SexMex (10)" tvg-logo="" group-title="VFLIX XXX",SexMex (10)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61937.mp4
+#EXTINF:-1 tvg-id="SexMex (11)" tvg-name="SexMex (11)" tvg-logo="" group-title="VFLIX XXX",SexMex (11)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61938.mkv
+#EXTINF:-1 tvg-id="SexMex (11)" tvg-name="SexMex (11)" tvg-logo="" group-title="VFLIX XXX",SexMex (11)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61939.mp4
+#EXTINF:-1 tvg-id="SexMex (12)" tvg-name="SexMex (12)" tvg-logo="" group-title="VFLIX XXX",SexMex (12)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61940.mkv
+#EXTINF:-1 tvg-id="SexMex (12)" tvg-name="SexMex (12)" tvg-logo="" group-title="VFLIX XXX",SexMex (12)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61941.mp4
+#EXTINF:-1 tvg-id="SexMex (13)" tvg-name="SexMex (13)" tvg-logo="" group-title="VFLIX XXX",SexMex (13)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61942.mkv
+#EXTINF:-1 tvg-id="SexMex (13)" tvg-name="SexMex (13)" tvg-logo="" group-title="VFLIX XXX",SexMex (13)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61943.mp4
+#EXTINF:-1 tvg-id="SexMex (14)" tvg-name="SexMex (14)" tvg-logo="" group-title="VFLIX XXX",SexMex (14)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61944.mkv
+#EXTINF:-1 tvg-id="SexMex (14)" tvg-name="SexMex (14)" tvg-logo="" group-title="VFLIX XXX",SexMex (14)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61945.mp4
+#EXTINF:-1 tvg-id="SexMex (15)" tvg-name="SexMex (15)" tvg-logo="" group-title="VFLIX XXX",SexMex (15)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61946.mkv
+#EXTINF:-1 tvg-id="SexMex (15)" tvg-name="SexMex (15)" tvg-logo="" group-title="VFLIX XXX",SexMex (15)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61947.mp4
+#EXTINF:-1 tvg-id="SexMex (16)" tvg-name="SexMex (16)" tvg-logo="" group-title="VFLIX XXX",SexMex (16)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61948.mkv
+#EXTINF:-1 tvg-id="SexMex (16)" tvg-name="SexMex (16)" tvg-logo="" group-title="VFLIX XXX",SexMex (16)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61949.mp4
+#EXTINF:-1 tvg-id="SexMex (17)" tvg-name="SexMex (17)" tvg-logo="" group-title="VFLIX XXX",SexMex (17)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61950.mkv
+#EXTINF:-1 tvg-id="SexMex (17)" tvg-name="SexMex (17)" tvg-logo="" group-title="VFLIX XXX",SexMex (17)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61951.mp4
+#EXTINF:-1 tvg-id="SexMex (18)" tvg-name="SexMex (18)" tvg-logo="" group-title="VFLIX XXX",SexMex (18)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61952.mkv
+#EXTINF:-1 tvg-id="SexMex (18)" tvg-name="SexMex (18)" tvg-logo="" group-title="VFLIX XXX",SexMex (18)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61953.mp4
+#EXTINF:-1 tvg-id="SexMex (19)" tvg-name="SexMex (19)" tvg-logo="" group-title="VFLIX XXX",SexMex (19)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61954.mkv
+#EXTINF:-1 tvg-id="SexMex (19)" tvg-name="SexMex (19)" tvg-logo="" group-title="VFLIX XXX",SexMex (19)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61955.mp4
+#EXTINF:-1 tvg-id="SexMex (20)" tvg-name="SexMex (20)" tvg-logo="" group-title="VFLIX XXX",SexMex (20)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61956.mkv
+#EXTINF:-1 tvg-id="SexMex (20)" tvg-name="SexMex (20)" tvg-logo="" group-title="VFLIX XXX",SexMex (20)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61957.mp4
+#EXTINF:-1 tvg-id="SexMex (21)" tvg-name="SexMex (21)" tvg-logo="" group-title="VFLIX XXX",SexMex (21)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61958.mp4
+#EXTINF:-1 tvg-id="SexMex (22)" tvg-name="SexMex (22)" tvg-logo="" group-title="VFLIX XXX",SexMex (22)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61959.mp4
+#EXTINF:-1 tvg-id="SexMex (23)" tvg-name="SexMex (23)" tvg-logo="" group-title="VFLIX XXX",SexMex (23)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61960.mp4
+#EXTINF:-1 tvg-id="SexMex (24)" tvg-name="SexMex (24)" tvg-logo="" group-title="VFLIX XXX",SexMex (24)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61961.mp4
+#EXTINF:-1 tvg-id="SexMex (25)" tvg-name="SexMex (25)" tvg-logo="" group-title="VFLIX XXX",SexMex (25)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61962.mp4
+#EXTINF:-1 tvg-id="SexMex (26)" tvg-name="SexMex (26)" tvg-logo="" group-title="VFLIX XXX",SexMex (26)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61963.mp4
+#EXTINF:-1 tvg-id="SexMex (27)" tvg-name="SexMex (27)" tvg-logo="" group-title="VFLIX XXX",SexMex (27)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61964.mp4
+#EXTINF:-1 tvg-id="SexMex (28)" tvg-name="SexMex (28)" tvg-logo="" group-title="VFLIX XXX",SexMex (28)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61965.mp4
+#EXTINF:-1 tvg-id="SexMex (29)" tvg-name="SexMex (29)" tvg-logo="" group-title="VFLIX XXX",SexMex (29)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61966.mp4
+#EXTINF:-1 tvg-id="SexMex (30)" tvg-name="SexMex (30)" tvg-logo="" group-title="VFLIX XXX",SexMex (30)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61967.mp4
+#EXTINF:-1 tvg-id="SexMex (31)" tvg-name="SexMex (31)" tvg-logo="" group-title="VFLIX XXX",SexMex (31)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61968.mp4
+#EXTINF:-1 tvg-id="SexMex (32)" tvg-name="SexMex (32)" tvg-logo="" group-title="VFLIX XXX",SexMex (32)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61969.mp4
+#EXTINF:-1 tvg-id="SexMex (33)" tvg-name="SexMex (33)" tvg-logo="" group-title="VFLIX XXX",SexMex (33)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61970.mp4
+#EXTINF:-1 tvg-id="SexMex (34)" tvg-name="SexMex (34)" tvg-logo="" group-title="VFLIX XXX",SexMex (34)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61971.mp4
+#EXTINF:-1 tvg-id="SexMex (35)" tvg-name="SexMex (35)" tvg-logo="" group-title="VFLIX XXX",SexMex (35)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61972.mp4
+#EXTINF:-1 tvg-id="SexMex (36)" tvg-name="SexMex (36)" tvg-logo="" group-title="VFLIX XXX",SexMex (36)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61973.mp4
+#EXTINF:-1 tvg-id="SexMex (37)" tvg-name="SexMex (37)" tvg-logo="" group-title="VFLIX XXX",SexMex (37)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61974.mp4
+#EXTINF:-1 tvg-id="SexMex (38)" tvg-name="SexMex (38)" tvg-logo="" group-title="VFLIX XXX",SexMex (38)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61975.mp4
+#EXTINF:-1 tvg-id="SexMex (39)" tvg-name="SexMex (39)" tvg-logo="" group-title="VFLIX XXX",SexMex (39)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61976.mp4
+#EXTINF:-1 tvg-id="SexMex (40)" tvg-name="SexMex (40)" tvg-logo="" group-title="VFLIX XXX",SexMex (40)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61977.mp4
+#EXTINF:-1 tvg-id="SexMex (41)" tvg-name="SexMex (41)" tvg-logo="" group-title="VFLIX XXX",SexMex (41)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61978.mp4
+#EXTINF:-1 tvg-id="SexMex (42)" tvg-name="SexMex (42)" tvg-logo="" group-title="VFLIX XXX",SexMex (42)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61979.mp4
+#EXTINF:-1 tvg-id="SexMex (43)" tvg-name="SexMex (43)" tvg-logo="" group-title="VFLIX XXX",SexMex (43)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61980.mp4
+#EXTINF:-1 tvg-id="SexMex (44)" tvg-name="SexMex (44)" tvg-logo="" group-title="VFLIX XXX",SexMex (44)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61981.mp4
+#EXTINF:-1 tvg-id="SexMex (45)" tvg-name="SexMex (45)" tvg-logo="" group-title="VFLIX XXX",SexMex (45)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61982.mp4
+#EXTINF:-1 tvg-id="SexMex (46)" tvg-name="SexMex (46)" tvg-logo="" group-title="VFLIX XXX",SexMex (46)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61983.mp4
+#EXTINF:-1 tvg-id="SexMex (47)" tvg-name="SexMex (47)" tvg-logo="" group-title="VFLIX XXX",SexMex (47)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61984.mp4
+#EXTINF:-1 tvg-id="SexMex (48)" tvg-name="SexMex (48)" tvg-logo="" group-title="VFLIX XXX",SexMex (48)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61985.mp4
+#EXTINF:-1 tvg-id="SexMex (49)" tvg-name="SexMex (49)" tvg-logo="" group-title="VFLIX XXX",SexMex (49)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61986.mp4
+#EXTINF:-1 tvg-id="SexMex (50)" tvg-name="SexMex (50)" tvg-logo="" group-title="VFLIX XXX",SexMex (50)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61987.mp4
+#EXTINF:-1 tvg-id="SexMex (51)" tvg-name="SexMex (51)" tvg-logo="" group-title="VFLIX XXX",SexMex (51)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61988.mp4
+#EXTINF:-1 tvg-id="SexMex (52)" tvg-name="SexMex (52)" tvg-logo="" group-title="VFLIX XXX",SexMex (52)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61989.mp4
+#EXTINF:-1 tvg-id="SexMex (53)" tvg-name="SexMex (53)" tvg-logo="" group-title="VFLIX XXX",SexMex (53)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61990.mp4
+#EXTINF:-1 tvg-id="SexMex (54)" tvg-name="SexMex (54)" tvg-logo="" group-title="VFLIX XXX",SexMex (54)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61991.mp4
+#EXTINF:-1 tvg-id="SexMex (55)" tvg-name="SexMex (55)" tvg-logo="" group-title="VFLIX XXX",SexMex (55)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61992.mp4
+#EXTINF:-1 tvg-id="SexMex (56)" tvg-name="SexMex (56)" tvg-logo="" group-title="VFLIX XXX",SexMex (56)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61993.mp4
+#EXTINF:-1 tvg-id="SexMex (57)" tvg-name="SexMex (57)" tvg-logo="" group-title="VFLIX XXX",SexMex (57)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61994.mp4
+#EXTINF:-1 tvg-id="SexMex (58)" tvg-name="SexMex (58)" tvg-logo="" group-title="VFLIX XXX",SexMex (58)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61995.mp4
+#EXTINF:-1 tvg-id="SexMex (59)" tvg-name="SexMex (59)" tvg-logo="" group-title="VFLIX XXX",SexMex (59)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61996.mp4
+#EXTINF:-1 tvg-id="SexMex (60)" tvg-name="SexMex (60)" tvg-logo="" group-title="VFLIX XXX",SexMex (60)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61997.mp4
+#EXTINF:-1 tvg-id="SexMex (61)" tvg-name="SexMex (61)" tvg-logo="" group-title="VFLIX XXX",SexMex (61)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61998.mp4
+#EXTINF:-1 tvg-id="SexMex (62)" tvg-name="SexMex (62)" tvg-logo="" group-title="VFLIX XXX",SexMex (62)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/61999.mp4
+#EXTINF:-1 tvg-id="SexMex (63)" tvg-name="SexMex (63)" tvg-logo="" group-title="VFLIX XXX",SexMex (63)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/62000.mp4
+#EXTINF:-1 tvg-id="SexMex (64)" tvg-name="SexMex (64)" tvg-logo="" group-title="VFLIX XXX",SexMex (64)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/62001.mp4
+#EXTINF:-1 tvg-id="SexMex (65)" tvg-name="SexMex (65)" tvg-logo="" group-title="VFLIX XXX",SexMex (65)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/62002.mp4
+#EXTINF:-1 tvg-id="SexMex (66)" tvg-name="SexMex (66)" tvg-logo="" group-title="VFLIX XXX",SexMex (66)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/62003.mp4
+#EXTINF:-1 tvg-id="SexMex (67)" tvg-name="SexMex (67)" tvg-logo="" group-title="VFLIX XXX",SexMex (67)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/62004.mp4
+#EXTINF:-1 tvg-id="SexMex (68)" tvg-name="SexMex (68)" tvg-logo="" group-title="VFLIX XXX",SexMex (68)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/62005.mp4
+#EXTINF:-1 tvg-id="SexMex (69)" tvg-name="SexMex (69)" tvg-logo="" group-title="VFLIX XXX",SexMex (69)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/62006.mp4
+#EXTINF:-1 tvg-id="SexMex (70)" tvg-name="SexMex (70)" tvg-logo="" group-title="VFLIX XXX",SexMex (70)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/62007.mp4
+#EXTINF:-1 tvg-id="SexMex (71)" tvg-name="SexMex (71)" tvg-logo="" group-title="VFLIX XXX",SexMex (71)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/62008.mp4
+#EXTINF:-1 tvg-id="SexMex (72)" tvg-name="SexMex (72)" tvg-logo="" group-title="VFLIX XXX",SexMex (72)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/62009.mp4
+#EXTINF:-1 tvg-id="SexMex (73)" tvg-name="SexMex (73)" tvg-logo="" group-title="VFLIX XXX",SexMex (73)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/62010.mp4
+#EXTINF:-1 tvg-id="SexMex (74)" tvg-name="SexMex (74)" tvg-logo="" group-title="VFLIX XXX",SexMex (74)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/62011.mp4
+#EXTINF:-1 tvg-id="SexMex (75)" tvg-name="SexMex (75)" tvg-logo="" group-title="VFLIX XXX",SexMex (75)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/62012.mp4
+#EXTINF:-1 tvg-id="SexMex (76)" tvg-name="SexMex (76)" tvg-logo="" group-title="VFLIX XXX",SexMex (76)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/62013.mp4
+#EXTINF:-1 tvg-id="SexMex (77)" tvg-name="SexMex (77)" tvg-logo="" group-title="VFLIX XXX",SexMex (77)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/62014.mp4
+#EXTINF:-1 tvg-id="SexMex (78)" tvg-name="SexMex (78)" tvg-logo="" group-title="VFLIX XXX",SexMex (78)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/62015.mp4
+#EXTINF:-1 tvg-id="SexMex (79)" tvg-name="SexMex (79)" tvg-logo="" group-title="VFLIX XXX",SexMex (79)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/62016.mp4
+#EXTINF:-1 tvg-id="SexMex (80)" tvg-name="SexMex (80)" tvg-logo="" group-title="VFLIX XXX",SexMex (80)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/62017.mp4
+#EXTINF:-1 tvg-id="SexMex (81)" tvg-name="SexMex (81)" tvg-logo="" group-title="VFLIX XXX",SexMex (81)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/62018.mp4
+#EXTINF:-1 tvg-id="SexMex (82)" tvg-name="SexMex (82)" tvg-logo="" group-title="VFLIX XXX",SexMex (82)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/62019.mp4
+#EXTINF:-1 tvg-id="SexMex (83)" tvg-name="SexMex (83)" tvg-logo="" group-title="VFLIX XXX",SexMex (83)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/62020.mp4
+#EXTINF:-1 tvg-id="SexMex (84)" tvg-name="SexMex (84)" tvg-logo="" group-title="VFLIX XXX",SexMex (84)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/62021.mp4
+#EXTINF:-1 tvg-id="SexMex (85)" tvg-name="SexMex (85)" tvg-logo="" group-title="VFLIX XXX",SexMex (85)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/62022.mp4
+#EXTINF:-1 tvg-id="SexMex (86)" tvg-name="SexMex (86)" tvg-logo="" group-title="VFLIX XXX",SexMex (86)
+http://xdgo.live:8080/movie/37_luismelao_e/gz3GJJ58PN/62023.mp4
