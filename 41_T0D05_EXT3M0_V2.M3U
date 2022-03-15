@@ -1511,6 +1511,8 @@ http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/799
 http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/800
 #EXTINF:-1 tvg-id="DEPELICULA FHD" tvg-name="DEPELICULA PLUS FHD" tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/05/televisa-afiliados-canales-de-pelicula-plus.jpg" group-title="CINE FHD",DEPELICULA PLUS FHD
 http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/801
+#EXTINF:-1 tvg-id="DHE FHD" tvg-name="DHE FHD" tvg-logo="http://xdgo.live:8080/images/d61eed6287d6b17cc3229fb6c4fe084f.png" group-title="CINE FHD",DHE FHD
+http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/62274
 #EXTINF:-1 tvg-id="MX DISTRITO COMEDIA FHD" tvg-name="DISTRITO COMEDIA FHD" tvg-logo="https://pbs.twimg.com/profile_images/664989427794489344/TfLfHCj__400x400.jpg" group-title="CINE FHD",DISTRITO COMEDIA FHD
 http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/797
 #EXTINF:-1 tvg-id="DW FHD" tvg-name="DW FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_NBNhn9wavYNpIf4uXGvD4XPztzuyLRCJDwhPiiYm_sZ6hAYb&s" group-title="CINE FHD",DW FHD
@@ -1671,6 +1673,10 @@ http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/941
 http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/878
 #EXTINF:-1 tvg-id="DEPELICULA HQ" tvg-name="DEPELICULA PLUS HD" tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/05/televisa-afiliados-canales-de-pelicula-plus.jpg" group-title="CINE HD",DEPELICULA PLUS HD
 http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/940
+#EXTINF:-1 tvg-id="DHE HD" tvg-name="DHE HD" tvg-logo="http://xdgo.live:8080/images/d61eed6287d6b17cc3229fb6c4fe084f.png" group-title="CINE HD",DHE HD
+http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/62275
+#EXTINF:-1 tvg-id="DHE HQ" tvg-name="DHE HQ" tvg-logo="http://xdgo.live:8080/images/d61eed6287d6b17cc3229fb6c4fe084f.png" group-title="CINE HD",DHE HQ
+http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/62276
 #EXTINF:-1 tvg-id="EUROPA EUROPA HD" tvg-name="EUROPA EUROPA HD" tvg-logo="http://xdgo.live:8080/images/dedc9298f14fbf3da6527ca5eb86f286.png" group-title="CINE HD",EUROPA EUROPA HD
 http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/959
 #EXTINF:-1 tvg-id="EUROPA EUROPA HQ" tvg-name="EUROPA EUROPA HQ" tvg-logo="http://xdgo.live:8080/images/dedc9298f14fbf3da6527ca5eb86f286.png" group-title="CINE HD",EUROPA EUROPA HQ
@@ -1695,9 +1701,9 @@ http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/866
 http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/928
 #EXTINF:-1 tvg-id="GOLDEN EDGE HQ" tvg-name="GOLDEN EDGE HQ" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9f/Logo-goldedge.jpg/revision/latest?cb=20190322171006" group-title="CINE HD",GOLDEN EDGE HQ
 http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/865
-#EXTINF:-1 tvg-id="GOLDEN PLUS HD" tvg-name="GOLDEN PLUS HD" tvg-logo="https://i.imgur.com/4OtKo3s.png" group-title="CINE HD",GOLDEN PLUS HD
+#EXTINF:-1 tvg-id="GOLDEN PLUS HD" tvg-name="GOLDEN PLUS HD" tvg-logo="http://xdgo.live:8080/images/3fbd451a9d9e0e4217d724198c237fb5.png" group-title="CINE HD",GOLDEN PLUS HD
 http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/927
-#EXTINF:-1 tvg-id="GOLDEN PLUS HQ" tvg-name="GOLDEN PLUS HQ" tvg-logo="https://i.imgur.com/4OtKo3s.png" group-title="CINE HD",GOLDEN PLUS HQ
+#EXTINF:-1 tvg-id="GOLDEN PLUS HQ" tvg-name="GOLDEN PLUS HQ" tvg-logo="http://xdgo.live:8080/images/3fbd451a9d9e0e4217d724198c237fb5.png" group-title="CINE HD",GOLDEN PLUS HQ
 http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/864
 #EXTINF:-1 tvg-id="GOLDEN PREMIER HD" tvg-name="GOLDEN PREMIER HD" tvg-logo="http://xdgo.live:8080/images/9ad087e37f7936ae36e338ad8505ce64.png" group-title="CINE HD",GOLDEN PREMIER HD
 http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/2386
@@ -1725,7 +1731,7 @@ http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/2395
 http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/897
 #EXTINF:-1 tvg-id="HBO MUNDI HD" tvg-name="HBO MUNDI HD" tvg-logo="http://xdgo.live:8080/images/e4991df53d68d8995e52ba9e5c37284f.png" group-title="CINE HD",HBO MUNDI HD
 http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/27530
-#EXTINF:-1 tvg-id="HBO MUNDI FHD" tvg-name="HBO MUNDI HQ" tvg-logo="http://89.187.177.132/icon/hbo-mundi.png" group-title="CINE HD",HBO MUNDI HQ
+#EXTINF:-1 tvg-id="HBO MUNDI FHD" tvg-name="HBO MUNDI HQ" tvg-logo="http://xdgo.live:8080/images/e4991df53d68d8995e52ba9e5c37284f.png" group-title="CINE HD",HBO MUNDI HQ
 http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/27531
 #EXTINF:-1 tvg-id="HBO POP HD" tvg-name="HBO POP HD" tvg-logo="http://xdgo.live:8080/images/a2716bfb54cf2bf28a66f98d2076b9a0.png" group-title="CINE HD",HBO POP HD
 http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/954
@@ -1941,6 +1947,12 @@ http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/988
 http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/980
 #EXTINF:-1 tvg-id="TRU TV FHD" tvg-name="TRU TV FHD" group-title="CULTURA ",TRU TV FHD
 http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/960
+#EXTINF:-1 tvg-id="SUN CHANNEL HQ" tvg-name="SUN CHANNEL HQ"  group-title="CULTURA ",SUN CHANNEL HQ
+http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/62279
+#EXTINF:-1 tvg-id="SUN CHANNEL HD" tvg-name="SUN CHANNEL HD"  group-title="CULTURA ",SUN CHANNEL HD
+http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/62278
+#EXTINF:-1 tvg-id="SUN CHANNEL FHD" tvg-name="SUN CHANNEL FHD"  group-title="CULTURA ",SUN CHANNEL FHD
+http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/62277
 #EXTINF:-1 tvg-id="ES #0 HD" tvg-name="ES #0 HD" group-title="ESPANA",ES #0 HD
 http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/83
 #EXTINF:-1 tvg-id="ES AMC HD" tvg-name="ES AMC HD" group-title="ESPANA",ES AMC HD
@@ -2107,64 +2119,6 @@ http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/54379
 http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/54393
 #EXTINF:-1 tvg-id="DIRECTV SPORTS PPV 7" tvg-name="DIRECTV SPORTS PPV 7"  group-title="EVENTOS PPV",DIRECTV SPORTS PPV 7
 http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/54394
-#EXTINF:-1 tvg-id="Baseball (NCAA) Notre Dame at NC State 6:00 PM EST ( ACCN)" tvg-name="Baseball (NCAA) Notre Dame at NC State 6:00 PM EST ( ACCN)"  group-title="EVENTOS PPV",Baseball (NCAA) Notre Dame at NC State 6:00 PM EST ( ACCN)
-http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/62024
-#EXTINF:-1 tvg-id="Hockey (NHL) Vegas Golden Knights at Pittsburgh Penguins 7:00 PM EST ( NHL)" tvg-name="Hockey (NHL) Vegas Golden Knights at Pittsburgh Penguins 7:00 PM EST ( NHL)"  group-title="EVENTOS PPV",Hockey (NHL) Vegas Golden Knights at Pittsburgh Penguins 7:00 PM EST ( NHL)
-http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/62025
-#EXTINF:-1 tvg-id="Soccer (Ecuador Serie A) Aucas at Deportivo Cuenca 7:00 PM EST ( GOL)" tvg-name="Soccer (Ecuador Serie A) Aucas at Deportivo Cuenca 7:00 PM EST ( GOL)"  group-title="EVENTOS PPV",Soccer (Ecuador Serie A) Aucas at Deportivo Cuenca 7:00 PM EST ( GOL)
-http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/62026
-#EXTINF:-1 tvg-id="Basketball (NBA) Minnesota Timberwolves at Orlando Magic 7:00 PM EST ( NBA)" tvg-name="Basketball (NBA) Minnesota Timberwolves at Orlando Magic 7:00 PM EST ( NBA)" tvg-logo="http://xdgo.live:8080/images/f3b02e594bee897d494f09f374dfb1a9.png" group-title="EVENTOS PPV",Basketball (NBA) Minnesota Timberwolves at Orlando Magic 7:00 PM EST ( NBA)
-http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/62027
-#EXTINF:-1 tvg-id="Hockey (NHL) Minnesota Wild at Columbus Blue Jackets 7:00 PM EST ( NHL)" tvg-name="Hockey (NHL) Minnesota Wild at Columbus Blue Jackets 7:00 PM EST ( NHL)"  group-title="EVENTOS PPV",Hockey (NHL) Minnesota Wild at Columbus Blue Jackets 7:00 PM EST ( NHL)
-http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/62028
-#EXTINF:-1 tvg-id="Hockey (NHL) Winnipeg Jets at New York Islanders 7:30 PM EST ( NHLa)" tvg-name="Hockey (NHL) Winnipeg Jets at New York Islanders 7:30 PM EST ( NHLa)"  group-title="EVENTOS PPV",Hockey (NHL) Winnipeg Jets at New York Islanders 7:30 PM EST ( NHLa)
-http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/62029
-#EXTINF:-1 tvg-id="Soccer (Argentina Primera) Patronato at Platense 7:30 PM EST ( TYC)" tvg-name="Soccer (Argentina Primera) Patronato at Platense 7:30 PM EST ( TYC)"  group-title="EVENTOS PPV",Soccer (Argentina Primera) Patronato at Platense 7:30 PM EST ( TYC)
-http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/62030
-#EXTINF:-1 tvg-id="Softball (NCAA) Minnesota at Texas 7:30 PM EST ( LHN)" tvg-name="Softball (NCAA) Minnesota at Texas 7:30 PM EST ( LHN)"  group-title="EVENTOS PPV",Softball (NCAA) Minnesota at Texas 7:30 PM EST ( LHN)
-http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/62031
-#EXTINF:-1 tvg-id="Basketball (NBA) Los Angeles Clippers at Atlanta Hawks 7:30 PM EST ( NBA)" tvg-name="Basketball (NBA) Los Angeles Clippers at Atlanta Hawks 7:30 PM EST ( NBA)" tvg-logo="http://xdgo.live:8080/images/f3b02e594bee897d494f09f374dfb1a9.png" group-title="EVENTOS PPV",Basketball (NBA) Los Angeles Clippers at Atlanta Hawks 7:30 PM EST ( NBA)
-http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/62032
-#EXTINF:-1 tvg-id="Basketball (NBA) Detroit Pistons at Boston Celtics 7:30 PM EST ( NBA)" tvg-name="Basketball (NBA) Detroit Pistons at Boston Celtics 7:30 PM EST ( NBA)" tvg-logo="http://xdgo.live:8080/images/f3b02e594bee897d494f09f374dfb1a9.png" group-title="EVENTOS PPV",Basketball (NBA) Detroit Pistons at Boston Celtics 7:30 PM EST ( NBA)
-http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/62033
-#EXTINF:-1 tvg-id="Basketball (NBA) New York Knicks at Memphis Grizzlies 8:00 PM EST ( NBA)" tvg-name="Basketball (NBA) New York Knicks at Memphis Grizzlies 8:00 PM EST ( NBA)" tvg-logo="http://xdgo.live:8080/images/f3b02e594bee897d494f09f374dfb1a9.png" group-title="EVENTOS PPV",Basketball (NBA) New York Knicks at Memphis Grizzlies 8:00 PM EST ( NBA)
-http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/62034
-#EXTINF:-1 tvg-id="Soccer (Liga MX) Queretaro at Necaxa 8:00 PM EST ( TUDN)" tvg-name="Soccer (Liga MX) Queretaro at Necaxa 8:00 PM EST ( TUDN)"  group-title="EVENTOS PPV",Soccer (Liga MX) Queretaro at Necaxa 8:00 PM EST ( TUDN)
-http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/62035
-#EXTINF:-1 tvg-id="Wrestling WWE Friday Night SmackDown 8:00 PM EST ( FOXD)" tvg-name="Wrestling WWE Friday Night SmackDown 8:00 PM EST ( FOXD)"  group-title="EVENTOS PPV",Wrestling WWE Friday Night SmackDown 8:00 PM EST ( FOXD)
-http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/62036
-#EXTINF:-1 tvg-id="Basketball (NBA) Cleveland Cavaliers at Miami Heat 8:00 PM EST ( NBA)" tvg-name="Basketball (NBA) Cleveland Cavaliers at Miami Heat 8:00 PM EST ( NBA)" tvg-logo="http://xdgo.live:8080/images/f3b02e594bee897d494f09f374dfb1a9.png" group-title="EVENTOS PPV",Basketball (NBA) Cleveland Cavaliers at Miami Heat 8:00 PM EST ( NBA)
-http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/62037
-#EXTINF:-1 tvg-id="Basketball (NBA) Charlotte Hornets at New Orleans Pelicans 8:00 PM EST ( NBA)" tvg-name="Basketball (NBA) Charlotte Hornets at New Orleans Pelicans 8:00 PM EST ( NBA)" tvg-logo="http://xdgo.live:8080/images/f3b02e594bee897d494f09f374dfb1a9.png" group-title="EVENTOS PPV",Basketball (NBA) Charlotte Hornets at New Orleans Pelicans 8:00 PM EST ( NBA)
-http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/62038
-#EXTINF:-1 tvg-id="Basketball (NBA) Utah Jazz at San Antonio Spurs 8:30 PM EST ( NBA)" tvg-name="Basketball (NBA) Utah Jazz at San Antonio Spurs 8:30 PM EST ( NBA)" tvg-logo="http://xdgo.live:8080/images/f3b02e594bee897d494f09f374dfb1a9.png" group-title="EVENTOS PPV",Basketball (NBA) Utah Jazz at San Antonio Spurs 8:30 PM EST ( NBA)
-http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/62039
-#EXTINF:-1 tvg-id="Basketball (NBA) Toronto Raptors at Phoenix Suns 9:00 PM EST ( NBA)" tvg-name="Basketball (NBA) Toronto Raptors at Phoenix Suns 9:00 PM EST ( NBA)" tvg-logo="http://xdgo.live:8080/images/f3b02e594bee897d494f09f374dfb1a9.png" group-title="EVENTOS PPV",Basketball (NBA) Toronto Raptors at Phoenix Suns 9:00 PM EST ( NBA)
-http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/62040
-#EXTINF:-1 tvg-id="Hockey (NHL) Washington Capitals at Vancouver Canucks 10:00 PM EST ( NHL)" tvg-name="Hockey (NHL) Washington Capitals at Vancouver Canucks 10:00 PM EST ( NHL)"  group-title="EVENTOS PPV",Hockey (NHL) Washington Capitals at Vancouver Canucks 10:00 PM EST ( NHL)
-http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/62041
-#EXTINF:-1 tvg-id="Soccer (Liga MX) Atlas at FC Juarez 10:00 PM EST ( TUDN)" tvg-name="Soccer (Liga MX) Atlas at FC Juarez 10:00 PM EST ( TUDN)"  group-title="EVENTOS PPV",Soccer (Liga MX) Atlas at FC Juarez 10:00 PM EST ( TUDN)
-http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/62042
-#EXTINF:-1 tvg-id="Soccer (Liga MX) Mazatlan FC at Monterrey 10:06 PM EST ( FOXD)" tvg-name="Soccer (Liga MX) Mazatlan FC at Monterrey 10:06 PM EST ( FOXD)"  group-title="EVENTOS PPV",Soccer (Liga MX) Mazatlan FC at Monterrey 10:06 PM EST ( FOXD)
-http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/62043
-#EXTINF:-1 tvg-id="Basketball (NBA) Washington Wizards at Los Angeles Lakers 10:30 PM EST ( NBA)" tvg-name="Basketball (NBA) Washington Wizards at Los Angeles Lakers 10:30 PM EST ( NBA)" tvg-logo="http://xdgo.live:8080/images/f3b02e594bee897d494f09f374dfb1a9.png" group-title="EVENTOS PPV",Basketball (NBA) Washington Wizards at Los Angeles Lakers 10:30 PM EST ( NBA)
-http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/62044
-#EXTINF:-1 tvg-id="Boxing Chris Bourke vs Marc Leach 2:00 PM EST (HD)" tvg-name="Boxing Chris Bourke vs Marc Leach 2:00 PM EST (HD)"  group-title="EVENTOS PPV",Boxing Chris Bourke vs Marc Leach 2:00 PM EST (HD)
-http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/62045
-#EXTINF:-1 tvg-id="Boxing Chris Bourke vs Marc Leach 2:00 PM EST (SD)" tvg-name="Boxing Chris Bourke vs Marc Leach 2:00 PM EST (SD)"  group-title="EVENTOS PPV",Boxing Chris Bourke vs Marc Leach 2:00 PM EST (SD)
-http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/62046
-#EXTINF:-1 tvg-id="Eagle FC 46 Lee vs Sanchez 6:00 PM EST (HD)" tvg-name="Eagle FC 46 Lee vs Sanchez 6:00 PM EST (HD)"  group-title="EVENTOS PPV",Eagle FC 46 Lee vs Sanchez 6:00 PM EST (HD)
-http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/62047
-#EXTINF:-1 tvg-id="Eagle FC 46 Lee vs Sanchez 6:00 PM EST (SD)" tvg-name="Eagle FC 46 Lee vs Sanchez 6:00 PM EST (SD)"  group-title="EVENTOS PPV",Eagle FC 46 Lee vs Sanchez 6:00 PM EST (SD)
-http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/62048
-#EXTINF:-1 tvg-id="LFA 126 Bilharinho vs Delano 9:00 PM EST (HD)" tvg-name="LFA 126 Bilharinho vs Delano 9:00 PM EST (HD)"  group-title="EVENTOS PPV",LFA 126 Bilharinho vs Delano 9:00 PM EST (HD)
-http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/62049
-#EXTINF:-1 tvg-id="LFA 126 Bilharinho vs Delano 9:00 PM EST (SD)" tvg-name="LFA 126 Bilharinho vs Delano 9:00 PM EST (SD)"  group-title="EVENTOS PPV",LFA 126 Bilharinho vs Delano 9:00 PM EST (SD)
-http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/62050
-#EXTINF:-1 tvg-id="Boxing Ardreal Holmes vs Vernon Brown 9:35 PM EST (HD)" tvg-name="Boxing Ardreal Holmes vs Vernon Brown 9:35 PM EST (HD)"  group-title="EVENTOS PPV",Boxing Ardreal Holmes vs Vernon Brown 9:35 PM EST (HD)
-http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/62053
-#EXTINF:-1 tvg-id="Boxing Ardreal Holmes vs Vernon Brown 9:35 PM EST (SD)" tvg-name="Boxing Ardreal Holmes vs Vernon Brown 9:35 PM EST (SD)"  group-title="EVENTOS PPV",Boxing Ardreal Holmes vs Vernon Brown 9:35 PM EST (SD)
-http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/62054
 #EXTINF:-1 tvg-id="GUA Canal 4" tvg-name="GUA VEA CANAL" group-title="GUATEMALA",GUA VEA CANAL
 http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/2597
 #EXTINF:-1 tvg-id="GUA CANAL 11" tvg-name="GUA CANAL 11" group-title="GUATEMALA",GUA CANAL 11
@@ -14261,10 +14215,6 @@ http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/87
 http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/121
 #EXTINF:-1 tvg-id="ES MoviStar Series Mania HD" tvg-name="ES MoviStar Series Mania HD" group-title="ESPANA",ES MoviStar Series Mania HD
 http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/122
-#EXTINF:-1 tvg-id="PFL Challenger Series 4 Ekson vs Barnett 9:00 PM EST (HD)" tvg-name="PFL Challenger Series 4 Ekson vs Barnett 9:00 PM EST (HD)"  group-title="EVENTOS PPV",PFL Challenger Series 4 Ekson vs Barnett 9:00 PM EST (HD)
-http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/62051
-#EXTINF:-1 tvg-id="PFL Challenger Series 4 Ekson vs Barnett 9:00 PM EST (SD)" tvg-name="PFL Challenger Series 4 Ekson vs Barnett 9:00 PM EST (SD)"  group-title="EVENTOS PPV",PFL Challenger Series 4 Ekson vs Barnett 9:00 PM EST (SD)
-http://xdgo.live:8080/41_vEleuterioMasso_o/KCyPwF69Vk/62052
 #EXTINF:-1 tvg-id="Falcon y el Soldado del Invierno S01 E01" tvg-name="Falcon y el Soldado del Invierno S01 E01"  group-title="FALCON Y EL SOLDADO DE INVIERNO",Falcon y el Soldado del Invierno S01 E01
 http://xdgo.live:8080/series/41_vEleuterioMasso_o/KCyPwF69Vk/42784.mkv
 #EXTINF:-1 tvg-id="Falcon y el Soldado del Invierno S01 E02" tvg-name="Falcon y el Soldado del Invierno S01 E02"  group-title="FALCON Y EL SOLDADO DE INVIERNO",Falcon y el Soldado del Invierno S01 E02
@@ -32293,6 +32243,26 @@ http://xdgo.live:8080/series/41_vEleuterioMasso_o/KCyPwF69Vk/41776.mkv
 http://xdgo.live:8080/series/41_vEleuterioMasso_o/KCyPwF69Vk/42114.mkv
 #EXTINF:-1 tvg-id="WandaVision S01 E09" tvg-name="WandaVision S01 E09"  group-title="WANDAVISION",WandaVision S01 E09
 http://xdgo.live:8080/series/41_vEleuterioMasso_o/KCyPwF69Vk/42412.mkv
+#EXTINF:-1 tvg-id="Spider-Man: No Way Home (2021)" tvg-name="Spider-Man: No Way Home (2021)" tvg-logo="http://xdgo.live:8080/images/19ee0acacb8a7941d52f3b187a4de1aa.jpg" group-title="VFLIX ESTRENOS",Spider-Man: No Way Home (2021)
+http://xdgo.live:8080/movie/41_vEleuterioMasso_o/KCyPwF69Vk/62166.mkv
+#EXTINF:-1 tvg-id="El Proyecto Adam (2022)" tvg-name="El Proyecto Adam (2022)" tvg-logo="http://xdgo.live:8080/images/89faa2eb196e1980240894635f92a487.jpg" group-title="VFLIX ESTRENOS",El Proyecto Adam (2022)
+http://xdgo.live:8080/movie/41_vEleuterioMasso_o/KCyPwF69Vk/62168.mkv
+#EXTINF:-1 tvg-id="The Autumn Girl (2020)" tvg-name="The Autumn Girl (2020)" tvg-logo="http://xdgo.live:8080/images/d03c9b71d318b194c94c61af10ae2f56.jpg" group-title="VFLIX ESTRENOS",The Autumn Girl (2020)
+http://xdgo.live:8080/movie/41_vEleuterioMasso_o/KCyPwF69Vk/62161.mkv
+#EXTINF:-1 tvg-id="Cyrano (2022)" tvg-name="Cyrano (2022)" tvg-logo="http://xdgo.live:8080/images/9552fe70f7a81355e3c698fec80e5a81.jpg" group-title="VFLIX ESTRENOS",Cyrano (2022)
+http://xdgo.live:8080/movie/41_vEleuterioMasso_o/KCyPwF69Vk/62162.mkv
+#EXTINF:-1 tvg-id="Al 3er día (2020)" tvg-name="Al 3er día (2020)" tvg-logo="http://xdgo.live:8080/images/3304c7f126332637ef207a6936d4fc96.jpg" group-title="VFLIX ESTRENOS",Al 3er día (2020)
+http://xdgo.live:8080/movie/41_vEleuterioMasso_o/KCyPwF69Vk/62163.mkv
+#EXTINF:-1 tvg-id="Las aventuras de Pil (2021)" tvg-name="Las aventuras de Pil (2021)" tvg-logo="http://xdgo.live:8080/images/6c01acf87ffa3581d517f745008524e2.jpg" group-title="VFLIX ESTRENOS",Las aventuras de Pil (2021)
+http://xdgo.live:8080/movie/41_vEleuterioMasso_o/KCyPwF69Vk/62164.mkv
+#EXTINF:-1 tvg-id="Al sur del cielo (2021)" tvg-name="Al sur del cielo (2021)" tvg-logo="http://xdgo.live:8080/images/65a9a2654314a02ac6e054aa5956c708.jpg" group-title="VFLIX ESTRENOS",Al sur del cielo (2021)
+http://xdgo.live:8080/movie/41_vEleuterioMasso_o/KCyPwF69Vk/62165.mkv
+#EXTINF:-1 tvg-id="反击 (2021)" tvg-name="反击 (2021)" tvg-logo="http://xdgo.live:8080/images/f1361cc021dec7874ac0e8b1168e0cb1.jpg" group-title="VFLIX ESTRENOS",反击 (2021)
+http://xdgo.live:8080/movie/41_vEleuterioMasso_o/KCyPwF69Vk/62167.mkv
+#EXTINF:-1 tvg-id="Una Sombra En Mi Ojo (2021)" tvg-name="Una Sombra En Mi Ojo (2021)" tvg-logo="http://xdgo.live:8080/images/961036e3579c0b35a2979394b3947df5.jpg" group-title="VFLIX ESTRENOS",Una Sombra En Mi Ojo (2021)
+http://xdgo.live:8080/movie/41_vEleuterioMasso_o/KCyPwF69Vk/62169.mkv
+#EXTINF:-1 tvg-id="Red (2022)" tvg-name="Red (2022)" tvg-logo="http://xdgo.live:8080/images/7da57b7d3e522bd0ccfdf6e5825febd8.jpg" group-title="VFLIX ESTRENOS",Red (2022)
+http://xdgo.live:8080/movie/41_vEleuterioMasso_o/KCyPwF69Vk/62170.mkv
 #EXTINF:-1 tvg-id="Géminis: El planeta oscuro (2022)" tvg-name="Géminis: El planeta oscuro (2022)" tvg-logo="http://xdgo.live:8080/images/97e5bffe8fe77e08e02c0ba0d9f23356.jpg" group-title="VFLIX ESTRENOS",Géminis: El planeta oscuro (2022)
 http://xdgo.live:8080/movie/41_vEleuterioMasso_o/KCyPwF69Vk/61866.mkv
 #EXTINF:-1 tvg-id="OVNI (2022)" tvg-name="OVNI (2022)" tvg-logo="http://xdgo.live:8080/images/3832773b5eda75c7f6115bdadecdc908.jpg" group-title="VFLIX ESTRENOS",OVNI (2022)
