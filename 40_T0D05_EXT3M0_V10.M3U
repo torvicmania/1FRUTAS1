@@ -237,7 +237,7 @@ http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/23840
 http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/1104
 #EXTINF:-1 tvg-id="CO CALI TV HD" tvg-name="CO CALI TV HD"  group-title="COLOMBIA",CO CALI TV HD
 http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/53871
-#EXTINF:-1 tvg-id="CO CANAL CAPITAL HD" tvg-name="CO CANAL CAPITAL HD" tvg-logo="https://cdn.colombia.com/sdi/2017/10/20/director-canal-capital-575944.jpg" group-title="COLOMBIA",CO CANAL CAPITAL HD
+#EXTINF:-1 tvg-id="CO CANAL CAPITAL HD" tvg-name="CO CANAL CAPITAL HD" tvg-logo="http://xdgo.live:8080/images/6ade7ba8cc27dc75d1d94dfe71e01995.jpg" group-title="COLOMBIA",CO CANAL CAPITAL HD
 http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/1105
 #EXTINF:-1 tvg-id="CO CANAL INSTITUCIONAL HD" tvg-name="CO CANAL INSTITUCIONAL HQ" tvg-logo="https://cdn.mitvstatic.com/channels/baba9ccb-80f7-4647-9026-8032a29d324f_m.jpg" group-title="COLOMBIA",CO CANAL INSTITUCIONAL HQ
 http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/1106
@@ -275,8 +275,6 @@ http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/53877
 http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/1117
 #EXTINF:-1 tvg-id="CO LA KALLE HD" tvg-name="CO LA KALLE HD" tvg-logo="https://static.radio.es/images/broadcasts/fd/0c/115270/1/c175.png" group-title="COLOMBIA",CO LA KALLE HD
 http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/1118
-#EXTINF:-1 tvg-id="CO ME GUSTA HQ" tvg-name="CO ME GUSTA HQ"  group-title="COLOMBIA",CO ME GUSTA HQ
-http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/53878
 #EXTINF:-1 tvg-id="CO NTN24 HD" tvg-name="CO NTN24 HD" tvg-logo="https://www.freeetv.com/images/reydddd/ntn24.jpg" group-title="COLOMBIA",CO NTN24 HD
 http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/1119
 #EXTINF:-1 tvg-id="CO RCN HD" tvg-name="CO RCN LQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/7104/brand.gif?itok=a-dvuqrh" group-title="COLOMBIA",CO RCN LQ
@@ -295,8 +293,6 @@ http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/53884
 http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/40087
 #EXTINF:-1 tvg-id="CO RCN NOVELAS HD" tvg-name="CO RCN NOVELAS HD" tvg-logo="http://xdgo.live:8080/images/b79e044a419ff2b118784ff46c3d9b35.jpg" group-title="COLOMBIA",CO RCN NOVELAS HD
 http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/24478
-#EXTINF:-1 tvg-id="CO RED  PLUS  HQ" tvg-name="CO RED  PLUS  HQ"  group-title="COLOMBIA",CO RED  PLUS  HQ
-http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/53879
 #EXTINF:-1 tvg-id="CO SENAL COLOMBIA HD" tvg-name="CO SENAL COLOMBIA HD" tvg-logo="https://seeklogo.com/images/S/senal-colombia-logo-B158E46E46-seeklogo.com.gif" group-title="COLOMBIA",CO SENAL COLOMBIA HD
 http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/1124
 #EXTINF:-1 tvg-id="CO TELEAMIGA HQ" tvg-name="CO TELEAMIGA HQ"  group-title="COLOMBIA",CO TELEAMIGA HQ
@@ -445,6 +441,12 @@ http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/45887
 http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/40004
 #EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  FHD" tvg-name="DIRECTV SPORTS  PLUS  EC HD" tvg-logo="http://xdgo.live:8080/images/e4defb160db851cd0a4dca855b0deb6c.jpg" group-title="DEPORTES",DIRECTV SPORTS  PLUS  EC HD
 http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/46742
+#EXTINF:-1 tvg-id="DIRECTV SPORTS FIGHT HQ" tvg-name="DIRECTV SPORTS FIGHT HQ" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMzAyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1648272089743" group-title="DEPORTES",DIRECTV SPORTS FIGHT HQ
+http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/63193
+#EXTINF:-1 tvg-id="DIRECTV SPORTS FIGHT HD" tvg-name="DIRECTV SPORTS FIGHT HD" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMzAyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1648272089743" group-title="DEPORTES",DIRECTV SPORTS FIGHT HD
+http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/63191
+#EXTINF:-1 tvg-id="DIRECTV SPORTS FIGHT FHD" tvg-name="DIRECTV SPORTS FIGHT FHD" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMzAyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1648272089743" group-title="DEPORTES",DIRECTV SPORTS FIGHT FHD
+http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/63192
 #EXTINF:-1 tvg-id="ESPN CL HD" tvg-name="ESPN CL HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN CL HQ
 http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/40100
 #EXTINF:-1 tvg-id="ESPN CL HD" tvg-name="ESPN CL HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN CL HD
@@ -553,6 +555,12 @@ http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/1863
 http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/52715
 #EXTINF:-1 tvg-id="FOX SPORTS CL HD" tvg-name="ESPN 4 CL HD" tvg-logo="http://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 4 CL HD
 http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/2356
+#EXTINF:-1 tvg-id="ESPN 4 SUR HQ" tvg-name="ESPN 4 SUR HQ" tvg-logo="http://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 4 SUR HQ
+http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/63900
+#EXTINF:-1 tvg-id="ESPN 4 SUR HD" tvg-name="ESPN 4 SUR HD" tvg-logo="http://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 4 SUR HD
+http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/63899
+#EXTINF:-1 tvg-id="ESPN 4 SUR FHD" tvg-name="ESPN 4 SUR FHD" tvg-logo="http://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN 4 SUR FHD
+http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/63901
 #EXTINF:-1 tvg-id="ESPN  PLUS  MX HQ" tvg-name="ESPN  PLUS  MX HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN  PLUS  MX HQ
 http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/1794
 #EXTINF:-1 tvg-id="ESPN  PLUS  MX HD" tvg-name="ESPN  PLUS  MX HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="DEPORTES",ESPN  PLUS  MX HD
@@ -575,8 +583,6 @@ http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/30314
 http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/40152
 #EXTINF:-1 tvg-id="FOX SPORTS 1 CL FHD" tvg-name="FOX SPORTS 1 CL FHD op2" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 1 CL FHD op2
 http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/2354
-#EXTINF:-1 tvg-id="FOX SPORTS 1 AR FHD" tvg-name="FOX SPORTS 1 EC HD" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 1 EC HD
-http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/46740
 #EXTINF:-1 tvg-id="FOX SPORTS 1 AR FHD" tvg-name="FOX SPORTS 1 AR LQ" tvg-logo="" group-title="DEPORTES",FOX SPORTS 1 AR LQ
 http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/30427
 #EXTINF:-1 tvg-id="FOX SPORTS 1 AR HQ" tvg-name="FOX SPORTS 1 AR HQ" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 1 AR HQ
@@ -589,10 +595,6 @@ http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/47912
 http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/1779
 #EXTINF:-1 tvg-id="FOX SPORTS 1 AR FHD op2" tvg-name="FOX SPORTS 1 AR FHD op2" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 1 AR FHD op2
 http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/2071
-#EXTINF:-1 tvg-id="FOX SPORTS 1 CO HQ" tvg-name="FOX SPORTS 1 CO HQ" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 1 CO HQ
-http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/53243
-#EXTINF:-1 tvg-id="FOX SPORTS 1 CO HD" tvg-name="FOX SPORTS 1 CO HD" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 1 CO HD
-http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/53236
 #EXTINF:-1 tvg-id="FOX SPORTS 1 MX HQ" tvg-name="FOX SPORTS 1 MX HQ" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 1 MX HQ
 http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/1771
 #EXTINF:-1 tvg-id="UR CANAL 10" tvg-name="FOX SPORTS 1 MX HD" tvg-logo="http://xdgo.live:8080/images/6fa8d34271f68b34c3fb05802e9b48f3.jpg" group-title="DEPORTES",FOX SPORTS 1 MX HD
@@ -2103,10 +2105,6 @@ http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/60565
 http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/60568
 #EXTINF:-1 tvg-id="STAR PLUS  ESPN PPV FHD op2" tvg-name="STAR PLUS  ESPN PPV FHD op2"  group-title="EVENTOS PPV",STAR PLUS  ESPN PPV FHD op2
 http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/60567
-#EXTINF:-1 tvg-id="STAR PLUS  ESPN PPV HD op3" tvg-name="STAR PLUS  ESPN PPV HD op3"  group-title="EVENTOS PPV",STAR PLUS  ESPN PPV HD op3
-http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/58915
-#EXTINF:-1 tvg-id="STAR PLUS  ESPN PPV HD op4" tvg-name="STAR PLUS  ESPN PPV HD op4"  group-title="EVENTOS PPV",STAR PLUS  ESPN PPV HD op4
-http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/53828
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 1 PE FHD" tvg-name="DIRECTV SPORTS PPV 1" group-title="EVENTOS PPV",DIRECTV SPORTS PPV 1
 http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/51077
 #EXTINF:-1 tvg-id="DIRECTV SPORTS  PLUS  FHD" tvg-name="DIRECTV SPORTS PPV 2" group-title="EVENTOS PPV",DIRECTV SPORTS PPV 2
@@ -2145,8 +2143,6 @@ http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/22227
 http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/2458
 #EXTINF:-1 tvg-id="HN CHTV" tvg-name="HN CHTV" group-title="HONDURAS",HN CHTV
 http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/22244
-#EXTINF:-1 tvg-id="HN EBENEZER" tvg-name="HN EBENEZER" group-title="HONDURAS",HN EBENEZER
-http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/2456
 #EXTINF:-1 tvg-id="HN HCH HD" tvg-name="HN HCH" group-title="HONDURAS",HN HCH
 http://xdgo.live:8080/40_katherinediaz_k/BfbfD9V2ex/2454
 #EXTINF:-1 tvg-id="HN MEGATV" tvg-name="HN MEGATV" group-title="HONDURAS",HN MEGATV
@@ -32245,6 +32241,44 @@ http://xdgo.live:8080/series/40_katherinediaz_k/BfbfD9V2ex/41776.mkv
 http://xdgo.live:8080/series/40_katherinediaz_k/BfbfD9V2ex/42114.mkv
 #EXTINF:-1 tvg-id="WandaVision S01 E09" tvg-name="WandaVision S01 E09"  group-title="WANDAVISION",WandaVision S01 E09
 http://xdgo.live:8080/series/40_katherinediaz_k/BfbfD9V2ex/42412.mkv
+#EXTINF:-1 tvg-id="Moonfall (2022)" tvg-name="Moonfall (2022)" tvg-logo="http://xdgo.live:8080/images/5721299da112d3e9c9001c12c468e296.jpg" group-title="VFLIX ESTRENOS",Moonfall (2022)
+http://xdgo.live:8080/movie/40_katherinediaz_k/BfbfD9V2ex/63987.mkv
+#EXTINF:-1 tvg-id="Alice (2022)" tvg-name="Alice (2022)" tvg-logo="http://xdgo.live:8080/images/0d15ebca66ee23295c1d5c0ff84e8fa5.jpg" group-title="VFLIX ESTRENOS",Alice (2022)
+http://xdgo.live:8080/movie/40_katherinediaz_k/BfbfD9V2ex/63976.mkv
+#EXTINF:-1 tvg-id="Batalla: Freestyle (2022)" tvg-name="Batalla: Freestyle (2022)" tvg-logo="http://xdgo.live:8080/images/96d8c74da1bc6458f61d46228aba6efb.jpg" group-title="VFLIX ESTRENOS",Batalla: Freestyle (2022)
+http://xdgo.live:8080/movie/40_katherinediaz_k/BfbfD9V2ex/63977.mkv
+#EXTINF:-1 tvg-id="El sueño de Nate (2022)" tvg-name="El sueño de Nate (2022)" tvg-logo="http://xdgo.live:8080/images/9bb692e767f3f53d173714c8af9ea668.jpg" group-title="VFLIX ESTRENOS",El sueño de Nate (2022)
+http://xdgo.live:8080/movie/40_katherinediaz_k/BfbfD9V2ex/63978.mkv
+#EXTINF:-1 tvg-id="Bull Shark (2022)" tvg-name="Bull Shark (2022)" tvg-logo="http://xdgo.live:8080/images/edecfb57e4527e837acce65b68e252e8.jpg" group-title="VFLIX ESTRENOS",Bull Shark (2022)
+http://xdgo.live:8080/movie/40_katherinediaz_k/BfbfD9V2ex/63979.mkv
+#EXTINF:-1 tvg-id="Captain Nova (2021)" tvg-name="Captain Nova (2021)" tvg-logo="http://xdgo.live:8080/images/9f457b97b4dd2f2c57cf7f65618f57c3.jpg" group-title="VFLIX ESTRENOS",Captain Nova (2021)
+http://xdgo.live:8080/movie/40_katherinediaz_k/BfbfD9V2ex/63980.mkv
+#EXTINF:-1 tvg-id="Competencia Oficial (2021)" tvg-name="Competencia Oficial (2021)" tvg-logo="http://xdgo.live:8080/images/f98b3ebfc861b4f3020bd28337b67335.jpg" group-title="VFLIX ESTRENOS",Competencia Oficial (2021)
+http://xdgo.live:8080/movie/40_katherinediaz_k/BfbfD9V2ex/63981.mkv
+#EXTINF:-1 tvg-id="Muerte en el Nilo (2022)" tvg-name="Muerte en el Nilo (2022)" tvg-logo="http://xdgo.live:8080/images/d27dbf901864f7c27d99586bbf0e2fda.jpg" group-title="VFLIX ESTRENOS",Muerte en el Nilo (2022)
+http://xdgo.live:8080/movie/40_katherinediaz_k/BfbfD9V2ex/63982.mkv
+#EXTINF:-1 tvg-id="El Rezador (2021)" tvg-name="El Rezador (2021)" tvg-logo="http://xdgo.live:8080/images/ef2516fa5ef883c2d291e5eea4b8fd51.jpg" group-title="VFLIX ESTRENOS",El Rezador (2021)
+http://xdgo.live:8080/movie/40_katherinediaz_k/BfbfD9V2ex/63983.mkv
+#EXTINF:-1 tvg-id="Every Last One of Them (2021)" tvg-name="Every Last One of Them (2021)" tvg-logo="http://xdgo.live:8080/images/766d1844540f7a4eeb23ccbe209a7250.jpg" group-title="VFLIX ESTRENOS",Every Last One of Them (2021)
+http://xdgo.live:8080/movie/40_katherinediaz_k/BfbfD9V2ex/63984.mkv
+#EXTINF:-1 tvg-id="Furia (2021)" tvg-name="Furia (2021)" tvg-logo="http://xdgo.live:8080/images/83a0088d477c599e6bf8736a22fc6d8f.jpg" group-title="VFLIX ESTRENOS",Furia (2021)
+http://xdgo.live:8080/movie/40_katherinediaz_k/BfbfD9V2ex/63985.mkv
+#EXTINF:-1 tvg-id="Karem La Posesion (2021)" tvg-name="Karem La Posesion (2021)" tvg-logo="http://xdgo.live:8080/images/0409d0d20ba7aa64260219e47073bfe9.jpg" group-title="VFLIX ESTRENOS",Karem La Posesion (2021)
+http://xdgo.live:8080/movie/40_katherinediaz_k/BfbfD9V2ex/63986.mkv
+#EXTINF:-1 tvg-id="Moonshot (2022)" tvg-name="Moonshot (2022)" tvg-logo="http://xdgo.live:8080/images/41dc0db3ffe341941ec9623b1335b9db.jpg" group-title="VFLIX ESTRENOS",Moonshot (2022)
+http://xdgo.live:8080/movie/40_katherinediaz_k/BfbfD9V2ex/63988.mkv
+#EXTINF:-1 tvg-id="Premios Oscar 2022" tvg-name="Premios Oscar 2022" tvg-logo="http://xdgo.live:8080/images/139cfd5b9fb1377cd0fe254589be718b.jpg" group-title="VFLIX ESTRENOS",Premios Oscar 2022
+http://xdgo.live:8080/movie/40_katherinediaz_k/BfbfD9V2ex/63989.mkv
+#EXTINF:-1 tvg-id="Corre y dispara (2022)" tvg-name="Corre y dispara (2022)" tvg-logo="http://xdgo.live:8080/images/839485f46bde51ae3eefc31beb82f22e.jpg" group-title="VFLIX ESTRENOS",Corre y dispara (2022)
+http://xdgo.live:8080/movie/40_katherinediaz_k/BfbfD9V2ex/63990.mkv
+#EXTINF:-1 tvg-id="Siempre en el mejor momento (2022)" tvg-name="Siempre en el mejor momento (2022)" tvg-logo="http://xdgo.live:8080/images/a4af84df658246af294ebfd6d8cd594d.jpg" group-title="VFLIX ESTRENOS",Siempre en el mejor momento (2022)
+http://xdgo.live:8080/movie/40_katherinediaz_k/BfbfD9V2ex/63991.mkv
+#EXTINF:-1 tvg-id="The Contractor (2022)" tvg-name="The Contractor (2022)" tvg-logo="http://xdgo.live:8080/images/844dd76041517ca993f0980e419d9fde.jpg" group-title="VFLIX ESTRENOS",The Contractor (2022)
+http://xdgo.live:8080/movie/40_katherinediaz_k/BfbfD9V2ex/63992.mkv
+#EXTINF:-1 tvg-id="El sastre de la mafia (2022)" tvg-name="El sastre de la mafia (2022)" tvg-logo="http://xdgo.live:8080/images/7064a7830ec5abc034480048dd02c315.jpg" group-title="VFLIX ESTRENOS",El sastre de la mafia (2022)
+http://xdgo.live:8080/movie/40_katherinediaz_k/BfbfD9V2ex/63993.mkv
+#EXTINF:-1 tvg-id="La Guerra de los mundos: Destrucción total (2021)" tvg-name="La Guerra de los mundos: Destrucción total (2021)" tvg-logo="http://xdgo.live:8080/images/d80245036e726c659d3c086d0885ee88.jpg" group-title="VFLIX ESTRENOS",La Guerra de los mundos: Destrucción total (2021)
+http://xdgo.live:8080/movie/40_katherinediaz_k/BfbfD9V2ex/63994.mkv
 #EXTINF:-1 tvg-id="Jackass Forever (2022)" tvg-name="Jackass Forever (2022)" tvg-logo="http://xdgo.live:8080/images/01b8fcf955e2e2589f57fa72bda6e1fe.jpg" group-title="VFLIX ESTRENOS",Jackass Forever (2022)
 http://xdgo.live:8080/movie/40_katherinediaz_k/BfbfD9V2ex/63175.mkv
 #EXTINF:-1 tvg-id="Cangrejo Negro (2022)" tvg-name="Cangrejo Negro (2022)" tvg-logo="http://xdgo.live:8080/images/39a030f6d1738405a7b001d67cbc3f07.jpg" group-title="VFLIX ESTRENOS",Cangrejo Negro (2022)
