@@ -285,7 +285,7 @@ http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/1115
 http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/53877
 #EXTINF:-1 tvg-id="CO EL TIEMPO HD" tvg-name="CO EL TIEMPO HD" tvg-logo="http://xdgo.live:8080/images/7999dcc0df9674f4dc6aa17247ccf894.jpg" group-title="COLOMBIA",CO EL TIEMPO HD
 http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/1117
-#EXTINF:-1 tvg-id="CO LA KALLE HD" tvg-name="CO LA KALLE HD" tvg-logo="https://static.radio.es/images/broadcasts/fd/0c/115270/1/c175.png" group-title="COLOMBIA",CO LA KALLE HD
+#EXTINF:-1 tvg-id="CO LA KALLE HD" tvg-name="CO LA KALLE HD" tvg-logo="http://xdgo.live:8080/images/d0e6a706b74826465f1b29256e278d9e.png" group-title="COLOMBIA",CO LA KALLE HD
 http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/1118
 #EXTINF:-1 tvg-id="CO NTN24 HD" tvg-name="CO NTN24 HD" tvg-logo="https://www.freeetv.com/images/reydddd/ntn24.jpg" group-title="COLOMBIA",CO NTN24 HD
 http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/1119
@@ -2111,202 +2111,152 @@ http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/53231
 http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/54379
 #EXTINF:-1 tvg-id="DIRECTV SPORTS PPV 6" tvg-name="DIRECTV SPORTS PPV 6"  group-title="EVENTOS PPV",DIRECTV SPORTS PPV 6
 http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/54393
-#EXTINF:-1 tvg-id="PPV PLUS Softball (NCAA) LSU at Georgia 12:00 PM EST ( ESPNU)" tvg-name="PPV PLUS Softball (NCAA) LSU at Georgia 12:00 PM EST ( ESPNU)"  group-title="EVENTOS PPV",PPV PLUS Softball (NCAA) LSU at Georgia 12:00 PM EST ( ESPNU)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64454
-#EXTINF:-1 tvg-id="PPV PLUS Softball (NCAA) Ohio State at Michigan 12:00 PM EST ( ESPN2)" tvg-name="PPV PLUS Softball (NCAA) Ohio State at Michigan 12:00 PM EST ( ESPN2)"  group-title="EVENTOS PPV",PPV PLUS Softball (NCAA) Ohio State at Michigan 12:00 PM EST ( ESPN2)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64455
-#EXTINF:-1 tvg-id="PPV PLUS Baseball (NCAA) Nebraska at Indiana 12:00 PM EST ( BTN)" tvg-name="PPV PLUS Baseball (NCAA) Nebraska at Indiana 12:00 PM EST ( BTN)"  group-title="EVENTOS PPV",PPV PLUS Baseball (NCAA) Nebraska at Indiana 12:00 PM EST ( BTN)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64456
-#EXTINF:-1 tvg-id="PPV PLUS Softball (NCAA) Louisville at Virginia Tech 12:00 PM EST ( ACCN)" tvg-name="PPV PLUS Softball (NCAA) Louisville at Virginia Tech 12:00 PM EST ( ACCN)"  group-title="EVENTOS PPV",PPV PLUS Softball (NCAA) Louisville at Virginia Tech 12:00 PM EST ( ACCN)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64457
-#EXTINF:-1 tvg-id="PPV PLUS Auto Racing MotoAmerica LIVE Road Atlanta - Race 2 1:00 PM EST ( MAVTV)" tvg-name="PPV PLUS Auto Racing MotoAmerica LIVE Road Atlanta - Race 2 1:00 PM EST ( MAVTV)"  group-title="EVENTOS PPV",PPV PLUS Auto Racing MotoAmerica LIVE Road Atlanta - Race 2 1:00 PM EST ( MAVTV)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64458
-#EXTINF:-1 tvg-id="PPV PLUS Golf (Pro) PGA Zurich Classic of New Orleans,PPV PLUS Final Round 1:00 PM EST ( Golf)" tvg-name="PPV PLUS Golf (Pro) PGA Zurich Classic of New Orleans,PPV PLUS Final Round 1:00 PM EST ( Golf)"  group-title="EVENTOS PPV",PPV PLUS Golf (Pro) PGA Zurich Classic of New Orleans,PPV PLUS Final Round 1:00 PM EST ( Golf)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64459
-#EXTINF:-1 tvg-id="PPV PLUS Soccer (Liga MX) Atlas at Toluca 1:00 PM EST ( UNIe)" tvg-name="PPV PLUS Soccer (Liga MX) Atlas at Toluca 1:00 PM EST ( UNIe)"  group-title="EVENTOS PPV",PPV PLUS Soccer (Liga MX) Atlas at Toluca 1:00 PM EST ( UNIe)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64460
-#EXTINF:-1 tvg-id="PPV PLUS Soccer (MLS) Atlanta United FC at Inter Miami CF 1:00 PM EST ( ESPDR)" tvg-name="PPV PLUS Soccer (MLS) Atlanta United FC at Inter Miami CF 1:00 PM EST ( ESPDR)"  group-title="EVENTOS PPV",PPV PLUS Soccer (MLS) Atlanta United FC at Inter Miami CF 1:00 PM EST ( ESPDR)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64461
-#EXTINF:-1 tvg-id="PPV PLUS Soccer (Portugal) Estoril at Belenenses 1:00 PM EST ( GOL)" tvg-name="PPV PLUS Soccer (Portugal) Estoril at Belenenses 1:00 PM EST ( GOL)"  group-title="EVENTOS PPV",PPV PLUS Soccer (Portugal) Estoril at Belenenses 1:00 PM EST ( GOL)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64462
-#EXTINF:-1 tvg-id="PPV PLUS Hockey (NHL) Detroit Red Wings at New Jersey Devils 1:00 PM EST ( NHL)" tvg-name="PPV PLUS Hockey (NHL) Detroit Red Wings at New Jersey Devils 1:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV PLUS Hockey (NHL) Detroit Red Wings at New Jersey Devils 1:00 PM EST ( NHL)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64463
-#EXTINF:-1 tvg-id="PPV PLUS Hockey (NHL) Carolina Hurricanes at New York Islanders 1:00 PM EST ( NHL)" tvg-name="PPV PLUS Hockey (NHL) Carolina Hurricanes at New York Islanders 1:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV PLUS Hockey (NHL) Carolina Hurricanes at New York Islanders 1:00 PM EST ( NHL)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64464
-#EXTINF:-1 tvg-id="PPV PLUS Hockey (NHL) Edmonton Oilers at Columbus Blue Jackets 1:00 PM EST ( NHL)" tvg-name="PPV PLUS Hockey (NHL) Edmonton Oilers at Columbus Blue Jackets 1:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV PLUS Hockey (NHL) Edmonton Oilers at Columbus Blue Jackets 1:00 PM EST ( NHL)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64465
-#EXTINF:-1 tvg-id="PPV PLUS Basketball (NBA) Milwaukee Bucks at Chicago Bulls 1:00 PM EST ( ABC)" tvg-name="PPV PLUS Basketball (NBA) Milwaukee Bucks at Chicago Bulls 1:00 PM EST ( ABC)"  group-title="EVENTOS PPV",PPV PLUS Basketball (NBA) Milwaukee Bucks at Chicago Bulls 1:00 PM EST ( ABC)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64466
-#EXTINF:-1 tvg-id="PPV PLUS Baseball (MLB) Boston Red Sox at Tampa Bay Rays 1:10 PM EST ( foxp)" tvg-name="PPV PLUS Baseball (MLB) Boston Red Sox at Tampa Bay Rays 1:10 PM EST ( foxp)"  group-title="EVENTOS PPV",PPV PLUS Baseball (MLB) Boston Red Sox at Tampa Bay Rays 1:10 PM EST ( foxp)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64467
-#EXTINF:-1 tvg-id="PPV PLUS Baseball (NCAA) North Carolina at Virginia 2:00 PM EST ( ESPNU)" tvg-name="PPV PLUS Baseball (NCAA) North Carolina at Virginia 2:00 PM EST ( ESPNU)"  group-title="EVENTOS PPV",PPV PLUS Baseball (NCAA) North Carolina at Virginia 2:00 PM EST ( ESPNU)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64468
-#EXTINF:-1 tvg-id="PPV PLUS Baseball (NCAA) Georgia at Alabama 2:00 PM EST ( ESPN2)" tvg-name="PPV PLUS Baseball (NCAA) Georgia at Alabama 2:00 PM EST ( ESPN2)"  group-title="EVENTOS PPV",PPV PLUS Baseball (NCAA) Georgia at Alabama 2:00 PM EST ( ESPN2)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64469
-#EXTINF:-1 tvg-id="PPV PLUS Auto Racing NASCAR RaceDay Talladega 2:00 PM EST ( FS1)" tvg-name="PPV PLUS Auto Racing NASCAR RaceDay Talladega 2:00 PM EST ( FS1)"  group-title="EVENTOS PPV",PPV PLUS Auto Racing NASCAR RaceDay Talladega 2:00 PM EST ( FS1)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64470
-#EXTINF:-1 tvg-id="PPV PLUS Baseball (NCAA) Duke at Georgia Tech 2:00 PM EST ( ACCN)" tvg-name="PPV PLUS Baseball (NCAA) Duke at Georgia Tech 2:00 PM EST ( ACCN)"  group-title="EVENTOS PPV",PPV PLUS Baseball (NCAA) Duke at Georgia Tech 2:00 PM EST ( ACCN)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64471
-#EXTINF:-1 tvg-id="PPV PLUS Soccer (Ligue1) Reims vs Olympique Marseille 2:45 PM EST ( PPV)" tvg-name="PPV PLUS Soccer (Ligue1) Reims vs Olympique Marseille 2:45 PM EST ( PPV)"  group-title="EVENTOS PPV",PPV PLUS Soccer (Ligue1) Reims vs Olympique Marseille 2:45 PM EST ( PPV)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64472
-#EXTINF:-1 tvg-id="PPV PLUS Soccer (Serie A) Lazio vs Milan 2:45 PM EST ( ESP)" tvg-name="PPV PLUS Soccer (Serie A) Lazio vs Milan 2:45 PM EST ( ESP)"  group-title="EVENTOS PPV",PPV PLUS Soccer (Serie A) Lazio vs Milan 2:45 PM EST ( ESP)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64473
-#EXTINF:-1 tvg-id="PPV PLUS Soccer (Serie A) Lazio vs Milan 2:45 PM EST ( ENG)" tvg-name="PPV PLUS Soccer (Serie A) Lazio vs Milan 2:45 PM EST ( ENG)"  group-title="EVENTOS PPV",PPV PLUS Soccer (Serie A) Lazio vs Milan 2:45 PM EST ( ENG)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64474
-#EXTINF:-1 tvg-id="PPV PLUS Soccer (La Liga) Barcelona vs Rayo Vallecano 2:45 PM EST ( ESP)" tvg-name="PPV PLUS Soccer (La Liga) Barcelona vs Rayo Vallecano 2:45 PM EST ( ESP)"  group-title="EVENTOS PPV",PPV PLUS Soccer (La Liga) Barcelona vs Rayo Vallecano 2:45 PM EST ( ESP)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64475
-#EXTINF:-1 tvg-id="PPV PLUS Soccer (La Liga) Barcelona vs Rayo Vallecano 2:45 PM EST ( ENG)" tvg-name="PPV PLUS Soccer (La Liga) Barcelona vs Rayo Vallecano 2:45 PM EST ( ENG)"  group-title="EVENTOS PPV",PPV PLUS Soccer (La Liga) Barcelona vs Rayo Vallecano 2:45 PM EST ( ENG)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64476
-#EXTINF:-1 tvg-id="PPV PLUS Golf (Pro) ClubCorp Classic Final Round 3:00 PM EST ( Golf)" tvg-name="PPV PLUS Golf (Pro) ClubCorp Classic Final Round 3:00 PM EST ( Golf)"  group-title="EVENTOS PPV",PPV PLUS Golf (Pro) ClubCorp Classic Final Round 3:00 PM EST ( Golf)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64477
-#EXTINF:-1 tvg-id="PPV PLUS Baseball (NCAA) Michigan State at Northwestern 3:00 PM EST ( BTN)" tvg-name="PPV PLUS Baseball (NCAA) Michigan State at Northwestern 3:00 PM EST ( BTN)"  group-title="EVENTOS PPV",PPV PLUS Baseball (NCAA) Michigan State at Northwestern 3:00 PM EST ( BTN)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64478
-#EXTINF:-1 tvg-id="PPV PLUS Soccer (MLS) New York Red Bulls at Orlando City SC 3:30 PM EST ( ESPN)" tvg-name="PPV PLUS Soccer (MLS) New York Red Bulls at Orlando City SC 3:30 PM EST ( ESPN)"  group-title="EVENTOS PPV",PPV PLUS Soccer (MLS) New York Red Bulls at Orlando City SC 3:30 PM EST ( ESPN)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64479
-#EXTINF:-1 tvg-id="PPV PLUS Basketball (NBA) Golden State Warriors at Denver Nuggets 3:30 PM EST ( ABC)" tvg-name="PPV PLUS Basketball (NBA) Golden State Warriors at Denver Nuggets 3:30 PM EST ( ABC)"  group-title="EVENTOS PPV",PPV PLUS Basketball (NBA) Golden State Warriors at Denver Nuggets 3:30 PM EST ( ABC)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64480
-#EXTINF:-1 tvg-id="PPV PLUS Hockey (NHL) Pittsburgh Penguins at Philadelphia Flyers 4:00 PM EST ( TNT)" tvg-name="PPV PLUS Hockey (NHL) Pittsburgh Penguins at Philadelphia Flyers 4:00 PM EST ( TNT)"  group-title="EVENTOS PPV",PPV PLUS Hockey (NHL) Pittsburgh Penguins at Philadelphia Flyers 4:00 PM EST ( TNT)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64481
-#EXTINF:-1 tvg-id="PPV PLUS Tennis (Pro) Women's College SEC Championship 4:30 PM EST ( SEC)" tvg-name="PPV PLUS Tennis (Pro) Women's College SEC Championship 4:30 PM EST ( SEC)"  group-title="EVENTOS PPV",PPV PLUS Tennis (Pro) Women's College SEC Championship 4:30 PM EST ( SEC)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64482
-#EXTINF:-1 tvg-id="PPV PLUS Soccer (MLS) Los Angeles FC at FC Cincinnati 5:00 PM EST ( FS1)" tvg-name="PPV PLUS Soccer (MLS) Los Angeles FC at FC Cincinnati 5:00 PM EST ( FS1)"  group-title="EVENTOS PPV",PPV PLUS Soccer (MLS) Los Angeles FC at FC Cincinnati 5:00 PM EST ( FS1)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64483
-#EXTINF:-1 tvg-id="PPV PLUS Soccer (MLS) Toronto FC at New York City FC 5:00 PM EST ( MLS)" tvg-name="PPV PLUS Soccer (MLS) Toronto FC at New York City FC 5:00 PM EST ( MLS)"  group-title="EVENTOS PPV",PPV PLUS Soccer (MLS) Toronto FC at New York City FC 5:00 PM EST ( MLS)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64484
-#EXTINF:-1 tvg-id="PPV PLUS Soccer (NWSL) Racing Louisville FC at Houston Dash 6:00 PM EST ( CBSSN)" tvg-name="PPV PLUS Soccer (NWSL) Racing Louisville FC at Houston Dash 6:00 PM EST ( CBSSN)"  group-title="EVENTOS PPV",PPV PLUS Soccer (NWSL) Racing Louisville FC at Houston Dash 6:00 PM EST ( CBSSN)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64485
-#EXTINF:-1 tvg-id="PPV PLUS Soccer (Liga MX) Atletico de San Luis at Cruz Azul 6:00 PM EST ( UNIe)" tvg-name="PPV PLUS Soccer (Liga MX) Atletico de San Luis at Cruz Azul 6:00 PM EST ( UNIe)"  group-title="EVENTOS PPV",PPV PLUS Soccer (Liga MX) Atletico de San Luis at Cruz Azul 6:00 PM EST ( UNIe)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64486
-#EXTINF:-1 tvg-id="PPV PLUS Golf (Pro) LPGA DIO Implant LA Open,PPV PLUS Final Round 7:00 PM EST ( Golf)" tvg-name="PPV PLUS Golf (Pro) LPGA DIO Implant LA Open,PPV PLUS Final Round 7:00 PM EST ( Golf)"  group-title="EVENTOS PPV",PPV PLUS Golf (Pro) LPGA DIO Implant LA Open,PPV PLUS Final Round 7:00 PM EST ( Golf)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64487
-#EXTINF:-1 tvg-id="PPV PLUS Basketball (NBA) Miami Heat at Atlanta Hawks 7:00 PM EST ( TNT)" tvg-name="PPV PLUS Basketball (NBA) Miami Heat at Atlanta Hawks 7:00 PM EST ( TNT)"  group-title="EVENTOS PPV",PPV PLUS Basketball (NBA) Miami Heat at Atlanta Hawks 7:00 PM EST ( TNT)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64488
-#EXTINF:-1 tvg-id="PPV PLUS Softball (NCAA) Missouri at Kentucky 7:00 PM EST ( SEC)" tvg-name="PPV PLUS Softball (NCAA) Missouri at Kentucky 7:00 PM EST ( SEC)"  group-title="EVENTOS PPV",PPV PLUS Softball (NCAA) Missouri at Kentucky 7:00 PM EST ( SEC)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64489
-#EXTINF:-1 tvg-id="PPV PLUS Hockey (NHL) Boston Bruins at Montreal Canadiens 7:00 PM EST ( NHL)" tvg-name="PPV PLUS Hockey (NHL) Boston Bruins at Montreal Canadiens 7:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV PLUS Hockey (NHL) Boston Bruins at Montreal Canadiens 7:00 PM EST ( NHL)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64490
-#EXTINF:-1 tvg-id="PPV PLUS Hockey (NHL) Colorado Avalanche at Winnipeg Jets 7:00 PM EST ( NHL)" tvg-name="PPV PLUS Hockey (NHL) Colorado Avalanche at Winnipeg Jets 7:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV PLUS Hockey (NHL) Colorado Avalanche at Winnipeg Jets 7:00 PM EST ( NHL)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64491
-#EXTINF:-1 tvg-id="PPV PLUS Baseball (MLB) Milwaukee Brewers at Philadelphia Phillies 7:08 PM EST ( ESPND)" tvg-name="PPV PLUS Baseball (MLB) Milwaukee Brewers at Philadelphia Phillies 7:08 PM EST ( ESPND)"  group-title="EVENTOS PPV",PPV PLUS Baseball (MLB) Milwaukee Brewers at Philadelphia Phillies 7:08 PM EST ( ESPND)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64492
-#EXTINF:-1 tvg-id="PPV PLUS Hockey (NHL) Minnesota Wild at Nashville Predators 8:00 PM EST ( NHL)" tvg-name="PPV PLUS Hockey (NHL) Minnesota Wild at Nashville Predators 8:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV PLUS Hockey (NHL) Minnesota Wild at Nashville Predators 8:00 PM EST ( NHL)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64493
-#EXTINF:-1 tvg-id="PPV PLUS Soccer (Liga MX) Leon at Santos Laguna 8:00 PM EST ( FOXD)" tvg-name="PPV PLUS Soccer (Liga MX) Leon at Santos Laguna 8:00 PM EST ( FOXD)"  group-title="EVENTOS PPV",PPV PLUS Soccer (Liga MX) Leon at Santos Laguna 8:00 PM EST ( FOXD)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64494
-#EXTINF:-1 tvg-id="PPV PLUS Hockey (NHL) St. Louis Blues at Anaheim Ducks 8:30 PM EST ( NHL)" tvg-name="PPV PLUS Hockey (NHL) St. Louis Blues at Anaheim Ducks 8:30 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV PLUS Hockey (NHL) St. Louis Blues at Anaheim Ducks 8:30 PM EST ( NHL)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64495
-#EXTINF:-1 tvg-id="PPV PLUS Basketball (NBA) Phoenix Suns at New Orleans Pelicans 9:30 PM EST ( TNT)" tvg-name="PPV PLUS Basketball (NBA) Phoenix Suns at New Orleans Pelicans 9:30 PM EST ( TNT)"  group-title="EVENTOS PPV",PPV PLUS Basketball (NBA) Phoenix Suns at New Orleans Pelicans 9:30 PM EST ( TNT)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64496
-#EXTINF:-1 tvg-id="PPV PLUS Hockey (NHL) San Jose Sharks at Vegas Golden Knights 10:00 PM EST ( NHL)" tvg-name="PPV PLUS Hockey (NHL) San Jose Sharks at Vegas Golden Knights 10:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV PLUS Hockey (NHL) San Jose Sharks at Vegas Golden Knights 10:00 PM EST ( NHL)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64497
-#EXTINF:-1 tvg-id="PPV PLUS Soccer (Liga MX) Queretaro at Tijuana 10:06 PM EST ( FOXD)" tvg-name="PPV PLUS Soccer (Liga MX) Queretaro at Tijuana 10:06 PM EST ( FOXD)"  group-title="EVENTOS PPV",PPV PLUS Soccer (Liga MX) Queretaro at Tijuana 10:06 PM EST ( FOXD)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64498
-#EXTINF:-1 tvg-id="PPV PLUS Fury FC 60 Vera vs Moniz 5:30 PM EST (HD)" tvg-name="PPV PLUS Fury FC 60 Vera vs Moniz 5:30 PM EST (HD)"  group-title="EVENTOS PPV",PPV PLUS Fury FC 60 Vera vs Moniz 5:30 PM EST (HD)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64499
-#EXTINF:-1 tvg-id="PPV PLUS Fury FC 60 Vera vs Moniz 5:30 PM EST (SD)" tvg-name="PPV PLUS Fury FC 60 Vera vs Moniz 5:30 PM EST (SD)"  group-title="EVENTOS PPV",PPV PLUS Fury FC 60 Vera vs Moniz 5:30 PM EST (SD)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64500
-#EXTINF:-1 tvg-id="PPV PLUS MLB (AWAY) Giants vs. Nationals 1:05 PM EST (NBCSBA)" tvg-name="PPV PLUS MLB (AWAY) Giants vs. Nationals 1:05 PM EST (NBCSBA)"  group-title="EVENTOS PPV",PPV PLUS MLB (AWAY) Giants vs. Nationals 1:05 PM EST (NBCSBA)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64501
-#EXTINF:-1 tvg-id="PPV PLUS MLB (AWAY) Guardians vs. Yankees 1:05 PM EST (BSGL)" tvg-name="PPV PLUS MLB (AWAY) Guardians vs. Yankees 1:05 PM EST (BSGL)"  group-title="EVENTOS PPV",PPV PLUS MLB (AWAY) Guardians vs. Yankees 1:05 PM EST (BSGL)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64502
-#EXTINF:-1 tvg-id="PPV PLUS MLB (AWAY) Rockies vs. Tigers 1:10 PM EST (ATTR)" tvg-name="PPV PLUS MLB (AWAY) Rockies vs. Tigers 1:10 PM EST (ATTR)"  group-title="EVENTOS PPV",PPV PLUS MLB (AWAY) Rockies vs. Tigers 1:10 PM EST (ATTR)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64503
-#EXTINF:-1 tvg-id="PPV PLUS MLB (AWAY) Rangers vs. Athletics 4:07 PM EST (BSSWX)" tvg-name="PPV PLUS MLB (AWAY) Rangers vs. Athletics 4:07 PM EST (BSSWX)"  group-title="EVENTOS PPV",PPV PLUS MLB (AWAY) Rangers vs. Athletics 4:07 PM EST (BSSWX)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64504
-#EXTINF:-1 tvg-id="PPV PLUS MLB (AWAY) Pirates vs. Cubs 2:20 PM EST (ATTP)" tvg-name="PPV PLUS MLB (AWAY) Pirates vs. Cubs 2:20 PM EST (ATTP)"  group-title="EVENTOS PPV",PPV PLUS MLB (AWAY) Pirates vs. Cubs 2:20 PM EST (ATTP)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64505
-#EXTINF:-1 tvg-id="PPV PLUS MLB (AWAY) PLUS White Sox vs. Twins 4:05 PM EST (NBCSCH)" tvg-name="PPV PLUS MLB (AWAY) PLUS White Sox vs. Twins 4:05 PM EST (NBCSCH)"  group-title="EVENTOS PPV",PPV PLUS MLB (AWAY) PLUS White Sox vs. Twins 4:05 PM EST (NBCSCH)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64506
-#EXTINF:-1 tvg-id="PPV PLUS MLB (AWAY) Brewers vs. Phillies 4:05 PM EST (BSWI)" tvg-name="PPV PLUS MLB (AWAY) Brewers vs. Phillies 4:05 PM EST (BSWI)"  group-title="EVENTOS PPV",PPV PLUS MLB (AWAY) Brewers vs. Phillies 4:05 PM EST (BSWI)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64507
-#EXTINF:-1 tvg-id="PPV PLUS MLB (AWAY) Cardinals vs. Reds 4:10 PM EST (BSMW)" tvg-name="PPV PLUS MLB (AWAY) Cardinals vs. Reds 4:10 PM EST (BSMW)"  group-title="EVENTOS PPV",PPV PLUS MLB (AWAY) Cardinals vs. Reds 4:10 PM EST (BSMW)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64508
-#EXTINF:-1 tvg-id="PPV PLUS MLB (AWAY) Blue Jays vs. Astros 4:10 PM EST (SNET)" tvg-name="PPV PLUS MLB (AWAY) Blue Jays vs. Astros 4:10 PM EST (SNET)"  group-title="EVENTOS PPV",PPV PLUS MLB (AWAY) Blue Jays vs. Astros 4:10 PM EST (SNET)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64509
-#EXTINF:-1 tvg-id="PPV PLUS MLB (AWAY) Red Sox vs. Rays 6:10 PM EST PLUS (NESN)" tvg-name="PPV PLUS MLB (AWAY) Red Sox vs. Rays 6:10 PM EST PLUS (NESN)"  group-title="EVENTOS PPV",PPV PLUS MLB (AWAY) Red Sox vs. Rays 6:10 PM EST PLUS (NESN)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64510
-#EXTINF:-1 tvg-id="PPV PLUS MLB (AWAY) Rockies vs. Tigers 6:40 PM EST (ATTR)" tvg-name="PPV PLUS MLB (AWAY) Rockies vs. Tigers 6:40 PM EST (ATTR)"  group-title="EVENTOS PPV",PPV PLUS MLB (AWAY) Rockies vs. Tigers 6:40 PM EST (ATTR)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64511
-#EXTINF:-1 tvg-id="PPV PLUS MLB (AWAY) Marlins vs. Braves 7:20 PM EST PLUS (BSFL)" tvg-name="PPV PLUS MLB (AWAY) Marlins vs. Braves 7:20 PM EST PLUS (BSFL)"  group-title="EVENTOS PPV",PPV PLUS MLB (AWAY) Marlins vs. Braves 7:20 PM EST PLUS (BSFL)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64512
-#EXTINF:-1 tvg-id="PPV PLUS MLB (AWAY) Mets vs. D-backs 8:10 PM EST (WPIX)" tvg-name="PPV PLUS MLB (AWAY) Mets vs. D-backs 8:10 PM EST (WPIX)"  group-title="EVENTOS PPV",PPV PLUS MLB (AWAY) Mets vs. D-backs 8:10 PM EST (WPIX)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64513
-#EXTINF:-1 tvg-id="PPV PLUS MLB (AWAY) Dodgers vs. Padres 8:40 PM EST (SNLA)" tvg-name="PPV PLUS MLB (AWAY) Dodgers vs. Padres 8:40 PM EST (SNLA)"  group-title="EVENTOS PPV",PPV PLUS MLB (AWAY) Dodgers vs. Padres 8:40 PM EST (SNLA)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64514
-#EXTINF:-1 tvg-id="PPV PLUS MLB (AWAY) Orioles vs. Angels 9:07 PM EST (MASN)" tvg-name="PPV PLUS MLB (AWAY) Orioles vs. Angels 9:07 PM EST (MASN)"  group-title="EVENTOS PPV",PPV PLUS MLB (AWAY) Orioles vs. Angels 9:07 PM EST (MASN)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64515
-#EXTINF:-1 tvg-id="PPV PLUS MLB (HOME) Royals vs. Mariners 9:10 PM EST (RSNW)" tvg-name="PPV PLUS MLB (HOME) Royals vs. Mariners 9:10 PM EST (RSNW)"  group-title="EVENTOS PPV",PPV PLUS MLB (HOME) Royals vs. Mariners 9:10 PM EST (RSNW)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64516
-#EXTINF:-1 tvg-id="PPV PLUS MLB (AWAY) Royals vs. Mariners 9:10 PM EST (BSKC)" tvg-name="PPV PLUS MLB (AWAY) Royals vs. Mariners 9:10 PM EST (BSKC)"  group-title="EVENTOS PPV",PPV PLUS MLB (AWAY) Royals vs. Mariners 9:10 PM EST (BSKC)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64517
-#EXTINF:-1 tvg-id="MLS • Inter Miami CF vs Atlanta United FC (MLS)" tvg-name="MLS • Inter Miami CF vs Atlanta United FC (MLS)"  group-title="EVENTOS PPV",MLS • Inter Miami CF vs Atlanta United FC (MLS)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64518
-#EXTINF:-1 tvg-id="MLS • Inter Miami CF vs Atlanta United FC (MLS)" tvg-name="MLS • Inter Miami CF vs Atlanta United FC (MLS)"  group-title="EVENTOS PPV",MLS • Inter Miami CF vs Atlanta United FC (MLS)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64519
-#EXTINF:-1 tvg-id="NCAA Softball • Ohio State vs #22 Michigan (Softball)" tvg-name="NCAA Softball • Ohio State vs #22 Michigan (Softball)"  group-title="EVENTOS PPV",NCAA Softball • Ohio State vs #22 Michigan (Softball)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64520
-#EXTINF:-1 tvg-id="NCAA Softball • Binghamton vs Maine (Softball)" tvg-name="NCAA Softball • Binghamton vs Maine (Softball)"  group-title="EVENTOS PPV",NCAA Softball • Binghamton vs Maine (Softball)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64521
-#EXTINF:-1 tvg-id="NCAA Baseball • Manhattan vs Rider (Baseball)" tvg-name="NCAA Baseball • Manhattan vs Rider (Baseball)"  group-title="EVENTOS PPV",NCAA Baseball • Manhattan vs Rider (Baseball)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64522
-#EXTINF:-1 tvg-id="NCAA Baseball • Butler vs St John's (Baseball)" tvg-name="NCAA Baseball • Butler vs St John's (Baseball)"  group-title="EVENTOS PPV",NCAA Baseball • Butler vs St John's (Baseball)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64523
-#EXTINF:-1 tvg-id="NCAA Softball • Indiana State vs Southern Illinois (Softball)" tvg-name="NCAA Softball • Indiana State vs Southern Illinois (Softball)"  group-title="EVENTOS PPV",NCAA Softball • Indiana State vs Southern Illinois (Softball)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64524
-#EXTINF:-1 tvg-id="NCAA Baseball • Evansville vs Indiana State (Baseball)" tvg-name="NCAA Baseball • Evansville vs Indiana State (Baseball)"  group-title="EVENTOS PPV",NCAA Baseball • Evansville vs Indiana State (Baseball)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64525
-#EXTINF:-1 tvg-id="NCAA Golf • MAC Women's Golf Championship" tvg-name="NCAA Golf • MAC Women's Golf Championship"  group-title="EVENTOS PPV",NCAA Golf • MAC Women's Golf Championship
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64526
-#EXTINF:-1 tvg-id="NCAA Softball • En Espanol - Ohio State vs #22 Michigan (Softball)" tvg-name="NCAA Softball • En Espanol - Ohio State vs #22 Michigan (Softball)"  group-title="EVENTOS PPV",NCAA Softball • En Espanol - Ohio State vs #22 Michigan (Softball)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64527
-#EXTINF:-1 tvg-id="NCAA Softball • Kent State vs Toledo (Softball)" tvg-name="NCAA Softball • Kent State vs Toledo (Softball)"  group-title="EVENTOS PPV",NCAA Softball • Kent State vs Toledo (Softball)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64528
-#EXTINF:-1 tvg-id="NCAA Softball • Akron vs Bowling Green (Softball)" tvg-name="NCAA Softball • Akron vs Bowling Green (Softball)"  group-title="EVENTOS PPV",NCAA Softball • Akron vs Bowling Green (Softball)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64529
-#EXTINF:-1 tvg-id="NCAA Softball • Missouri State vs Loyola Chicago (Softball)" tvg-name="NCAA Softball • Missouri State vs Loyola Chicago (Softball)"  group-title="EVENTOS PPV",NCAA Softball • Missouri State vs Loyola Chicago (Softball)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64530
-#EXTINF:-1 tvg-id="NBA • Milwaukee PLUS Bucks vs Chicago Bulls (Primera Vuelta Partido #4)" tvg-name="NBA • Milwaukee PLUS Bucks vs Chicago Bulls (Primera Vuelta Partido #4)"  group-title="EVENTOS PPV",NBA • Milwaukee PLUS Bucks vs Chicago Bulls (Primera Vuelta Partido #4)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64531
-#EXTINF:-1 tvg-id="NCAA Softball • Valparaiso vs Drake (Softball)" tvg-name="NCAA Softball • Valparaiso vs Drake (Softball)"  group-title="EVENTOS PPV",NCAA Softball • Valparaiso vs Drake (Softball)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64532
-#EXTINF:-1 tvg-id="NCAA Baseball • Missouri State vs Valparaiso (Baseball)" tvg-name="NCAA Baseball • Missouri State vs Valparaiso (Baseball)"  group-title="EVENTOS PPV",NCAA Baseball • Missouri State vs Valparaiso (Baseball)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64533
-#EXTINF:-1 tvg-id="NCAA Baseball • Marist vs Monmouth (Baseball)" tvg-name="NCAA Baseball • Marist vs Monmouth (Baseball)"  group-title="EVENTOS PPV",NCAA Baseball • Marist vs Monmouth (Baseball)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64534
-#EXTINF:-1 tvg-id="NCAA Softball • Illinois State vs Northern Iowa (Softball)" tvg-name="NCAA Softball • Illinois State vs Northern Iowa (Softball)"  group-title="EVENTOS PPV",NCAA Softball • Illinois State vs Northern Iowa (Softball)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64535
-#EXTINF:-1 tvg-id="NBA • Above the Rim Cameras - Milwaukee PLUS Bucks vs Chicago Bulls" tvg-name="NBA • Above the Rim Cameras - Milwaukee PLUS Bucks vs Chicago Bulls"  group-title="EVENTOS PPV",NBA • Above the Rim Cameras - Milwaukee PLUS Bucks vs Chicago Bulls
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64536
-#EXTINF:-1 tvg-id="NBA • Milwaukee PLUS Bucks vs Chicago Bulls (First Round Game 4)" tvg-name="NBA • Milwaukee PLUS Bucks vs Chicago Bulls (First Round Game 4)"  group-title="EVENTOS PPV",NBA • Milwaukee PLUS Bucks vs Chicago Bulls (First Round Game 4)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64537
-#EXTINF:-1 tvg-id="NCAA Softball • #21 LSU vs #13 Georgia (Softball)" tvg-name="NCAA Softball • #21 LSU vs #13 Georgia (Softball)"  group-title="EVENTOS PPV",NCAA Softball • #21 LSU vs #13 Georgia (Softball)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64538
-#EXTINF:-1 tvg-id="• SEC Now" tvg-name="• SEC Now"  group-title="EVENTOS PPV",• SEC Now
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64539
-#EXTINF:-1 tvg-id="NCAA Baseball • #1 Tennessee vs Florida (Baseball)" tvg-name="NCAA Baseball • #1 Tennessee vs Florida (Baseball)"  group-title="EVENTOS PPV",NCAA Baseball • #1 Tennessee vs Florida (Baseball)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64540
-#EXTINF:-1 tvg-id="NCAA Baseball • Pittsburgh vs #5 Miami (Baseball)" tvg-name="NCAA Baseball • Pittsburgh vs #5 Miami (Baseball)"  group-title="EVENTOS PPV",NCAA Baseball • Pittsburgh vs #5 Miami (Baseball)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64541
-#EXTINF:-1 tvg-id="NCAA Baseball • NC State vs #16 Louisville (Baseball)" tvg-name="NCAA Baseball • NC State vs #16 Louisville (Baseball)"  group-title="EVENTOS PPV",NCAA Baseball • NC State vs #16 Louisville (Baseball)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64542
-#EXTINF:-1 tvg-id="NCAA Baseball • Florida State vs Clemson (Baseball)" tvg-name="NCAA Baseball • Florida State vs Clemson (Baseball)"  group-title="EVENTOS PPV",NCAA Baseball • Florida State vs Clemson (Baseball)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64543
-#EXTINF:-1 tvg-id="NCAA Softball • Charlotte vs Georgia Tech (Softball)" tvg-name="NCAA Softball • Charlotte vs Georgia Tech (Softball)"  group-title="EVENTOS PPV",NCAA Softball • Charlotte vs Georgia Tech (Softball)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64544
-#EXTINF:-1 tvg-id="• Texas GameDay Final Presented by The Zebra" tvg-name="• Texas GameDay Final Presented by The Zebra"  group-title="EVENTOS PPV",• Texas GameDay Final Presented by The Zebra
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64545
-#EXTINF:-1 tvg-id="13:25 ESPN2 SportsCenter PLUS  - SportsCenter PLUS " tvg-name="13:25 ESPN2 SportsCenter PLUS  - SportsCenter PLUS "  group-title="EVENTOS PPV",13:25 ESPN2 SportsCenter PLUS  - SportsCenter PLUS 
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64546
-#EXTINF:-1 tvg-id="13:00 ESPN RE-AIR Formula One - Formula 1 PLUS - PLUS GP Italia (Imola)" tvg-name="13:00 ESPN RE-AIR Formula One - Formula 1 PLUS - PLUS GP Italia (Imola)"  group-title="EVENTOS PPV",13:00 ESPN RE-AIR Formula One - Formula 1 PLUS - PLUS GP Italia (Imola)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64547
-#EXTINF:-1 tvg-id="12:00 ESPN3 RE-AIR FIH Pro League - Argentina vs Sudafrica" tvg-name="12:00 ESPN3 RE-AIR FIH Pro League - Argentina vs Sudafrica"  group-title="EVENTOS PPV",12:00 ESPN3 RE-AIR FIH Pro League - Argentina vs Sudafrica
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64548
-#EXTINF:-1 tvg-id="- SportsCenter (Fin de Semana)" tvg-name="- SportsCenter (Fin de Semana)"  group-title="EVENTOS PPV",- SportsCenter (Fin de Semana)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64549
-#EXTINF:-1 tvg-id="NBA - Milwaukee PLUS Bucks vs Chicago Bulls (First Round Game 4)" tvg-name="NBA - Milwaukee PLUS Bucks vs Chicago Bulls (First Round Game 4)"  group-title="EVENTOS PPV",NBA - Milwaukee PLUS Bucks vs Chicago Bulls (First Round Game 4)
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64550
-#EXTINF:-1 tvg-id="Major League Soccer - Inter Miami CF vs Atlanta United FC" tvg-name="Major League Soccer - Inter Miami CF vs Atlanta United FC"  group-title="EVENTOS PPV",Major League Soccer - Inter Miami CF vs Atlanta United FC
-http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64551
+#EXTINF:-1 tvg-id="PPV|| Softball (NCAA) Virginia Tech at Boston College 11:00 AM EST ( ACCN)" tvg-name="PPV|| Softball (NCAA) Virginia Tech at Boston College 11:00 AM EST ( ACCN)"  group-title="EVENTOS PPV",PPV|| Softball (NCAA) Virginia Tech at Boston College 11:00 AM EST ( ACCN)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64747
+#EXTINF:-1 tvg-id="PPV|| Soccer (EPL) Arsenal FC at West Ham United FC 11:30 AM EST ( USA)" tvg-name="PPV|| Soccer (EPL) Arsenal FC at West Ham United FC 11:30 AM EST ( USA)"  group-title="EVENTOS PPV",PPV|| Soccer (EPL) Arsenal FC at West Ham United FC 11:30 AM EST ( USA)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64748
+#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Philadelphia Union at Inter Miami CF 12:00 PM EST ( ESPN)" tvg-name="PPV|| Soccer (MLS) Philadelphia Union at Inter Miami CF 12:00 PM EST ( ESPN)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Philadelphia Union at Inter Miami CF 12:00 PM EST ( ESPN)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64749
+#EXTINF:-1 tvg-id="PPV|| Softball (NCAA) Florida at LSU 12:00 PM EST ( ESPN2)" tvg-name="PPV|| Softball (NCAA) Florida at LSU 12:00 PM EST ( ESPN2)"  group-title="EVENTOS PPV",PPV|| Softball (NCAA) Florida at LSU 12:00 PM EST ( ESPN2)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64750
+#EXTINF:-1 tvg-id="PPV|| Soccer (Serie A) Inter Milan at Udinese 12:00 PM EST ( CBSSN)" tvg-name="PPV|| Soccer (Serie A) Inter Milan at Udinese 12:00 PM EST ( CBSSN)"  group-title="EVENTOS PPV",PPV|| Soccer (Serie A) Inter Milan at Udinese 12:00 PM EST ( CBSSN)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64751
+#EXTINF:-1 tvg-id="PPV|| Softball (NCAA) Minnesota at Michigan 12:00 PM EST ( BTN)" tvg-name="PPV|| Softball (NCAA) Minnesota at Michigan 12:00 PM EST ( BTN)"  group-title="EVENTOS PPV",PPV|| Softball (NCAA) Minnesota at Michigan 12:00 PM EST ( BTN)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64752
+#EXTINF:-1 tvg-id="PPV|| Baseball (NCAA) Kentucky at Florida 12:00 PM EST ( SEC)" tvg-name="PPV|| Baseball (NCAA) Kentucky at Florida 12:00 PM EST ( SEC)"  group-title="EVENTOS PPV",PPV|| Baseball (NCAA) Kentucky at Florida 12:00 PM EST ( SEC)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64753
+#EXTINF:-1 tvg-id="PPV|| Soccer (La Liga) Real Sociedad at Rayo Vallecano 12:30 PM EST ( ESPDR)" tvg-name="PPV|| Soccer (La Liga) Real Sociedad at Rayo Vallecano 12:30 PM EST ( ESPDR)"  group-title="EVENTOS PPV",PPV|| Soccer (La Liga) Real Sociedad at Rayo Vallecano 12:30 PM EST ( ESPDR)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64754
+#EXTINF:-1 tvg-id="PPV|| Baseball (NCAA) Ole Miss at Arkansas 1:00 PM EST ( ESPN)" tvg-name="PPV|| Baseball (NCAA) Ole Miss at Arkansas 1:00 PM EST ( ESPN)"  group-title="EVENTOS PPV",PPV|| Baseball (NCAA) Ole Miss at Arkansas 1:00 PM EST ( ESPN)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64755
+#EXTINF:-1 tvg-id="PPV|| Golf (Pro) PGA Mexico Open at Vidanta, Final Round 1:00 PM EST ( Golf)" tvg-name="PPV|| Golf (Pro) PGA Mexico Open at Vidanta, Final Round 1:00 PM EST ( Golf)"  group-title="EVENTOS PPV",PPV|| Golf (Pro) PGA Mexico Open at Vidanta, Final Round 1:00 PM EST ( Golf)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64756
+#EXTINF:-1 tvg-id="PPV|| Soccer (Liga MX) Pachuca vs Pumas UNAM 1:00 PM EST ( UNIe)" tvg-name="PPV|| Soccer (Liga MX) Pachuca vs Pumas UNAM 1:00 PM EST ( UNIe)"  group-title="EVENTOS PPV",PPV|| Soccer (Liga MX) Pachuca vs Pumas UNAM 1:00 PM EST ( UNIe)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64757
+#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) San Jose Earthquakes at New York City FC 1:00 PM EST ( MLS)" tvg-name="PPV|| Soccer (MLS) San Jose Earthquakes at New York City FC 1:00 PM EST ( MLS)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) San Jose Earthquakes at New York City FC 1:00 PM EST ( MLS)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64758
+#EXTINF:-1 tvg-id="PPV|| Basketball (NBA) Milwaukee Bucks at Boston Celtics 1:00 PM EST ( ABC)" tvg-name="PPV|| Basketball (NBA) Milwaukee Bucks at Boston Celtics 1:00 PM EST ( ABC)"  group-title="EVENTOS PPV",PPV|| Basketball (NBA) Milwaukee Bucks at Boston Celtics 1:00 PM EST ( ABC)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64759
+#EXTINF:-1 tvg-id="PPV|| Softball (NCAA) Houston at South Florida 2:00 PM EST ( ESPNU)" tvg-name="PPV|| Softball (NCAA) Houston at South Florida 2:00 PM EST ( ESPNU)"  group-title="EVENTOS PPV",PPV|| Softball (NCAA) Houston at South Florida 2:00 PM EST ( ESPNU)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64760
+#EXTINF:-1 tvg-id="PPV|| Softball (NCAA) Ole Miss at Arkansas 2:00 PM EST ( ESPN2)" tvg-name="PPV|| Softball (NCAA) Ole Miss at Arkansas 2:00 PM EST ( ESPN2)"  group-title="EVENTOS PPV",PPV|| Softball (NCAA) Ole Miss at Arkansas 2:00 PM EST ( ESPN2)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64761
+#EXTINF:-1 tvg-id="PPV|| Auto Racing NASCAR RaceDay Dover 2:00 PM EST ( FS1)" tvg-name="PPV|| Auto Racing NASCAR RaceDay Dover 2:00 PM EST ( FS1)"  group-title="EVENTOS PPV",PPV|| Auto Racing NASCAR RaceDay Dover 2:00 PM EST ( FS1)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64762
+#EXTINF:-1 tvg-id="PPV|| Baseball (NCAA) Oklahoma State at Texas 2:00 PM EST ( LHN)" tvg-name="PPV|| Baseball (NCAA) Oklahoma State at Texas 2:00 PM EST ( LHN)"  group-title="EVENTOS PPV",PPV|| Baseball (NCAA) Oklahoma State at Texas 2:00 PM EST ( LHN)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64763
+#EXTINF:-1 tvg-id="PPV|| Hockey (NHL) Seattle Kraken at Winnipeg Jets 2:00 PM EST ( NHL)" tvg-name="PPV|| Hockey (NHL) Seattle Kraken at Winnipeg Jets 2:00 PM EST ( NHL)"  group-title="EVENTOS PPV",PPV|| Hockey (NHL) Seattle Kraken at Winnipeg Jets 2:00 PM EST ( NHL)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64764
+#EXTINF:-1 tvg-id="PPV|| Soccer (La Liga) Roma vs Bologna 2:45 PM EST (ENG)" tvg-name="PPV|| Soccer (La Liga) Roma vs Bologna 2:45 PM EST (ENG)"  group-title="EVENTOS PPV",PPV|| Soccer (La Liga) Roma vs Bologna 2:45 PM EST (ENG)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64765
+#EXTINF:-1 tvg-id="PPV|| Soccer (La Liga) Roma vs Bologna 2:45 PM EST (ESP)" tvg-name="PPV|| Soccer (La Liga) Roma vs Bologna 2:45 PM EST (ESP)"  group-title="EVENTOS PPV",PPV|| Soccer (La Liga) Roma vs Bologna 2:45 PM EST (ESP)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64766
+#EXTINF:-1 tvg-id="PPV|| Soccer (La Liga) Barcelona vs Mallorca 3:00 PM EST (ENG)" tvg-name="PPV|| Soccer (La Liga) Barcelona vs Mallorca 3:00 PM EST (ENG)"  group-title="EVENTOS PPV",PPV|| Soccer (La Liga) Barcelona vs Mallorca 3:00 PM EST (ENG)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64767
+#EXTINF:-1 tvg-id="PPV|| Soccer (La Liga) Barcelona vs Mallorca 3:00 PM EST (ESP)" tvg-name="PPV|| Soccer (La Liga) Barcelona vs Mallorca 3:00 PM EST (ESP)"  group-title="EVENTOS PPV",PPV|| Soccer (La Liga) Barcelona vs Mallorca 3:00 PM EST (ESP)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64768
+#EXTINF:-1 tvg-id="PPV|| Golf (Pro) PGA Tour Champions Golf Insperity Invitational, Final Round 3:00 PM EST ( Golf)" tvg-name="PPV|| Golf (Pro) PGA Tour Champions Golf Insperity Invitational, Final Round 3:00 PM EST ( Golf)"  group-title="EVENTOS PPV",PPV|| Golf (Pro) PGA Tour Champions Golf Insperity Invitational, Final Round 3:00 PM EST ( Golf)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64769
+#EXTINF:-1 tvg-id="PPV|| Baseball (NCAA) Mississippi State at Missouri 3:00 PM EST ( SEC)" tvg-name="PPV|| Baseball (NCAA) Mississippi State at Missouri 3:00 PM EST ( SEC)"  group-title="EVENTOS PPV",PPV|| Baseball (NCAA) Mississippi State at Missouri 3:00 PM EST ( SEC)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64772
+#EXTINF:-1 tvg-id="PPV|| Soccer (Portugal) Sporting Clube de Portugal at Gil Vicente 3:30 PM EST ( GOL)" tvg-name="PPV|| Soccer (Portugal) Sporting Clube de Portugal at Gil Vicente 3:30 PM EST ( GOL)"  group-title="EVENTOS PPV",PPV|| Soccer (Portugal) Sporting Clube de Portugal at Gil Vicente 3:30 PM EST ( GOL)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64773
+#EXTINF:-1 tvg-id="PPV|| Basketball (NBA) Golden State Warriors at Memphis Grizzlies 3:30 PM EST ( ABC)" tvg-name="PPV|| Basketball (NBA) Golden State Warriors at Memphis Grizzlies 3:30 PM EST ( ABC)"  group-title="EVENTOS PPV",PPV|| Basketball (NBA) Golden State Warriors at Memphis Grizzlies 3:30 PM EST ( ABC)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64774
+#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Philadelphia Union at Nashville SC 4:00 PM EST ( ESPN)" tvg-name="PPV|| Soccer (MLS) Philadelphia Union at Nashville SC 4:00 PM EST ( ESPN)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Philadelphia Union at Nashville SC 4:00 PM EST ( ESPN)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64775
+#EXTINF:-1 tvg-id="PPV|| Baseball (NCAA) UC Irvine at Cal State Long Beach 4:00 PM EST ( ESPNU)" tvg-name="PPV|| Baseball (NCAA) UC Irvine at Cal State Long Beach 4:00 PM EST ( ESPNU)"  group-title="EVENTOS PPV",PPV|| Baseball (NCAA) UC Irvine at Cal State Long Beach 4:00 PM EST ( ESPNU)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64776
+#EXTINF:-1 tvg-id="PPV|| Baseball (MLB) Detroit Tigers at LA Dodgers 4:10 PM EST ( FSPremium)" tvg-name="PPV|| Baseball (MLB) Detroit Tigers at LA Dodgers 4:10 PM EST ( FSPremium)"  group-title="EVENTOS PPV",PPV|| Baseball (MLB) Detroit Tigers at LA Dodgers 4:10 PM EST ( FSPremium)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64777
+#EXTINF:-1 tvg-id="PPV|| Soccer (Liga MX)	Atletico San Luis vs Santos Laguna 5:00 PM EST ( TUDN)" tvg-name="PPV|| Soccer (Liga MX)	Atletico San Luis vs Santos Laguna 5:00 PM EST ( TUDN)"  group-title="EVENTOS PPV",PPV|| Soccer (Liga MX)	Atletico San Luis vs Santos Laguna 5:00 PM EST ( TUDN)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64778
+#EXTINF:-1 tvg-id="PPV|| Golf (Pro) LPGA Palos Verdes Championship, Final Round 6:00 PM EST ( Golf)" tvg-name="PPV|| Golf (Pro) LPGA Palos Verdes Championship, Final Round 6:00 PM EST ( Golf)"  group-title="EVENTOS PPV",PPV|| Golf (Pro) LPGA Palos Verdes Championship, Final Round 6:00 PM EST ( Golf)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64779
+#EXTINF:-1 tvg-id="PPV|| Softball (NCAA) Tennessee at Ole Miss 6:00 PM EST ( SEC)" tvg-name="PPV|| Softball (NCAA) Tennessee at Ole Miss 6:00 PM EST ( SEC)"  group-title="EVENTOS PPV",PPV|| Softball (NCAA) Tennessee at Ole Miss 6:00 PM EST ( SEC)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64780
+#EXTINF:-1 tvg-id="PPV|| Soccer (Liga MX) Toluca at Leon 9:00 PM EST ( TUDN)" tvg-name="PPV|| Soccer (Liga MX) Toluca at Leon 9:00 PM EST ( TUDN)"  group-title="EVENTOS PPV",PPV|| Soccer (Liga MX) Toluca at Leon 9:00 PM EST ( TUDN)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64781
+#EXTINF:-1 tvg-id="PPV|| Soccer (MLS) Minnesota United FC at Los Angeles FC 10:00 PM EST ( FS1)" tvg-name="PPV|| Soccer (MLS) Minnesota United FC at Los Angeles FC 10:00 PM EST ( FS1)"  group-title="EVENTOS PPV",PPV|| Soccer (MLS) Minnesota United FC at Los Angeles FC 10:00 PM EST ( FS1)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64782
+#EXTINF:-1 tvg-id="LaLiga Santander • En Espanol - Rayo Vallecano vs Real Sociedad (LaLiga)" tvg-name="LaLiga Santander • En Espanol - Rayo Vallecano vs Real Sociedad (LaLiga)"  group-title="EVENTOS PPV",LaLiga Santander • En Espanol - Rayo Vallecano vs Real Sociedad (LaLiga)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64783
+#EXTINF:-1 tvg-id="• SportsCenter" tvg-name="• SportsCenter"  group-title="EVENTOS PPV",• SportsCenter
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64784
+#EXTINF:-1 tvg-id="NCAA Softball • #10 Florida vs #19 LSU (Softball)" tvg-name="NCAA Softball • #10 Florida vs #19 LSU (Softball)"  group-title="EVENTOS PPV",NCAA Softball • #10 Florida vs #19 LSU (Softball)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64785
+#EXTINF:-1 tvg-id="NCAA Women's Lacrosse • Davenport vs Grand Valley State (W Lacrosse)" tvg-name="NCAA Women's Lacrosse • Davenport vs Grand Valley State (W Lacrosse)"  group-title="EVENTOS PPV",NCAA Women's Lacrosse • Davenport vs Grand Valley State (W Lacrosse)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64786
+#EXTINF:-1 tvg-id="NCAA Softball • Quinnipiac vs Iona (Softball)" tvg-name="NCAA Softball • Quinnipiac vs Iona (Softball)"  group-title="EVENTOS PPV",NCAA Softball • Quinnipiac vs Iona (Softball)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64787
+#EXTINF:-1 tvg-id="NCAA Softball • Saint Peter's vs Canisius (Softball)" tvg-name="NCAA Softball • Saint Peter's vs Canisius (Softball)"  group-title="EVENTOS PPV",NCAA Softball • Saint Peter's vs Canisius (Softball)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64788
+#EXTINF:-1 tvg-id="NCAA Women's Tennis • Toledo vs Ball State (Championship)" tvg-name="NCAA Women's Tennis • Toledo vs Ball State (Championship)"  group-title="EVENTOS PPV",NCAA Women's Tennis • Toledo vs Ball State (Championship)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64789
+#EXTINF:-1 tvg-id="NCAA Baseball • Hartford vs Maine (Baseball)" tvg-name="NCAA Baseball • Hartford vs Maine (Baseball)"  group-title="EVENTOS PPV",NCAA Baseball • Hartford vs Maine (Baseball)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64790
+#EXTINF:-1 tvg-id="NCAA Softball • Hartford vs Binghamton (Softball)" tvg-name="NCAA Softball • Hartford vs Binghamton (Softball)"  group-title="EVENTOS PPV",NCAA Softball • Hartford vs Binghamton (Softball)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64791
+#EXTINF:-1 tvg-id="NBA • NBA Layup Lines" tvg-name="NBA • NBA Layup Lines"  group-title="EVENTOS PPV",NBA • NBA Layup Lines
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64792
+#EXTINF:-1 tvg-id="NBA • NBA Countdown Presented by Chime" tvg-name="NBA • NBA Countdown Presented by Chime"  group-title="EVENTOS PPV",NBA • NBA Countdown Presented by Chime
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64793
+#EXTINF:-1 tvg-id="NCAA Men's Lacrosse • Notre Dame vs Syracuse (M Lacrosse)" tvg-name="NCAA Men's Lacrosse • Notre Dame vs Syracuse (M Lacrosse)"  group-title="EVENTOS PPV",NCAA Men's Lacrosse • Notre Dame vs Syracuse (M Lacrosse)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64794
+#EXTINF:-1 tvg-id="NCAA Baseball • Kentucky vs Florida (Baseball)" tvg-name="NCAA Baseball • Kentucky vs Florida (Baseball)"  group-title="EVENTOS PPV",NCAA Baseball • Kentucky vs Florida (Baseball)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64795
+#EXTINF:-1 tvg-id="NCAA Softball • South Carolina vs #5 Arkansas (Softball)" tvg-name="NCAA Softball • South Carolina vs #5 Arkansas (Softball)"  group-title="EVENTOS PPV",NCAA Softball • South Carolina vs #5 Arkansas (Softball)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64796
+#EXTINF:-1 tvg-id="• World Chase Tag Phenomenon" tvg-name="• World Chase Tag Phenomenon"  group-title="EVENTOS PPV",• World Chase Tag Phenomenon
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64797
+#EXTINF:-1 tvg-id="NCAA Softball • #2 Virginia Tech vs Boston College (Softball)" tvg-name="NCAA Softball • #2 Virginia Tech vs Boston College (Softball)"  group-title="EVENTOS PPV",NCAA Softball • #2 Virginia Tech vs Boston College (Softball)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64798
+#EXTINF:-1 tvg-id="NCAA Baseball • #7 Virginia Tech vs #11 Virginia (Baseball)" tvg-name="NCAA Baseball • #7 Virginia Tech vs #11 Virginia (Baseball)"  group-title="EVENTOS PPV",NCAA Baseball • #7 Virginia Tech vs #11 Virginia (Baseball)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64799
+#EXTINF:-1 tvg-id="NCAA Baseball • #20 TCU vs Florida State (Baseball)" tvg-name="NCAA Baseball • #20 TCU vs Florida State (Baseball)"  group-title="EVENTOS PPV",NCAA Baseball • #20 TCU vs Florida State (Baseball)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64800
+#EXTINF:-1 tvg-id="NCAA Softball • Virginia vs Louisville (Softball)" tvg-name="NCAA Softball • Virginia vs Louisville (Softball)"  group-title="EVENTOS PPV",NCAA Softball • Virginia vs Louisville (Softball)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64801
+#EXTINF:-1 tvg-id="NCAA Softball • Georgia Tech vs #17 Clemson (Softball)" tvg-name="NCAA Softball • Georgia Tech vs #17 Clemson (Softball)"  group-title="EVENTOS PPV",NCAA Softball • Georgia Tech vs #17 Clemson (Softball)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64802
+#EXTINF:-1 tvg-id="NCAA Baseball • High Point vs Duke (Baseball)" tvg-name="NCAA Baseball • High Point vs Duke (Baseball)"  group-title="EVENTOS PPV",NCAA Baseball • High Point vs Duke (Baseball)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64803
+#EXTINF:-1 tvg-id="NCAA Baseball • #7 Virginia Tech vs #11 Virginia (Baseball)" tvg-name="NCAA Baseball • #7 Virginia Tech vs #11 Virginia (Baseball)"  group-title="EVENTOS PPV",NCAA Baseball • #7 Virginia Tech vs #11 Virginia (Baseball)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64804
+#EXTINF:-1 tvg-id="NCAA Baseball • #20 TCU vs Florida State (Baseball)" tvg-name="NCAA Baseball • #20 TCU vs Florida State (Baseball)"  group-title="EVENTOS PPV",NCAA Baseball • #20 TCU vs Florida State (Baseball)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64805
+#EXTINF:-1 tvg-id="NCAA Baseball • #20 TCU vs Florida State (Baseball)" tvg-name="NCAA Baseball • #20 TCU vs Florida State (Baseball)"  group-title="EVENTOS PPV",NCAA Baseball • #20 TCU vs Florida State (Baseball)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64806
+#EXTINF:-1 tvg-id="NCAA Softball • Virginia vs Louisville (Softball)" tvg-name="NCAA Softball • Virginia vs Louisville (Softball)"  group-title="EVENTOS PPV",NCAA Softball • Virginia vs Louisville (Softball)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64807
+#EXTINF:-1 tvg-id="NCAA Softball • Georgia Tech vs #17 Clemson (Softball)" tvg-name="NCAA Softball • Georgia Tech vs #17 Clemson (Softball)"  group-title="EVENTOS PPV",NCAA Softball • Georgia Tech vs #17 Clemson (Softball)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64808
+#EXTINF:-1 tvg-id="NCAA Baseball • High Point vs Duke (Baseball)" tvg-name="NCAA Baseball • High Point vs Duke (Baseball)"  group-title="EVENTOS PPV",NCAA Baseball • High Point vs Duke (Baseball)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64809
+#EXTINF:-1 tvg-id="NCAA Baseball • #7 Virginia Tech vs #11 Virginia (Baseball)" tvg-name="NCAA Baseball • #7 Virginia Tech vs #11 Virginia (Baseball)"  group-title="EVENTOS PPV",NCAA Baseball • #7 Virginia Tech vs #11 Virginia (Baseball)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64810
+#EXTINF:-1 tvg-id="NCAA Baseball • #20 TCU vs Florida State (Baseball)" tvg-name="NCAA Baseball • #20 TCU vs Florida State (Baseball)"  group-title="EVENTOS PPV",NCAA Baseball • #20 TCU vs Florida State (Baseball)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64811
+#EXTINF:-1 tvg-id="NCAA Softball • Virginia vs Louisville (Softball)" tvg-name="NCAA Softball • Virginia vs Louisville (Softball)"  group-title="EVENTOS PPV",NCAA Softball • Virginia vs Louisville (Softball)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64812
+#EXTINF:-1 tvg-id="NCAA Softball • Georgia Tech vs #17 Clemson (Softball)" tvg-name="NCAA Softball • Georgia Tech vs #17 Clemson (Softball)"  group-title="EVENTOS PPV",NCAA Softball • Georgia Tech vs #17 Clemson (Softball)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64813
+#EXTINF:-1 tvg-id="NCAA Baseball • High Point vs Duke (Baseball)" tvg-name="NCAA Baseball • High Point vs Duke (Baseball)"  group-title="EVENTOS PPV",NCAA Baseball • High Point vs Duke (Baseball)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64814
+#EXTINF:-1 tvg-id="NCAA Baseball • #8 Oklahoma State vs #10 Texas (Baseball)" tvg-name="NCAA Baseball • #8 Oklahoma State vs #10 Texas (Baseball)"  group-title="EVENTOS PPV",NCAA Baseball • #8 Oklahoma State vs #10 Texas (Baseball)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64815
+#EXTINF:-1 tvg-id="11:50 ESPN2 Serie A - Udinese vs Inter" tvg-name="11:50 ESPN2 Serie A - Udinese vs Inter"  group-title="EVENTOS PPV",11:50 ESPN2 Serie A - Udinese vs Inter
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64816
+#EXTINF:-1 tvg-id="11:20 ESPN3 English Premier League - West Ham United vs Arsenal" tvg-name="11:20 ESPN3 English Premier League - West Ham United vs Arsenal"  group-title="EVENTOS PPV",11:20 ESPN3 English Premier League - West Ham United vs Arsenal
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64817
+#EXTINF:-1 tvg-id="11:50 ESPN SportsCenter PLUS  - SportsCenter PLUS " tvg-name="11:50 ESPN SportsCenter PLUS  - SportsCenter PLUS "  group-title="EVENTOS PPV",11:50 ESPN SportsCenter PLUS  - SportsCenter PLUS 
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64818
+#EXTINF:-1 tvg-id="PGA TOUR - Esto es PGA TOUR Latinoamerica PLUS - PLUS #7" tvg-name="PGA TOUR - Esto es PGA TOUR Latinoamerica PLUS - PLUS #7"  group-title="EVENTOS PPV",PGA TOUR - Esto es PGA TOUR Latinoamerica PLUS - PLUS #7
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64819
+#EXTINF:-1 tvg-id="- Barcelona vs Sporting CP (Final)" tvg-name="- Barcelona vs Sporting CP (Final)"  group-title="EVENTOS PPV",- Barcelona vs Sporting CP (Final)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64820
+#EXTINF:-1 tvg-id="Serie A - Udinese vs Inter" tvg-name="Serie A - Udinese vs Inter"  group-title="EVENTOS PPV",Serie A - Udinese vs Inter
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64821
 #EXTINF:-1 tvg-id="GUA Canal 4" tvg-name="GUA VEA CANAL" group-title="GUATEMALA",GUA VEA CANAL
 http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/2597
 #EXTINF:-1 tvg-id="GUA CANAL 11" tvg-name="GUA CANAL 11" group-title="GUATEMALA",GUA CANAL 11
@@ -14389,6 +14339,10 @@ http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/87
 http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/121
 #EXTINF:-1 tvg-id="ES MoviStar Series Mania HD" tvg-name="ES MoviStar Series Mania HD" group-title="ESPANA",ES MoviStar Series Mania HD
 http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/122
+#EXTINF:-1 tvg-id="PPV|| Auto Racing NASCAR Cup Series DuraMAX Drydene 400 3:00 PM EST ( FS1)" tvg-name="PPV|| Auto Racing NASCAR Cup Series DuraMAX Drydene 400 3:00 PM EST ( FS1)"  group-title="EVENTOS PPV",PPV|| Auto Racing NASCAR Cup Series DuraMAX Drydene 400 3:00 PM EST ( FS1)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64770
+#EXTINF:-1 tvg-id="PPV|| NASCAR Cup Series DuraMAX Drydene 400 3:00 PM EST ( FOXD)" tvg-name="PPV|| NASCAR Cup Series DuraMAX Drydene 400 3:00 PM EST ( FOXD)"  group-title="EVENTOS PPV",PPV|| NASCAR Cup Series DuraMAX Drydene 400 3:00 PM EST ( FOXD)
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/64771
 #EXTINF:-1 tvg-id="A3 SERIES FHD" tvg-name="MX A3 Series HD" group-title="MEXICO",MX A3 Series HD
 http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/209
 #EXTINF:-1 tvg-id="Homeland S01 E01" tvg-name="Homeland S01 E01"  group-title="SERIES ACCION",Homeland S01 E01
@@ -32405,6 +32359,50 @@ http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/41776.mkv
 http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/42114.mkv
 #EXTINF:-1 tvg-id="WandaVision S01 E09" tvg-name="WandaVision S01 E09"  group-title="WANDAVISION",WandaVision S01 E09
 http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/42412.mkv
+#EXTINF:-1 tvg-id="El misterio de Marilyn Monroe: Las cintas inéditas (2022)" tvg-name="El misterio de Marilyn Monroe: Las cintas inéditas (2022)" tvg-logo="http://xdgo.live:8080/images/203a16b98d8250f9815fefc0833bc511.jpg" group-title="VFLIX ESTRENOS",El misterio de Marilyn Monroe: Las cintas inéditas (2022)
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64744.mkv
+#EXTINF:-1 tvg-id="Uncharted (2022)" tvg-name="Uncharted (2022)" tvg-logo="http://xdgo.live:8080/images/1ec1b7eea1cfd183f140d0366197dd83.jpg" group-title="VFLIX ESTRENOS",Uncharted (2022)
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64745.mkv
+#EXTINF:-1 tvg-id="Virus-32 (2022)" tvg-name="Virus-32 (2022)" tvg-logo="http://xdgo.live:8080/images/d5b5005c9402f6ab5d3714edd26627cd.jpg" group-title="VFLIX ESTRENOS",Virus-32 (2022)
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64746.mkv
+#EXTINF:-1 tvg-id="365 días: Aquel día (2022)" tvg-name="365 días: Aquel día (2022)" tvg-logo="http://xdgo.live:8080/images/f4529d01997328e1a825d54d413f58e5.jpg" group-title="VFLIX ESTRENOS",365 días: Aquel día (2022)
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64725.mkv
+#EXTINF:-1 tvg-id="Aileen Wuornos: American Boogeywoman (2021)" tvg-name="Aileen Wuornos: American Boogeywoman (2021)" tvg-logo="http://xdgo.live:8080/images/e8aaa3704e25e05f6e8ca2962ff98253.jpg" group-title="VFLIX ESTRENOS",Aileen Wuornos: American Boogeywoman (2021)
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64726.mkv
+#EXTINF:-1 tvg-id="Ambulance: Plan de Huida (2022)" tvg-name="Ambulance: Plan de Huida (2022)" tvg-logo="http://xdgo.live:8080/images/ddc1e491c3e936eb36be1a82800199b9.jpg" group-title="VFLIX ESTRENOS",Ambulance: Plan de Huida (2022)
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64727.mkv
+#EXTINF:-1 tvg-id="The Blacklight (2022)" tvg-name="The Blacklight (2022)" tvg-logo="http://xdgo.live:8080/images/e858fa8b820865e9dc2c461256b881c6.jpg" group-title="VFLIX ESTRENOS",The Blacklight (2022)
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64728.mkv
+#EXTINF:-1 tvg-id="La Burbuja (2022)" tvg-name="La Burbuja (2022)" tvg-logo="http://xdgo.live:8080/images/cada9d333a94906dc15eadf29a5e8df9.jpg" group-title="VFLIX ESTRENOS",La Burbuja (2022)
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64729.mkv
+#EXTINF:-1 tvg-id="Bulldozer (2022)" tvg-name="Bulldozer (2022)" tvg-logo="http://xdgo.live:8080/images/bf3d1947d01273db739c33ab14900580.jpg" group-title="VFLIX ESTRENOS",Bulldozer (2022)
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64730.mkv
+#EXTINF:-1 tvg-id="Explorer: The Last Tepui (2022)" tvg-name="Explorer: The Last Tepui (2022)" tvg-logo="http://xdgo.live:8080/images/8d9b8a2b5a16faa4233a7c52ca365486.jpg" group-title="VFLIX ESTRENOS",Explorer: The Last Tepui (2022)
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64731.mkv
+#EXTINF:-1 tvg-id="Fortress: Sniper's Eye (2022)" tvg-name="Fortress: Sniper's Eye (2022)" tvg-logo="http://xdgo.live:8080/images/956bb64d0046c68b7eab213d4a5c2dc4.jpg" group-title="VFLIX ESTRENOS",Fortress: Sniper's Eye (2022)
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64732.mkv
+#EXTINF:-1 tvg-id="Fourth Grade (2021)" tvg-name="Fourth Grade (2021)" tvg-logo="http://xdgo.live:8080/images/d442a26efc95a2f7374f41d7c2a7d287.jpg" group-title="VFLIX ESTRENOS",Fourth Grade (2021)
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64733.mkv
+#EXTINF:-1 tvg-id="La Octava Cláusula (2022)" tvg-name="La Octava Cláusula (2022)" tvg-logo="http://xdgo.live:8080/images/3ef04d72ef7e0ae26f8f338719ab3649.jpg" group-title="VFLIX ESTRENOS",La Octava Cláusula (2022)
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64734.mkv
+#EXTINF:-1 tvg-id="Amor de madre (2022)" tvg-name="Amor de madre (2022)" tvg-logo="http://xdgo.live:8080/images/bb78eab37d478ceb1329b01c04100e81.jpg" group-title="VFLIX ESTRENOS",Amor de madre (2022)
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64735.mkv
+#EXTINF:-1 tvg-id="Ouija: Deadly Reunion (2021)" tvg-name="Ouija: Deadly Reunion (2021)" tvg-logo="http://xdgo.live:8080/images/0a61bf022f4e2aa6caeda012cbe8cd14.jpg" group-title="VFLIX ESTRENOS",Ouija: Deadly Reunion (2021)
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64736.mkv
+#EXTINF:-1 tvg-id="Rumspringa (2022)" tvg-name="Rumspringa (2022)" tvg-logo="http://xdgo.live:8080/images/52e689bf7cec733e3596beb065ea23f5.jpg" group-title="VFLIX ESTRENOS",Rumspringa (2022)
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64737.mkv
+#EXTINF:-1 tvg-id="El asedio de Silverton (2022)" tvg-name="El asedio de Silverton (2022)" tvg-logo="http://xdgo.live:8080/images/153be1f50b810b06ac62232b92e24a33.jpg" group-title="VFLIX ESTRENOS",El asedio de Silverton (2022)
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64738.mkv
+#EXTINF:-1 tvg-id="Summoning Bloody Mary (2021)" tvg-name="Summoning Bloody Mary (2021)" tvg-logo="http://xdgo.live:8080/images/3e418808f6e638d497346273765c496c.jpg" group-title="VFLIX ESTRENOS",Summoning Bloody Mary (2021)
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64739.mkv
+#EXTINF:-1 tvg-id="The Biggest Little Farm: The Return (2022)" tvg-name="The Biggest Little Farm: The Return (2022)" tvg-logo="http://xdgo.live:8080/images/066bd9ff25ccfe6794966d6d47d7a742.jpg" group-title="VFLIX ESTRENOS",The Biggest Little Farm: The Return (2022)
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64740.mkv
+#EXTINF:-1 tvg-id="El diablo que conoces (2022)" tvg-name="El diablo que conoces (2022)" tvg-logo="http://xdgo.live:8080/images/2027d2488620b47b4ad0033becd8f27a.jpg" group-title="VFLIX ESTRENOS",El diablo que conoces (2022)
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64741.mkv
+#EXTINF:-1 tvg-id="The Medium - Menotti (2021)" tvg-name="The Medium - Menotti (2021)" tvg-logo="http://xdgo.live:8080/images/97d17da8fb1bafb9a03be53d011d1030.jpg" group-title="VFLIX ESTRENOS",The Medium - Menotti (2021)
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64742.mkv
+#EXTINF:-1 tvg-id="The Mystery of Her (2022)" tvg-name="The Mystery of Her (2022)" tvg-logo="http://xdgo.live:8080/images/71b0b10efef616eea93434b9eab377b4.jpg" group-title="VFLIX ESTRENOS",The Mystery of Her (2022)
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64743.mkv
 #EXTINF:-1 tvg-id="The Batman (2022)" tvg-name="The Batman (2022)" tvg-logo="http://xdgo.live:8080/images/0fb03847a6999a00a34974812c1e39fb.jpg" group-title="VFLIX ESTRENOS",The Batman (2022)
 http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64263.mkv
 #EXTINF:-1 tvg-id="The Batman (2022) Ingles Subtitulada" tvg-name="The Batman (2022) Ingles Subtitulada" tvg-logo="http://xdgo.live:8080/images/0fb03847a6999a00a34974812c1e39fb.jpg" group-title="VFLIX ESTRENOS",The Batman (2022) Ingles Subtitulada
